@@ -1,0 +1,723 @@
+@prefix anncsu: <https://w3id.org/sona/data/ANNCSU/> .
+@prefix ateco: <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/> .
+@prefix channel: <https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/> .
+@prefix clv: <https://w3id.org/italia/onto/CLV/> .
+@prefix cov: <https://w3id.org/italia/onto/COV/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix legalstatus: <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/> .
+@prefix organization: <https://w3id.org/sona/data/organization/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sm: <https://w3id.org/italia/onto/SM/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+organization:ocp-01299450237 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Azienda Agricola Sparici Landini S.R.L."@en,
+        "Informazioni di contatto per Azienda Agricola Sparici Landini S.R.L."@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-sparici-landini-pec-it .
+
+organization:ocp-01943090231 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Benedetti Dino & C. Società Agricola Semplice"@en,
+        "Informazioni di contatto per Benedetti Dino & C. Società Agricola Semplice"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-benedettidinoec-pec-it .
+
+organization:ocp-02063300236 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Amabile S.N.C. Di Berardo A. & C."@en,
+        "Informazioni di contatto per Amabile S.N.C. Di Berardo A. & C."@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-amabilesnc-pec-it .
+
+organization:ocp-02275940233 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Trattoria Locanda Al Pigno Di Zenato Ornella"@en,
+        "Informazioni di contatto per Trattoria Locanda Al Pigno Di Zenato Ornella"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-trattorialocandaalpigno-pec-it .
+
+organization:ocp-02354570232 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Tacconi Antonella"@en,
+        "Informazioni di contatto per Tacconi Antonella"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-antonella-tacconi-pec-agritel-it .
+
+organization:ocp-02556080238 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Az. Agr. El Bacan Di Bimestre Loredana"@en,
+        "Informazioni di contatto per Az. Agr. El Bacan Di Bimestre Loredana"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-loredana-bimestre-pec-agritel-it .
+
+organization:ocp-02811130232 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Tacconi Giorgio"@en,
+        "Informazioni di contatto per Tacconi Giorgio"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-tacconigiorgio-pec-coldiretti-it .
+
+organization:ocp-02898640236 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Gaspari Stefano"@en,
+        "Informazioni di contatto per Gaspari Stefano"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-aziendaagricolagasparistefano-pec-it .
+
+organization:ocp-02957360239 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Gaspari Andrea"@en,
+        "Informazioni di contatto per Gaspari Andrea"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-andrea-gaspari-pcert-postecert-it .
+
+organization:ocp-03012111203 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Zecchini Claudio"@en,
+        "Informazioni di contatto per Zecchini Claudio"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-claudio-zecchini-pec-arcus-servizi-it .
+
+organization:ocp-03176360364 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Videocast Di Qarri Erlind"@en,
+        "Informazioni di contatto per Videocast Di Qarri Erlind"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-erlindqarri-pec-it .
+
+organization:ocp-03213760238 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Società Agricola Faccioli Enzo Di Faccioli Marco E Alberto S.S."@en,
+        "Informazioni di contatto per Società Agricola Faccioli Enzo Di Faccioli Marco E Alberto S.S."@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-amministrazione-pec-facciolivino-it .
+
+organization:ocp-03339420238 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Azienda Agricola Corte Guastalla Di Tommasi Franco"@en,
+        "Informazioni di contatto per Azienda Agricola Corte Guastalla Di Tommasi Franco"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-aziendaagricolacorteguastalla-pec-it .
+
+organization:ocp-03517020230 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Gea Silvia Di M.Silvia Benedetti"@en,
+        "Informazioni di contatto per Gea Silvia Di M.Silvia Benedetti"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-geasilvia-pec-it .
+
+organization:ocp-03585820230 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Az. Agr. Camerlengo Gasdia Maria Di Federico Gasdia"@en,
+        "Informazioni di contatto per Az. Agr. Camerlengo Gasdia Maria Di Federico Gasdia"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-camerlengo-gm-pec-it .
+
+organization:ocp-03600150233 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Turrina Sandra"@en,
+        "Informazioni di contatto per Turrina Sandra"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-agriturismo-colombarola-avspec-it .
+
+organization:ocp-03906920230 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Societa' Agricola Villa Merighi Srl"@en,
+        "Informazioni di contatto per Societa' Agricola Villa Merighi Srl"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-villamerighi-pec-it .
+
+organization:ocp-04172590236 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Società Agricola Antica Dimora Del Turco S.S."@en,
+        "Informazioni di contatto per Società Agricola Antica Dimora Del Turco S.S."@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-societaagricolaanticadimoradelturco-mail-cert-it .
+
+organization:ocp-04408910232 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Colombo F.Lli Società Agricola Semplice"@en,
+        "Informazioni di contatto per Colombo F.Lli Società Agricola Semplice"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-colombosocieta-pec-it .
+
+organization:ocp-04454560238 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Tenuta Corte Tese Di Venturi Silvia E Facincani Roberto S.S."@en,
+        "Informazioni di contatto per Tenuta Corte Tese Di Venturi Silvia E Facincani Roberto S.S."@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-corte-tese-avspec-it .
+
+organization:ocp-04625860236 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Iamundo Sonia"@en,
+        "Informazioni di contatto per Iamundo Sonia"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-iamundo-sonia-pec-it .
+
+organization:ocp-04629170236 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Le Palme Di Brognara Gianluca"@en,
+        "Informazioni di contatto per Le Palme Di Brognara Gianluca"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-brognaragianluca-pec-it .
+
+organization:ocp-04810460230 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Società Agricola El Bacan S.S."@en,
+        "Informazioni di contatto per Società Agricola El Bacan S.S."@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-elbacan-pec-agritel-it .
+
+organization:ocp-04863660231 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Società Agricola Maraia Antonietta E Fasoli Marta S.S."@en,
+        "Informazioni di contatto per Società Agricola Maraia Antonietta E Fasoli Marta S.S."@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-fasolimarta-pec-agritel-it .
+
+organization:ocp-04873090239 a sm:OnlineContactPoint ;
+    dc:title "Contact information for B&B Sesto Armonico Di Zanoni Antonella"@en,
+        "Informazioni di contatto per B&B Sesto Armonico Di Zanoni Antonella"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-antozanoni-pec-it .
+
+organization:ocp-06865290156 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Best Western Italia Società Cooperativa Per Azioni"@en,
+        "Informazioni di contatto per Best Western Italia Società Cooperativa Per Azioni"@it ;
+    skos:inScheme organization: ;
+    sm:hasCertifiedEmail organization:pec-bw-bestwestern-legalmail-it .
+
+organization:org-01299450237 a cov:PrivateOrganization ;
+    dc:title "Azienda Agricola Sparici Landini S.R.L."^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298412.0-7921412.0 ;
+    cov:REANumber "VR172919"^^xsd:string ;
+    cov:VATnumber "01299450237"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:1320 ;
+    cov:hasPrivateOrgActivityType ateco:011,
+        ateco:012 ;
+    cov:legalName "Azienda Agricola Sparici Landini S.R.L."^^xsd:string ;
+    cov:startingActivityDate "1981-01-01"^^xsd:date ;
+    cov:taxCode "01299450237"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-01299450237 .
+
+organization:org-01943090231 a cov:PrivateOrganization ;
+    dc:title "Benedetti Dino & C. Società Agricola Semplice"^^xsd:string ;
+    skos:inScheme organization: ;
+    cov:REANumber "VR277019"^^xsd:string ;
+    cov:VATnumber "01943090231"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:1210 ;
+    cov:hasPrivateOrgActivityType ateco:011,
+        ateco:561012 ;
+    cov:legalName "Benedetti Dino & C. Società Agricola Semplice"^^xsd:string ;
+    cov:startingActivityDate "1987-02-01"^^xsd:date ;
+    cov:taxCode "01943090231"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-01943090231 .
+
+organization:org-02063300236 a cov:PrivateOrganization ;
+    dc:title "Amabile S.N.C. Di Berardo A. & C."^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298225.0-7943243.0 ;
+    cov:REANumber "VR214290"^^xsd:string ;
+    cov:VATnumber "02063300236"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:1220 ;
+    cov:hasPrivateOrgActivityType ateco:561011 ;
+    cov:legalName "Amabile S.N.C. Di Berardo A. & C."^^xsd:string ;
+    cov:startingActivityDate "1988-07-15"^^xsd:date ;
+    cov:taxCode "02063300236"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-02063300236 .
+
+organization:org-02275940233 a cov:PrivateOrganization ;
+    dc:title "Trattoria Locanda Al Pigno Di Zenato Ornella"^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298462.0-7923643.0 ;
+    cov:REANumber "VR228823"^^xsd:string ;
+    cov:VATnumber "02275940233"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:11 ;
+    cov:hasPrivateOrgActivityType ateco:0121,
+        ateco:552051,
+        ateco:561011,
+        ateco:563 ;
+    cov:legalName "Trattoria Locanda Al Pigno Di Zenato Ornella"^^xsd:string ;
+    cov:startingActivityDate "1991-01-29"^^xsd:date ;
+    cov:taxCode "ZNTRLL57P48C225U"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-02275940233 .
+
+organization:org-02354570232 a cov:PrivateOrganization ;
+    dc:title "Tacconi Antonella"^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298474.0-7943434.0 ;
+    cov:REANumber "VR273637"^^xsd:string ;
+    cov:VATnumber "02354570232"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:11 ;
+    cov:hasPrivateOrgActivityType ateco:011 ;
+    cov:legalName "Tacconi Antonella"^^xsd:string ;
+    cov:startingActivityDate "1992-01-01"^^xsd:date ;
+    cov:taxCode "TCCNNL63D56B296K"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-02354570232 .
+
+organization:org-02556080238 a cov:PrivateOrganization ;
+    dc:title "Az. Agr. El Bacan Di Bimestre Loredana"^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298515.0-7928867.0 ;
+    cov:REANumber "VR261746"^^xsd:string ;
+    cov:VATnumber "02556080238"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:11 ;
+    cov:hasPrivateOrgActivityType ateco:0124,
+        ateco:0163,
+        ateco:1013,
+        ateco:1039,
+        ateco:108509,
+        ateco:561012,
+        ateco:85599 ;
+    cov:legalName "Az. Agr. El Bacan Di Bimestre Loredana"^^xsd:string ;
+    cov:startingActivityDate "1994-09-01"^^xsd:date ;
+    cov:taxCode "BMSLDN67B64L781Y"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-02556080238 .
+
+organization:org-02811130232 a cov:PrivateOrganization ;
+    dc:title "Tacconi Giorgio"^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298448.0-7933593.0 ;
+    cov:REANumber "VR287879"^^xsd:string ;
+    cov:VATnumber "02811130232"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:11 ;
+    cov:hasPrivateOrgActivityType ateco:012,
+        ateco:3511,
+        ateco:561012 ;
+    cov:legalName "Tacconi Giorgio"^^xsd:string ;
+    cov:startingActivityDate "1997-11-11"^^xsd:date ;
+    cov:taxCode "TCCGRG59D21I826M"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-02811130232 .
+
+organization:org-02898640236 a cov:PrivateOrganization ;
+    dc:title "Gaspari Stefano"^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298195.0-7933522.0 ;
+    cov:REANumber "VR292391"^^xsd:string ;
+    cov:VATnumber "02898640236"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:11 ;
+    cov:hasPrivateOrgActivityType ateco:01111,
+        ateco:0121,
+        ateco:561012 ;
+    cov:legalName "Gaspari Stefano"^^xsd:string ;
+    cov:startingActivityDate "1998-11-01"^^xsd:date ;
+    cov:taxCode "GSPSFN65S28L781N"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-02898640236 .
+
+organization:org-02957360239 a cov:PrivateOrganization ;
+    dc:title "Gaspari Andrea"^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298195.0-7933519.0 ;
+    cov:REANumber "VR297040"^^xsd:string ;
+    cov:VATnumber "02957360239"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:11 ;
+    cov:hasPrivateOrgActivityType ateco:0121 ;
+    cov:legalName "Gaspari Andrea"^^xsd:string ;
+    cov:startingActivityDate "1999-06-01"^^xsd:date ;
+    cov:taxCode "GSPNDR81D03B296H"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-02957360239 .
+
+organization:org-03012111203 a cov:PrivateOrganization ;
+    dc:title "Zecchini Claudio"^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298427.0-7943489.0 ;
+    cov:REANumber "VR381335"^^xsd:string ;
+    cov:VATnumber "03012111203"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:11 ;
+    cov:hasPrivateOrgActivityType ateco:0125,
+        ateco:3511,
+        ateco:552051 ;
+    cov:legalName "Zecchini Claudio"^^xsd:string ;
+    cov:startingActivityDate "2010-02-12"^^xsd:date ;
+    cov:taxCode "ZCCCLD75C10L781A"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-03012111203 .
+
+organization:org-03176360364 a cov:PrivateOrganization ;
+    dc:title "Videocast Di Qarri Erlind"^^xsd:string ;
+    skos:inScheme organization: ;
+    cov:REANumber "VR406434"^^xsd:string ;
+    cov:VATnumber "03176360364"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:11 ;
+    cov:hasPrivateOrgActivityType ateco:742019 ;
+    cov:legalName "Videocast Di Qarri Erlind"^^xsd:string ;
+    cov:startingActivityDate "2008-01-15"^^xsd:date ;
+    cov:taxCode "QRRRND82B05Z100B"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-03176360364 .
+
+organization:org-03213760238 a cov:PrivateOrganization ;
+    dc:title "Società Agricola Faccioli Enzo Di Faccioli Marco E Alberto S.S."^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298249.0-33914804.0 ;
+    cov:REANumber "VR317778"^^xsd:string ;
+    cov:VATnumber "03213760238"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:1210 ;
+    cov:hasPrivateOrgActivityType ateco:0121,
+        ateco:561012 ;
+    cov:legalName "Società Agricola Faccioli Enzo Di Faccioli Marco E Alberto S.S."^^xsd:string ;
+    cov:startingActivityDate "2002-03-13"^^xsd:date ;
+    cov:taxCode "03213760238"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-03213760238 .
+
+organization:org-03339420238 a cov:PrivateOrganization ;
+    dc:title "Azienda Agricola Corte Guastalla Di Tommasi Franco"^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298365.0-7923948.0 ;
+    cov:REANumber "VR328451"^^xsd:string ;
+    cov:VATnumber "03339420238"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:11 ;
+    cov:hasPrivateOrgActivityType ateco:015 ;
+    cov:legalName "Azienda Agricola Corte Guastalla Di Tommasi Franco"^^xsd:string ;
+    cov:startingActivityDate "2003-09-01"^^xsd:date ;
+    cov:taxCode "TMMFNC60E03I826Q"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-03339420238 .
+
+organization:org-03517020230 a cov:PrivateOrganization ;
+    dc:title "Gea Silvia Di M.Silvia Benedetti"^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298271.0-7931373.0 ;
+    cov:REANumber "VR342639"^^xsd:string ;
+    cov:VATnumber "03517020230"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:11 ;
+    cov:hasPrivateOrgActivityType ateco:012 ;
+    cov:legalName "Gea Silvia Di M.Silvia Benedetti"^^xsd:string ;
+    cov:startingActivityDate "2005-07-04"^^xsd:date ;
+    cov:taxCode "BNDMSL73E42I775I"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-03517020230 .
+
+organization:org-03585820230 a cov:PrivateOrganization ;
+    dc:title "Az. Agr. Camerlengo Gasdia Maria Di Federico Gasdia"^^xsd:string ;
+    skos:inScheme organization: ;
+    cov:REANumber "VR348481"^^xsd:string ;
+    cov:VATnumber "03585820230"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:11 ;
+    cov:hasPrivateOrgActivityType ateco:01111,
+        ateco:0121,
+        ateco:0126,
+        ateco:3511,
+        ateco:561012 ;
+    cov:legalName "Az. Agr. Camerlengo Gasdia Maria Di Federico Gasdia"^^xsd:string ;
+    cov:startingActivityDate "2006-03-11"^^xsd:date ;
+    cov:taxCode "GSDFRC54D28L781G"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-03585820230 .
+
+organization:org-03600150233 a cov:PrivateOrganization ;
+    dc:title "Turrina Sandra"^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298284.0-7914155.0 ;
+    cov:REANumber "VR349552"^^xsd:string ;
+    cov:VATnumber "03600150233"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:11 ;
+    cov:hasPrivateOrgActivityType ateco:0121,
+        ateco:3511,
+        ateco:561012 ;
+    cov:legalName "Turrina Sandra"^^xsd:string ;
+    cov:startingActivityDate "2006-05-24"^^xsd:date ;
+    cov:taxCode "TRRSDR38S49I826V"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-03600150233 .
+
+organization:org-03906920230 a cov:PrivateOrganization ;
+    dc:title "Societa' Agricola Villa Merighi Srl"^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298337.0-7945765.0 ;
+    cov:REANumber "VR375320"^^xsd:string ;
+    cov:VATnumber "03906920230"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:1320 ;
+    cov:hasPrivateOrgActivityType ateco:0121,
+        ateco:561012 ;
+    cov:legalName "Societa' Agricola Villa Merighi Srl"^^xsd:string ;
+    cov:startingActivityDate "2009-12-21"^^xsd:date ;
+    cov:taxCode "03906920230"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-03906920230 .
+
+organization:org-04172590236 a cov:PrivateOrganization ;
+    dc:title "Società Agricola Antica Dimora Del Turco S.S."^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298504.0-snc ;
+    cov:REANumber "VR398392"^^xsd:string ;
+    cov:VATnumber "04172590236"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:1210 ;
+    cov:hasPrivateOrgActivityType ateco:0126 ;
+    cov:legalName "Società Agricola Antica Dimora Del Turco S.S."^^xsd:string ;
+    cov:startingActivityDate "2013-03-18"^^xsd:date ;
+    cov:taxCode "04172590236"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-04172590236 .
+
+organization:org-04408910232 a cov:PrivateOrganization ;
+    dc:title "Colombo F.Lli Società Agricola Semplice"^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298320.0-7936182.0 ;
+    cov:REANumber "VR417847"^^xsd:string ;
+    cov:VATnumber "04408910232"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:1210 ;
+    cov:hasPrivateOrgActivityType ateco:0121,
+        ateco:561012 ;
+    cov:legalName "Colombo F.Lli Società Agricola Semplice"^^xsd:string ;
+    cov:startingActivityDate "2016-03-31"^^xsd:date ;
+    cov:taxCode "04408910232"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-04408910232 .
+
+organization:org-04454560238 a cov:PrivateOrganization ;
+    dc:title "Tenuta Corte Tese Di Venturi Silvia E Facincani Roberto S.S."^^xsd:string ;
+    skos:inScheme organization: ;
+    cov:REANumber "VR421898"^^xsd:string ;
+    cov:VATnumber "04454560238"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:1210 ;
+    cov:hasPrivateOrgActivityType ateco:0121,
+        ateco:552052 ;
+    cov:legalName "Tenuta Corte Tese Di Venturi Silvia E Facincani Roberto S.S."^^xsd:string ;
+    cov:startingActivityDate "2017-01-02"^^xsd:date ;
+    cov:taxCode "04454560238"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-04454560238 .
+
+organization:org-04625860236 a cov:PrivateOrganization ;
+    dc:title "Iamundo Sonia"^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298232.0-33915133.0 ;
+    cov:REANumber "VR436046"^^xsd:string ;
+    cov:VATnumber "04625860236"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:11 ;
+    cov:hasPrivateOrgActivityType ateco:0125,
+        ateco:552052 ;
+    cov:legalName "Iamundo Sonia"^^xsd:string ;
+    cov:startingActivityDate "2019-02-25"^^xsd:date ;
+    cov:taxCode "MNDSNO92H51B296J"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-04625860236 .
+
+organization:org-04629170236 a cov:PrivateOrganization ;
+    dc:title "Le Palme Di Brognara Gianluca"^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298332.0-7940891.0 ;
+    cov:REANumber "VR436188"^^xsd:string ;
+    cov:VATnumber "04629170236"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:11 ;
+    cov:hasPrivateOrgActivityType ateco:552051 ;
+    cov:legalName "Le Palme Di Brognara Gianluca"^^xsd:string ;
+    cov:startingActivityDate "2019-03-13"^^xsd:date ;
+    cov:taxCode "BRGGLC70S22L781M"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-04629170236 .
+
+organization:org-04810460230 a cov:PrivateOrganization ;
+    dc:title "Società Agricola El Bacan S.S."^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298515.0-7928867.0 ;
+    cov:REANumber "VR448153"^^xsd:string ;
+    cov:VATnumber "04810460230"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:1210 ;
+    cov:hasPrivateOrgActivityType ateco:0124,
+        ateco:553,
+        ateco:561012,
+        ateco:93299 ;
+    cov:legalName "Società Agricola El Bacan S.S."^^xsd:string ;
+    cov:startingActivityDate "2021-03-31"^^xsd:date ;
+    cov:taxCode "04810460230"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-04810460230 .
+
+organization:org-04863660231 a cov:PrivateOrganization ;
+    dc:title "Società Agricola Maraia Antonietta E Fasoli Marta S.S."^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298232.0-7935995.0 ;
+    cov:REANumber "VR452595"^^xsd:string ;
+    cov:VATnumber "04863660231"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:1210 ;
+    cov:hasPrivateOrgActivityType ateco:0124,
+        ateco:552052 ;
+    cov:legalName "Società Agricola Maraia Antonietta E Fasoli Marta S.S."^^xsd:string ;
+    cov:startingActivityDate "2022-01-01"^^xsd:date ;
+    cov:taxCode "04863660231"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-04863660231 .
+
+organization:org-04873090239 a cov:PrivateOrganization ;
+    dc:title "B&B Sesto Armonico Di Zanoni Antonella"^^xsd:string ;
+    skos:inScheme organization: ;
+    clv:hasPrimaryAddress anncsu:ad-298429.0-7943503.0 ;
+    cov:REANumber "VR452579"^^xsd:string ;
+    cov:VATnumber "04873090239"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:11 ;
+    cov:hasPrivateOrgActivityType ateco:552051 ;
+    cov:legalName "B&B Sesto Armonico Di Zanoni Antonella"^^xsd:string ;
+    cov:startingActivityDate "2022-01-27"^^xsd:date ;
+    cov:taxCode "ZNNNNL61H54I826J"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-04873090239 .
+
+organization:org-06865290156 a cov:PrivateOrganization ;
+    dc:title "Best Western Italia Società Cooperativa Per Azioni"^^xsd:string ;
+    skos:inScheme organization: ;
+    cov:REANumber "MI1117208"^^xsd:string ;
+    cov:VATnumber "06865290156"^^xsd:string ;
+    cov:hasLegalStatus legalstatus:14 ;
+    cov:hasPrivateOrgActivityType ateco:732,
+        ateco:7911,
+        ateco:829999 ;
+    cov:legalName "Best Western Italia Società Cooperativa Per Azioni"^^xsd:string ;
+    cov:startingActivityDate "1983-02-14"^^xsd:date ;
+    cov:taxCode "02747690010"^^xsd:string ;
+    sm:hasOnlineContactPoint organization:ocp-06865290156 .
+
+organization:pec-agriturismo-colombarola-avspec-it a sm:Email ;
+    dc:title "agriturismo.colombarola@avspec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:agriturismo.colombarola@avspec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-amabilesnc-pec-it a sm:Email ;
+    dc:title "amabilesnc@pec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:amabilesnc@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-amministrazione-pec-facciolivino-it a sm:Email ;
+    dc:title "amministrazione@pec.facciolivino.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:amministrazione@pec.facciolivino.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-andrea-gaspari-pcert-postecert-it a sm:Email ;
+    dc:title "andrea.gaspari@pcert.postecert.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:andrea.gaspari@pcert.postecert.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-antonella-tacconi-pec-agritel-it a sm:Email ;
+    dc:title "antonella.tacconi@pec.agritel.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:antonella.tacconi@pec.agritel.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-antozanoni-pec-it a sm:Email ;
+    dc:title "antozanoni@pec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:antozanoni@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-aziendaagricolacorteguastalla-pec-it a sm:Email ;
+    dc:title "aziendaagricolacorteguastalla@pec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:aziendaagricolacorteguastalla@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-aziendaagricolagasparistefano-pec-it a sm:Email ;
+    dc:title "aziendaagricolagasparistefano@pec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:aziendaagricolagasparistefano@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-benedettidinoec-pec-it a sm:Email ;
+    dc:title "benedettidinoec@pec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:benedettidinoec@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-brognaragianluca-pec-it a sm:Email ;
+    dc:title "brognaragianluca@pec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:brognaragianluca@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-bw-bestwestern-legalmail-it a sm:Email ;
+    dc:title "bw@bestwestern.legalmail.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:bw@bestwestern.legalmail.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-camerlengo-gm-pec-it a sm:Email ;
+    dc:title "camerlengo.gm@pec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:camerlengo.gm@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-claudio-zecchini-pec-arcus-servizi-it a sm:Email ;
+    dc:title "claudio.zecchini@pec.arcus-servizi.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:claudio.zecchini@pec.arcus-servizi.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-colombosocieta-pec-it a sm:Email ;
+    dc:title "colombosocieta@pec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:colombosocieta@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-corte-tese-avspec-it a sm:Email ;
+    dc:title "corte.tese@avspec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:corte.tese@avspec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-elbacan-pec-agritel-it a sm:Email ;
+    dc:title "elbacan@pec.agritel.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:elbacan@pec.agritel.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-erlindqarri-pec-it a sm:Email ;
+    dc:title "erlindqarri@pec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:erlindqarri@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-fasolimarta-pec-agritel-it a sm:Email ;
+    dc:title "fasolimarta@pec.agritel.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:fasolimarta@pec.agritel.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-geasilvia-pec-it a sm:Email ;
+    dc:title "geasilvia@pec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:geasilvia@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-iamundo-sonia-pec-it a sm:Email ;
+    dc:title "iamundo.sonia@pec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:iamundo.sonia@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-loredana-bimestre-pec-agritel-it a sm:Email ;
+    dc:title "loredana.bimestre@pec.agritel.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:loredana.bimestre@pec.agritel.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-societaagricolaanticadimoradelturco-mail-cert-it a sm:Email ;
+    dc:title "societaagricolaanticadimoradelturco@mail-cert.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:societaagricolaanticadimoradelturco@mail-cert.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-sparici-landini-pec-it a sm:Email ;
+    dc:title "sparici.landini@pec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:sparici.landini@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-tacconigiorgio-pec-coldiretti-it a sm:Email ;
+    dc:title "tacconigiorgio@pec.coldiretti.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:tacconigiorgio@pec.coldiretti.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-trattorialocandaalpigno-pec-it a sm:Email ;
+    dc:title "trattorialocandaalpigno@pec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:trattorialocandaalpigno@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization:pec-villamerighi-pec-it a sm:Email ;
+    dc:title "villamerighi@pec.it"^^xsd:string ;
+    skos:inScheme organization: ;
+    sm:emailAddress "mailto:villamerighi@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+organization: a skos:ConceptScheme ;
+    rdfs:label "Companies"@en,
+        "Imprese"@it ;
+    dc:creator <https://w3id.org/people/lucamartinelli> ;
+    skos:hasTopConcept organization:org-01299450237,
+        organization:org-01943090231,
+        organization:org-02063300236,
+        organization:org-02275940233,
+        organization:org-02354570232,
+        organization:org-02556080238,
+        organization:org-02811130232,
+        organization:org-02898640236,
+        organization:org-02957360239,
+        organization:org-03012111203,
+        organization:org-03176360364,
+        organization:org-03213760238,
+        organization:org-03339420238,
+        organization:org-03517020230,
+        organization:org-03585820230,
+        organization:org-03600150233,
+        organization:org-03906920230,
+        organization:org-04172590236,
+        organization:org-04408910232,
+        organization:org-04454560238,
+        organization:org-04625860236,
+        organization:org-04629170236,
+        organization:org-04810460230,
+        organization:org-04863660231,
+        organization:org-04873090239,
+        organization:org-06865290156 .
+

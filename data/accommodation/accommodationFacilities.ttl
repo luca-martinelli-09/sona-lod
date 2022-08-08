@@ -1,0 +1,2752 @@
+@prefix acco: <https://w3id.org/italia/onto/ACCO/> .
+@prefix accommodation: <https://w3id.org/sona/data/tourism/accommodation/> .
+@prefix accostar: <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-star-rating/> .
+@prefix accotype: <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/> .
+@prefix anncsu: <https://w3id.org/sona/data/ANNCSU/> .
+@prefix channel: <https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/> .
+@prefix clv: <https://w3id.org/italia/onto/CLV/> .
+@prefix cpv: <https://w3id.org/italia/onto/CPV/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix organization: <https://w3id.org/sona/data/organization/> .
+@prefix poi: <https://w3id.org/italia/onto/POI/> .
+@prefix poiclass: <https://w3id.org/italia/controlled-vocabulary/poi-category-classification/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sm: <https://w3id.org/italia/onto/SM/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+accommodation:fax-0456081617 a sm:Telephone ;
+    dc:title "0456081617"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "0456081617"^^xsd:string .
+
+accommodation:fax-0456081820 a sm:Telephone ;
+    dc:title "0456081820"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "0456081820"^^xsd:string .
+
+accommodation:fax-0456082274 a sm:Telephone ;
+    dc:title "0456082274"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "0456082274"^^xsd:string .
+
+accommodation:fax-0456082412 a sm:Telephone ;
+    dc:title "0456082412"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "0456082412"^^xsd:string .
+
+accommodation:fax-0456095171 a sm:Telephone ;
+    dc:title "0456095171"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "0456095171"^^xsd:string .
+
+accommodation:fax-0456095234 a sm:Telephone ;
+    dc:title "0456095234"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "0456095234"^^xsd:string .
+
+accommodation:fax-0456095400 a sm:Telephone ;
+    dc:title "0456095400"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "0456095400"^^xsd:string .
+
+accommodation:fax-0456095618 a sm:Telephone ;
+    dc:title "0456095618"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "0456095618"^^xsd:string .
+
+accommodation:fax-0458005398 a sm:Telephone ;
+    dc:title "0458005398"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "0458005398"^^xsd:string .
+
+accommodation:fax-0458681033 a sm:Telephone ;
+    dc:title "0458681033"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "0458681033"^^xsd:string .
+
+accommodation:fax-3287830665 a sm:Telephone ;
+    dc:title "3287830665"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3287830665"^^xsd:string .
+
+accommodation:fax-3289188729 a sm:Telephone ;
+    dc:title "3289188729"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3289188729"^^xsd:string .
+
+accommodation:fax-3291851184 a sm:Telephone ;
+    dc:title "3291851184"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3291851184"^^xsd:string .
+
+accommodation:fax-330479062 a sm:Telephone ;
+    dc:title "330479062"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "330479062"^^xsd:string .
+
+accommodation:fax-3312695906 a sm:Telephone ;
+    dc:title "3312695906"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3312695906"^^xsd:string .
+
+accommodation:fax-3334364884 a sm:Telephone ;
+    dc:title "3334364884"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3334364884"^^xsd:string .
+
+accommodation:fax-337463392 a sm:Telephone ;
+    dc:title "337463392"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "337463392"^^xsd:string .
+
+accommodation:fax-3386262301 a sm:Telephone ;
+    dc:title "3386262301"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3386262301"^^xsd:string .
+
+accommodation:fax-3389948056 a sm:Telephone ;
+    dc:title "3389948056"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3389948056"^^xsd:string .
+
+accommodation:fax-3393116565 a sm:Telephone ;
+    dc:title "3393116565"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3393116565"^^xsd:string .
+
+accommodation:fax-3393684961 a sm:Telephone ;
+    dc:title "3393684961"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3393684961"^^xsd:string .
+
+accommodation:fax-3395841820 a sm:Telephone ;
+    dc:title "3395841820"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3395841820"^^xsd:string .
+
+accommodation:fax-3402257900 a sm:Telephone ;
+    dc:title "3402257900"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3402257900"^^xsd:string .
+
+accommodation:fax-3408143292 a sm:Telephone ;
+    dc:title "3408143292"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3408143292"^^xsd:string .
+
+accommodation:fax-3472344580 a sm:Telephone ;
+    dc:title "3472344580"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3472344580"^^xsd:string .
+
+accommodation:fax-3474139172 a sm:Telephone ;
+    dc:title "3474139172"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3474139172"^^xsd:string .
+
+accommodation:fax-3474609454 a sm:Telephone ;
+    dc:title "3474609454"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3474609454"^^xsd:string .
+
+accommodation:fax-3479847819 a sm:Telephone ;
+    dc:title "3479847819"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3479847819"^^xsd:string .
+
+accommodation:fax-3484410420 a sm:Telephone ;
+    dc:title "3484410420"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3484410420"^^xsd:string .
+
+accommodation:fax-3489317204 a sm:Telephone ;
+    dc:title "3489317204"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3489317204"^^xsd:string .
+
+accommodation:fax-3489793777 a sm:Telephone ;
+    dc:title "3489793777"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3489793777"^^xsd:string .
+
+accommodation:fax-3494700526 a sm:Telephone ;
+    dc:title "3494700526"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3494700526"^^xsd:string .
+
+accommodation:fax-3516700895 a sm:Telephone ;
+    dc:title "3516700895"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3516700895"^^xsd:string .
+
+accommodation:fax-3920595888 a sm:Telephone ;
+    dc:title "3920595888"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "3920595888"^^xsd:string .
+
+accommodation:ocp-121924 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Relais Des Roches"@it,
+        "Informazioni di contatto per Relais Des Roches"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-relaisdesroches-gmail-com ;
+    sm:hasTelephone accommodation:tel-3472344580 ;
+    sm:hasWebSite accommodation:web-www-relaisdesroches-com .
+
+accommodation:ocp-18454 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Antica Corte \"La Valle\""@it,
+        "Informazioni di contatto per Antica Corte \"La Valle\""@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-cortelavalle-it ;
+    sm:hasTelephone accommodation:fax-0456089602,
+        accommodation:tel-0456082274 ;
+    sm:hasWebSite accommodation:web-www-cortelavalle-it .
+
+accommodation:ocp-18455 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Ca' Vecia"@it,
+        "Informazioni di contatto per Ca' Vecia"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-agriturismocavecia-it ;
+    sm:hasTelephone accommodation:fax-0456095571,
+        accommodation:tel-0456095571 ;
+    sm:hasWebSite accommodation:web-www-agriturismocavecia-it .
+
+accommodation:ocp-252342 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Sesto Armonico"@it,
+        "Informazioni di contatto per Sesto Armonico"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-sesto-armonico-com ;
+    sm:hasTelephone accommodation:tel-3386262301 ;
+    sm:hasWebSite accommodation:web-www-sesto-armonico-com .
+
+accommodation:ocp-264523 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Lonardi"@it,
+        "Informazioni di contatto per Lonardi"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-beb-lonardi-susie-gmail-com ;
+    sm:hasTelephone accommodation:tel-3389948056 ;
+    sm:hasWebSite accommodation:web-www-beb-breakfast-lonardi-org .
+
+accommodation:ocp-284310 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Tenuta Corte Tese"@it,
+        "Informazioni di contatto per Tenuta Corte Tese"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-tenuta-cortetese-gmail-com ;
+    sm:hasTelephone accommodation:tel-3393116565 .
+
+accommodation:ocp-300992 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Fattoria Le Mase"@it,
+        "Informazioni di contatto per Fattoria Le Mase"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-aziendaagricola-iamundosonia-gmail-com ;
+    sm:hasTelephone accommodation:tel-3393684961 .
+
+accommodation:ocp-335202 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Castel Morino"@it,
+        "Informazioni di contatto per Castel Morino"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-castelmorino-it ;
+    sm:hasTelephone accommodation:tel-3484410420 ;
+    sm:hasWebSite accommodation:web-www-castelmorino-it .
+
+accommodation:ocp-3360 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Hotel Antico Termine"@it,
+        "Informazioni di contatto per Hotel Antico Termine"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-anticotermine-vr-bestwestern-it ;
+    sm:hasTelephone accommodation:fax-0458681046,
+        accommodation:tel-0458681033 ;
+    sm:hasWebSite accommodation:web-www-hotelanticotermine-it .
+
+accommodation:ocp-3361 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Hotel Al Bosco"@it,
+        "Informazioni di contatto per Hotel Al Bosco"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-veronatrip-gmail-com ;
+    sm:hasTelephone accommodation:fax-0456081442,
+        accommodation:tel-0456082412,
+        accommodation:tel-3287830665 ;
+    sm:hasWebSite accommodation:web-www-hotelalboscoamabile-it .
+
+accommodation:ocp-44683 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Colombarola"@it,
+        "Informazioni di contatto per Colombarola"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-agriturismo-colombarola-hotmail-com ;
+    sm:hasTelephone accommodation:fax-0457190217,
+        accommodation:tel-0456095618,
+        accommodation:tel-3408143292,
+        accommodation:tel-3474139172 ;
+    sm:hasWebSite accommodation:web-www-colombarola-com .
+
+accommodation:ocp-45967 a sm:OnlineContactPoint ;
+    dc:title "Contact information for El Bacan"@it,
+        "Informazioni di contatto per El Bacan"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-el-bacan-it ;
+    sm:hasTelephone accommodation:fax-0456080708,
+        accommodation:tel-0456080708,
+        accommodation:tel-3489317204 ;
+    sm:hasWebSite accommodation:web-www-el-bacan-it .
+
+accommodation:ocp-45968 a sm:OnlineContactPoint ;
+    dc:title "Contact information for La Quaiara"@it,
+        "Informazioni di contatto per La Quaiara"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-agriturismolaquaiara-it ;
+    sm:hasTelephone accommodation:fax-0456080162,
+        accommodation:tel-0456080162,
+        accommodation:tel-3291851184 ;
+    sm:hasWebSite accommodation:web-www-agriturismolaquaiara-it .
+
+accommodation:ocp-461 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Corte Guastalla"@it,
+        "Informazioni di contatto per Corte Guastalla"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-corteguastalla-it ;
+    sm:hasTelephone accommodation:fax-0456099175,
+        accommodation:tel-3489793777 ;
+    sm:hasWebSite accommodation:web-www-corteguastalla-it .
+
+accommodation:ocp-47495 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Corte Tacconi"@it,
+        "Informazioni di contatto per Corte Tacconi"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-cortetacconibb-it ;
+    sm:hasTelephone accommodation:tel-337463392 ;
+    sm:hasWebSite accommodation:web-www-cortetacconibb-it .
+
+accommodation:ocp-48829 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Dei Grippi"@it,
+        "Informazioni di contatto per Dei Grippi"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-agriturismodeigrippi-it ;
+    sm:hasTelephone accommodation:fax-0456095595,
+        accommodation:tel-0456095400,
+        accommodation:tel-3494700526 ;
+    sm:hasWebSite accommodation:web-www-agriturismodeigrippi-it .
+
+accommodation:ocp-49934 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Al Pigno"@it,
+        "Informazioni di contatto per Al Pigno"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-locandaalpigno-it ;
+    sm:hasTelephone accommodation:fax-0457190091,
+        accommodation:tel-0457190091 ;
+    sm:hasWebSite accommodation:web-www-trattoriaalpigno-it .
+
+accommodation:ocp-49994 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Albarello"@it,
+        "Informazioni di contatto per Albarello"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-agriturismoalbarello-gmail-com ;
+    sm:hasTelephone accommodation:tel-0456095234,
+        accommodation:tel-3395841820,
+        accommodation:tel-3479847819 ;
+    sm:hasWebSite accommodation:web-www-agriturismoalbarellolagodigarda-com .
+
+accommodation:ocp-53041 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Villa Bianca"@it,
+        "Informazioni di contatto per Villa Bianca"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-villabiancabb-com ;
+    sm:hasTelephone accommodation:tel-3289188729 ;
+    sm:hasWebSite accommodation:web-www-villabiancabb-com .
+
+accommodation:ocp-55100 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Albarosa"@it,
+        "Informazioni di contatto per Albarosa"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-infoalbarosa-gmail-com ;
+    sm:hasTelephone accommodation:tel-0456081617,
+        accommodation:tel-3402257900 .
+
+accommodation:ocp-56901 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Villa Gloriana"@it,
+        "Informazioni di contatto per Villa Gloriana"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-villagloriana-it ;
+    sm:hasTelephone accommodation:fax-0457190223,
+        accommodation:tel-3474609454 ;
+    sm:hasWebSite accommodation:web-www-villagloriana-it .
+
+accommodation:ocp-62540 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Belvivere Suites"@it,
+        "Informazioni di contatto per Belvivere Suites"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-belviveresuites-it ;
+    sm:hasTelephone accommodation:fax-0456089602,
+        accommodation:tel-0456081820 ;
+    sm:hasWebSite accommodation:web-www-belviveresuites-it .
+
+accommodation:ocp-69080 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Antica Dimora Del Turco"@it,
+        "Informazioni di contatto per Antica Dimora Del Turco"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-anticadimoradelturco-it ;
+    sm:hasTelephone accommodation:tel-3516700895 ;
+    sm:hasWebSite accommodation:web-www-anticadimoradelturco-it .
+
+accommodation:ocp-71300 a sm:OnlineContactPoint ;
+    dc:title "Contact information for La Cherubina"@it,
+        "Informazioni di contatto per La Cherubina"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-b-bcherubina-gmail-com ;
+    sm:hasTelephone accommodation:fax-0458000252,
+        accommodation:tel-0456095171,
+        accommodation:tel-3334364884 .
+
+accommodation:ocp-76260 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Corte Albarel"@it,
+        "Informazioni di contatto per Corte Albarel"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-agriturismocortealbarel-gmail-com ;
+    sm:hasTelephone accommodation:tel-3920595888 ;
+    sm:hasWebSite accommodation:web-www-agriturismocortealbarel-com .
+
+accommodation:ocp-91820 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Fasoli"@it,
+        "Informazioni di contatto per Fasoli"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-agriturismofasoli-it ;
+    sm:hasTelephone accommodation:tel-3312695906 ;
+    sm:hasWebSite accommodation:web-www-agriturismofasoli-it .
+
+accommodation:ocp-96541 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Brolin"@it,
+        "Informazioni di contatto per Brolin"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-agercam-libero-it ;
+    sm:hasTelephone accommodation:tel-0458005398,
+        accommodation:tel-330479062 .
+
+accommodation:ocp-M0230830008 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Tommasi Orietta"@it,
+        "Informazioni di contatto per Tommasi Orietta"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasCertifiedEmail accommodation:pec-tommasiinconming-pec-it ;
+    sm:hasEmail accommodation:mail-francotommasi-tommasiincoming-it .
+
+accommodation:ocp-M0230830009 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Tommasi Franco"@it,
+        "Informazioni di contatto per Tommasi Franco"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-francotommasi-tommasiincoming-it .
+
+accommodation:ocp-M0230830012 a sm:OnlineContactPoint ;
+    dc:title "Contact information for La Casa Di Adri"@it,
+        "Informazioni di contatto per La Casa Di Adri"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasCertifiedEmail accommodation:pec-m-vedovi-pec-it ;
+    sm:hasEmail accommodation:mail-silvia-scuto18-gmail-com .
+
+accommodation:ocp-M0230830013 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Mattinzoli Gianpaolo"@it,
+        "Informazioni di contatto per Mattinzoli Gianpaolo"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-marica-mattinzoli-gmail-com .
+
+accommodation:ocp-M0230830014 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Le Palme Di Brognara Gianluca"@it,
+        "Informazioni di contatto per Le Palme Di Brognara Gianluca"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-bblepalmesona-it .
+
+accommodation:ocp-M0230830017 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Affittacamere Di Paola"@it,
+        "Informazioni di contatto per Affittacamere Di Paola"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-paolazoc-tiscali-it .
+
+accommodation:ocp-M0230830018 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Villa Dei Cipressi - Sparici Landini"@it,
+        "Informazioni di contatto per Villa Dei Cipressi - Sparici Landini"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasCertifiedEmail accommodation:pec-sparici-landini-pec-it ;
+    sm:hasEmail accommodation:mail-info-villadeicipressi-com ;
+    sm:hasWebSite accommodation:web-www-sparicilandini-com .
+
+accommodation:ocp-M0230830019 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Villa Dei Cipressi - Sparici Landini"@it,
+        "Informazioni di contatto per Villa Dei Cipressi - Sparici Landini"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasCertifiedEmail accommodation:pec-sparici-landini-pec-it ;
+    sm:hasEmail accommodation:mail-info-villadeicipressi-com ;
+    sm:hasWebSite accommodation:web-www-sparicilandini-com .
+
+accommodation:ocp-M0230830020 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Tosi Luciano"@it,
+        "Informazioni di contatto per Tosi Luciano"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-tosi-luciano61-libero-it .
+
+accommodation:ocp-M0230830021 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Residenza Leon"@it,
+        "Informazioni di contatto per Residenza Leon"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasCertifiedEmail accommodation:pec-sette-gianluigi-pec-settere-eu ;
+    sm:hasEmail accommodation:mail-info-residenzaleon-com ;
+    sm:hasWebSite accommodation:web-www-residenzaleon-com .
+
+accommodation:ocp-M0230830024 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Casa Dany"@it,
+        "Informazioni di contatto per Casa Dany"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-info-casadany-it ;
+    sm:hasWebSite accommodation:web-www-casadany-it .
+
+accommodation:ocp-M0230830025 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Sweet Corner"@it,
+        "Informazioni di contatto per Sweet Corner"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-giovannaperotti-yahoo-it .
+
+accommodation:ocp-M0230830026 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Villa Dei Cipressi - Sparici Landini"@it,
+        "Informazioni di contatto per Villa Dei Cipressi - Sparici Landini"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasCertifiedEmail accommodation:pec-sparici-landini-pec-it ;
+    sm:hasEmail accommodation:mail-info-villadeicipressi-com ;
+    sm:hasWebSite accommodation:web-www-sparicilandini-com .
+
+accommodation:ocp-M0230830027 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Corte Ara Decima"@it,
+        "Informazioni di contatto per Corte Ara Decima"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-aradecimabb-gmail-com .
+
+accommodation:ocp-M0230830028 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Casa Vallecchia"@it,
+        "Informazioni di contatto per Casa Vallecchia"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-mariarosa-birtele-gmail-com .
+
+accommodation:ocp-M0230830029 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Zerpelloni Simone"@it,
+        "Informazioni di contatto per Zerpelloni Simone"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-s-zerpe-hotmail-it .
+
+accommodation:ocp-M0230830030 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Al Secomoro"@it,
+        "Informazioni di contatto per Al Secomoro"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasCertifiedEmail accommodation:pec-als-pec-buffetti-it ;
+    sm:hasEmail accommodation:mail-alsecomoro-alsecomoro-it ;
+    sm:hasWebSite accommodation:web-www-alsecomoro-it .
+
+accommodation:ocp-M0230830037 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Fasano Giuseppe"@it,
+        "Informazioni di contatto per Fasano Giuseppe"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasCertifiedEmail accommodation:pec-fasano-giuseppe-vr-pec-it ;
+    sm:hasEmail accommodation:mail-fasano-giuseppe-vr-gmail-com .
+
+accommodation:ocp-M0230830038 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Ridolfi Tatiana"@it,
+        "Informazioni di contatto per Ridolfi Tatiana"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-carisortastanze-gmail-com .
+
+accommodation:ocp-M0230830040 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Appartamento Filippo"@it,
+        "Informazioni di contatto per Appartamento Filippo"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-willyprince-yahoo-it .
+
+accommodation:ocp-M0230830041 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Tacconi Federico"@it,
+        "Informazioni di contatto per Tacconi Federico"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-albetacc-hotmail-it .
+
+accommodation:ocp-M0230830042 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Qarri Erlind"@it,
+        "Informazioni di contatto per Qarri Erlind"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-videocast2-gmail-com .
+
+accommodation:ocp-M0230830043 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Al Cappellino"@it,
+        "Informazioni di contatto per Al Cappellino"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasCertifiedEmail accommodation:pec-renato-pec-oliosirenato-it ;
+    sm:hasEmail accommodation:mail-oliosi-renato-tiscali-it .
+
+accommodation:ocp-M0230830044 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Al Cappellino"@it,
+        "Informazioni di contatto per Al Cappellino"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasCertifiedEmail accommodation:pec-renato-pec-oliosirenato-it ;
+    sm:hasEmail accommodation:mail-oliosi-renato-tiscali-it .
+
+accommodation:ocp-M0230830045 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Cordioli Enrico"@it,
+        "Informazioni di contatto per Cordioli Enrico"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-enri-cordioli-gmail-com .
+
+accommodation:ocp-M0230830046 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Cordioli Enrico"@it,
+        "Informazioni di contatto per Cordioli Enrico"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-enri-cordioli-gmail-com .
+
+accommodation:ocp-M0230830047 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Gugole Giampaolo"@it,
+        "Informazioni di contatto per Gugole Giampaolo"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-egugole-hotmail-com .
+
+accommodation:ocp-M0230830048 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Scattolini Emanuela"@it,
+        "Informazioni di contatto per Scattolini Emanuela"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-emanuela-costruzioniscattolini-it .
+
+accommodation:ocp-M0230830049 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Venturelli Aldo"@it,
+        "Informazioni di contatto per Venturelli Aldo"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-aldo-venturelli-49-gmail-com .
+
+accommodation:ocp-M0230830050 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Venturelli Aldo"@it,
+        "Informazioni di contatto per Venturelli Aldo"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-aldo-venturelli-49-gmail-com .
+
+accommodation:ocp-M0230830051 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Zanoni Dario"@it,
+        "Informazioni di contatto per Zanoni Dario"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-emilyzanoni6-gmail-com .
+
+accommodation:ocp-M0230830052 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Faettini Elena"@it,
+        "Informazioni di contatto per Faettini Elena"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-treluglio4-gmail-com .
+
+accommodation:ocp-M0230830053 a sm:OnlineContactPoint ;
+    dc:title "Contact information for Izzo Luigi"@it,
+        "Informazioni di contatto per Izzo Luigi"@it ;
+    skos:inScheme accommodation: ;
+    sm:hasEmail accommodation:mail-luigi-izzo1965-me-com .
+
+accommodation:person-brognara-gianluca a cpv:Person ;
+    dc:title "Gianluca Brognara"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Brognara"^^xsd:string ;
+    cpv:givenName "Gianluca"^^xsd:string .
+
+accommodation:person-landini-francesca a cpv:Person ;
+    dc:title "Francesca Landini"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Landini"^^xsd:string ;
+    cpv:givenName "Francesca"^^xsd:string .
+
+accommodation:person-qarri-erlind a cpv:Person ;
+    dc:title "Erlind Qarri"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Qarri"^^xsd:string ;
+    cpv:givenName "Erlind"^^xsd:string .
+
+accommodation:person-tommasi-franco a cpv:Person ;
+    dc:title "Franco Tommasi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Tommasi"^^xsd:string ;
+    cpv:givenName "Franco"^^xsd:string .
+
+accommodation:service-animali-ammessi a acco:OfferedServiceDescription ;
+    dc:title "Pets Allowed"@en,
+        "Animali ammessi"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-animali-ammessi .
+
+accommodation:service-impianti-risalita a acco:OfferedServiceDescription ;
+    dc:title "Lifts"@en,
+        "Impianti risalita"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-impianti-risalita .
+
+accommodation:service-lago a acco:OfferedServiceDescription ;
+    dc:title "Lake"@en,
+        "Lago"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-lago .
+
+accommodation:service-mare a acco:OfferedServiceDescription ;
+    dc:title "Sea"@en,
+        "Mare"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-mare .
+
+accommodation:service-piscina-coperta a acco:OfferedServiceDescription ;
+    dc:title "Covered pool"@en,
+        "Piscina coperta"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-piscina-coperta .
+
+accommodation:service-sala-conferenze a acco:OfferedServiceDescription ;
+    dc:title "Conference room"@en,
+        "Sala conferenze"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-sala-conferenze .
+
+accommodation:service-solarium a acco:OfferedServiceDescription ;
+    dc:title "Solarium"@en,
+        "Solarium"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-solarium .
+
+accommodation:service-stazione-fs a acco:OfferedServiceDescription ;
+    dc:title "Railway station"@en,
+        "Stazione"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-stazione-fs .
+
+accommodation:service-zona-fiera a acco:OfferedServiceDescription ;
+    dc:title "Fair area"@en,
+        "Zona fiera"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-zona-fiera .
+
+accommodation:acco-121924 a acco:Accommodation ;
+    dc:title "Relais Des Roches"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "121924"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-03012111203 ;
+    acco:hasAccommodationTypology accotype:C11 ;
+    acco:hasOfferedServiceDescription accommodation:service-aria-condizionata,
+        accommodation:service-inglese,
+        accommodation:service-parcheggio ;
+    clv:hasAddress anncsu:ad-298427-7943489 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Relais Des Roches"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-18454 a acco:Accommodation ;
+    dc:title "Antica Corte \"La Valle\""^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "18454"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-01943090231 ;
+    acco:hasAccommodationTypology accotype:B12 ;
+    acco:hasOfferedServiceDescription accommodation:service-nan ;
+    clv:hasAddress anncsu:ad-298271-7931367 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Antica Corte \"La Valle\""^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-18455 a acco:Accommodation ;
+    dc:title "Ca' Vecia"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "18455"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-04408910232 ;
+    acco:hasAccommodationTypology accotype:B12 ;
+    acco:hasOfferedServiceDescription accommodation:service-nan ;
+    clv:hasAddress anncsu:ad-298534-7943544 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Ca' Vecia"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-252342 a acco:Accommodation ;
+    dc:title "Sesto Armonico"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "252342"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-04873090239 ;
+    acco:hasAccommodationTypology accotype:C11 ;
+    acco:hasOfferedServiceDescription accommodation:service-aria-condizionata,
+        accommodation:service-collinare,
+        accommodation:service-francese,
+        accommodation:service-inglese,
+        accommodation:service-parcheggio,
+        accommodation:service-piscina ;
+    clv:hasAddress anncsu:ad-298429-7943503 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Sesto Armonico"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-264523 a acco:Accommodation ;
+    dc:title "Lonardi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "264523"^^xsd:string ;
+    acco:hasAccommodationTypology accotype:C11 ;
+    acco:hasOfferedServiceDescription accommodation:service-animali,
+        accommodation:service-aria-condizionata,
+        accommodation:service-collinare,
+        accommodation:service-giochi-bimbi ;
+    clv:hasAddress anncsu:ad-298194-7923649 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Lonardi"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-284310 a acco:Accommodation ;
+    dc:title "Tenuta Corte Tese"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "284310"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-04454560238 ;
+    acco:hasAccommodationTypology accotype:B12 ;
+    acco:hasOfferedServiceDescription accommodation:service-nan ;
+    clv:hasAddress anncsu:ad-298495-7916562 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Tenuta Corte Tese"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-300992 a acco:Accommodation ;
+    dc:title "Fattoria Le Mase"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "300992"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-04625860236 ;
+    acco:hasAccommodationTypology accotype:B12 ;
+    acco:hasOfferedServiceDescription accommodation:service-nan ;
+    clv:hasAddress anncsu:ad-298232-33915133 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Fattoria Le Mase"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-335202 a acco:Accommodation ;
+    dc:title "Castel Morino"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "335202"^^xsd:string ;
+    acco:hasAccommodationTypology accotype:C12 ;
+    acco:hasOfferedServiceDescription accommodation:service-aeroporto,
+        accommodation:service-aria-condizionata,
+        accommodation:service-centro-storico,
+        accommodation:service-collinare,
+        accommodation:service-inglese,
+        accommodation:service-parcheggio,
+        accommodation:service-piscina,
+        accommodation:service-spagnolo ;
+    clv:hasAddress anncsu:ad-298421-7921304 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Castel Morino"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-3360 a acco:Accommodation ;
+    dc:title "Hotel Antico Termine"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "3360"^^xsd:string ;
+    acco:hasAccommodationClassification accostar:4 ;
+    acco:hasAccommodationOwner organization:org-06865290156 ;
+    acco:hasAccommodationTypology accotype:A1 ;
+    acco:hasOfferedServiceDescription accommodation:service-aeroporto,
+        accommodation:service-aria-condizionata,
+        accommodation:service-autostrada,
+        accommodation:service-fitness,
+        accommodation:service-francese,
+        accommodation:service-inglese,
+        accommodation:service-parcheggio,
+        accommodation:service-periferia,
+        accommodation:service-piscina,
+        accommodation:service-ristorante,
+        accommodation:service-sauna,
+        accommodation:service-tedesco ;
+    clv:hasAddress anncsu:ad-298565-7936209 ;
+    clv:hasPOIState accommodation:status-close ;
+    poi:POIofficialName "Hotel Antico Termine"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-3361 a acco:Accommodation ;
+    dc:title "Hotel Al Bosco"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "3361"^^xsd:string ;
+    acco:hasAccommodationClassification accostar:3 ;
+    acco:hasAccommodationOwner organization:org-02063300236 ;
+    acco:hasAccommodationTypology accotype:A1 ;
+    acco:hasOfferedServiceDescription accommodation:service-aria-condizionata,
+        accommodation:service-francese,
+        accommodation:service-inglese,
+        accommodation:service-parcheggio,
+        accommodation:service-periferia,
+        accommodation:service-ristorante ;
+    clv:hasAddress anncsu:ad-298225-7943242 ;
+    clv:hasPOIState accommodation:status-temp-close ;
+    poi:POIofficialName "Hotel Al Bosco"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-44683 a acco:Accommodation ;
+    dc:title "Colombarola"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "44683"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-03600150233 ;
+    acco:hasAccommodationTypology accotype:B12 ;
+    acco:hasOfferedServiceDescription accommodation:service-nan ;
+    clv:hasAddress anncsu:ad-298284-7914155 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Colombarola"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-45967 a acco:Accommodation ;
+    dc:title "El Bacan"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "45967"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-04810460230 ;
+    acco:hasAccommodationTypology accotype:B12 ;
+    acco:hasOfferedServiceDescription accommodation:service-nan ;
+    clv:hasAddress anncsu:ad-298515-7928867 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "El Bacan"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-45968 a acco:Accommodation ;
+    dc:title "La Quaiara"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "45968"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-02354570232 ;
+    acco:hasAccommodationTypology accotype:B12 ;
+    acco:hasOfferedServiceDescription accommodation:service-nan ;
+    clv:hasAddress anncsu:ad-298474-7943434 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "La Quaiara"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-461 a acco:Accommodation ;
+    dc:title "Corte Guastalla"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "461"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-03339420238 ;
+    acco:hasAccommodationTypology accotype:B111 ;
+    acco:hasOfferedServiceDescription accommodation:service-aeroporto,
+        accommodation:service-aria-condizionata,
+        accommodation:service-autostrada,
+        accommodation:service-francese,
+        accommodation:service-inglese,
+        accommodation:service-parcheggio,
+        accommodation:service-tedesco ;
+    clv:hasAddress anncsu:ad-298365-7923942 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Corte Guastalla"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-47495 a acco:Accommodation ;
+    dc:title "Corte Tacconi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "47495"^^xsd:string ;
+    acco:hasAccommodationTypology accotype:C11 ;
+    acco:hasOfferedServiceDescription accommodation:service-inglese,
+        accommodation:service-parcheggio,
+        accommodation:service-periferia ;
+    clv:hasAddress anncsu:ad-298261-7909041 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Corte Tacconi"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-48829 a acco:Accommodation ;
+    dc:title "Dei Grippi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "48829"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-03213760238 ;
+    acco:hasAccommodationTypology accotype:B12 ;
+    acco:hasOfferedServiceDescription accommodation:service-nan ;
+    clv:hasAddress anncsu:ad-298284-7914159 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Dei Grippi"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-49934 a acco:Accommodation ;
+    dc:title "Al Pigno"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "49934"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-02275940233 ;
+    acco:hasAccommodationTypology accotype:B111 ;
+    acco:hasOfferedServiceDescription accommodation:service-aria-condizionata,
+        accommodation:service-centro-storico,
+        accommodation:service-collinare,
+        accommodation:service-inglese,
+        accommodation:service-parcheggio,
+        accommodation:service-ristorante ;
+    clv:hasAddress anncsu:ad-298462-7923643 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Al Pigno"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-49994 a acco:Accommodation ;
+    dc:title "Albarello"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "49994"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-02898640236 ;
+    acco:hasAccommodationTypology accotype:B12 ;
+    acco:hasOfferedServiceDescription accommodation:service-nan ;
+    clv:hasAddress anncsu:ad-298195-7933522 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Albarello"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-53041 a acco:Accommodation ;
+    dc:title "Villa Bianca"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "53041"^^xsd:string ;
+    acco:hasAccommodationTypology accotype:C11 ;
+    acco:hasOfferedServiceDescription accommodation:service-aria-condizionata,
+        accommodation:service-collinare,
+        accommodation:service-giochi-bimbi,
+        accommodation:service-inglese,
+        accommodation:service-parcheggio ;
+    clv:hasAddress anncsu:ad-298310-7916512 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Villa Bianca"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-55100 a acco:Accommodation ;
+    dc:title "Albarosa"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "55100"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-02811130232 ;
+    acco:hasAccommodationTypology accotype:B12 ;
+    acco:hasOfferedServiceDescription accommodation:service-nan ;
+    clv:hasAddress anncsu:ad-298448-7933593 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Albarosa"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-56901 a acco:Accommodation ;
+    dc:title "Villa Gloriana"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "56901"^^xsd:string ;
+    acco:hasAccommodationTypology accotype:C11 ;
+    acco:hasOfferedServiceDescription accommodation:service-aria-condizionata,
+        accommodation:service-collinare,
+        accommodation:service-giochi-bimbi,
+        accommodation:service-parcheggio,
+        accommodation:service-piscina ;
+    clv:hasAddress anncsu:ad-298224-7943191 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Villa Gloriana"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-62540 a acco:Accommodation ;
+    dc:title "Belvivere Suites"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "62540"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-03517020230 ;
+    acco:hasAccommodationTypology accotype:B12 ;
+    acco:hasOfferedServiceDescription accommodation:service-nan ;
+    clv:hasAddress anncsu:ad-298271-7931373 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Belvivere Suites"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-69080 a acco:Accommodation ;
+    dc:title "Antica Dimora Del Turco"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "69080"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-04172590236 ;
+    acco:hasAccommodationTypology accotype:B12 ;
+    acco:hasOfferedServiceDescription accommodation:service-nan ;
+    clv:hasAddress anncsu:ad-298504-7909213 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Antica Dimora Del Turco"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-71300 a acco:Accommodation ;
+    dc:title "La Cherubina"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "71300"^^xsd:string ;
+    acco:hasAccommodationTypology accotype:C11 ;
+    acco:hasOfferedServiceDescription accommodation:service-aeroporto,
+        accommodation:service-autostrada,
+        accommodation:service-collinare,
+        accommodation:service-giochi-bimbi,
+        accommodation:service-inglese,
+        accommodation:service-termale ;
+    clv:hasAddress anncsu:ad-298357-7933732 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "La Cherubina"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-76260 a acco:Accommodation ;
+    dc:title "Corte Albarel"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "76260"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-02957360239 ;
+    acco:hasAccommodationTypology accotype:B12 ;
+    acco:hasOfferedServiceDescription accommodation:service-nan ;
+    clv:hasAddress anncsu:ad-298195-7933519 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Corte Albarel"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-91820 a acco:Accommodation ;
+    dc:title "Fasoli"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "91820"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-04863660231 ;
+    acco:hasAccommodationTypology accotype:B12 ;
+    acco:hasOfferedServiceDescription accommodation:service-nan ;
+    clv:hasAddress anncsu:ad-298232-7935995 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Fasoli"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:acco-96541 a acco:Accommodation ;
+    dc:title "Brolin"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "96541"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-03585820230 ;
+    acco:hasAccommodationTypology accotype:B13 ;
+    acco:hasOfferedServiceDescription accommodation:service-nan ;
+    clv:hasAddress anncsu:ad-298229-30176482 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Brolin"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:fax-0456080162 a sm:Telephone ;
+    dc:title "0456080162"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "0456080162"^^xsd:string .
+
+accommodation:fax-0456080708 a sm:Telephone ;
+    dc:title "0456080708"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "0456080708"^^xsd:string .
+
+accommodation:fax-0456095571 a sm:Telephone ;
+    dc:title "0456095571"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "0456095571"^^xsd:string .
+
+accommodation:fax-0457190091 a sm:Telephone ;
+    dc:title "0457190091"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:033 ;
+    sm:telephoneNumber "0457190091"^^xsd:string .
+
+accommodation:feature-aeroporto a acco:OSDFeature ;
+    dc:title "Airport"@en,
+        "Aeroporto"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Airport"@en,
+        "Aeroporto"@it .
+
+accommodation:feature-animali-ammessi a acco:OSDFeature ;
+    dc:title "Pets Allowed"@en,
+        "Animali ammessi"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Pets Allowed"@en,
+        "Animali ammessi"@it .
+
+accommodation:feature-aria-condizionata a acco:OSDFeature ;
+    dc:title "Air conditioning"@en,
+        "Aria condizionata"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Air conditioning"@en,
+        "Aria condizionata"@it .
+
+accommodation:feature-autostrada a acco:OSDFeature ;
+    dc:title "Highway"@en,
+        "Autostrada"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Highway"@en,
+        "Autostrada"@it .
+
+accommodation:feature-centro-storico a acco:OSDFeature ;
+    dc:title "Old Town"@en,
+        "Centro storico"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Old Town"@en,
+        "Centro storico"@it .
+
+accommodation:feature-collinare a acco:OSDFeature ;
+    dc:title "Hilly"@en,
+        "Collinare"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Hilly"@en,
+        "Collinare"@it .
+
+accommodation:feature-fitness a acco:OSDFeature ;
+    dc:title "Fitness"@en,
+        "Fitness"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Fitness"@en,
+        "Fitness"@it .
+
+accommodation:feature-francese a acco:OSDFeature ;
+    dc:title "French"@en,
+        "Francese"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "French"@en,
+        "Francese"@it .
+
+accommodation:feature-giochi-bimbi a acco:OSDFeature ;
+    dc:title "Children's games"@en,
+        "Giochi bimbi"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Children's games"@en,
+        "Giochi bimbi"@it .
+
+accommodation:feature-impianti-risalita a acco:OSDFeature ;
+    dc:title "Lifts"@en,
+        "Impianti risalita"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Lifts"@en,
+        "Impianti risalita"@it .
+
+accommodation:feature-inglese a acco:OSDFeature ;
+    dc:title "English"@en,
+        "Inglese"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "English"@en,
+        "Inglese"@it .
+
+accommodation:feature-lago a acco:OSDFeature ;
+    dc:title "Lake"@en,
+        "Lago"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Lake"@en,
+        "Lago"@it .
+
+accommodation:feature-mare a acco:OSDFeature ;
+    dc:title "Sea"@en,
+        "Mare"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Sea"@en,
+        "Mare"@it .
+
+accommodation:feature-parcheggio a acco:OSDFeature ;
+    dc:title "Parking"@en,
+        "Parcheggio"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Parking"@en,
+        "Parcheggio"@it .
+
+accommodation:feature-periferia a acco:OSDFeature ;
+    dc:title "Outskirts"@en,
+        "Periferia"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Outskirts"@en,
+        "Periferia"@it .
+
+accommodation:feature-piscina a acco:OSDFeature ;
+    dc:title "Pool"@en,
+        "Piscina"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Pool"@en,
+        "Piscina"@it .
+
+accommodation:feature-piscina-coperta a acco:OSDFeature ;
+    dc:title "Covered pool"@en,
+        "Piscina coperta"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Covered pool"@en,
+        "Piscina coperta"@it .
+
+accommodation:feature-ristorante a acco:OSDFeature ;
+    dc:title "Restaurant"@en,
+        "Ristorante"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Restaurant"@en,
+        "Ristorante"@it .
+
+accommodation:feature-sala-conferenze a acco:OSDFeature ;
+    dc:title "Conference room"@en,
+        "Sala conferenze"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Conference room"@en,
+        "Sala conferenze"@it .
+
+accommodation:feature-sauna a acco:OSDFeature ;
+    dc:title "Sauna"@en,
+        "Sauna"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Sauna"@en,
+        "Sauna"@it .
+
+accommodation:feature-solarium a acco:OSDFeature ;
+    dc:title "Solarium"@en,
+        "Solarium"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Solarium"@en,
+        "Solarium"@it .
+
+accommodation:feature-spagnolo a acco:OSDFeature ;
+    dc:title "Spanish"@en,
+        "Spagnolo"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Spanish"@en,
+        "Spagnolo"@it .
+
+accommodation:feature-stazione-fs a acco:OSDFeature ;
+    dc:title "Railway station"@en,
+        "Stazione"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Railway station"@en,
+        "Stazione"@it .
+
+accommodation:feature-tedesco a acco:OSDFeature ;
+    dc:title "German"@en,
+        "Tedesco"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "German"@en,
+        "Tedesco"@it .
+
+accommodation:feature-termale a acco:OSDFeature ;
+    dc:title "Thermal"@en,
+        "Termale"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Thermal"@en,
+        "Termale"@it .
+
+accommodation:feature-zona-fiera a acco:OSDFeature ;
+    dc:title "Fair area"@en,
+        "Zona fiera"@it ;
+    skos:inScheme accommodation: ;
+    acco:featureName "Fair area"@en,
+        "Zona fiera"@it .
+
+accommodation:mail-agercam-libero-it a sm:Email ;
+    dc:title "agercam@libero.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:agercam@libero.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-agriturismo-colombarola-hotmail-com a sm:Email ;
+    dc:title "agriturismo.colombarola@hotmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:agriturismo.colombarola@hotmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-agriturismoalbarello-gmail-com a sm:Email ;
+    dc:title "agriturismoalbarello@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:agriturismoalbarello@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-agriturismocortealbarel-gmail-com a sm:Email ;
+    dc:title "agriturismocortealbarel@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:agriturismocortealbarel@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-albetacc-hotmail-it a sm:Email ;
+    dc:title "albetacc@hotmail.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:albetacc@hotmail.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-alsecomoro-alsecomoro-it a sm:Email ;
+    dc:title "alsecomoro@alsecomoro.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:alsecomoro@alsecomoro.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-anticotermine-vr-bestwestern-it a sm:Email ;
+    dc:title "anticotermine.vr@bestwestern.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:anticotermine.vr@bestwestern.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-aradecimabb-gmail-com a sm:Email ;
+    dc:title "aradecimabb@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:aradecimabb@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-aziendaagricola-iamundosonia-gmail-com a sm:Email ;
+    dc:title "aziendaagricola.iamundosonia@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:aziendaagricola.iamundosonia@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-b-bcherubina-gmail-com a sm:Email ;
+    dc:title "b.bcherubina@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:b.bcherubina@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-beb-lonardi-susie-gmail-com a sm:Email ;
+    dc:title "beb.lonardi.susie@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:beb.lonardi.susie@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-carisortastanze-gmail-com a sm:Email ;
+    dc:title "carisortastanze@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:carisortastanze@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-egugole-hotmail-com a sm:Email ;
+    dc:title "egugole@hotmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:egugole@hotmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-emanuela-costruzioniscattolini-it a sm:Email ;
+    dc:title "emanuela@costruzioniscattolini.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:emanuela@costruzioniscattolini.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-emilyzanoni6-gmail-com a sm:Email ;
+    dc:title "emilyzanoni6@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:emilyzanoni6@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-fasano-giuseppe-vr-gmail-com a sm:Email ;
+    dc:title "fasano.giuseppe.vr@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:fasano.giuseppe.vr@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-giovannaperotti-yahoo-it a sm:Email ;
+    dc:title "giovannaperotti@yahoo.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:giovannaperotti@yahoo.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-agriturismocavecia-it a sm:Email ;
+    dc:title "info@agriturismocavecia.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@agriturismocavecia.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-agriturismodeigrippi-it a sm:Email ;
+    dc:title "info@agriturismodeigrippi.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@agriturismodeigrippi.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-agriturismofasoli-it a sm:Email ;
+    dc:title "info@agriturismofasoli.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@agriturismofasoli.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-agriturismolaquaiara-it a sm:Email ;
+    dc:title "info@agriturismolaquaiara.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@agriturismolaquaiara.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-anticadimoradelturco-it a sm:Email ;
+    dc:title "info@anticadimoradelturco.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@anticadimoradelturco.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-bblepalmesona-it a sm:Email ;
+    dc:title "info@bblepalmesona.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@bblepalmesona.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-belviveresuites-it a sm:Email ;
+    dc:title "info@belviveresuites.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@belviveresuites.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-casadany-it a sm:Email ;
+    dc:title "info@casadany.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@casadany.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-castelmorino-it a sm:Email ;
+    dc:title "info@castelmorino.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@castelmorino.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-corteguastalla-it a sm:Email ;
+    dc:title "info@corteguastalla.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@corteguastalla.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-cortelavalle-it a sm:Email ;
+    dc:title "info@cortelavalle.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@cortelavalle.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-cortetacconibb-it a sm:Email ;
+    dc:title "info@cortetacconibb.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@cortetacconibb.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-el-bacan-it a sm:Email ;
+    dc:title "info@el-bacan.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@el-bacan.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-locandaalpigno-it a sm:Email ;
+    dc:title "info@locandaalpigno.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@locandaalpigno.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-residenzaleon-com a sm:Email ;
+    dc:title "info@residenzaleon.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@residenzaleon.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-sesto-armonico-com a sm:Email ;
+    dc:title "info@sesto-armonico.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@sesto-armonico.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-veronatrip-gmail-com a sm:Email ;
+    dc:title "info.veronatrip@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info.veronatrip@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-villabiancabb-com a sm:Email ;
+    dc:title "info@villabiancabb.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@villabiancabb.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-info-villagloriana-it a sm:Email ;
+    dc:title "info@villagloriana.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@villagloriana.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-infoalbarosa-gmail-com a sm:Email ;
+    dc:title "infoalbarosa@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:infoalbarosa@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-luigi-izzo1965-me-com a sm:Email ;
+    dc:title "luigi.izzo1965@me.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:luigi.izzo1965@me.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-mariarosa-birtele-gmail-com a sm:Email ;
+    dc:title "mariarosa.birtele@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:mariarosa.birtele@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-marica-mattinzoli-gmail-com a sm:Email ;
+    dc:title "marica.mattinzoli@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:marica.mattinzoli@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-paolazoc-tiscali-it a sm:Email ;
+    dc:title "paolazoc@tiscali.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:paolazoc@tiscali.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-relaisdesroches-gmail-com a sm:Email ;
+    dc:title "relaisdesroches@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:relaisdesroches@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-s-zerpe-hotmail-it a sm:Email ;
+    dc:title "s.zerpe@hotmail.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:s.zerpe@hotmail.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-silvia-scuto18-gmail-com a sm:Email ;
+    dc:title "silvia.scuto18@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:silvia.scuto18@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-tenuta-cortetese-gmail-com a sm:Email ;
+    dc:title "tenuta.cortetese@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:tenuta.cortetese@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-tosi-luciano61-libero-it a sm:Email ;
+    dc:title "tosi.luciano61@libero.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:tosi.luciano61@libero.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-treluglio4-gmail-com a sm:Email ;
+    dc:title "treluglio4@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:treluglio4@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-videocast2-gmail-com a sm:Email ;
+    dc:title "videocast2@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:videocast2@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-willyprince-yahoo-it a sm:Email ;
+    dc:title "willyprince@yahoo.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:willyprince@yahoo.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:pec-als-pec-buffetti-it a sm:Email ;
+    dc:title "als@pec.buffetti.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:als@pec.buffetti.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+accommodation:pec-fasano-giuseppe-vr-pec-it a sm:Email ;
+    dc:title "fasano.giuseppe.vr@pec.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:fasano.giuseppe.vr@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+accommodation:pec-m-vedovi-pec-it a sm:Email ;
+    dc:title "m.vedovi@pec.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:m.vedovi@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+accommodation:pec-sette-gianluigi-pec-settere-eu a sm:Email ;
+    dc:title "sette.gianluigi@pec.settere.eu"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:sette.gianluigi@pec.settere.eu"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+accommodation:pec-tommasiinconming-pec-it a sm:Email ;
+    dc:title "tommasiinconming@pec.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:tommasiinconming@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+accommodation:person-birtele-maria-rosa a cpv:Person ;
+    dc:title "Maria Rosa Birtele"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Birtele"^^xsd:string ;
+    cpv:givenName "Maria Rosa"^^xsd:string .
+
+accommodation:person-faettini-elena a cpv:Person ;
+    dc:title "Elena Faettini"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Faettini"^^xsd:string ;
+    cpv:givenName "Elena"^^xsd:string .
+
+accommodation:person-falzi-tiziano a cpv:Person ;
+    dc:title "Tiziano Falzi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Falzi"^^xsd:string ;
+    cpv:givenName "Tiziano"^^xsd:string .
+
+accommodation:person-fasano-giuseppe a cpv:Person ;
+    dc:title "Giuseppe Fasano"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Fasano"^^xsd:string ;
+    cpv:givenName "Giuseppe"^^xsd:string .
+
+accommodation:person-filippi-giovanni a cpv:Person ;
+    dc:title "Giovanni Filippi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Filippi"^^xsd:string ;
+    cpv:givenName "Giovanni"^^xsd:string .
+
+accommodation:person-guardavascio-capitano-maria-grazia a cpv:Person ;
+    dc:title "Maria Grazia Guardavascio Capitano"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Guardavascio Capitano"^^xsd:string ;
+    cpv:givenName "Maria Grazia"^^xsd:string .
+
+accommodation:person-gugole-giampaolo a cpv:Person ;
+    dc:title "Giampaolo Gugole"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Gugole"^^xsd:string ;
+    cpv:givenName "Giampaolo"^^xsd:string .
+
+accommodation:person-izzo-luigi a cpv:Person ;
+    dc:title "Luigi Izzo"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Izzo"^^xsd:string ;
+    cpv:givenName "Luigi"^^xsd:string .
+
+accommodation:person-marotta-williams a cpv:Person ;
+    dc:title "Williams Marotta"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Marotta"^^xsd:string ;
+    cpv:givenName "Williams"^^xsd:string .
+
+accommodation:person-mattinzoli-gianpaolo a cpv:Person ;
+    dc:title "Gianpaolo Mattinzoli"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Mattinzoli"^^xsd:string ;
+    cpv:givenName "Gianpaolo"^^xsd:string .
+
+accommodation:person-perotti-giovanna a cpv:Person ;
+    dc:title "Giovanna Perotti"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Perotti"^^xsd:string ;
+    cpv:givenName "Giovanna"^^xsd:string .
+
+accommodation:person-ridolfi-tatiana a cpv:Person ;
+    dc:title "Tatiana Ridolfi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Ridolfi"^^xsd:string ;
+    cpv:givenName "Tatiana"^^xsd:string .
+
+accommodation:person-scattolini-emanuela a cpv:Person ;
+    dc:title "Emanuela Scattolini"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Scattolini"^^xsd:string ;
+    cpv:givenName "Emanuela"^^xsd:string .
+
+accommodation:person-scuto-silvia a cpv:Person ;
+    dc:title "Silvia Scuto"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Scuto"^^xsd:string ;
+    cpv:givenName "Silvia"^^xsd:string .
+
+accommodation:person-sette-gianluigi a cpv:Person ;
+    dc:title "Gianluigi Sette"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Sette"^^xsd:string ;
+    cpv:givenName "Gianluigi"^^xsd:string .
+
+accommodation:person-tacconi-federico a cpv:Person ;
+    dc:title "Federico Tacconi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Tacconi"^^xsd:string ;
+    cpv:givenName "Federico"^^xsd:string .
+
+accommodation:person-tommasi-orietta a cpv:Person ;
+    dc:title "Orietta Tommasi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Tommasi"^^xsd:string ;
+    cpv:givenName "Orietta"^^xsd:string .
+
+accommodation:person-tosi-luciano a cpv:Person ;
+    dc:title "Luciano Tosi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Tosi"^^xsd:string ;
+    cpv:givenName "Luciano"^^xsd:string .
+
+accommodation:person-zanoni-dario a cpv:Person ;
+    dc:title "Dario Zanoni"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Zanoni"^^xsd:string ;
+    cpv:givenName "Dario"^^xsd:string .
+
+accommodation:person-zerpelloni-simone a cpv:Person ;
+    dc:title "Simone Zerpelloni"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Zerpelloni"^^xsd:string ;
+    cpv:givenName "Simone"^^xsd:string .
+
+accommodation:person-zocca-mario a cpv:Person ;
+    dc:title "Mario Zocca"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Zocca"^^xsd:string ;
+    cpv:givenName "Mario"^^xsd:string .
+
+accommodation:resort-M0230830008 a acco:Accommodation ;
+    dc:title "Tommasi Orietta"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830008"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-tommasi-orietta ;
+    acco:hasAccommodationTypology accotype:B113 ;
+    clv:hasAddress anncsu:ad-298365-7923943 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Tommasi Orietta"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830009 a acco:Accommodation ;
+    dc:title "Tommasi Franco"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830009"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-03339420238 ;
+    acco:hasAccommodationTypology accotype:B113 ;
+    clv:hasAddress anncsu:ad-298365-7923943 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Tommasi Franco"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830012 a acco:Accommodation ;
+    dc:title "La Casa Di Adri"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830012"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-scuto-silvia ;
+    acco:hasAccommodationTypology accotype:B113 ;
+    clv:hasAddress anncsu:ad-298472-7943387 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "La Casa Di Adri"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830013 a acco:Accommodation ;
+    dc:title "Mattinzoli Gianpaolo"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830013"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-mattinzoli-gianpaolo ;
+    acco:hasAccommodationTypology accotype:B113 ;
+    clv:hasAddress anncsu:ad-770538-33578172 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Mattinzoli Gianpaolo"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830014 a acco:Accommodation ;
+    dc:title "Le Palme Di Brognara Gianluca"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830014"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-04629170236 ;
+    acco:hasAccommodationTypology accotype:B113 ;
+    clv:hasAddress anncsu:ad-298332-7940891 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Le Palme Di Brognara Gianluca"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830017 a acco:Accommodation ;
+    dc:title "Affittacamere Di Paola"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830017"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-filippi-giovanni ;
+    acco:hasAccommodationTypology accotype:B113 ;
+    clv:hasAddress anncsu:ad-298227-7943288 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Affittacamere Di Paola"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830018 a acco:Accommodation ;
+    dc:title "Villa Dei Cipressi - Sparici Landini"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830018"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-01299450237 ;
+    acco:hasAccommodationTypology accotype:B113 ;
+    clv:hasAddress anncsu:ad-298412-7921400 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Villa Dei Cipressi - Sparici Landini"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830019 a acco:Accommodation ;
+    dc:title "Villa Dei Cipressi - Sparici Landini"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830019"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-01299450237 ;
+    acco:hasAccommodationTypology accotype:B113 ;
+    clv:hasAddress anncsu:ad-298412-7921400 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Villa Dei Cipressi - Sparici Landini"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830020 a acco:Accommodation ;
+    dc:title "Tosi Luciano"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830020"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-tosi-luciano ;
+    acco:hasAccommodationTypology accotype:B113 ;
+    clv:hasAddress anncsu:ad-298209-31495277 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Tosi Luciano"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830021 a acco:Accommodation ;
+    dc:title "Residenza Leon"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830021"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-sette-gianluigi ;
+    acco:hasAccommodationTypology accotype:B113 ;
+    clv:hasAddress anncsu:ad-298535-7921434 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Residenza Leon"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830024 a acco:Accommodation ;
+    dc:title "Casa Dany"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830024"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-falzi-tiziano ;
+    acco:hasAccommodationTypology accotype:B113 ;
+    clv:hasAddress anncsu:ad-298313-7923775 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Casa Dany"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830025 a acco:Accommodation ;
+    dc:title "Sweet Corner"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830025"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-perotti-giovanna ;
+    acco:hasAccommodationTypology accotype:B113 ;
+    clv:hasAddress anncsu:ad-298398-7916476 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Sweet Corner"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830026 a acco:Accommodation ;
+    dc:title "Villa Dei Cipressi - Sparici Landini"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830026"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-01299450237 ;
+    acco:hasAccommodationTypology accotype:B114 ;
+    clv:hasAddress anncsu:ad-298412-7921400 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Villa Dei Cipressi - Sparici Landini"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830027 a acco:Accommodation ;
+    dc:title "Corte Ara Decima"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830027"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-guardavascio-capitano-maria-grazia ;
+    acco:hasAccommodationTypology accotype:B115 ;
+    clv:hasAddress anncsu:ad-298209-7921282 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Corte Ara Decima"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830028 a acco:Accommodation ;
+    dc:title "Casa Vallecchia"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830028"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-birtele-maria-rosa ;
+    acco:hasAccommodationTypology accotype:B116 ;
+    clv:hasAddress anncsu:ad-298510-7924031 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Casa Vallecchia"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830029 a acco:Accommodation ;
+    dc:title "Zerpelloni Simone"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830029"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-zerpelloni-simone ;
+    acco:hasAccommodationTypology accotype:B117 ;
+    clv:hasAddress anncsu:ad-298244-7945588 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Zerpelloni Simone"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830030 a acco:Accommodation ;
+    dc:title "Al Secomoro"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830030"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-zocca-mario ;
+    acco:hasAccommodationTypology accotype:B118 ;
+    clv:hasAddress anncsu:ad-298559-33578329 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Al Secomoro"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830037 a acco:Accommodation ;
+    dc:title "Fasano Giuseppe"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830037"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-fasano-giuseppe ;
+    acco:hasAccommodationTypology accotype:B119 ;
+    clv:hasAddress anncsu:ad-298225-7943222 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Fasano Giuseppe"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830038 a acco:Accommodation ;
+    dc:title "Ridolfi Tatiana"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830038"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-ridolfi-tatiana ;
+    acco:hasAccommodationTypology accotype:B120 ;
+    clv:hasAddress anncsu:ad-298372-7928818 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Ridolfi Tatiana"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830040 a acco:Accommodation ;
+    dc:title "Appartamento Filippo"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830040"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-marotta-williams ;
+    acco:hasAccommodationTypology accotype:B121 ;
+    clv:hasAddress anncsu:ad-298260-7909011 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Appartamento Filippo"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830041 a acco:Accommodation ;
+    dc:title "Tacconi Federico"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830041"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-tacconi-federico ;
+    acco:hasAccommodationTypology accotype:B122 ;
+    clv:hasAddress anncsu:ad-298367-7923971 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Tacconi Federico"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830042 a acco:Accommodation ;
+    dc:title "Qarri Erlind"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830042"^^xsd:string ;
+    acco:hasAccommodationOwner organization:org-03176360364 ;
+    acco:hasAccommodationTypology accotype:B123 ;
+    clv:hasAddress anncsu:ad-298225-7943221 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Qarri Erlind"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830043 a acco:Accommodation ;
+    dc:title "Al Cappellino"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830043"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-oliosi-renato ;
+    acco:hasAccommodationTypology accotype:B113 ;
+    clv:hasAddress anncsu:ad-298246-7945692 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Al Cappellino"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830044 a acco:Accommodation ;
+    dc:title "Al Cappellino"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830044"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-oliosi-renato ;
+    acco:hasAccommodationTypology accotype:B113 ;
+    clv:hasAddress anncsu:ad-298246-30176953 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Al Cappellino"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830045 a acco:Accommodation ;
+    dc:title "Cordioli Enrico"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830045"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-cordioli-enrico ;
+    acco:hasAccommodationTypology accotype:B124 ;
+    clv:hasAddress anncsu:ad-298276-7938436 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Cordioli Enrico"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830046 a acco:Accommodation ;
+    dc:title "Cordioli Enrico"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830046"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-cordioli-enrico ;
+    acco:hasAccommodationTypology accotype:B125 ;
+    clv:hasAddress anncsu:ad-298276-7938437 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Cordioli Enrico"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830047 a acco:Accommodation ;
+    dc:title "Gugole Giampaolo"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830047"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-gugole-giampaolo ;
+    acco:hasAccommodationTypology accotype:B126 ;
+    clv:hasAddress anncsu:ad-298254-7923705 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Gugole Giampaolo"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830048 a acco:Accommodation ;
+    dc:title "Scattolini Emanuela"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830048"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-scattolini-emanuela ;
+    acco:hasAccommodationTypology accotype:B127 ;
+    clv:hasAddress anncsu:ad-298344-7909150 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Scattolini Emanuela"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830049 a acco:Accommodation ;
+    dc:title "Venturelli Aldo"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830049"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-venturelli-aldo ;
+    acco:hasAccommodationTypology accotype:B128 ;
+    clv:hasAddress anncsu:ad-298544-34277829 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Venturelli Aldo"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830050 a acco:Accommodation ;
+    dc:title "Venturelli Aldo"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830050"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-venturelli-aldo ;
+    acco:hasAccommodationTypology accotype:B129 ;
+    clv:hasAddress anncsu:ad-298544-34277829 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Venturelli Aldo"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830051 a acco:Accommodation ;
+    dc:title "Zanoni Dario"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830051"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-zanoni-dario ;
+    acco:hasAccommodationTypology accotype:B130 ;
+    clv:hasAddress anncsu:ad-298390-7909075 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Zanoni Dario"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830052 a acco:Accommodation ;
+    dc:title "Faettini Elena"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830052"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-faettini-elena ;
+    acco:hasAccommodationTypology accotype:B131 ;
+    clv:hasAddress anncsu:ad-298395-7923612 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Faettini Elena"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:resort-M0230830053 a acco:Accommodation ;
+    dc:title "Izzo Luigi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    acco:accommodationCode "M0230830053"^^xsd:string ;
+    acco:hasAccommodationOwner accommodation:person-izzo-luigi ;
+    acco:hasAccommodationTypology accotype:B132 ;
+    clv:hasAddress anncsu:ad-298418-7914115 ;
+    clv:hasPOIState accommodation:status-open ;
+    poi:POIofficialName "Izzo Luigi"^^xsd:string ;
+    poi:hasPOICategory poiclass:cat_6_travel .
+
+accommodation:service-fitness a acco:OfferedServiceDescription ;
+    dc:title "Fitness"@en,
+        "Fitness"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-fitness .
+
+accommodation:service-sauna a acco:OfferedServiceDescription ;
+    dc:title "Sauna"@en,
+        "Sauna"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-sauna .
+
+accommodation:service-spagnolo a acco:OfferedServiceDescription ;
+    dc:title "Spanish"@en,
+        "Spagnolo"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-spagnolo .
+
+accommodation:service-termale a acco:OfferedServiceDescription ;
+    dc:title "Thermal"@en,
+        "Termale"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-termale .
+
+accommodation:status-close a poi:POIState ;
+    dc:title "Spanish"@en,
+        "Spagnolo"@it ;
+    skos:inScheme accommodation: ;
+    poi:POIstate "Spanish"@en,
+        "Spagnolo"@it .
+
+accommodation:status-temp-close a poi:POIState ;
+    dc:title "Spanish"@en,
+        "Spagnolo"@it ;
+    skos:inScheme accommodation: ;
+    poi:POIstate "Spanish"@en,
+        "Spagnolo"@it .
+
+accommodation:tel-0456080162 a sm:Telephone ;
+    dc:title "0456080162"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "0456080162"^^xsd:string .
+
+accommodation:tel-0456080708 a sm:Telephone ;
+    dc:title "0456080708"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "0456080708"^^xsd:string .
+
+accommodation:tel-0456081617 a sm:Telephone ;
+    dc:title "0456081617"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "0456081617"^^xsd:string .
+
+accommodation:tel-0456081820 a sm:Telephone ;
+    dc:title "0456081820"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "0456081820"^^xsd:string .
+
+accommodation:tel-0456082274 a sm:Telephone ;
+    dc:title "0456082274"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "0456082274"^^xsd:string .
+
+accommodation:tel-0456082412 a sm:Telephone ;
+    dc:title "0456082412"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "0456082412"^^xsd:string .
+
+accommodation:tel-0456095171 a sm:Telephone ;
+    dc:title "0456095171"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "0456095171"^^xsd:string .
+
+accommodation:tel-0456095234 a sm:Telephone ;
+    dc:title "0456095234"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "0456095234"^^xsd:string .
+
+accommodation:tel-0456095400 a sm:Telephone ;
+    dc:title "0456095400"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "0456095400"^^xsd:string .
+
+accommodation:tel-0456095571 a sm:Telephone ;
+    dc:title "0456095571"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "0456095571"^^xsd:string .
+
+accommodation:tel-0456095618 a sm:Telephone ;
+    dc:title "0456095618"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "0456095618"^^xsd:string .
+
+accommodation:tel-0457190091 a sm:Telephone ;
+    dc:title "0457190091"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "0457190091"^^xsd:string .
+
+accommodation:tel-0458005398 a sm:Telephone ;
+    dc:title "0458005398"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "0458005398"^^xsd:string .
+
+accommodation:tel-0458681033 a sm:Telephone ;
+    dc:title "0458681033"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "0458681033"^^xsd:string .
+
+accommodation:tel-3287830665 a sm:Telephone ;
+    dc:title "3287830665"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3287830665"^^xsd:string .
+
+accommodation:tel-3289188729 a sm:Telephone ;
+    dc:title "3289188729"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3289188729"^^xsd:string .
+
+accommodation:tel-3291851184 a sm:Telephone ;
+    dc:title "3291851184"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3291851184"^^xsd:string .
+
+accommodation:tel-330479062 a sm:Telephone ;
+    dc:title "330479062"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "330479062"^^xsd:string .
+
+accommodation:tel-3312695906 a sm:Telephone ;
+    dc:title "3312695906"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3312695906"^^xsd:string .
+
+accommodation:tel-3334364884 a sm:Telephone ;
+    dc:title "3334364884"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3334364884"^^xsd:string .
+
+accommodation:tel-337463392 a sm:Telephone ;
+    dc:title "337463392"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "337463392"^^xsd:string .
+
+accommodation:tel-3386262301 a sm:Telephone ;
+    dc:title "3386262301"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3386262301"^^xsd:string .
+
+accommodation:tel-3389948056 a sm:Telephone ;
+    dc:title "3389948056"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3389948056"^^xsd:string .
+
+accommodation:tel-3393116565 a sm:Telephone ;
+    dc:title "3393116565"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3393116565"^^xsd:string .
+
+accommodation:tel-3393684961 a sm:Telephone ;
+    dc:title "3393684961"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3393684961"^^xsd:string .
+
+accommodation:tel-3395841820 a sm:Telephone ;
+    dc:title "3395841820"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3395841820"^^xsd:string .
+
+accommodation:tel-3402257900 a sm:Telephone ;
+    dc:title "3402257900"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3402257900"^^xsd:string .
+
+accommodation:tel-3408143292 a sm:Telephone ;
+    dc:title "3408143292"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3408143292"^^xsd:string .
+
+accommodation:tel-3472344580 a sm:Telephone ;
+    dc:title "3472344580"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3472344580"^^xsd:string .
+
+accommodation:tel-3474139172 a sm:Telephone ;
+    dc:title "3474139172"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3474139172"^^xsd:string .
+
+accommodation:tel-3474609454 a sm:Telephone ;
+    dc:title "3474609454"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3474609454"^^xsd:string .
+
+accommodation:tel-3479847819 a sm:Telephone ;
+    dc:title "3479847819"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3479847819"^^xsd:string .
+
+accommodation:tel-3484410420 a sm:Telephone ;
+    dc:title "3484410420"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3484410420"^^xsd:string .
+
+accommodation:tel-3489317204 a sm:Telephone ;
+    dc:title "3489317204"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3489317204"^^xsd:string .
+
+accommodation:tel-3489793777 a sm:Telephone ;
+    dc:title "3489793777"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3489793777"^^xsd:string .
+
+accommodation:tel-3494700526 a sm:Telephone ;
+    dc:title "3494700526"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3494700526"^^xsd:string .
+
+accommodation:tel-3516700895 a sm:Telephone ;
+    dc:title "3516700895"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3516700895"^^xsd:string .
+
+accommodation:tel-3920595888 a sm:Telephone ;
+    dc:title "3920595888"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:hasTelephoneType channel:03 ;
+    sm:telephoneNumber "3920595888"^^xsd:string .
+
+accommodation:web-www-agriturismoalbarellolagodigarda-com a sm:WebSite ;
+    dc:title "www.agriturismoalbarellolagodigarda.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD667ECE0>"^^xsd:anyURI .
+
+accommodation:web-www-agriturismocavecia-it a sm:WebSite ;
+    dc:title "www.agriturismocavecia.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E4310>"^^xsd:anyURI .
+
+accommodation:web-www-agriturismocortealbarel-com a sm:WebSite ;
+    dc:title "www.agriturismocortealbarel.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E4610>"^^xsd:anyURI .
+
+accommodation:web-www-agriturismodeigrippi-it a sm:WebSite ;
+    dc:title "www.agriturismodeigrippi.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E4790>"^^xsd:anyURI .
+
+accommodation:web-www-agriturismofasoli-it a sm:WebSite ;
+    dc:title "www.agriturismofasoli.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E4A90>"^^xsd:anyURI .
+
+accommodation:web-www-agriturismolaquaiara-it a sm:WebSite ;
+    dc:title "www.agriturismolaquaiara.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E4C10>"^^xsd:anyURI .
+
+accommodation:web-www-alsecomoro-it a sm:WebSite ;
+    dc:title "www.alsecomoro.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E6170>"^^xsd:anyURI .
+
+accommodation:web-www-anticadimoradelturco-it a sm:WebSite ;
+    dc:title "www.anticadimoradelturco.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66DFF40>"^^xsd:anyURI .
+
+accommodation:web-www-beb-breakfast-lonardi-org a sm:WebSite ;
+    dc:title "www.beb-breakfast-lonardi.org"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E4F10>"^^xsd:anyURI .
+
+accommodation:web-www-belviveresuites-it a sm:WebSite ;
+    dc:title "www.belviveresuites.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E4040>"^^xsd:anyURI .
+
+accommodation:web-www-casadany-it a sm:WebSite ;
+    dc:title "www.casadany.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E5FF0>"^^xsd:anyURI .
+
+accommodation:web-www-castelmorino-it a sm:WebSite ;
+    dc:title "www.castelmorino.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E5090>"^^xsd:anyURI .
+
+accommodation:web-www-colombarola-com a sm:WebSite ;
+    dc:title "www.colombarola.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E4490>"^^xsd:anyURI .
+
+accommodation:web-www-corteguastalla-it a sm:WebSite ;
+    dc:title "www.corteguastalla.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E5B10>"^^xsd:anyURI .
+
+accommodation:web-www-cortelavalle-it a sm:WebSite ;
+    dc:title "www.cortelavalle.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66DFC10>"^^xsd:anyURI .
+
+accommodation:web-www-cortetacconibb-it a sm:WebSite ;
+    dc:title "www.cortetacconibb.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E5210>"^^xsd:anyURI .
+
+accommodation:web-www-el-bacan-it a sm:WebSite ;
+    dc:title "www.el-bacan.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E4910>"^^xsd:anyURI .
+
+accommodation:web-www-hotelalboscoamabile-it a sm:WebSite ;
+    dc:title "www.hotelalboscoamabile.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD645A9E0>"^^xsd:anyURI .
+
+accommodation:web-www-hotelanticotermine-it a sm:WebSite ;
+    dc:title "www.hotelanticotermine.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E4D90>"^^xsd:anyURI .
+
+accommodation:web-www-relaisdesroches-com a sm:WebSite ;
+    dc:title "www.relaisdesroches.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E5390>"^^xsd:anyURI .
+
+accommodation:web-www-residenzaleon-com a sm:WebSite ;
+    dc:title "www.residenzaleon.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E5E70>"^^xsd:anyURI .
+
+accommodation:web-www-sesto-armonico-com a sm:WebSite ;
+    dc:title "www.sesto-armonico.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E5510>"^^xsd:anyURI .
+
+accommodation:web-www-trattoriaalpigno-it a sm:WebSite ;
+    dc:title "www.trattoriaalpigno.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E5990>"^^xsd:anyURI .
+
+accommodation:web-www-villabiancabb-com a sm:WebSite ;
+    dc:title "www.villabiancabb.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E5690>"^^xsd:anyURI .
+
+accommodation:web-www-villagloriana-it a sm:WebSite ;
+    dc:title "www.villagloriana.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E5810>"^^xsd:anyURI .
+
+accommodation:mail-aldo-venturelli-49-gmail-com a sm:Email ;
+    dc:title "aldo.venturelli.49@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:aldo.venturelli.49@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-enri-cordioli-gmail-com a sm:Email ;
+    dc:title "enri.cordioli@gmail.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:enri.cordioli@gmail.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-francotommasi-tommasiincoming-it a sm:Email ;
+    dc:title "francotommasi@tommasiincoming.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:francotommasi@tommasiincoming.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:mail-oliosi-renato-tiscali-it a sm:Email ;
+    dc:title "oliosi.renato@tiscali.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:oliosi.renato@tiscali.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:pec-renato-pec-oliosirenato-it a sm:Email ;
+    dc:title "renato@pec.oliosirenato.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:renato@pec.oliosirenato.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+accommodation:person-cordioli-enrico a cpv:Person ;
+    dc:title "Enrico Cordioli"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Cordioli"^^xsd:string ;
+    cpv:givenName "Enrico"^^xsd:string .
+
+accommodation:person-oliosi-renato a cpv:Person ;
+    dc:title "Renato Oliosi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Oliosi"^^xsd:string ;
+    cpv:givenName "Renato"^^xsd:string .
+
+accommodation:person-venturelli-aldo a cpv:Person ;
+    dc:title "Aldo Venturelli"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpv:familyName "Venturelli"^^xsd:string ;
+    cpv:givenName "Aldo"^^xsd:string .
+
+accommodation:service-centro-storico a acco:OfferedServiceDescription ;
+    dc:title "Old Town"@en,
+        "Centro storico"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-centro-storico .
+
+accommodation:service-tedesco a acco:OfferedServiceDescription ;
+    dc:title "German"@en,
+        "Tedesco"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-tedesco .
+
+accommodation:mail-info-villadeicipressi-com a sm:Email ;
+    dc:title "info@villadeicipressi.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:info@villadeicipressi.com"^^xsd:anyURI ;
+    sm:hasEmailType channel:042 .
+
+accommodation:pec-sparici-landini-pec-it a sm:Email ;
+    dc:title "sparici.landini@pec.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:emailAddress "mailto:sparici.landini@pec.it"^^xsd:anyURI ;
+    sm:hasEmailType channel:041 .
+
+accommodation:service-autostrada a acco:OfferedServiceDescription ;
+    dc:title "Highway"@en,
+        "Autostrada"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-autostrada .
+
+accommodation:service-periferia a acco:OfferedServiceDescription ;
+    dc:title "Outskirts"@en,
+        "Periferia"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-periferia .
+
+accommodation:service-ristorante a acco:OfferedServiceDescription ;
+    dc:title "Restaurant"@en,
+        "Ristorante"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-ristorante .
+
+accommodation:web-www-sparicilandini-com a sm:WebSite ;
+    dc:title "www.sparicilandini.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    sm:URL "<ontopia_py.sm.WebSite.WebSite object at 0x0000024CD66E5CF0>"^^xsd:anyURI .
+
+accommodation:service-aeroporto a acco:OfferedServiceDescription ;
+    dc:title "Airport"@en,
+        "Aeroporto"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-aeroporto .
+
+accommodation:service-francese a acco:OfferedServiceDescription ;
+    dc:title "French"@en,
+        "Francese"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-francese .
+
+accommodation:service-giochi-bimbi a acco:OfferedServiceDescription ;
+    dc:title "Children's games"@en,
+        "Giochi bimbi"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-giochi-bimbi .
+
+accommodation:service-piscina a acco:OfferedServiceDescription ;
+    dc:title "Pool"@en,
+        "Piscina"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-piscina .
+
+accommodation:service-collinare a acco:OfferedServiceDescription ;
+    dc:title "Hilly"@en,
+        "Collinare"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-collinare .
+
+accommodation:service-aria-condizionata a acco:OfferedServiceDescription ;
+    dc:title "Air conditioning"@en,
+        "Aria condizionata"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-aria-condizionata .
+
+accommodation:service-inglese a acco:OfferedServiceDescription ;
+    dc:title "English"@en,
+        "Inglese"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-inglese .
+
+accommodation:service-parcheggio a acco:OfferedServiceDescription ;
+    dc:title "Parking"@en,
+        "Parcheggio"@it ;
+    skos:inScheme accommodation: ;
+    acco:hasOSDFeature accommodation:feature-parcheggio .
+
+accommodation:status-open a poi:POIState ;
+    dc:title "Spanish"@en,
+        "Spagnolo"@it ;
+    skos:inScheme accommodation: ;
+    poi:POIstate "Spanish"@en,
+        "Spagnolo"@it .
+
+accommodation: a skos:ConceptScheme ;
+    rdfs:label "Accommodation facilities and resorts"@en,
+        "Strutture ricettive e locazioni turistiche"@it ;
+    dc:creator <https://w3id.org/people/lucamartinelli> ;
+    skos:hasTopConcept accommodation:acco-121924,
+        accommodation:acco-18454,
+        accommodation:acco-18455,
+        accommodation:acco-252342,
+        accommodation:acco-264523,
+        accommodation:acco-284310,
+        accommodation:acco-300992,
+        accommodation:acco-335202,
+        accommodation:acco-3360,
+        accommodation:acco-3361,
+        accommodation:acco-44683,
+        accommodation:acco-45967,
+        accommodation:acco-45968,
+        accommodation:acco-461,
+        accommodation:acco-47495,
+        accommodation:acco-48829,
+        accommodation:acco-49934,
+        accommodation:acco-49994,
+        accommodation:acco-53041,
+        accommodation:acco-55100,
+        accommodation:acco-56901,
+        accommodation:acco-62540,
+        accommodation:acco-69080,
+        accommodation:acco-71300,
+        accommodation:acco-76260,
+        accommodation:acco-91820,
+        accommodation:acco-96541,
+        accommodation:resort-M0230830008,
+        accommodation:resort-M0230830009,
+        accommodation:resort-M0230830012,
+        accommodation:resort-M0230830013,
+        accommodation:resort-M0230830014,
+        accommodation:resort-M0230830017,
+        accommodation:resort-M0230830018,
+        accommodation:resort-M0230830019,
+        accommodation:resort-M0230830020,
+        accommodation:resort-M0230830021,
+        accommodation:resort-M0230830024,
+        accommodation:resort-M0230830025,
+        accommodation:resort-M0230830026,
+        accommodation:resort-M0230830027,
+        accommodation:resort-M0230830028,
+        accommodation:resort-M0230830029,
+        accommodation:resort-M0230830030,
+        accommodation:resort-M0230830037,
+        accommodation:resort-M0230830038,
+        accommodation:resort-M0230830040,
+        accommodation:resort-M0230830041,
+        accommodation:resort-M0230830042,
+        accommodation:resort-M0230830043,
+        accommodation:resort-M0230830044,
+        accommodation:resort-M0230830045,
+        accommodation:resort-M0230830046,
+        accommodation:resort-M0230830047,
+        accommodation:resort-M0230830048,
+        accommodation:resort-M0230830049,
+        accommodation:resort-M0230830050,
+        accommodation:resort-M0230830051,
+        accommodation:resort-M0230830052,
+        accommodation:resort-M0230830053 .
+

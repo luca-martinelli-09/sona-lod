@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:clv="https://w3id.org/italia/onto/CLV/"
+   xmlns:cov="https://w3id.org/italia/onto/COV/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:sm="https://w3id.org/italia/onto/SM/"
+>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-04863660231">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Società Agricola Maraia Antonietta E Fasoli Marta S.S.</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Società Agricola Maraia Antonietta E Fasoli Marta S.S.</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298232.0-7935995.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/1210"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-04863660231"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04863660231</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0124"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/552052"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR452595</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04863660231</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-01-01</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-04408910232">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Colombo F.Lli Società Agricola Semplice</dc:title>
+    <dc:title xml:lang="en">Contact information for Colombo F.Lli Società Agricola Semplice</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-colombosocieta-pec-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-02957360239">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gaspari Andrea</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gaspari Andrea</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298195.0-7933519.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/11"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-02957360239"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSPNDR81D03B296H</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0121"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR297040</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02957360239</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-06-01</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-03585820230">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Az. Agr. Camerlengo Gasdia Maria Di Federico Gasdia</dc:title>
+    <dc:title xml:lang="en">Contact information for Az. Agr. Camerlengo Gasdia Maria Di Federico Gasdia</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-camerlengo-gm-pec-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-sparici-landini-pec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sparici.landini@pec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:sparici.landini@pec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-02898640236">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gaspari Stefano</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gaspari Stefano</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298195.0-7933522.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/11"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-02898640236"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSPSFN65S28L781N</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0121"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/01111"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/561012"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR292391</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02898640236</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1998-11-01</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-02957360239">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Gaspari Andrea</dc:title>
+    <dc:title xml:lang="en">Contact information for Gaspari Andrea</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-andrea-gaspari-pcert-postecert-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-04625860236">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iamundo Sonia</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iamundo Sonia</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298232.0-33915133.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/11"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-04625860236"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MNDSNO92H51B296J</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0125"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/552052"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR436046</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04625860236</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-02-25</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-benedettidinoec-pec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">benedettidinoec@pec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:benedettidinoec@pec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-03176360364">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Videocast Di Qarri Erlind</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Videocast Di Qarri Erlind</cov:legalName>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/11"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-03176360364"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">QRRRND82B05Z100B</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/742019"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR406434</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03176360364</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-01-15</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-fasolimarta-pec-agritel-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fasolimarta@pec.agritel.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:fasolimarta@pec.agritel.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-04873090239">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per B&amp;B Sesto Armonico Di Zanoni Antonella</dc:title>
+    <dc:title xml:lang="en">Contact information for B&amp;B Sesto Armonico Di Zanoni Antonella</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-antozanoni-pec-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-villamerighi-pec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">villamerighi@pec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:villamerighi@pec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-03600150233">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Turrina Sandra</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Turrina Sandra</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298284.0-7914155.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/11"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-03600150233"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TRRSDR38S49I826V</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0121"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/3511"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/561012"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR349552</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03600150233</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-05-24</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-04629170236">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Le Palme Di Brognara Gianluca</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Le Palme Di Brognara Gianluca</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298332.0-7940891.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/11"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-04629170236"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BRGGLC70S22L781M</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/552051"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR436188</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04629170236</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-03-13</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="it">Imprese</rdfs:label>
+    <rdfs:label xml:lang="en">Companies</rdfs:label>
+    <dc:creator rdf:resource="https://w3id.org/people/lucamartinelli"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-02063300236"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-02898640236"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-04172590236"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-01943090231"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-03517020230"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-04408910232"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-03600150233"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-02957360239"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-03213760238"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-04810460230"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-02556080238"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-02811130232"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-04863660231"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-02354570232"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-03906920230"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-04625860236"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-03585820230"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-04454560238"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-06865290156"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-03012111203"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-04873090239"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-03339420238"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-02275940233"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-01299450237"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-04629170236"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/organization/org-03176360364"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-04810460230">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Società Agricola El Bacan S.S.</dc:title>
+    <dc:title xml:lang="en">Contact information for Società Agricola El Bacan S.S.</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-elbacan-pec-agritel-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-andrea-gaspari-pcert-postecert-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">andrea.gaspari@pcert.postecert.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:andrea.gaspari@pcert.postecert.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-02275940233">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trattoria Locanda Al Pigno Di Zenato Ornella</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trattoria Locanda Al Pigno Di Zenato Ornella</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298462.0-7923643.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/11"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-02275940233"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ZNTRLL57P48C225U</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/561011"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/563"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0121"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/552051"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR228823</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02275940233</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-01-29</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-agriturismo-colombarola-avspec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">agriturismo.colombarola@avspec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:agriturismo.colombarola@avspec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-aziendaagricolagasparistefano-pec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">aziendaagricolagasparistefano@pec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:aziendaagricolagasparistefano@pec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-colombosocieta-pec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">colombosocieta@pec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:colombosocieta@pec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-bw-bestwestern-legalmail-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bw@bestwestern.legalmail.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:bw@bestwestern.legalmail.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-04454560238">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tenuta Corte Tese Di Venturi Silvia E Facincani Roberto S.S.</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tenuta Corte Tese Di Venturi Silvia E Facincani Roberto S.S.</cov:legalName>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/1210"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-04454560238"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04454560238</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0121"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/552052"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR421898</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04454560238</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-02</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-04625860236">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Iamundo Sonia</dc:title>
+    <dc:title xml:lang="en">Contact information for Iamundo Sonia</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-iamundo-sonia-pec-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-02354570232">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Tacconi Antonella</dc:title>
+    <dc:title xml:lang="en">Contact information for Tacconi Antonella</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-antonella-tacconi-pec-agritel-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-trattorialocandaalpigno-pec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trattorialocandaalpigno@pec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:trattorialocandaalpigno@pec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-02275940233">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Trattoria Locanda Al Pigno Di Zenato Ornella</dc:title>
+    <dc:title xml:lang="en">Contact information for Trattoria Locanda Al Pigno Di Zenato Ornella</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-trattorialocandaalpigno-pec-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-03012111203">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zecchini Claudio</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zecchini Claudio</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298427.0-7943489.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/11"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-03012111203"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ZCCCLD75C10L781A</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/3511"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0125"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/552051"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR381335</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03012111203</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-02-12</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-brognaragianluca-pec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">brognaragianluca@pec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:brognaragianluca@pec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-03213760238">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Società Agricola Faccioli Enzo Di Faccioli Marco E Alberto S.S.</dc:title>
+    <dc:title xml:lang="en">Contact information for Società Agricola Faccioli Enzo Di Faccioli Marco E Alberto S.S.</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-amministrazione-pec-facciolivino-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-01299450237">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Azienda Agricola Sparici Landini S.R.L.</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Azienda Agricola Sparici Landini S.R.L.</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298412.0-7921412.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/1320"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-01299450237"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01299450237</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/011"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/012"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR172919</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01299450237</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1981-01-01</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-erlindqarri-pec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">erlindqarri@pec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:erlindqarri@pec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-amabilesnc-pec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amabilesnc@pec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:amabilesnc@pec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-02556080238">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Az. Agr. El Bacan Di Bimestre Loredana</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Az. Agr. El Bacan Di Bimestre Loredana</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298515.0-7928867.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/11"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-02556080238"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BMSLDN67B64L781Y</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0124"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0163"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/1013"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/1039"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/108509"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/561012"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/85599"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR261746</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02556080238</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1994-09-01</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-03906920230">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Societa' Agricola Villa Merighi Srl</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Societa' Agricola Villa Merighi Srl</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298337.0-7945765.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/1320"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-03906920230"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03906920230</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0121"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/561012"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR375320</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03906920230</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-21</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-04172590236">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Società Agricola Antica Dimora Del Turco S.S.</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Società Agricola Antica Dimora Del Turco S.S.</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298504.0-snc"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/1210"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-04172590236"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04172590236</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0126"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR398392</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04172590236</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-03-18</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-04873090239">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B&amp;B Sesto Armonico Di Zanoni Antonella</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B&amp;B Sesto Armonico Di Zanoni Antonella</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298429.0-7943503.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/11"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-04873090239"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ZNNNNL61H54I826J</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/552051"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR452579</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04873090239</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-01-27</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-06865290156">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Best Western Italia Società Cooperativa Per Azioni</dc:title>
+    <dc:title xml:lang="en">Contact information for Best Western Italia Società Cooperativa Per Azioni</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-bw-bestwestern-legalmail-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-03517020230">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gea Silvia Di M.Silvia Benedetti</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gea Silvia Di M.Silvia Benedetti</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298271.0-7931373.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/11"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-03517020230"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BNDMSL73E42I775I</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/012"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR342639</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03517020230</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-07-04</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-02811130232">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tacconi Giorgio</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tacconi Giorgio</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298448.0-7933593.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/11"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-02811130232"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TCCGRG59D21I826M</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/012"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/3511"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/561012"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR287879</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02811130232</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-11-11</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-01943090231">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Benedetti Dino &amp; C. Società Agricola Semplice</dc:title>
+    <dc:title xml:lang="en">Contact information for Benedetti Dino &amp; C. Società Agricola Semplice</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-benedettidinoec-pec-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-02354570232">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tacconi Antonella</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tacconi Antonella</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298474.0-7943434.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/11"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-02354570232"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TCCNNL63D56B296K</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/011"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR273637</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02354570232</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-01-01</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-03339420238">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Azienda Agricola Corte Guastalla Di Tommasi Franco</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Azienda Agricola Corte Guastalla Di Tommasi Franco</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298365.0-7923948.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/11"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-03339420238"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TMMFNC60E03I826Q</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/015"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR328451</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03339420238</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-09-01</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-claudio-zecchini-pec-arcus-servizi-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">claudio.zecchini@pec.arcus-servizi.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:claudio.zecchini@pec.arcus-servizi.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-02063300236">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amabile S.N.C. Di Berardo A. &amp; C.</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amabile S.N.C. Di Berardo A. &amp; C.</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298225.0-7943243.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/1220"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-02063300236"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02063300236</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/561011"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR214290</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02063300236</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-07-15</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-03600150233">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Turrina Sandra</dc:title>
+    <dc:title xml:lang="en">Contact information for Turrina Sandra</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-agriturismo-colombarola-avspec-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-societaagricolaanticadimoradelturco-mail-cert-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">societaagricolaanticadimoradelturco@mail-cert.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:societaagricolaanticadimoradelturco@mail-cert.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-03213760238">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Società Agricola Faccioli Enzo Di Faccioli Marco E Alberto S.S.</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Società Agricola Faccioli Enzo Di Faccioli Marco E Alberto S.S.</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298249.0-33914804.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/1210"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-03213760238"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03213760238</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0121"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/561012"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR317778</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03213760238</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-03-13</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-03585820230">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Az. Agr. Camerlengo Gasdia Maria Di Federico Gasdia</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Az. Agr. Camerlengo Gasdia Maria Di Federico Gasdia</cov:legalName>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/11"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-03585820230"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSDFRC54D28L781G</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0126"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0121"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/3511"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/561012"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/01111"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR348481</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03585820230</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-03-11</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-camerlengo-gm-pec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">camerlengo.gm@pec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:camerlengo.gm@pec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-02898640236">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Gaspari Stefano</dc:title>
+    <dc:title xml:lang="en">Contact information for Gaspari Stefano</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-aziendaagricolagasparistefano-pec-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-03906920230">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Societa' Agricola Villa Merighi Srl</dc:title>
+    <dc:title xml:lang="en">Contact information for Societa' Agricola Villa Merighi Srl</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-villamerighi-pec-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-antozanoni-pec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">antozanoni@pec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:antozanoni@pec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-04863660231">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Società Agricola Maraia Antonietta E Fasoli Marta S.S.</dc:title>
+    <dc:title xml:lang="en">Contact information for Società Agricola Maraia Antonietta E Fasoli Marta S.S.</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-fasolimarta-pec-agritel-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-amministrazione-pec-facciolivino-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amministrazione@pec.facciolivino.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:amministrazione@pec.facciolivino.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-tacconigiorgio-pec-coldiretti-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tacconigiorgio@pec.coldiretti.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:tacconigiorgio@pec.coldiretti.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-02811130232">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Tacconi Giorgio</dc:title>
+    <dc:title xml:lang="en">Contact information for Tacconi Giorgio</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-tacconigiorgio-pec-coldiretti-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-04172590236">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Società Agricola Antica Dimora Del Turco S.S.</dc:title>
+    <dc:title xml:lang="en">Contact information for Società Agricola Antica Dimora Del Turco S.S.</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-societaagricolaanticadimoradelturco-mail-cert-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-corte-tese-avspec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">corte.tese@avspec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:corte.tese@avspec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-aziendaagricolacorteguastalla-pec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">aziendaagricolacorteguastalla@pec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:aziendaagricolacorteguastalla@pec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-03339420238">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Azienda Agricola Corte Guastalla Di Tommasi Franco</dc:title>
+    <dc:title xml:lang="en">Contact information for Azienda Agricola Corte Guastalla Di Tommasi Franco</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-aziendaagricolacorteguastalla-pec-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-loredana-bimestre-pec-agritel-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">loredana.bimestre@pec.agritel.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:loredana.bimestre@pec.agritel.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-04629170236">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Le Palme Di Brognara Gianluca</dc:title>
+    <dc:title xml:lang="en">Contact information for Le Palme Di Brognara Gianluca</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-brognaragianluca-pec-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-06865290156">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Best Western Italia Società Cooperativa Per Azioni</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Best Western Italia Società Cooperativa Per Azioni</cov:legalName>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/14"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-06865290156"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02747690010</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/829999"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/732"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/7911"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MI1117208</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">06865290156</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1983-02-14</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-iamundo-sonia-pec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iamundo.sonia@pec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:iamundo.sonia@pec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-04810460230">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Società Agricola El Bacan S.S.</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Società Agricola El Bacan S.S.</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298515.0-7928867.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/1210"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-04810460230"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04810460230</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0124"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/553"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/561012"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/93299"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR448153</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04810460230</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-03-31</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-01943090231">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Benedetti Dino &amp; C. Società Agricola Semplice</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Benedetti Dino &amp; C. Società Agricola Semplice</cov:legalName>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/1210"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-01943090231"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01943090231</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/011"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/561012"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR277019</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01943090231</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987-02-01</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-geasilvia-pec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">geasilvia@pec.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:geasilvia@pec.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-01299450237">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Azienda Agricola Sparici Landini S.R.L.</dc:title>
+    <dc:title xml:lang="en">Contact information for Azienda Agricola Sparici Landini S.R.L.</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-sparici-landini-pec-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-antonella-tacconi-pec-agritel-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">antonella.tacconi@pec.agritel.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:antonella.tacconi@pec.agritel.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-03012111203">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Zecchini Claudio</dc:title>
+    <dc:title xml:lang="en">Contact information for Zecchini Claudio</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-claudio-zecchini-pec-arcus-servizi-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-04454560238">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Tenuta Corte Tese Di Venturi Silvia E Facincani Roberto S.S.</dc:title>
+    <dc:title xml:lang="en">Contact information for Tenuta Corte Tese Di Venturi Silvia E Facincani Roberto S.S.</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-corte-tese-avspec-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/org-04408910232">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PrivateOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Colombo F.Lli Società Agricola Semplice</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <cov:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Colombo F.Lli Società Agricola Semplice</cov:legalName>
+    <clv:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298320.0-7936182.0"/>
+    <cov:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/1210"/>
+    <sm:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/organization/ocp-04408910232"/>
+    <cov:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04408910232</cov:taxCode>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/0121"/>
+    <cov:hasPrivateOrgActivityType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/ateco-2007/561012"/>
+    <cov:REANumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR417847</cov:REANumber>
+    <cov:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04408910232</cov:VATnumber>
+    <cov:startingActivityDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-03-31</cov:startingActivityDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-02556080238">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Az. Agr. El Bacan Di Bimestre Loredana</dc:title>
+    <dc:title xml:lang="en">Contact information for Az. Agr. El Bacan Di Bimestre Loredana</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-loredana-bimestre-pec-agritel-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/pec-elbacan-pec-agritel-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">elbacan@pec.agritel.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <sm:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:elbacan@pec.agritel.it</sm:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-03517020230">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Gea Silvia Di M.Silvia Benedetti</dc:title>
+    <dc:title xml:lang="en">Contact information for Gea Silvia Di M.Silvia Benedetti</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-geasilvia-pec-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-03176360364">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Videocast Di Qarri Erlind</dc:title>
+    <dc:title xml:lang="en">Contact information for Videocast Di Qarri Erlind</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-erlindqarri-pec-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/organization/ocp-02063300236">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="it">Informazioni di contatto per Amabile S.N.C. Di Berardo A. &amp; C.</dc:title>
+    <dc:title xml:lang="en">Contact information for Amabile S.N.C. Di Berardo A. &amp; C.</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/organization/"/>
+    <sm:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/organization/pec-amabilesnc-pec-it"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,8 @@
+rdflib
+pandas
+unidecode
+alive_progress
+requests
+pykml
+ontopia-py
+ontoim-py
