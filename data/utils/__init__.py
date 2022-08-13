@@ -2,9 +2,9 @@
 import configparser
 from urllib.request import urlopen
 
+import ontopia_py
 import pandas as pd
 import unidecode
-import ontopia_py
 
 # Namespaces constants
 from .ns import *
@@ -22,10 +22,21 @@ def getConfig(fileName):
 
 
 def getOpenData(baseURL, datasetID, resID, rawData=False, dtype=None):
+    config = getConfig('../../conf.ini')
+
+    offline = config.getboolean("API", "use_offline")
+
     dataURI = "{}/dataset/{}/resource/{}/download".format(
         baseURL, datasetID, resID)
 
+    if offline:
+        dataURI = "../../off_data/{}/{}".format(
+            datasetID, resID)
+
     if rawData:
+        if offline:
+            return dataURI
+
         getDataRequest = urlopen(dataURI)
 
         return getDataRequest
