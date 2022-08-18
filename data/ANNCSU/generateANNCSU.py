@@ -1,5 +1,7 @@
 # %%
 # Utils
+
+from rdflib import Literal, Graph, URIRef
 import sys
 from pathlib import Path
 
@@ -12,9 +14,8 @@ from utils import *
 import pandas as pd
 from pykml import parser
 
-from rdflib import Literal
 
-from rdflib.namespace import XSD
+from rdflib.namespace import XSD, OWL
 
 from alive_progress import alive_bar
 
@@ -34,7 +35,7 @@ config = getConfig("../../conf.ini")
 BASE_URL = config.get("API", "base_url")
 
 # Create graph
-g = createGraph()
+g : Graph = createGraph()
 
 # Create ANNCSU endpoint, with information about the dataset
 
@@ -62,16 +63,50 @@ anncsuAddresses = getOpenData(
 anncsuAddresses.set_index("PROGR_NAZIONALE", inplace=True)
 
 # ANNCSU civic numbers
-anncsuCivics = getOpenData(BASE_URL, datasetID, config.get("ANNCSU", "civics"))
+anncsuCivics = getOpenData(datasetID, config.get("ANNCSU", "civics"))
 anncsuCivics.set_index("PROGR_CIVICO", inplace=True)
 
 # ISTAT census sections
-censusSectionsObj = getOpenData(BASE_URL,
-                                datasetID, config.get("ANNCSU", "census_sections"), rawData=True)
+censusSectionsObj = getOpenData(datasetID, config.get("ANNCSU", "census_sections"), rawData=True)
 
 # Since this is a KML file, need to be parsed by pykml
 censusSections = parser.parse(censusSectionsObj)
 
+# %%
+
+# Add Sona
+
+Sona = City(
+    id="023083",
+    baseUri=ANNCSU,
+    dataset=ANNCSU_DATA,
+    titles=[Literal("Sona", datatype=XSD.string)]
+)
+
+Sona.hasHigherRank = [
+    Country(id="ITA", baseUri=ITALY),
+    GeographicalDistribution(id="2", baseUri=GEO_DISTRIBUTION),
+    Region(id="05", baseUri=REGIONS),
+    Province(id="023", baseUri=PROVINCES)
+]
+
+Sona.hasDirectHigherRank = [
+    Province(id="023", baseUri=PROVINCES)
+]
+
+Sona.name = [Literal("Sona", datatype=XSD.string)]
+
+Sona.addToGraph(g, isTopConcept=True)
+
+g.add((Sona.uriRef, OWL.sameAs, URIRef("http://dbpedia.org/resource/Sona,_Veneto")))
+g.add((Sona.uriRef, OWL.sameAs, URIRef("http://dati.beniculturali.it/mibact/luoghi/resource/City/Sona")))
+g.add((Sona.uriRef, OWL.sameAs, URIRef("https://w3id.org/arco/resource/City/sona")))
+g.add((Sona.uriRef, OWL.sameAs, URIRef("http://dati.san.beniculturali.it/SAN/luogo_Sona")))
+g.add((Sona.uriRef, OWL.sameAs, URIRef("http://dati.isprambiente.it/id/place/23083")))
+g.add((Sona.uriRef, OWL.sameAs, URIRef("https://dati.beniculturali.it/lodview/iccd/schede/resource/City/SONA")))
+g.add((Sona.uriRef, OWL.sameAs, URIRef("https://dati.beniculturali.it/lodview/iccu/anagrafe/resource/City/023083")))
+g.add((Sona.uriRef, OWL.sameAs, URIRef("http://dati.san.beniculturali.it/ASI/UA03483")))
+g.add((Sona.uriRef, OWL.sameAs, City(id="023083-(1975-01-29)", baseUri=CITIES).uriRef))
 
 # %%
 # Localities
@@ -95,6 +130,8 @@ with alive_bar(len(localitiesDF), dual_line=True, title='🗺️ Localities') as
             ])
 
         addressArea.name = [Literal(localityName, datatype=XSD.string)]
+
+        addressArea.situatedWithin = [Sona]
 
         addressArea.addToGraph(g, isTopConcept=True)
 
@@ -203,7 +240,7 @@ with alive_bar(len(anncsuCivics), dual_line=True, title='🏠 Addresses') as bar
         addressInfo = anncsuAddresses.loc[streetID]
 
         # PostCode from configuration
-        postCode = config.get("ANNCSU", "postCode")
+        postCode = config.get("ANNCSU", "post_code")
 
         # Get census ref
         censID = int(civic["SEZIONE_DI_CENSIMENTO"])
@@ -266,10 +303,19 @@ with alive_bar(len(anncsuCivics), dual_line=True, title='🏠 Addresses') as bar
                 Literal(fullName, datatype=XSD.string)
             ])
 
-        address.hasStreetToponym = streetToponym
+        address.postCode = Literal(postCode, datatype=XSD.int)
+
         address.hasNumber = civicNumbering
+
+        address.hasStreetToponym = streetToponym
         address.hasCensusSection = censusSection
         address.hasAddressArea = [addressArea]
+        address.hasCity = [Sona]
+        address.hasProvince = [Province(id="023", baseUri=PROVINCES)]
+        address.hasRegion = [Region(id="05", baseUri=REGIONS)]
+        address.hasAddressComponent = [
+            GeographicalDistribution(id="2", baseUri=GEO_DISTRIBUTION)]
+        address.hasCountry = [Country(id="ITA", baseUri=ITALY)]
 
         # Create geometry for Address with geographic positioning
         geometry = None
@@ -291,14 +337,9 @@ with alive_bar(len(anncsuCivics), dual_line=True, title='🏠 Addresses') as bar
                 geometry.alt = Literal(altitude, datatype=XSD.double)
 
             address.hasGeometry = [geometry]
-
-        address.postCode = Literal(postCode, datatype=XSD.int)
-
-        city = City(id=config.get("ANNCSU", "ontopia_ref"), baseUri=CITIES)
-        address.hasCity = [city]
-
-        if geometry:
+            
             geometry.addToGraph(g, isTopConcept=False)
+        
         civicNumbering.addToGraph(g, isTopConcept=False)
         address.addToGraph(g, isTopConcept=False)
 
@@ -310,14 +351,11 @@ with alive_bar(len(anncsuCivics), dual_line=True, title='🏠 Addresses') as bar
 
 with alive_bar(len(anncsuAddresses), dual_line=True, title='🏠 SNC Addresses') as bar:
     for streetID, addressInfo in anncsuAddresses.iterrows():
-        # Civic attributes
-        postCode = config.get("ANNCSU", "postCode")
-
         # Civic full name
         civicFullName = "snc"
 
         # PostCode from configuration
-        postCode = config.get("ANNCSU", "postCode")
+        postCode = config.get("ANNCSU", "post_code")
 
         # Get street toponym
         streetToponym = StreetToponym(
@@ -348,13 +386,16 @@ with alive_bar(len(anncsuAddresses), dual_line=True, title='🏠 SNC Addresses')
                 Literal(fullName, datatype=XSD.string)
             ])
 
-        address.hasStreetToponym = streetToponym
-        address.hasAddressArea = [addressArea]
-
         address.postCode = Literal(postCode, datatype=XSD.int)
 
-        city = City(id=config.get("ANNCSU", "ontopia_ref"), baseUri=CITIES)
-        address.hasCity = [city]
+        address.hasStreetToponym = streetToponym
+        address.hasAddressArea = [addressArea]
+        address.hasCity = [Sona]
+        address.hasProvince = [Province(id="023", baseUri=PROVINCES)]
+        address.hasRegion = [Region(id="05", baseUri=REGIONS)]
+        address.hasAddressComponent = [
+            GeographicalDistribution(id="2", baseUri=GEO_DISTRIBUTION)]
+        address.hasCountry = [Country(id="ITA", baseUri=ITALY)]
 
         address.addToGraph(g, isTopConcept=False)
 

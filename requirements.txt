@@ -6,3 +6,5 @@ requests
 pykml
 ontopia-py
 ontoim-py
+python-codicefiscale
+rapidfuzz

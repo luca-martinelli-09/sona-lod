@@ -2,12 +2,14 @@
 import configparser
 from urllib.request import urlopen
 
-import ontopia_py
+from ontoim_py import createGraph as cg
+
 import pandas as pd
 import unidecode
 
 # Namespaces constants
 from .ns import *
+from ontopia_py.ns import ITALY
 
 # Get configurations from file
 
@@ -21,10 +23,11 @@ def getConfig(fileName):
 # Get data from CKAN OpenData portal
 
 
-def getOpenData(baseURL, datasetID, resID, rawData=False, dtype=None):
+def getOpenData(datasetID, resID, rawData=False, dtype=None, strip=True):
     config = getConfig('../../conf.ini')
 
     offline = config.getboolean("API", "use_offline")
+    baseURL = config.get("API", "base_url")
 
     dataURI = "{}/dataset/{}/resource/{}/download".format(
         baseURL, datasetID, resID)
@@ -42,7 +45,9 @@ def getOpenData(baseURL, datasetID, resID, rawData=False, dtype=None):
         return getDataRequest
 
     df = pd.read_csv(dataURI, dtype=dtype)
-    df = df.applymap(lambda x: x.strip() if type(x) == str else x)
+    
+    if strip:
+        df = df.applymap(lambda x: x.strip() if type(x) == str else x)
 
     return df
 
@@ -79,7 +84,8 @@ def genNameForID(name):
 
 def createGraph():
     # Create the graph
-    g = ontopia_py.createGraph()
+    g = cg()
+    g.bind("italy", ITALY)
 
     # Data
     g.bind("anncsu", ANNCSU)
