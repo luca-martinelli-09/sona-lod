@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:l0="https://w3id.org/italia/onto/l0/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/role/commissioner">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/RO/Role"/>
+    <dc:title xml:lang="en">Commissioner</dc:title>
+    <dc:title xml:lang="it">Commissario</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/role/"/>
+    <l0:name xml:lang="en">Commissioner</l0:name>
+    <l0:name xml:lang="it">Commissario</l0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/role/podesta">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/RO/Role"/>
+    <dc:title xml:lang="en">Podesta</dc:title>
+    <dc:title xml:lang="it">Podestà</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/role/"/>
+    <l0:name xml:lang="en">Podesta</l0:name>
+    <l0:name xml:lang="it">Podestà</l0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/role/mayor">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/RO/Role"/>
+    <dc:title xml:lang="en">Mayor</dc:title>
+    <dc:title xml:lang="it">Sindaco</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/role/"/>
+    <l0:name xml:lang="en">Mayor</l0:name>
+    <l0:name xml:lang="it">Sindaco</l0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/role/referent">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/RO/Role"/>
+    <dc:title xml:lang="en">Referent</dc:title>
+    <dc:title xml:lang="it">Responsabile</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/role/"/>
+    <l0:name xml:lang="en">Referent</l0:name>
+    <l0:name xml:lang="it">Responsabile</l0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/role/">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Roles</rdfs:label>
+    <rdfs:label xml:lang="it">Ruoli</rdfs:label>
+    <dc:creator rdf:resource="https://w3id.org/people/lucamartinelli"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/president"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/mayor"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/podesta"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/commissioner"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/role/president">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/RO/Role"/>
+    <dc:title xml:lang="en">President</dc:title>
+    <dc:title xml:lang="it">Presidente</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/role/"/>
+    <l0:name xml:lang="en">President</l0:name>
+    <l0:name xml:lang="it">Presidente</l0:name>
+  </rdf:Description>
+</rdf:RDF>

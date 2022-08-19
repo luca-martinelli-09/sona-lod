@@ -40,8 +40,6 @@ from ontoim_py.ns import *
 
 config = getConfig("../../conf.ini")
 
-BASE_URL = config.get("API", "base_url")
-
 # Create Graph
 g = createGraph()
 
@@ -185,8 +183,10 @@ with alive_bar(len(organizations), dual_line=True, title='🏭 Organizations') a
                     id="ad-{}-{}".format(progrNazionale, progrCivico),
                     baseUri=ANNCSU
                 )
+
+                organization.hasLocalUnitAddress = [address]
             
-                g.add((organization.uriRef, ONTOIM["hasLocalUnitAddress"], address.uriRef))
+                organization.addToGraph(g, onlyProperties=True)
 
             bar()
             continue

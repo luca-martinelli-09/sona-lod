@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:covapit="https://w3id.org/italia/onto/COV/"
+   xmlns:cpvapit="https://w3id.org/italia/onto/CPV/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:roapit="https://w3id.org/italia/onto/RO/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:smapit="https://w3id.org/italia/onto/SM/"
+>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/r-tessaro-comune-sona-vr-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">r.tessaro@comune.sona.vr.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:r.tessaro@comune.sona.vr.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/simonetta-ventura">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Simonetta Ventura</dc:title>
+    <dc:title xml:lang="it">Contatti per Simonetta Ventura</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/municipality/email/s-ventura-comune-sona-vr-it"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091212"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091217">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091217</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091217</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/EB3YQ5">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Servizio Protocollo e Archivio</dc:title>
+    <dc:title xml:lang="it">Responsabile per Servizio Protocollo e Archivio</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/simonetta-ventura"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/EB3YQ5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/BR2KBS">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personale</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/BR2KBS"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/BR2KBS"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/uo/LB6G0G"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BR2KBS</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/AJYUGN">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Ufficio per la transizione al Digitale</dc:title>
+    <dc:title xml:lang="en">Contatti per Ufficio per la transizione al Digitale</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091261"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/J0QQ9D">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Urbanistica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/J0QQ9D"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/J0QQ9D"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/uo/FKIEFI"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J0QQ9D</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/gianluigi-mazzi">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gianluigi Mazzi</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mazzi</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gianluigi</cpvapit:givenName>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/gianluigi-mazzi"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/A6F8CED"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/LOFKMC">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for URP</dc:title>
+    <dc:title xml:lang="it">Responsabile per URP</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/anna-maria-gasparini"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/LOFKMC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091203">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091203</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091203</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/marco-bosio">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marco Bosio</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bosio</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marco</cpvapit:givenName>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/marco-bosio"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/HWVL7Q"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/J0QQ9D"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/FKIEFI"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/BRR803"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091255">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091255</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091255</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/sindaco-comune-sona-vr-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sindaco@comune.sona.vr.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:sindaco@comune.sona.vr.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/LOFKMC">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">URP</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/LOFKMC"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/LOFKMC"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/uo/LB6G0G"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LOFKMC</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/I4F0IC">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Farmacia di Palazzolo</dc:title>
+    <dc:title xml:lang="en">Contatti per Farmacia di Palazzolo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/municipality/email/farmaciapalazzolo-comune-sona-vr-it"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456080682"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/">
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/referent/gianluigi-mazzi"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/referent/raffaella-tessaro"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/referent/marco-bosio"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/referent/simonetta-ventura"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/referent/stefano-baciga"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/referent/massimo-giacomini"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/referent/marco-rama"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/referent/roberto-mori"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/referent/anna-maria-gasparini"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/referent/emilio-scarpari"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/referent/fabio-dal-barco"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/QC00CE"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/HWVL7Q"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/UF09I2"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/J0QQ9D"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/N75H9N"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/F635KK"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/RB37D6"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/I4F0IC"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/62M2HD"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/J4HC1K"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/4ELMSE"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/FKIEFI"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/BA79FD"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/JCG4HG"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/4E6NEB"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/LOFKMC"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/BR2KBS"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/EBILB3"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/8UG4XS"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/CKU85S"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/9OPD0G"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/LB6G0G"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/BRR803"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/EB3YQ5"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/AJYUGN"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/uo/9JIDKL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/farmacia-comune-sona-vr-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">farmacia@comune.sona.vr.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:farmacia@comune.sona.vr.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/service/UF09I2">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/eInvoiceService"/>
+    <dc:title xml:lang="en">eInvoice Service for Uff_eFatturaPA</dc:title>
+    <dc:title xml:lang="it">Servizio di fatturazione elettronica per Uff_eFatturaPA</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:eInvoiceServiceStartingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-03-31</covapit:eInvoiceServiceStartingDate>
+    <covapit:taxCodeEInvoiceService rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00500760236</covapit:taxCodeEInvoiceService>
+    <covapit:taxCodeValidationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-03-28</covapit:taxCodeValidationDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/AJYUGN">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Ufficio per la transizione al Digitale</dc:title>
+    <dc:title xml:lang="it">Responsabile per Ufficio per la transizione al Digitale</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/stefano-baciga"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/AJYUGN"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/RB37D6">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Servizi al Cittadino</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/RB37D6"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/RB37D6"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RB37D6</covapit:officeIdentifier>
+    <covapit:hasSupportUnit rdf:resource="https://w3id.org/sona/data/municipality/uo/8UG4XS"/>
+    <covapit:hasSupportUnit rdf:resource="https://w3id.org/sona/data/municipality/uo/CKU85S"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/gianluigi-mazzi">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Gianluigi Mazzi</dc:title>
+    <dc:title xml:lang="it">Contatti per Gianluigi Mazzi</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sindaco-comune-sona-vr-it"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091220"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/UF09I2">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Uff_eFatturaPA</dc:title>
+    <dc:title xml:lang="it">Responsabile per Uff_eFatturaPA</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/simonetta-ventura"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/UF09I2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/62M2HD">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tributi</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/62M2HD"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/62M2HD"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/uo/F635KK"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62M2HD</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/4E6NEB">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Settore Polizia locale</dc:title>
+    <dc:title xml:lang="it">Responsabile per Settore Polizia locale</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/roberto-mori"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/4E6NEB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/BR2KBS">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Personale</dc:title>
+    <dc:title xml:lang="en">Contatti per Personale</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091229">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091229</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091229</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/EBILB3">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Settore Cultura e Servizi demografici</dc:title>
+    <dc:title xml:lang="en">Contatti per Settore Cultura e Servizi demografici</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091286"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/m-giacomini-comune-sona-vr-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">m.giacomini@comune.sona.vr.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:m.giacomini@comune.sona.vr.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/RB37D6">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Settore Servizi al Cittadino</dc:title>
+    <dc:title xml:lang="it">Responsabile per Settore Servizi al Cittadino</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/massimo-giacomini"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/RB37D6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091218">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091218</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091218</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/raffaella-tessaro">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raffaella Tessaro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tessaro</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raffaella</cpvapit:givenName>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/raffaella-tessaro"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/QC00CE"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/EBILB3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/9OPD0G">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Lavori Pubblici</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/9OPD0G"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/9OPD0G"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9OPD0G</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/8UG4XS">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Servizi Sociali</dc:title>
+    <dc:title xml:lang="it">Responsabile per Servizi Sociali</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/emilio-scarpari"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/8UG4XS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/simonetta-ventura">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Simonetta Ventura</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ventura</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Simonetta</cpvapit:givenName>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/simonetta-ventura"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/UF09I2"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/F635KK"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/62M2HD"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/BA79FD"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/EB3YQ5"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/9JIDKL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/HWVL7Q">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Servizio Distribuzione gas</dc:title>
+    <dc:title xml:lang="en">Contatti per Servizio Distribuzione gas</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091242"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/anna-maria-gasparini">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Anna Maria Gasparini</dc:title>
+    <dc:title xml:lang="it">Contatti per Anna Maria Gasparini</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/municipality/email/a-gasparini-comune-sona-vr-it"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091233"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/FKIEFI">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Settore gestione del Territorio</dc:title>
+    <dc:title xml:lang="it">Responsabile per Settore gestione del Territorio</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/marco-bosio"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/FKIEFI"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091259">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091259</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091259</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/r-mori-comune-sona-vr-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">r.mori@comune.sona.vr.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:r.mori@comune.sona.vr.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/marco-rama">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Marco Rama</dc:title>
+    <dc:title xml:lang="it">Contatti per Marco Rama</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/municipality/email/m-rama-comune-sona-vr-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/4ELMSE">
+    <covapit:hasSupportUnit rdf:resource="https://w3id.org/sona/data/municipality/uo/I4F0IC"/>
+    <covapit:hasSupportUnit rdf:resource="https://w3id.org/sona/data/municipality/uo/JCG4HG"/>
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Farmaceutico</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/4ELMSE"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/4ELMSE"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4ELMSE</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/HWVL7Q">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizio Distribuzione gas</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/HWVL7Q"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/HWVL7Q"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-08-02</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/uo/FKIEFI"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HWVL7Q</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/fabio-dal-barco">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Fabio Dal Barco</dc:title>
+    <dc:title xml:lang="it">Contatti per Fabio Dal Barco</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/municipality/email/f-dalbarco-comune-sona-vr-it"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091250"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/JCG4HG">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Farmacia di Sona</dc:title>
+    <dc:title xml:lang="en">Contatti per Farmacia di Sona</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/municipality/email/farmacia-comune-sona-vr-it"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091255"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/4E6NEB">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Settore Polizia locale</dc:title>
+    <dc:title xml:lang="en">Contatti per Settore Polizia locale</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/N75H9N">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ecologia</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/N75H9N"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/N75H9N"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/uo/J4HC1K"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N75H9N</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/a-gasparini-comune-sona-vr-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">a.gasparini@comune.sona.vr.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:a.gasparini@comune.sona.vr.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/BRR803">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Sportello Unico Attivita' Produttive</dc:title>
+    <dc:title xml:lang="en">Contatti per Sportello Unico Attivita' Produttive</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/UF09I2">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Uff_eFatturaPA</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/UF09I2"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/UF09I2"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-05</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UF09I2</covapit:officeIdentifier>
+    <covapit:hasEInvoiceService rdf:resource="https://w3id.org/sona/data/municipality/service/UF09I2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/JCG4HG">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Farmacia di Sona</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/JCG4HG"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/JCG4HG"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/uo/4ELMSE"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JCG4HG</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/F635KK">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Programmazione finanziaria e Tributi</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/F635KK"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/F635KK"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F635KK</covapit:officeIdentifier>
+    <covapit:hasSupportUnit rdf:resource="https://w3id.org/sona/data/municipality/uo/62M2HD"/>
+    <covapit:hasSupportUnit rdf:resource="https://w3id.org/sona/data/municipality/uo/BA79FD"/>
+    <covapit:hasSupportUnit rdf:resource="https://w3id.org/sona/data/municipality/uo/EB3YQ5"/>
+    <covapit:hasSupportUnit rdf:resource="https://w3id.org/sona/data/municipality/uo/9JIDKL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/FKIEFI">
+    <covapit:hasSupportUnit rdf:resource="https://w3id.org/sona/data/municipality/uo/HWVL7Q"/>
+    <covapit:hasSupportUnit rdf:resource="https://w3id.org/sona/data/municipality/uo/J0QQ9D"/>
+    <covapit:hasSupportUnit rdf:resource="https://w3id.org/sona/data/municipality/uo/BRR803"/>
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore gestione del Territorio</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/FKIEFI"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/FKIEFI"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FKIEFI</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091250">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091250</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091250</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/9JIDKL">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Controllo di gestione</dc:title>
+    <dc:title xml:lang="it">Responsabile per Controllo di gestione</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/simonetta-ventura"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/9JIDKL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/stefano-baciga">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stefano Baciga</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Baciga</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stefano</cpvapit:givenName>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/stefano-baciga"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/N75H9N"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/J4HC1K"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/AJYUGN"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/raffaella-tessaro">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Raffaella Tessaro</dc:title>
+    <dc:title xml:lang="it">Contatti per Raffaella Tessaro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/municipality/email/r-tessaro-comune-sona-vr-it"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091229"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/AJYUGN">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ufficio per la transizione al Digitale</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/AJYUGN"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/AJYUGN"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-11-27</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AJYUGN</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/UF09I2">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Uff_eFatturaPA</dc:title>
+    <dc:title xml:lang="en">Contatti per Uff_eFatturaPA</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091231"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091220">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091220</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091220</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/marco-rama">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marco Rama</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rama</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marco</cpvapit:givenName>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/marco-rama"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/I4F0IC"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/4ELMSE"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/JCG4HG"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456080682">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456080682</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456080682</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/4ELMSE">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Settore Farmaceutico</dc:title>
+    <dc:title xml:lang="en">Contatti per Settore Farmaceutico</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/municipality/email/m-rama-comune-sona-vr-it"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091255"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/BRR803">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sportello Unico Attivita' Produttive</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/BRR803"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/BRR803"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/uo/FKIEFI"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BRR803</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/BA79FD">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Commercio ed Attivita' economiche</dc:title>
+    <dc:title xml:lang="it">Responsabile per Commercio ed Attivita' economiche</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/simonetta-ventura"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/BA79FD"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/A6F8CED">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Comune di Sona</dc:title>
+    <dc:title xml:lang="en">Contatti per Comune di Sona</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091211"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/fax/0456091260"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/F635KK">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Settore Programmazione finanziaria e Tributi</dc:title>
+    <dc:title xml:lang="it">Responsabile per Settore Programmazione finanziaria e Tributi</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/simonetta-ventura"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/F635KK"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/e-scarpari-comune-sona-vr-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">e.scarpari@comune.sona.vr.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:e.scarpari@comune.sona.vr.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/QC00CE">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizi Demografici</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/QC00CE"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/QC00CE"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/uo/EBILB3"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">QC00CE</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091233">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091233</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091233</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/roberto-mori">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Roberto Mori</dc:title>
+    <dc:title xml:lang="it">Contatti per Roberto Mori</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/municipality/email/r-mori-comune-sona-vr-it"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/BRR803">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Sportello Unico Attivita' Produttive</dc:title>
+    <dc:title xml:lang="it">Responsabile per Sportello Unico Attivita' Produttive</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/marco-bosio"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/BRR803"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091234">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091234</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091234</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/EB3YQ5">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizio Protocollo e Archivio</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/EB3YQ5"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/EB3YQ5"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-08-02</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/uo/F635KK"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EB3YQ5</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091242">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091242</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091242</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/massimo-giacomini">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Massimo Giacomini</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giacomini</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Massimo</cpvapit:givenName>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/massimo-giacomini"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/RB37D6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/N75H9N">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Ecologia</dc:title>
+    <dc:title xml:lang="it">Responsabile per Ecologia</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/stefano-baciga"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/N75H9N"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/8UG4XS">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizi Sociali</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/8UG4XS"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/8UG4XS"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/uo/RB37D6"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8UG4XS</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/roberto-mori">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roberto Mori</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mori</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roberto</cpvapit:givenName>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/roberto-mori"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/4E6NEB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/BR2KBS">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Personale</dc:title>
+    <dc:title xml:lang="it">Responsabile per Personale</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/anna-maria-gasparini"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/BR2KBS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/62M2HD">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Tributi</dc:title>
+    <dc:title xml:lang="en">Contatti per Tributi</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091206"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/marco-bosio">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Marco Bosio</dc:title>
+    <dc:title xml:lang="it">Contatti per Marco Bosio</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/municipality/email/m-bosio-comune-sona-vr-it"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091234"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/J4HC1K">
+    <covapit:hasSupportUnit rdf:resource="https://w3id.org/sona/data/municipality/uo/N75H9N"/>
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Tecnologici - Ecologia - Strade</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/J4HC1K"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/J4HC1K"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-08-02</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J4HC1K</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091254">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091254</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091254</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/LB6G0G">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Settore Amministrativo</dc:title>
+    <dc:title xml:lang="en">Contatti per Settore Amministrativo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/62M2HD">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Tributi</dc:title>
+    <dc:title xml:lang="it">Responsabile per Tributi</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/simonetta-ventura"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/62M2HD"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/9OPD0G">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Settore Lavori Pubblici</dc:title>
+    <dc:title xml:lang="it">Responsabile per Settore Lavori Pubblici</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/fabio-dal-barco"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/9OPD0G"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/BA79FD">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Commercio ed Attivita' economiche</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/BA79FD"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/BA79FD"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/uo/F635KK"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BA79FD</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/J0QQ9D">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Urbanistica</dc:title>
+    <dc:title xml:lang="en">Contatti per Urbanistica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091225"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/9JIDKL">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Controllo di gestione</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/9JIDKL"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/9JIDKL"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/uo/F635KK"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9JIDKL</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/8UG4XS">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Servizi Sociali</dc:title>
+    <dc:title xml:lang="en">Contatti per Servizi Sociali</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/CKU85S">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Servizi scolastici</dc:title>
+    <dc:title xml:lang="en">Contatti per Servizi scolastici</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091207"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/JCG4HG">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Farmacia di Sona</dc:title>
+    <dc:title xml:lang="it">Responsabile per Farmacia di Sona</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/marco-rama"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/JCG4HG"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/anna-maria-gasparini">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anna Maria Gasparini</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gasparini</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anna Maria</cpvapit:givenName>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/anna-maria-gasparini"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/LOFKMC"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/BR2KBS"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/LB6G0G"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/massimo-giacomini">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Massimo Giacomini</dc:title>
+    <dc:title xml:lang="it">Contatti per Massimo Giacomini</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/municipality/email/m-giacomini-comune-sona-vr-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/9OPD0G">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Settore Lavori Pubblici</dc:title>
+    <dc:title xml:lang="en">Contatti per Settore Lavori Pubblici</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/QC00CE">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Servizi Demografici</dc:title>
+    <dc:title xml:lang="en">Contatti per Servizi Demografici</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091254"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/I4F0IC">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Farmacia di Palazzolo</dc:title>
+    <dc:title xml:lang="it">Responsabile per Farmacia di Palazzolo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/marco-rama"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/I4F0IC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/f-dalbarco-comune-sona-vr-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">f.dalbarco@comune.sona.vr.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:f.dalbarco@comune.sona.vr.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/EBILB3">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Settore Cultura e Servizi demografici</dc:title>
+    <dc:title xml:lang="it">Responsabile per Settore Cultura e Servizi demografici</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/raffaella-tessaro"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/EBILB3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/CKU85S">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Servizi scolastici</dc:title>
+    <dc:title xml:lang="it">Responsabile per Servizi scolastici</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/emilio-scarpari"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/CKU85S"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/HWVL7Q">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Servizio Distribuzione gas</dc:title>
+    <dc:title xml:lang="it">Responsabile per Servizio Distribuzione gas</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/marco-bosio"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/HWVL7Q"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091261">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091261</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091261</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/J4HC1K">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Settore Tecnologici - Ecologia - Strade</dc:title>
+    <dc:title xml:lang="it">Responsabile per Settore Tecnologici - Ecologia - Strade</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/stefano-baciga"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/J4HC1K"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/BA79FD">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Commercio ed Attivita' economiche</dc:title>
+    <dc:title xml:lang="en">Contatti per Commercio ed Attivita' economiche</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091219"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091231">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091231</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091231</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/emilio-scarpari">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emilio Scarpari</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scarpari</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emilio</cpvapit:givenName>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/emilio-scarpari"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/8UG4XS"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/CKU85S"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091211">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091211</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091211</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/4ELMSE">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Settore Farmaceutico</dc:title>
+    <dc:title xml:lang="it">Responsabile per Settore Farmaceutico</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/marco-rama"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/4ELMSE"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/stefano-baciga">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Stefano Baciga</dc:title>
+    <dc:title xml:lang="it">Contatti per Stefano Baciga</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/municipality/email/s-baciga-comune-sona-vr-it"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091217"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/F635KK">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Settore Programmazione finanziaria e Tributi</dc:title>
+    <dc:title xml:lang="en">Contatti per Settore Programmazione finanziaria e Tributi</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091211"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/fabio-dal-barco">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fabio Dal Barco</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dal Barco</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fabio</cpvapit:givenName>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/fabio-dal-barco"/>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/referent/9OPD0G"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/EB3YQ5">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Servizio Protocollo e Archivio</dc:title>
+    <dc:title xml:lang="en">Contatti per Servizio Protocollo e Archivio</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091259"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/aoo/A6F8CED">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/HomogeneousOrganizationalArea"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comune di Sona</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/A6F8CED"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/A6F8CED"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-02-16</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:AOOIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A6F8CED</covapit:AOOIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/QC00CE">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Servizi Demografici</dc:title>
+    <dc:title xml:lang="it">Responsabile per Servizi Demografici</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/raffaella-tessaro"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/QC00CE"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/I4F0IC">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Farmacia di Palazzolo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/I4F0IC"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/I4F0IC"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/uo/4ELMSE"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I4F0IC</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/LB6G0G">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Settore Amministrativo</dc:title>
+    <dc:title xml:lang="it">Responsabile per Settore Amministrativo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/anna-maria-gasparini"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/LB6G0G"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/J0QQ9D">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Urbanistica</dc:title>
+    <dc:title xml:lang="it">Responsabile per Urbanistica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/marco-bosio"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/uo/J0QQ9D"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/urp-comune-sona-vr-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">urp@comune.sona.vr.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:urp@comune.sona.vr.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sona.vr@cert.ip-veneto.net</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:sona.vr@cert.ip-veneto.net</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/referent/A6F8CED">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Referent for Comune di Sona</dc:title>
+    <dc:title xml:lang="it">Responsabile per Comune di Sona</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/referent/gianluigi-mazzi"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/EBILB3">
+    <covapit:hasSupportUnit rdf:resource="https://w3id.org/sona/data/municipality/uo/QC00CE"/>
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Cultura e Servizi demografici</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/EBILB3"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/EBILB3"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EBILB3</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/N75H9N">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Ecologia</dc:title>
+    <dc:title xml:lang="en">Contatti per Ecologia</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091261"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/FKIEFI">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Settore gestione del Territorio</dc:title>
+    <dc:title xml:lang="en">Contatti per Settore gestione del Territorio</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091234"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091206">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091206</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091206</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/emilio-scarpari">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Emilio Scarpari</dc:title>
+    <dc:title xml:lang="it">Contatti per Emilio Scarpari</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/municipality/email/e-scarpari-comune-sona-vr-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/LB6G0G">
+    <covapit:hasSupportUnit rdf:resource="https://w3id.org/sona/data/municipality/uo/LOFKMC"/>
+    <covapit:hasSupportUnit rdf:resource="https://w3id.org/sona/data/municipality/uo/BR2KBS"/>
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Amministrativo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/LB6G0G"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/LB6G0G"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LB6G0G</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091236">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091236</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091236</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/LOFKMC">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for URP</dc:title>
+    <dc:title xml:lang="en">Contatti per URP</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/municipality/email/urp-comune-sona-vr-it"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091211"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/9JIDKL">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Controllo di gestione</dc:title>
+    <dc:title xml:lang="en">Contatti per Controllo di gestione</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091212"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/m-rama-comune-sona-vr-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">m.rama@comune.sona.vr.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:m.rama@comune.sona.vr.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/CKU85S">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizi scolastici</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/CKU85S"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/CKU85S"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/uo/RB37D6"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CKU85S</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/RB37D6">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Settore Servizi al Cittadino</dc:title>
+    <dc:title xml:lang="en">Contatti per Settore Servizi al Cittadino</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091211"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091212">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091212</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091212</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/uo/4E6NEB">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Office"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Polizia locale</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/4E6NEB"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/4E6NEB"/>
+    <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
+    <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <covapit:isPartOf rdf:resource="https://w3id.org/sona/data/municipality/aoo/A6F8CED"/>
+    <covapit:officeIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4E6NEB</covapit:officeIdentifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091225">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091225</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091225</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/m-bosio-comune-sona-vr-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">m.bosio@comune.sona.vr.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:m.bosio@comune.sona.vr.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/J4HC1K">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Settore Tecnologici - Ecologia - Strade</dc:title>
+    <dc:title xml:lang="en">Contatti per Settore Tecnologici - Ecologia - Strade</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/municipality/phone/0456091261"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/farmaciapalazzolo-comune-sona-vr-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">farmaciapalazzolo@comune.sona.vr.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:farmaciapalazzolo@comune.sona.vr.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/fax/0456091260">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091260</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/033"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091260</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091207">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091207</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091207</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091219">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091219</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091219</smapit:telephoneNumber>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/s-ventura-comune-sona-vr-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">s.ventura@comune.sona.vr.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:s.ventura@comune.sona.vr.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/s-baciga-comune-sona-vr-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">s.baciga@comune.sona.vr.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:s.baciga@comune.sona.vr.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/phone/0456091286">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091286</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasTelephoneType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/03"/>
+    <smapit:telephoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456091286</smapit:telephoneNumber>
+  </rdf:Description>
+</rdf:RDF>

@@ -2,14 +2,13 @@
 import configparser
 from urllib.request import urlopen
 
-from ontoim_py import createGraph as cg
-
 import pandas as pd
+import requests
 import unidecode
+from ontoim_py import createGraph as cg
 
 # Namespaces constants
 from .ns import *
-from ontopia_py.ns import ITALY
 
 # Get configurations from file
 
@@ -45,11 +44,29 @@ def getOpenData(datasetID, resID, rawData=False, dtype=None, strip=True):
         return getDataRequest
 
     df = pd.read_csv(dataURI, dtype=dtype)
-    
+
     if strip:
         df = df.applymap(lambda x: x.strip() if type(x) == str else x)
 
     return df
+
+
+def getDataFromCKANApi(dataURI, strip=False):
+    tries = 0
+    res = {"success": False}
+
+    while not res["success"] and tries < 20:
+        res = requests.get(dataURI).json()
+
+        if res["success"]:
+            return pd.DataFrame(res["result"]["records"])
+
+        tries += 1
+    
+    if strip:
+        df = df.applymap(lambda x: x.strip() if type(x) == str else x)
+
+    return None
 
 # Standardize name
 # Convert name to lower case and capitalize each word
@@ -79,17 +96,29 @@ def genNameForID(name):
 
     return nameID
 
+
+def queryStreetCode(q):
+    config = getConfig('../../conf.ini')
+    datasetID = config.get("ANNCSU", "dataset")
+
+    streetsDF = getOpenData(datasetID, config.get("ANNCSU", "streets"))
+    civicsDF = getOpenData(datasetID, config.get("ANNCSU", "civics"))
+
+    
+
 # Generate graph with default namespaces
 
 
 def createGraph():
     # Create the graph
     g = cg()
-    g.bind("italy", ITALY)
 
     # Data
     g.bind("anncsu", ANNCSU)
     g.bind("accommodation", ACCO_DATA)
     g.bind("organization", COV_DATA)
+    g.bind("municipality", MUN_DATA)
+    g.bind("social", SOCIAL_DATA)
+    g.bind("role", ROLE_DATA)
 
     return g

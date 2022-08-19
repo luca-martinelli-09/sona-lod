@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:smapit="https://w3id.org/italia/onto/SM/"
+>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/social/">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social Media</rdfs:label>
+    <dc:creator rdf:resource="https://w3id.org/people/lucamartinelli"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/social/twitter"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/social/facebook"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/social/youtube"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/social/linkedin"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/social/instagram"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/social/whatsapp"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/social/telegram"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/social/youtube">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/SocialMedia"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">YouTube</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/social/"/>
+    <smapit:socialMediaName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">YouTube</smapit:socialMediaName>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/social/facebook">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/SocialMedia"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Facebook</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/social/"/>
+    <smapit:socialMediaName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Facebook</smapit:socialMediaName>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/social/instagram">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/SocialMedia"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Instagram</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/social/"/>
+    <smapit:socialMediaName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Instagram</smapit:socialMediaName>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/social/linkedin">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/SocialMedia"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linkedin</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/social/"/>
+    <smapit:socialMediaName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linkedin</smapit:socialMediaName>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/social/twitter">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/SocialMedia"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twitter</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/social/"/>
+    <smapit:socialMediaName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twitter</smapit:socialMediaName>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/social/whatsapp">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/SocialMedia"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WhatsApp</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/social/"/>
+    <smapit:socialMediaName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WhatsApp</smapit:socialMediaName>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/social/telegram">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/SocialMedia"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Telegram</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/social/"/>
+    <smapit:socialMediaName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Telegram</smapit:socialMediaName>
+  </rdf:Description>
+</rdf:RDF>

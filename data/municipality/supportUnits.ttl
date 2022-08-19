@@ -1,0 +1,1171 @@
+@prefix channel: <https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/> .
+@prefix covapit: <https://w3id.org/italia/onto/COV/> .
+@prefix cpvapit: <https://w3id.org/italia/onto/CPV/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix municipality: <https://w3id.org/sona/data/municipality/> .
+@prefix roapit: <https://w3id.org/italia/onto/RO/> .
+@prefix role: <https://w3id.org/sona/data/role/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix smapit: <https://w3id.org/italia/onto/SM/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/sona/data/municipality/email/a-gasparini-comune-sona-vr-it> a smapit:Email ;
+    dc:title "a.gasparini@comune.sona.vr.it"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:a.gasparini@comune.sona.vr.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/municipality/email/e-scarpari-comune-sona-vr-it> a smapit:Email ;
+    dc:title "e.scarpari@comune.sona.vr.it"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:e.scarpari@comune.sona.vr.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/municipality/email/f-dalbarco-comune-sona-vr-it> a smapit:Email ;
+    dc:title "f.dalbarco@comune.sona.vr.it"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:f.dalbarco@comune.sona.vr.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/municipality/email/farmacia-comune-sona-vr-it> a smapit:Email ;
+    dc:title "farmacia@comune.sona.vr.it"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:farmacia@comune.sona.vr.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/municipality/email/farmaciapalazzolo-comune-sona-vr-it> a smapit:Email ;
+    dc:title "farmaciapalazzolo@comune.sona.vr.it"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:farmaciapalazzolo@comune.sona.vr.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/municipality/email/m-bosio-comune-sona-vr-it> a smapit:Email ;
+    dc:title "m.bosio@comune.sona.vr.it"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:m.bosio@comune.sona.vr.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/municipality/email/m-giacomini-comune-sona-vr-it> a smapit:Email ;
+    dc:title "m.giacomini@comune.sona.vr.it"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:m.giacomini@comune.sona.vr.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/municipality/email/r-mori-comune-sona-vr-it> a smapit:Email ;
+    dc:title "r.mori@comune.sona.vr.it"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:r.mori@comune.sona.vr.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/municipality/email/r-tessaro-comune-sona-vr-it> a smapit:Email ;
+    dc:title "r.tessaro@comune.sona.vr.it"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:r.tessaro@comune.sona.vr.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/municipality/email/s-baciga-comune-sona-vr-it> a smapit:Email ;
+    dc:title "s.baciga@comune.sona.vr.it"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:s.baciga@comune.sona.vr.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/municipality/email/s-ventura-comune-sona-vr-it> a smapit:Email ;
+    dc:title "s.ventura@comune.sona.vr.it"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:s.ventura@comune.sona.vr.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/municipality/email/sindaco-comune-sona-vr-it> a smapit:Email ;
+    dc:title "sindaco@comune.sona.vr.it"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:sindaco@comune.sona.vr.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/municipality/email/urp-comune-sona-vr-it> a smapit:Email ;
+    dc:title "urp@comune.sona.vr.it"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:urp@comune.sona.vr.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/municipality/fax/0456091260> a smapit:Telephone ;
+    dc:title "0456091260"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "0456091260"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/ocp/4E6NEB> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Settore Polizia locale"@en,
+        "Online Contact Point for Settore Polizia locale"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091203> .
+
+<https://w3id.org/sona/data/municipality/ocp/4ELMSE> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Settore Farmaceutico"@en,
+        "Online Contact Point for Settore Farmaceutico"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasEmail <https://w3id.org/sona/data/municipality/email/m-rama-comune-sona-vr-it> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091255> .
+
+<https://w3id.org/sona/data/municipality/ocp/62M2HD> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Tributi"@en,
+        "Online Contact Point for Tributi"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091206> .
+
+<https://w3id.org/sona/data/municipality/ocp/8UG4XS> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Servizi Sociali"@en,
+        "Online Contact Point for Servizi Sociali"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091218> .
+
+<https://w3id.org/sona/data/municipality/ocp/9JIDKL> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Controllo di gestione"@en,
+        "Online Contact Point for Controllo di gestione"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091212> .
+
+<https://w3id.org/sona/data/municipality/ocp/9OPD0G> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Settore Lavori Pubblici"@en,
+        "Online Contact Point for Settore Lavori Pubblici"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> .
+
+<https://w3id.org/sona/data/municipality/ocp/A6F8CED> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Comune di Sona"@en,
+        "Online Contact Point for Comune di Sona"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/fax/0456091260>,
+        <https://w3id.org/sona/data/municipality/phone/0456091211> .
+
+<https://w3id.org/sona/data/municipality/ocp/AJYUGN> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Ufficio per la transizione al Digitale"@en,
+        "Online Contact Point for Ufficio per la transizione al Digitale"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091261> .
+
+<https://w3id.org/sona/data/municipality/ocp/BA79FD> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Commercio ed Attivita' economiche"@en,
+        "Online Contact Point for Commercio ed Attivita' economiche"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091219> .
+
+<https://w3id.org/sona/data/municipality/ocp/BR2KBS> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Personale"@en,
+        "Online Contact Point for Personale"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> .
+
+<https://w3id.org/sona/data/municipality/ocp/BRR803> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Sportello Unico Attivita' Produttive"@en,
+        "Online Contact Point for Sportello Unico Attivita' Produttive"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> .
+
+<https://w3id.org/sona/data/municipality/ocp/CKU85S> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Servizi scolastici"@en,
+        "Online Contact Point for Servizi scolastici"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091207> .
+
+<https://w3id.org/sona/data/municipality/ocp/EB3YQ5> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Servizio Protocollo e Archivio"@en,
+        "Online Contact Point for Servizio Protocollo e Archivio"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091259> .
+
+<https://w3id.org/sona/data/municipality/ocp/EBILB3> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Settore Cultura e Servizi demografici"@en,
+        "Online Contact Point for Settore Cultura e Servizi demografici"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091286> .
+
+<https://w3id.org/sona/data/municipality/ocp/F635KK> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Settore Programmazione finanziaria e Tributi"@en,
+        "Online Contact Point for Settore Programmazione finanziaria e Tributi"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091211> .
+
+<https://w3id.org/sona/data/municipality/ocp/FKIEFI> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Settore gestione del Territorio"@en,
+        "Online Contact Point for Settore gestione del Territorio"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091234> .
+
+<https://w3id.org/sona/data/municipality/ocp/HWVL7Q> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Servizio Distribuzione gas"@en,
+        "Online Contact Point for Servizio Distribuzione gas"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091242> .
+
+<https://w3id.org/sona/data/municipality/ocp/I4F0IC> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Farmacia di Palazzolo"@en,
+        "Online Contact Point for Farmacia di Palazzolo"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasEmail <https://w3id.org/sona/data/municipality/email/farmaciapalazzolo-comune-sona-vr-it> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456080682> .
+
+<https://w3id.org/sona/data/municipality/ocp/J0QQ9D> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Urbanistica"@en,
+        "Online Contact Point for Urbanistica"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091225> .
+
+<https://w3id.org/sona/data/municipality/ocp/J4HC1K> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Settore Tecnologici - Ecologia - Strade"@en,
+        "Online Contact Point for Settore Tecnologici - Ecologia - Strade"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091261> .
+
+<https://w3id.org/sona/data/municipality/ocp/JCG4HG> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Farmacia di Sona"@en,
+        "Online Contact Point for Farmacia di Sona"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasEmail <https://w3id.org/sona/data/municipality/email/farmacia-comune-sona-vr-it> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091255> .
+
+<https://w3id.org/sona/data/municipality/ocp/LB6G0G> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Settore Amministrativo"@en,
+        "Online Contact Point for Settore Amministrativo"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> .
+
+<https://w3id.org/sona/data/municipality/ocp/LOFKMC> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per URP"@en,
+        "Online Contact Point for URP"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasEmail <https://w3id.org/sona/data/municipality/email/urp-comune-sona-vr-it> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091211> .
+
+<https://w3id.org/sona/data/municipality/ocp/N75H9N> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Ecologia"@en,
+        "Online Contact Point for Ecologia"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091261> .
+
+<https://w3id.org/sona/data/municipality/ocp/QC00CE> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Servizi Demografici"@en,
+        "Online Contact Point for Servizi Demografici"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091254> .
+
+<https://w3id.org/sona/data/municipality/ocp/RB37D6> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Settore Servizi al Cittadino"@en,
+        "Online Contact Point for Settore Servizi al Cittadino"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091211> .
+
+<https://w3id.org/sona/data/municipality/ocp/UF09I2> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Uff_eFatturaPA"@en,
+        "Online Contact Point for Uff_eFatturaPA"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091231> .
+
+<https://w3id.org/sona/data/municipality/ocp/anna-maria-gasparini> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for Anna Maria Gasparini"@en,
+        "Contatti per Anna Maria Gasparini"@it ;
+    skos:inScheme municipality: ;
+    smapit:hasEmail <https://w3id.org/sona/data/municipality/email/a-gasparini-comune-sona-vr-it> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091233> .
+
+<https://w3id.org/sona/data/municipality/ocp/emilio-scarpari> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for Emilio Scarpari"@en,
+        "Contatti per Emilio Scarpari"@it ;
+    skos:inScheme municipality: ;
+    smapit:hasEmail <https://w3id.org/sona/data/municipality/email/e-scarpari-comune-sona-vr-it> .
+
+<https://w3id.org/sona/data/municipality/ocp/fabio-dal-barco> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for Fabio Dal Barco"@en,
+        "Contatti per Fabio Dal Barco"@it ;
+    skos:inScheme municipality: ;
+    smapit:hasEmail <https://w3id.org/sona/data/municipality/email/f-dalbarco-comune-sona-vr-it> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091250> .
+
+<https://w3id.org/sona/data/municipality/ocp/gianluigi-mazzi> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for Gianluigi Mazzi"@en,
+        "Contatti per Gianluigi Mazzi"@it ;
+    skos:inScheme municipality: ;
+    smapit:hasEmail <https://w3id.org/sona/data/municipality/email/sindaco-comune-sona-vr-it> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091220> .
+
+<https://w3id.org/sona/data/municipality/ocp/marco-bosio> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for Marco Bosio"@en,
+        "Contatti per Marco Bosio"@it ;
+    skos:inScheme municipality: ;
+    smapit:hasEmail <https://w3id.org/sona/data/municipality/email/m-bosio-comune-sona-vr-it> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091234> .
+
+<https://w3id.org/sona/data/municipality/ocp/marco-rama> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for Marco Rama"@en,
+        "Contatti per Marco Rama"@it ;
+    skos:inScheme municipality: ;
+    smapit:hasEmail <https://w3id.org/sona/data/municipality/email/m-rama-comune-sona-vr-it> .
+
+<https://w3id.org/sona/data/municipality/ocp/massimo-giacomini> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for Massimo Giacomini"@en,
+        "Contatti per Massimo Giacomini"@it ;
+    skos:inScheme municipality: ;
+    smapit:hasEmail <https://w3id.org/sona/data/municipality/email/m-giacomini-comune-sona-vr-it> .
+
+<https://w3id.org/sona/data/municipality/ocp/raffaella-tessaro> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for Raffaella Tessaro"@en,
+        "Contatti per Raffaella Tessaro"@it ;
+    skos:inScheme municipality: ;
+    smapit:hasEmail <https://w3id.org/sona/data/municipality/email/r-tessaro-comune-sona-vr-it> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091229> .
+
+<https://w3id.org/sona/data/municipality/ocp/roberto-mori> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for Roberto Mori"@en,
+        "Contatti per Roberto Mori"@it ;
+    skos:inScheme municipality: ;
+    smapit:hasEmail <https://w3id.org/sona/data/municipality/email/r-mori-comune-sona-vr-it> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091236> .
+
+<https://w3id.org/sona/data/municipality/ocp/simonetta-ventura> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for Simonetta Ventura"@en,
+        "Contatti per Simonetta Ventura"@it ;
+    skos:inScheme municipality: ;
+    smapit:hasEmail <https://w3id.org/sona/data/municipality/email/s-ventura-comune-sona-vr-it> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091212> .
+
+<https://w3id.org/sona/data/municipality/ocp/stefano-baciga> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for Stefano Baciga"@en,
+        "Contatti per Stefano Baciga"@it ;
+    skos:inScheme municipality: ;
+    smapit:hasEmail <https://w3id.org/sona/data/municipality/email/s-baciga-comune-sona-vr-it> ;
+    smapit:hasTelephone <https://w3id.org/sona/data/municipality/phone/0456091217> .
+
+<https://w3id.org/sona/data/municipality/phone/0456080682> a smapit:Telephone ;
+    dc:title "0456080682"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456080682"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091203> a smapit:Telephone ;
+    dc:title "0456091203"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091203"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091206> a smapit:Telephone ;
+    dc:title "0456091206"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091206"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091207> a smapit:Telephone ;
+    dc:title "0456091207"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091207"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091217> a smapit:Telephone ;
+    dc:title "0456091217"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091217"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091218> a smapit:Telephone ;
+    dc:title "0456091218"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091218"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091219> a smapit:Telephone ;
+    dc:title "0456091219"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091219"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091220> a smapit:Telephone ;
+    dc:title "0456091220"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091220"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091225> a smapit:Telephone ;
+    dc:title "0456091225"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091225"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091229> a smapit:Telephone ;
+    dc:title "0456091229"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091229"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091231> a smapit:Telephone ;
+    dc:title "0456091231"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091231"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091233> a smapit:Telephone ;
+    dc:title "0456091233"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091233"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091236> a smapit:Telephone ;
+    dc:title "0456091236"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091236"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091242> a smapit:Telephone ;
+    dc:title "0456091242"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091242"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091250> a smapit:Telephone ;
+    dc:title "0456091250"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091250"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091254> a smapit:Telephone ;
+    dc:title "0456091254"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091254"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091259> a smapit:Telephone ;
+    dc:title "0456091259"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091259"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091286> a smapit:Telephone ;
+    dc:title "0456091286"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091286"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/service/UF09I2> a covapit:eInvoiceService ;
+    dc:title "eInvoice Service for Uff_eFatturaPA"@en,
+        "Servizio di fatturazione elettronica per Uff_eFatturaPA"@it ;
+    skos:inScheme municipality: ;
+    covapit:eInvoiceServiceStartingDate "2015-03-31"^^xsd:date ;
+    covapit:taxCodeEInvoiceService "00500760236"^^xsd:string ;
+    covapit:taxCodeValidationDate "2013-03-28"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/email/m-rama-comune-sona-vr-it> a smapit:Email ;
+    dc:title "m.rama@comune.sona.vr.it"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:m.rama@comune.sona.vr.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/municipality/phone/0456091212> a smapit:Telephone ;
+    dc:title "0456091212"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091212"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091234> a smapit:Telephone ;
+    dc:title "0456091234"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091234"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/phone/0456091255> a smapit:Telephone ;
+    dc:title "0456091255"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091255"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/referent/4E6NEB> a covapit:Employment ;
+    dc:title "Referent for Settore Polizia locale"@en,
+        "Responsabile per Settore Polizia locale"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/4E6NEB> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/roberto-mori> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/4ELMSE> a covapit:Employment ;
+    dc:title "Referent for Settore Farmaceutico"@en,
+        "Responsabile per Settore Farmaceutico"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/4ELMSE> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/marco-rama> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/62M2HD> a covapit:Employment ;
+    dc:title "Referent for Tributi"@en,
+        "Responsabile per Tributi"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/62M2HD> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/simonetta-ventura> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/8UG4XS> a covapit:Employment ;
+    dc:title "Referent for Servizi Sociali"@en,
+        "Responsabile per Servizi Sociali"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/8UG4XS> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/emilio-scarpari> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/9JIDKL> a covapit:Employment ;
+    dc:title "Referent for Controllo di gestione"@en,
+        "Responsabile per Controllo di gestione"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/9JIDKL> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/simonetta-ventura> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/9OPD0G> a covapit:Employment ;
+    dc:title "Referent for Settore Lavori Pubblici"@en,
+        "Responsabile per Settore Lavori Pubblici"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/9OPD0G> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/fabio-dal-barco> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/A6F8CED> a covapit:Employment ;
+    dc:title "Referent for Comune di Sona"@en,
+        "Responsabile per Comune di Sona"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/gianluigi-mazzi> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/AJYUGN> a covapit:Employment ;
+    dc:title "Referent for Ufficio per la transizione al Digitale"@en,
+        "Responsabile per Ufficio per la transizione al Digitale"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/AJYUGN> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/stefano-baciga> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/BA79FD> a covapit:Employment ;
+    dc:title "Referent for Commercio ed Attivita' economiche"@en,
+        "Responsabile per Commercio ed Attivita' economiche"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/BA79FD> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/simonetta-ventura> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/BR2KBS> a covapit:Employment ;
+    dc:title "Referent for Personale"@en,
+        "Responsabile per Personale"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/BR2KBS> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/anna-maria-gasparini> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/BRR803> a covapit:Employment ;
+    dc:title "Referent for Sportello Unico Attivita' Produttive"@en,
+        "Responsabile per Sportello Unico Attivita' Produttive"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/BRR803> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/marco-bosio> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/CKU85S> a covapit:Employment ;
+    dc:title "Referent for Servizi scolastici"@en,
+        "Responsabile per Servizi scolastici"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/CKU85S> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/emilio-scarpari> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/EB3YQ5> a covapit:Employment ;
+    dc:title "Referent for Servizio Protocollo e Archivio"@en,
+        "Responsabile per Servizio Protocollo e Archivio"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/EB3YQ5> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/simonetta-ventura> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/EBILB3> a covapit:Employment ;
+    dc:title "Referent for Settore Cultura e Servizi demografici"@en,
+        "Responsabile per Settore Cultura e Servizi demografici"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/EBILB3> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/raffaella-tessaro> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/F635KK> a covapit:Employment ;
+    dc:title "Referent for Settore Programmazione finanziaria e Tributi"@en,
+        "Responsabile per Settore Programmazione finanziaria e Tributi"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/F635KK> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/simonetta-ventura> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/FKIEFI> a covapit:Employment ;
+    dc:title "Referent for Settore gestione del Territorio"@en,
+        "Responsabile per Settore gestione del Territorio"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/FKIEFI> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/marco-bosio> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/HWVL7Q> a covapit:Employment ;
+    dc:title "Referent for Servizio Distribuzione gas"@en,
+        "Responsabile per Servizio Distribuzione gas"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/HWVL7Q> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/marco-bosio> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/I4F0IC> a covapit:Employment ;
+    dc:title "Referent for Farmacia di Palazzolo"@en,
+        "Responsabile per Farmacia di Palazzolo"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/I4F0IC> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/marco-rama> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/J0QQ9D> a covapit:Employment ;
+    dc:title "Referent for Urbanistica"@en,
+        "Responsabile per Urbanistica"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/J0QQ9D> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/marco-bosio> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/J4HC1K> a covapit:Employment ;
+    dc:title "Referent for Settore Tecnologici - Ecologia - Strade"@en,
+        "Responsabile per Settore Tecnologici - Ecologia - Strade"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/J4HC1K> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/stefano-baciga> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/JCG4HG> a covapit:Employment ;
+    dc:title "Referent for Farmacia di Sona"@en,
+        "Responsabile per Farmacia di Sona"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/JCG4HG> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/marco-rama> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/LB6G0G> a covapit:Employment ;
+    dc:title "Referent for Settore Amministrativo"@en,
+        "Responsabile per Settore Amministrativo"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/LB6G0G> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/anna-maria-gasparini> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/LOFKMC> a covapit:Employment ;
+    dc:title "Referent for URP"@en,
+        "Responsabile per URP"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/LOFKMC> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/anna-maria-gasparini> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/N75H9N> a covapit:Employment ;
+    dc:title "Referent for Ecologia"@en,
+        "Responsabile per Ecologia"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/N75H9N> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/stefano-baciga> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/QC00CE> a covapit:Employment ;
+    dc:title "Referent for Servizi Demografici"@en,
+        "Responsabile per Servizi Demografici"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/QC00CE> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/raffaella-tessaro> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/RB37D6> a covapit:Employment ;
+    dc:title "Referent for Settore Servizi al Cittadino"@en,
+        "Responsabile per Settore Servizi al Cittadino"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/RB37D6> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/massimo-giacomini> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/UF09I2> a covapit:Employment ;
+    dc:title "Referent for Uff_eFatturaPA"@en,
+        "Responsabile per Uff_eFatturaPA"@it ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor <https://w3id.org/sona/data/municipality/uo/UF09I2> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/referent/simonetta-ventura> ;
+    roapit:withRole role:referent .
+
+<https://w3id.org/sona/data/municipality/referent/fabio-dal-barco> a cpvapit:Person ;
+    dc:title "Fabio Dal Barco"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Dal Barco"^^xsd:string ;
+    cpvapit:givenName "Fabio"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/referent/9OPD0G> ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/fabio-dal-barco> .
+
+<https://w3id.org/sona/data/municipality/referent/gianluigi-mazzi> a cpvapit:Person ;
+    dc:title "Gianluigi Mazzi"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Mazzi"^^xsd:string ;
+    cpvapit:givenName "Gianluigi"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/referent/A6F8CED> ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/gianluigi-mazzi> .
+
+<https://w3id.org/sona/data/municipality/referent/massimo-giacomini> a cpvapit:Person ;
+    dc:title "Massimo Giacomini"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Giacomini"^^xsd:string ;
+    cpvapit:givenName "Massimo"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/referent/RB37D6> ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/massimo-giacomini> .
+
+<https://w3id.org/sona/data/municipality/referent/roberto-mori> a cpvapit:Person ;
+    dc:title "Roberto Mori"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Mori"^^xsd:string ;
+    cpvapit:givenName "Roberto"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/referent/4E6NEB> ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/roberto-mori> .
+
+<https://w3id.org/sona/data/municipality/uo/4E6NEB> a covapit:Office ;
+    dc:title "Settore Polizia locale"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/4E6NEB> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:officeIdentifier "4E6NEB"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/4E6NEB> .
+
+<https://w3id.org/sona/data/municipality/uo/9OPD0G> a covapit:Office ;
+    dc:title "Settore Lavori Pubblici"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/9OPD0G> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:officeIdentifier "9OPD0G"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/9OPD0G> .
+
+<https://w3id.org/sona/data/municipality/uo/AJYUGN> a covapit:Office ;
+    dc:title "Ufficio per la transizione al Digitale"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2017-11-27"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/AJYUGN> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:officeIdentifier "AJYUGN"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/AJYUGN> .
+
+<https://w3id.org/sona/data/municipality/uo/UF09I2> a covapit:Office ;
+    dc:title "Uff_eFatturaPA"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2014-03-05"^^xsd:date ;
+    covapit:hasEInvoiceService <https://w3id.org/sona/data/municipality/service/UF09I2> ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/UF09I2> ;
+    covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:officeIdentifier "UF09I2"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/UF09I2> .
+
+<https://w3id.org/sona/data/municipality/phone/0456091261> a smapit:Telephone ;
+    dc:title "0456091261"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091261"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/referent/emilio-scarpari> a cpvapit:Person ;
+    dc:title "Emilio Scarpari"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Scarpari"^^xsd:string ;
+    cpvapit:givenName "Emilio"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/referent/8UG4XS>,
+        <https://w3id.org/sona/data/municipality/referent/CKU85S> ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/emilio-scarpari> .
+
+<https://w3id.org/sona/data/municipality/referent/raffaella-tessaro> a cpvapit:Person ;
+    dc:title "Raffaella Tessaro"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Tessaro"^^xsd:string ;
+    cpvapit:givenName "Raffaella"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/referent/EBILB3>,
+        <https://w3id.org/sona/data/municipality/referent/QC00CE> ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/raffaella-tessaro> .
+
+<https://w3id.org/sona/data/municipality/uo/62M2HD> a covapit:Office ;
+    dc:title "Tributi"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/62M2HD> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236,
+        <https://w3id.org/sona/data/municipality/uo/F635KK> ;
+    covapit:officeIdentifier "62M2HD"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/62M2HD> .
+
+<https://w3id.org/sona/data/municipality/uo/8UG4XS> a covapit:Office ;
+    dc:title "Servizi Sociali"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/8UG4XS> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236,
+        <https://w3id.org/sona/data/municipality/uo/RB37D6> ;
+    covapit:officeIdentifier "8UG4XS"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/8UG4XS> .
+
+<https://w3id.org/sona/data/municipality/uo/9JIDKL> a covapit:Office ;
+    dc:title "Controllo di gestione"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/9JIDKL> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236,
+        <https://w3id.org/sona/data/municipality/uo/F635KK> ;
+    covapit:officeIdentifier "9JIDKL"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/9JIDKL> .
+
+<https://w3id.org/sona/data/municipality/uo/BA79FD> a covapit:Office ;
+    dc:title "Commercio ed Attivita' economiche"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/BA79FD> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236,
+        <https://w3id.org/sona/data/municipality/uo/F635KK> ;
+    covapit:officeIdentifier "BA79FD"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/BA79FD> .
+
+<https://w3id.org/sona/data/municipality/uo/BR2KBS> a covapit:Office ;
+    dc:title "Personale"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/BR2KBS> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236,
+        <https://w3id.org/sona/data/municipality/uo/LB6G0G> ;
+    covapit:officeIdentifier "BR2KBS"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/BR2KBS> .
+
+<https://w3id.org/sona/data/municipality/uo/BRR803> a covapit:Office ;
+    dc:title "Sportello Unico Attivita' Produttive"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/BRR803> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236,
+        <https://w3id.org/sona/data/municipality/uo/FKIEFI> ;
+    covapit:officeIdentifier "BRR803"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/BRR803> .
+
+<https://w3id.org/sona/data/municipality/uo/CKU85S> a covapit:Office ;
+    dc:title "Servizi scolastici"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/CKU85S> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236,
+        <https://w3id.org/sona/data/municipality/uo/RB37D6> ;
+    covapit:officeIdentifier "CKU85S"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/CKU85S> .
+
+<https://w3id.org/sona/data/municipality/uo/EB3YQ5> a covapit:Office ;
+    dc:title "Servizio Protocollo e Archivio"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2019-08-02"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/EB3YQ5> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236,
+        <https://w3id.org/sona/data/municipality/uo/F635KK> ;
+    covapit:officeIdentifier "EB3YQ5"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/EB3YQ5> .
+
+<https://w3id.org/sona/data/municipality/uo/EBILB3> a covapit:Office ;
+    dc:title "Settore Cultura e Servizi demografici"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:hasSupportUnit <https://w3id.org/sona/data/municipality/uo/QC00CE> ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/EBILB3> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:officeIdentifier "EBILB3"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/EBILB3> .
+
+<https://w3id.org/sona/data/municipality/uo/HWVL7Q> a covapit:Office ;
+    dc:title "Servizio Distribuzione gas"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2019-08-02"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/HWVL7Q> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236,
+        <https://w3id.org/sona/data/municipality/uo/FKIEFI> ;
+    covapit:officeIdentifier "HWVL7Q"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/HWVL7Q> .
+
+<https://w3id.org/sona/data/municipality/uo/I4F0IC> a covapit:Office ;
+    dc:title "Farmacia di Palazzolo"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/I4F0IC> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236,
+        <https://w3id.org/sona/data/municipality/uo/4ELMSE> ;
+    covapit:officeIdentifier "I4F0IC"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/I4F0IC> .
+
+<https://w3id.org/sona/data/municipality/uo/J0QQ9D> a covapit:Office ;
+    dc:title "Urbanistica"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/J0QQ9D> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236,
+        <https://w3id.org/sona/data/municipality/uo/FKIEFI> ;
+    covapit:officeIdentifier "J0QQ9D"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/J0QQ9D> .
+
+<https://w3id.org/sona/data/municipality/uo/J4HC1K> a covapit:Office ;
+    dc:title "Settore Tecnologici - Ecologia - Strade"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2019-08-02"^^xsd:date ;
+    covapit:hasSupportUnit <https://w3id.org/sona/data/municipality/uo/N75H9N> ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/J4HC1K> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:officeIdentifier "J4HC1K"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/J4HC1K> .
+
+<https://w3id.org/sona/data/municipality/uo/JCG4HG> a covapit:Office ;
+    dc:title "Farmacia di Sona"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/JCG4HG> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236,
+        <https://w3id.org/sona/data/municipality/uo/4ELMSE> ;
+    covapit:officeIdentifier "JCG4HG"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/JCG4HG> .
+
+<https://w3id.org/sona/data/municipality/uo/LOFKMC> a covapit:Office ;
+    dc:title "URP"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/LOFKMC> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236,
+        <https://w3id.org/sona/data/municipality/uo/LB6G0G> ;
+    covapit:officeIdentifier "LOFKMC"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/LOFKMC> .
+
+<https://w3id.org/sona/data/municipality/uo/N75H9N> a covapit:Office ;
+    dc:title "Ecologia"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/N75H9N> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236,
+        <https://w3id.org/sona/data/municipality/uo/J4HC1K> ;
+    covapit:officeIdentifier "N75H9N"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/N75H9N> .
+
+<https://w3id.org/sona/data/municipality/uo/QC00CE> a covapit:Office ;
+    dc:title "Servizi Demografici"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/QC00CE> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236,
+        <https://w3id.org/sona/data/municipality/uo/EBILB3> ;
+    covapit:officeIdentifier "QC00CE"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/QC00CE> .
+
+<https://w3id.org/sona/data/municipality/phone/0456091211> a smapit:Telephone ;
+    dc:title "0456091211"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:hasTelephoneType channel:03 ;
+    smapit:telephoneNumber "0456091211"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/referent/anna-maria-gasparini> a cpvapit:Person ;
+    dc:title "Anna Maria Gasparini"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Gasparini"^^xsd:string ;
+    cpvapit:givenName "Anna Maria"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/referent/BR2KBS>,
+        <https://w3id.org/sona/data/municipality/referent/LB6G0G>,
+        <https://w3id.org/sona/data/municipality/referent/LOFKMC> ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/anna-maria-gasparini> .
+
+<https://w3id.org/sona/data/municipality/referent/marco-rama> a cpvapit:Person ;
+    dc:title "Marco Rama"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Rama"^^xsd:string ;
+    cpvapit:givenName "Marco"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/referent/4ELMSE>,
+        <https://w3id.org/sona/data/municipality/referent/I4F0IC>,
+        <https://w3id.org/sona/data/municipality/referent/JCG4HG> ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/marco-rama> .
+
+<https://w3id.org/sona/data/municipality/referent/stefano-baciga> a cpvapit:Person ;
+    dc:title "Stefano Baciga"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Baciga"^^xsd:string ;
+    cpvapit:givenName "Stefano"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/referent/AJYUGN>,
+        <https://w3id.org/sona/data/municipality/referent/J4HC1K>,
+        <https://w3id.org/sona/data/municipality/referent/N75H9N> ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/stefano-baciga> .
+
+<https://w3id.org/sona/data/municipality/uo/4ELMSE> a covapit:Office ;
+    dc:title "Settore Farmaceutico"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:hasSupportUnit <https://w3id.org/sona/data/municipality/uo/I4F0IC>,
+        <https://w3id.org/sona/data/municipality/uo/JCG4HG> ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/4ELMSE> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:officeIdentifier "4ELMSE"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/4ELMSE> .
+
+<https://w3id.org/sona/data/municipality/uo/LB6G0G> a covapit:Office ;
+    dc:title "Settore Amministrativo"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:hasSupportUnit <https://w3id.org/sona/data/municipality/uo/BR2KBS>,
+        <https://w3id.org/sona/data/municipality/uo/LOFKMC> ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/LB6G0G> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:officeIdentifier "LB6G0G"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/LB6G0G> .
+
+<https://w3id.org/sona/data/municipality/uo/RB37D6> a covapit:Office ;
+    dc:title "Settore Servizi al Cittadino"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:hasSupportUnit <https://w3id.org/sona/data/municipality/uo/8UG4XS>,
+        <https://w3id.org/sona/data/municipality/uo/CKU85S> ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/RB37D6> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:officeIdentifier "RB37D6"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/RB37D6> .
+
+<https://w3id.org/sona/data/municipality/referent/marco-bosio> a cpvapit:Person ;
+    dc:title "Marco Bosio"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Bosio"^^xsd:string ;
+    cpvapit:givenName "Marco"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/referent/BRR803>,
+        <https://w3id.org/sona/data/municipality/referent/FKIEFI>,
+        <https://w3id.org/sona/data/municipality/referent/HWVL7Q>,
+        <https://w3id.org/sona/data/municipality/referent/J0QQ9D> ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/marco-bosio> .
+
+<https://w3id.org/sona/data/municipality/uo/FKIEFI> a covapit:Office ;
+    dc:title "Settore gestione del Territorio"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:hasSupportUnit <https://w3id.org/sona/data/municipality/uo/BRR803>,
+        <https://w3id.org/sona/data/municipality/uo/HWVL7Q>,
+        <https://w3id.org/sona/data/municipality/uo/J0QQ9D> ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/FKIEFI> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:officeIdentifier "FKIEFI"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/FKIEFI> .
+
+<https://w3id.org/sona/data/municipality/uo/F635KK> a covapit:Office ;
+    dc:title "Settore Programmazione finanziaria e Tributi"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:foundationDate "2013-12-23"^^xsd:date ;
+    covapit:hasSupportUnit <https://w3id.org/sona/data/municipality/uo/62M2HD>,
+        <https://w3id.org/sona/data/municipality/uo/9JIDKL>,
+        <https://w3id.org/sona/data/municipality/uo/BA79FD>,
+        <https://w3id.org/sona/data/municipality/uo/EB3YQ5> ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/F635KK> ;
+    covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:officeIdentifier "F635KK"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/F635KK> .
+
+<https://w3id.org/sona/data/municipality/referent/simonetta-ventura> a cpvapit:Person ;
+    dc:title "Simonetta Ventura"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Ventura"^^xsd:string ;
+    cpvapit:givenName "Simonetta"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/referent/62M2HD>,
+        <https://w3id.org/sona/data/municipality/referent/9JIDKL>,
+        <https://w3id.org/sona/data/municipality/referent/BA79FD>,
+        <https://w3id.org/sona/data/municipality/referent/EB3YQ5>,
+        <https://w3id.org/sona/data/municipality/referent/F635KK>,
+        <https://w3id.org/sona/data/municipality/referent/UF09I2> ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/simonetta-ventura> .
+
+<https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> a smapit:Email ;
+    dc:title "sona.vr@cert.ip-veneto.net"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:sona.vr@cert.ip-veneto.net"^^xsd:anyURI ;
+    smapit:hasEmailType channel:041 .
+
+<https://w3id.org/sona/data/municipality/aoo/A6F8CED> a covapit:HomogeneousOrganizationalArea ;
+    dc:title "Comune di Sona"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:AOOIdentifier "A6F8CED"^^xsd:string ;
+    covapit:foundationDate "2006-02-16"^^xsd:date ;
+    covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/A6F8CED> ;
+    covapit:isSupportUnitOf municipality:00500760236 ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/A6F8CED> .
+
+municipality: skos:hasTopConcept <https://w3id.org/sona/data/municipality/aoo/A6F8CED>,
+        <https://w3id.org/sona/data/municipality/referent/anna-maria-gasparini>,
+        <https://w3id.org/sona/data/municipality/referent/emilio-scarpari>,
+        <https://w3id.org/sona/data/municipality/referent/fabio-dal-barco>,
+        <https://w3id.org/sona/data/municipality/referent/gianluigi-mazzi>,
+        <https://w3id.org/sona/data/municipality/referent/marco-bosio>,
+        <https://w3id.org/sona/data/municipality/referent/marco-rama>,
+        <https://w3id.org/sona/data/municipality/referent/massimo-giacomini>,
+        <https://w3id.org/sona/data/municipality/referent/raffaella-tessaro>,
+        <https://w3id.org/sona/data/municipality/referent/roberto-mori>,
+        <https://w3id.org/sona/data/municipality/referent/simonetta-ventura>,
+        <https://w3id.org/sona/data/municipality/referent/stefano-baciga>,
+        <https://w3id.org/sona/data/municipality/uo/4E6NEB>,
+        <https://w3id.org/sona/data/municipality/uo/4ELMSE>,
+        <https://w3id.org/sona/data/municipality/uo/62M2HD>,
+        <https://w3id.org/sona/data/municipality/uo/8UG4XS>,
+        <https://w3id.org/sona/data/municipality/uo/9JIDKL>,
+        <https://w3id.org/sona/data/municipality/uo/9OPD0G>,
+        <https://w3id.org/sona/data/municipality/uo/AJYUGN>,
+        <https://w3id.org/sona/data/municipality/uo/BA79FD>,
+        <https://w3id.org/sona/data/municipality/uo/BR2KBS>,
+        <https://w3id.org/sona/data/municipality/uo/BRR803>,
+        <https://w3id.org/sona/data/municipality/uo/CKU85S>,
+        <https://w3id.org/sona/data/municipality/uo/EB3YQ5>,
+        <https://w3id.org/sona/data/municipality/uo/EBILB3>,
+        <https://w3id.org/sona/data/municipality/uo/F635KK>,
+        <https://w3id.org/sona/data/municipality/uo/FKIEFI>,
+        <https://w3id.org/sona/data/municipality/uo/HWVL7Q>,
+        <https://w3id.org/sona/data/municipality/uo/I4F0IC>,
+        <https://w3id.org/sona/data/municipality/uo/J0QQ9D>,
+        <https://w3id.org/sona/data/municipality/uo/J4HC1K>,
+        <https://w3id.org/sona/data/municipality/uo/JCG4HG>,
+        <https://w3id.org/sona/data/municipality/uo/LB6G0G>,
+        <https://w3id.org/sona/data/municipality/uo/LOFKMC>,
+        <https://w3id.org/sona/data/municipality/uo/N75H9N>,
+        <https://w3id.org/sona/data/municipality/uo/QC00CE>,
+        <https://w3id.org/sona/data/municipality/uo/RB37D6>,
+        <https://w3id.org/sona/data/municipality/uo/UF09I2> .
+

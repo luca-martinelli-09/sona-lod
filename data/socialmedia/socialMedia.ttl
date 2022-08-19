@@ -1,0 +1,53 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix smapit: <https://w3id.org/italia/onto/SM/> .
+@prefix social: <https://w3id.org/sona/data/social/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+social:facebook a smapit:SocialMedia ;
+    dc:title "Facebook"^^xsd:string ;
+    skos:inScheme social: ;
+    smapit:socialMediaName "Facebook"^^xsd:string .
+
+social:instagram a smapit:SocialMedia ;
+    dc:title "Instagram"^^xsd:string ;
+    skos:inScheme social: ;
+    smapit:socialMediaName "Instagram"^^xsd:string .
+
+social:linkedin a smapit:SocialMedia ;
+    dc:title "Linkedin"^^xsd:string ;
+    skos:inScheme social: ;
+    smapit:socialMediaName "Linkedin"^^xsd:string .
+
+social:telegram a smapit:SocialMedia ;
+    dc:title "Telegram"^^xsd:string ;
+    skos:inScheme social: ;
+    smapit:socialMediaName "Telegram"^^xsd:string .
+
+social:twitter a smapit:SocialMedia ;
+    dc:title "Twitter"^^xsd:string ;
+    skos:inScheme social: ;
+    smapit:socialMediaName "Twitter"^^xsd:string .
+
+social:whatsapp a smapit:SocialMedia ;
+    dc:title "WhatsApp"^^xsd:string ;
+    skos:inScheme social: ;
+    smapit:socialMediaName "WhatsApp"^^xsd:string .
+
+social:youtube a smapit:SocialMedia ;
+    dc:title "YouTube"^^xsd:string ;
+    skos:inScheme social: ;
+    smapit:socialMediaName "YouTube"^^xsd:string .
+
+social: a skos:ConceptScheme ;
+    rdfs:label "Social Media"^^xsd:string ;
+    dc:creator <https://w3id.org/people/lucamartinelli> ;
+    skos:hasTopConcept social:facebook,
+        social:instagram,
+        social:linkedin,
+        social:telegram,
+        social:twitter,
+        social:whatsapp,
+        social:youtube .
+

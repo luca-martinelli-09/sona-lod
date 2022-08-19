@@ -1,0 +1,52 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix l0: <https://w3id.org/italia/onto/l0/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix roapit: <https://w3id.org/italia/onto/RO/> .
+@prefix role: <https://w3id.org/sona/data/role/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+role:commissioner a roapit:Role ;
+    dc:title "Commissioner"@en,
+        "Commissario"@it ;
+    skos:inScheme role: ;
+    l0:name "Commissioner"@en,
+        "Commissario"@it .
+
+role:mayor a roapit:Role ;
+    dc:title "Mayor"@en,
+        "Sindaco"@it ;
+    skos:inScheme role: ;
+    l0:name "Mayor"@en,
+        "Sindaco"@it .
+
+role:podesta a roapit:Role ;
+    dc:title "Podesta"@en,
+        "Podestà"@it ;
+    skos:inScheme role: ;
+    l0:name "Podesta"@en,
+        "Podestà"@it .
+
+role:president a roapit:Role ;
+    dc:title "President"@en,
+        "Presidente"@it ;
+    skos:inScheme role: ;
+    l0:name "President"@en,
+        "Presidente"@it .
+
+role:referent a roapit:Role ;
+    dc:title "Referent"@en,
+        "Responsabile"@it ;
+    skos:inScheme role: ;
+    l0:name "Referent"@en,
+        "Responsabile"@it .
+
+role: a skos:ConceptScheme ;
+    rdfs:label "Roles"@en,
+        "Ruoli"@it ;
+    dc:creator <https://w3id.org/people/lucamartinelli> ;
+    skos:hasTopConcept role:commissioner,
+        role:mayor,
+        role:podesta,
+        role:president,
+        role:referent .
+

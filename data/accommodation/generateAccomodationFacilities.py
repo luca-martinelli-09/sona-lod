@@ -34,8 +34,6 @@ from ontopia_py.cpv import *
 
 config = getConfig("../../conf.ini")
 
-BASE_URL = config.get("API", "base_url")
-
 # Create graph
 g = createGraph()
 
@@ -59,14 +57,12 @@ ACCOMMODATION_DATA.addToGraph(g)
 datasetID = config.get("ACCOMMODATIONS", "dataset")
 
 # Accomodation facilities
-accommodationFacilities = getOpenData(
-    BASE_URL, datasetID, config.get("ACCOMMODATIONS", "accommodation_facilities"), dtype={'IVA': str, 'TELEFONO': str, 'STELLE': str, 'FAX': str})
+accommodationFacilities = getOpenData(datasetID, config.get("ACCOMMODATIONS", "accommodation_facilities"), dtype={'IVA': str, 'TELEFONO': str, 'STELLE': str, 'FAX': str})
 accommodationFacilities = accommodationFacilities.set_index(
     ["CODICE_IDENTIFICATIVO"])
 
 # Resorts
-resorts = getOpenData(
-    BASE_URL, datasetID, config.get("ACCOMMODATIONS", "resorts"), dtype={'IVA': str})
+resorts = getOpenData(datasetID, config.get("ACCOMMODATIONS", "resorts"), dtype={'IVA': str})
 resorts = resorts.set_index(["CODICE_ALLOGGIO"])
 
 # %%

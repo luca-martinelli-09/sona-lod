@@ -1,0 +1,563 @@
+@prefix covapit: <https://w3id.org/italia/onto/COV/> .
+@prefix cpvapit: <https://w3id.org/italia/onto/CPV/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix municipality: <https://w3id.org/sona/data/municipality/> .
+@prefix roapit: <https://w3id.org/italia/onto/RO/> .
+@prefix role: <https://w3id.org/sona/data/role/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix tiapit: <https://w3id.org/italia/onto/TI/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/sona/data/municipality/ti/1866-10-21-1885-11-7> a tiapit:TimeInterval ;
+    dc:title "1866-10-21 - 1885-11-7"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1885-11-01"^^xsd:date ;
+    tiapit:startTime "1866-10-21"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1885-01-01-1893-11-13> a tiapit:TimeInterval ;
+    dc:title "1885-01-01 - 1893-11-13"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1893-11-13"^^xsd:date ;
+    tiapit:startTime "1885-01-01"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1893-01-01-1907-09-10> a tiapit:TimeInterval ;
+    dc:title "1893-01-01 - 1907-09-10"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1907-09-10"^^xsd:date ;
+    tiapit:startTime "1893-01-01"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1907-09-10-1914-08-11> a tiapit:TimeInterval ;
+    dc:title "1907-09-10 - 1914-08-11"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1914-08-11"^^xsd:date ;
+    tiapit:startTime "1907-09-10"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1914-08-12-1920-10-7> a tiapit:TimeInterval ;
+    dc:title "1914-08-12 - 1920-10-7"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1920-10-01"^^xsd:date ;
+    tiapit:startTime "1914-08-12"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1920-10-8-1923-07-15> a tiapit:TimeInterval ;
+    dc:title "1920-10-8 - 1923-07-15"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1923-07-15"^^xsd:date ;
+    tiapit:startTime "1920-10-01"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1923-07-18-1927-04-19> a tiapit:TimeInterval ;
+    dc:title "1923-07-18 - 1927-04-19"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1927-04-19"^^xsd:date ;
+    tiapit:startTime "1923-07-18"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1927-04-20-1942-04-17> a tiapit:TimeInterval ;
+    dc:title "1927-04-20 - 1942-04-17"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1942-04-17"^^xsd:date ;
+    tiapit:startTime "1927-04-20"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1942-05-14-1942-07-9> a tiapit:TimeInterval ;
+    dc:title "1942-05-14 - 1942-07-9"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1942-07-01"^^xsd:date ;
+    tiapit:startTime "1942-05-14"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1942-07-8-1943-09-24> a tiapit:TimeInterval ;
+    dc:title "1942-07-8 - 1943-09-24"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1943-09-24"^^xsd:date ;
+    tiapit:startTime "1942-07-01"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1943-10-30-1945-04-28> a tiapit:TimeInterval ;
+    dc:title "1943-10-30 - 1945-04-28"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1945-04-28"^^xsd:date ;
+    tiapit:startTime "1943-10-30"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1945-04-29-1946-03-23> a tiapit:TimeInterval ;
+    dc:title "1945-04-29 - 1946-03-23"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1946-03-23"^^xsd:date ;
+    tiapit:startTime "1945-04-29"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1946-03-24-1960-11-6> a tiapit:TimeInterval ;
+    dc:title "1946-03-24 - 1960-11-6"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1960-11-01"^^xsd:date ;
+    tiapit:startTime "1946-03-24"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1960-11-7-1975-06-20> a tiapit:TimeInterval ;
+    dc:title "1960-11-7 - 1975-06-20"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1975-06-20"^^xsd:date ;
+    tiapit:startTime "1960-11-01"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1975-06-21-1980-06-8> a tiapit:TimeInterval ;
+    dc:title "1975-06-21 - 1980-06-8"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1980-06-01"^^xsd:date ;
+    tiapit:startTime "1975-06-21"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1980-06-9-1985-05-12> a tiapit:TimeInterval ;
+    dc:title "1980-06-9 - 1985-05-12"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1985-05-12"^^xsd:date ;
+    tiapit:startTime "1980-06-01"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1985-05-12-1992-10-15> a tiapit:TimeInterval ;
+    dc:title "1985-05-12 - 1992-10-15"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1992-10-15"^^xsd:date ;
+    tiapit:startTime "1985-05-12"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1992-10-16-1995-04-23> a tiapit:TimeInterval ;
+    dc:title "1992-10-16 - 1995-04-23"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1995-04-23"^^xsd:date ;
+    tiapit:startTime "1992-10-16"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1995-04-24-1997-07-13> a tiapit:TimeInterval ;
+    dc:title "1995-04-24 - 1997-07-13"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1997-07-13"^^xsd:date ;
+    tiapit:startTime "1995-04-24"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1997-07-14-1998-11-29> a tiapit:TimeInterval ;
+    dc:title "1997-07-14 - 1998-11-29"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "1998-11-29"^^xsd:date ;
+    tiapit:startTime "1997-07-14"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/1998-11-30-2003-05-26> a tiapit:TimeInterval ;
+    dc:title "1998-11-30 - 2003-05-26"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "2003-05-26"^^xsd:date ;
+    tiapit:startTime "1998-11-30"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/2003-05-27-2008-04-14> a tiapit:TimeInterval ;
+    dc:title "2003-05-27 - 2008-04-14"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "2008-04-14"^^xsd:date ;
+    tiapit:startTime "2003-05-27"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/2008-04-15-2013-06-10> a tiapit:TimeInterval ;
+    dc:title "2008-04-15 - 2013-06-10"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:endTime "2013-06-10"^^xsd:date ;
+    tiapit:startTime "2008-04-15"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/ti/2013-06-11> a tiapit:TimeInterval ;
+    dc:title "2013-06-11 - nan"^^xsd:string ;
+    skos:inScheme municipality: ;
+    tiapit:startTime "2013-06-11"^^xsd:date .
+
+<https://w3id.org/sona/data/municipality/mayor/achille-antonio-fiorini-1885-01-01-1893-11-13> a covapit:Employment ;
+    dc:title "Achille Antonio Fiorini (1885-01-01 - 1893-11-13)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/achille-antonio-fiorini> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1885-01-01-1893-11-13> .
+
+<https://w3id.org/sona/data/municipality/mayor/alfonso-rinaldi-1943-10-30-1945-04-28> a covapit:Employment ;
+    dc:title "Alfonso Rinaldi (1943-10-30 - 1945-04-28)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/alfonso-rinaldi> ;
+    roapit:withRole role:commissioner ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1943-10-30-1945-04-28> .
+
+<https://w3id.org/sona/data/municipality/mayor/angelo-boscaini-1985-05-12-1992-10-15> a covapit:Employment ;
+    dc:title "Angelo Boscaini (1985-05-12 - 1992-10-15)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/angelo-boscaini> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1985-05-12-1992-10-15> .
+
+<https://w3id.org/sona/data/municipality/mayor/carlo-scattolini-1960-11-7-1975-06-20> a covapit:Employment ;
+    dc:title "Carlo Scattolini (1960-11-7 - 1975-06-20)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/carlo-scattolini> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1960-11-7-1975-06-20> .
+
+<https://w3id.org/sona/data/municipality/mayor/ferdinando-sparavieri-1893-01-01-1907-09-10> a covapit:Employment ;
+    dc:title "Ferdinando Sparavieri (1893-01-01 - 1907-09-10)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/ferdinando-sparavieri> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1893-01-01-1907-09-10> .
+
+<https://w3id.org/sona/data/municipality/mayor/flavio-bonometti-2003-05-27-2008-04-14> a covapit:Employment ;
+    dc:title "Flavio Bonometti (2003-05-27 - 2008-04-14)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/flavio-bonometti> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/2003-05-27-2008-04-14> .
+
+<https://w3id.org/sona/data/municipality/mayor/franco-conti-1995-04-24-1997-07-13> a covapit:Employment ;
+    dc:title "Franco Conti (1995-04-24 - 1997-07-13)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/franco-conti> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1995-04-24-1997-07-13> .
+
+<https://w3id.org/sona/data/municipality/mayor/gaetano-mondini-1923-07-18-1927-04-19> a covapit:Employment ;
+    dc:title "Gaetano Mondini (1923-07-18 - 1927-04-19)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/gaetano-mondini> ;
+    roapit:withRole role:commissioner ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1923-07-18-1927-04-19> .
+
+<https://w3id.org/sona/data/municipality/mayor/giacinto-zampieri-1920-10-8-1923-07-15> a covapit:Employment ;
+    dc:title "Giacinto Zampieri (1920-10-8 - 1923-07-15)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/giacinto-zampieri> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1920-10-8-1923-07-15> .
+
+<https://w3id.org/sona/data/municipality/mayor/gianluigi-mazzi-2013-06-11> a covapit:Employment ;
+    dc:title "Gianluigi Mazzi (2013-06-11 - nan)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/gianluigi-mazzi> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/2013-06-11> .
+
+<https://w3id.org/sona/data/municipality/mayor/giorgio-gatto-1980-06-9-1985-05-12> a covapit:Employment ;
+    dc:title "Giorgio Gatto (1980-06-9 - 1985-05-12)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/giorgio-gatto> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1980-06-9-1985-05-12> .
+
+<https://w3id.org/sona/data/municipality/mayor/giovanni-ledro-1946-03-24-1960-11-6> a covapit:Employment ;
+    dc:title "Giovanni Ledro (1946-03-24 - 1960-11-6)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/giovanni-ledro> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1946-03-24-1960-11-6> .
+
+<https://w3id.org/sona/data/municipality/mayor/giuseppe-manzini-1945-04-29-1946-03-23> a covapit:Employment ;
+    dc:title "Giuseppe Manzini (1945-04-29 - 1946-03-23)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/giuseppe-manzini> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1945-04-29-1946-03-23> .
+
+<https://w3id.org/sona/data/municipality/mayor/gualtiero-mazzi-2008-04-15-2013-06-10> a covapit:Employment ;
+    dc:title "Gualtiero Mazzi (2008-04-15 - 2013-06-10)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/gualtiero-mazzi> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/2008-04-15-2013-06-10> .
+
+<https://w3id.org/sona/data/municipality/mayor/guglielmo-innocenti-1942-07-8-1943-09-24> a covapit:Employment ;
+    dc:title "Guglielmo Innocenti (1942-07-8 - 1943-09-24)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/guglielmo-innocenti> ;
+    roapit:withRole role:podesta ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1942-07-8-1943-09-24> .
+
+<https://w3id.org/sona/data/municipality/mayor/luigi-tonelato-1927-04-20-1942-04-17> a covapit:Employment ;
+    dc:title "Luigi Tonelato (1927-04-20 - 1942-04-17)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/luigi-tonelato> ;
+    roapit:withRole role:podesta ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1927-04-20-1942-04-17> .
+
+<https://w3id.org/sona/data/municipality/mayor/maria-rosa-morone-1997-07-14-1998-11-29> a covapit:Employment ;
+    dc:title "Maria Rosa Morone (1997-07-14 - 1998-11-29)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/maria-rosa-morone> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1997-07-14-1998-11-29> .
+
+<https://w3id.org/sona/data/municipality/mayor/michelangelo-aldrighetti-1992-10-16-1995-04-23> a covapit:Employment ;
+    dc:title "Michelangelo Aldrighetti (1992-10-16 - 1995-04-23)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/michelangelo-aldrighetti> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1992-10-16-1995-04-23> .
+
+<https://w3id.org/sona/data/municipality/mayor/raffaele-tomelleri-1998-11-30-2003-05-26> a covapit:Employment ;
+    dc:title "Raffaele Tomelleri (1998-11-30 - 2003-05-26)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/raffaele-tomelleri> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1998-11-30-2003-05-26> .
+
+<https://w3id.org/sona/data/municipality/mayor/renato-salvetti-1975-06-21-1980-06-8> a covapit:Employment ;
+    dc:title "Renato Salvetti (1975-06-21 - 1980-06-8)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/renato-salvetti> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1975-06-21-1980-06-8> .
+
+<https://w3id.org/sona/data/municipality/mayor/sante-cappellani-1942-05-14-1942-07-9> a covapit:Employment ;
+    dc:title "Sante Cappellani (1942-05-14 - 1942-07-9)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/sante-cappellani> ;
+    roapit:withRole role:commissioner ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1942-05-14-1942-07-9> .
+
+<https://w3id.org/sona/data/municipality/mayor/temistocle-raineri-1914-08-12-1920-10-7> a covapit:Employment ;
+    dc:title "Temistocle Raineri (1914-08-12 - 1920-10-7)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/temistocle-raineri> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1914-08-12-1920-10-7> .
+
+<https://w3id.org/sona/data/municipality/mayor/vincenzo-svidercoschi-1866-10-21-1885-11-7> a covapit:Employment ;
+    dc:title "Vincenzo Svidercoschi (1866-10-21 - 1885-11-7)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/vincenzo-svidercoschi> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1866-10-21-1885-11-7> .
+
+<https://w3id.org/sona/data/municipality/mayor/vittorio-merighi-1907-09-10-1914-08-11> a covapit:Employment ;
+    dc:title "Vittorio Merighi (1907-09-10 - 1914-08-11)"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:employmentFor municipality:00500760236 ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/municipality/person/vittorio-merighi> ;
+    roapit:withRole role:mayor ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/municipality/ti/1907-09-10-1914-08-11> .
+
+<https://w3id.org/sona/data/municipality/person/achille-antonio-fiorini> a cpvapit:Person ;
+    dc:title "Achille Antonio Fiorini"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Fiorini"^^xsd:string ;
+    cpvapit:givenName "Achille Antonio"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/achille-antonio-fiorini-1885-01-01-1893-11-13> .
+
+<https://w3id.org/sona/data/municipality/person/alfonso-rinaldi> a cpvapit:Person ;
+    dc:title "Alfonso Rinaldi"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Rinaldi"^^xsd:string ;
+    cpvapit:givenName "Alfonso"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/alfonso-rinaldi-1943-10-30-1945-04-28> .
+
+<https://w3id.org/sona/data/municipality/person/angelo-boscaini> a cpvapit:Person ;
+    dc:title "Angelo Boscaini"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Boscaini"^^xsd:string ;
+    cpvapit:givenName "Angelo"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/angelo-boscaini-1985-05-12-1992-10-15> .
+
+<https://w3id.org/sona/data/municipality/person/carlo-scattolini> a cpvapit:Person ;
+    dc:title "Carlo Scattolini"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Scattolini"^^xsd:string ;
+    cpvapit:givenName "Carlo"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/carlo-scattolini-1960-11-7-1975-06-20> .
+
+<https://w3id.org/sona/data/municipality/person/ferdinando-sparavieri> a cpvapit:Person ;
+    dc:title "Ferdinando Sparavieri"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Sparavieri"^^xsd:string ;
+    cpvapit:givenName "Ferdinando"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/ferdinando-sparavieri-1893-01-01-1907-09-10> .
+
+<https://w3id.org/sona/data/municipality/person/flavio-bonometti> a cpvapit:Person ;
+    dc:title "Flavio Bonometti"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Bonometti"^^xsd:string ;
+    cpvapit:givenName "Flavio"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/flavio-bonometti-2003-05-27-2008-04-14> .
+
+<https://w3id.org/sona/data/municipality/person/franco-conti> a cpvapit:Person ;
+    dc:title "Franco Conti"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Conti"^^xsd:string ;
+    cpvapit:givenName "Franco"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/franco-conti-1995-04-24-1997-07-13> .
+
+<https://w3id.org/sona/data/municipality/person/gaetano-mondini> a cpvapit:Person ;
+    dc:title "Gaetano Mondini"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Mondini"^^xsd:string ;
+    cpvapit:givenName "Gaetano"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/gaetano-mondini-1923-07-18-1927-04-19> .
+
+<https://w3id.org/sona/data/municipality/person/giacinto-zampieri> a cpvapit:Person ;
+    dc:title "Giacinto Zampieri"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Zampieri"^^xsd:string ;
+    cpvapit:givenName "Giacinto"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/giacinto-zampieri-1920-10-8-1923-07-15> .
+
+<https://w3id.org/sona/data/municipality/person/gianluigi-mazzi> a cpvapit:Person ;
+    dc:title "Gianluigi Mazzi"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Mazzi"^^xsd:string ;
+    cpvapit:givenName "Gianluigi"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/gianluigi-mazzi-2013-06-11> .
+
+<https://w3id.org/sona/data/municipality/person/giorgio-gatto> a cpvapit:Person ;
+    dc:title "Giorgio Gatto"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Gatto"^^xsd:string ;
+    cpvapit:givenName "Giorgio"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/giorgio-gatto-1980-06-9-1985-05-12> .
+
+<https://w3id.org/sona/data/municipality/person/giovanni-ledro> a cpvapit:Person ;
+    dc:title "Giovanni Ledro"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Ledro"^^xsd:string ;
+    cpvapit:givenName "Giovanni"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/giovanni-ledro-1946-03-24-1960-11-6> .
+
+<https://w3id.org/sona/data/municipality/person/giuseppe-manzini> a cpvapit:Person ;
+    dc:title "Giuseppe Manzini"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Manzini"^^xsd:string ;
+    cpvapit:givenName "Giuseppe"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/giuseppe-manzini-1945-04-29-1946-03-23> .
+
+<https://w3id.org/sona/data/municipality/person/gualtiero-mazzi> a cpvapit:Person ;
+    dc:title "Gualtiero Mazzi"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Mazzi"^^xsd:string ;
+    cpvapit:givenName "Gualtiero"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/gualtiero-mazzi-2008-04-15-2013-06-10> .
+
+<https://w3id.org/sona/data/municipality/person/guglielmo-innocenti> a cpvapit:Person ;
+    dc:title "Guglielmo Innocenti"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Innocenti"^^xsd:string ;
+    cpvapit:givenName "Guglielmo"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/guglielmo-innocenti-1942-07-8-1943-09-24> .
+
+<https://w3id.org/sona/data/municipality/person/luigi-tonelato> a cpvapit:Person ;
+    dc:title "Luigi Tonelato"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Tonelato"^^xsd:string ;
+    cpvapit:givenName "Luigi"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/luigi-tonelato-1927-04-20-1942-04-17> .
+
+<https://w3id.org/sona/data/municipality/person/maria-rosa-morone> a cpvapit:Person ;
+    dc:title "Maria Rosa Morone"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Morone"^^xsd:string ;
+    cpvapit:givenName "Maria Rosa"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/maria-rosa-morone-1997-07-14-1998-11-29> .
+
+<https://w3id.org/sona/data/municipality/person/michelangelo-aldrighetti> a cpvapit:Person ;
+    dc:title "Michelangelo Aldrighetti"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Aldrighetti"^^xsd:string ;
+    cpvapit:givenName "Michelangelo"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/michelangelo-aldrighetti-1992-10-16-1995-04-23> .
+
+<https://w3id.org/sona/data/municipality/person/raffaele-tomelleri> a cpvapit:Person ;
+    dc:title "Raffaele Tomelleri"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Tomelleri"^^xsd:string ;
+    cpvapit:givenName "Raffaele"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/raffaele-tomelleri-1998-11-30-2003-05-26> .
+
+<https://w3id.org/sona/data/municipality/person/renato-salvetti> a cpvapit:Person ;
+    dc:title "Renato Salvetti"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Salvetti"^^xsd:string ;
+    cpvapit:givenName "Renato"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/renato-salvetti-1975-06-21-1980-06-8> .
+
+<https://w3id.org/sona/data/municipality/person/sante-cappellani> a cpvapit:Person ;
+    dc:title "Sante Cappellani"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Cappellani"^^xsd:string ;
+    cpvapit:givenName "Sante"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/sante-cappellani-1942-05-14-1942-07-9> .
+
+<https://w3id.org/sona/data/municipality/person/temistocle-raineri> a cpvapit:Person ;
+    dc:title "Temistocle Raineri"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Raineri"^^xsd:string ;
+    cpvapit:givenName "Temistocle"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/temistocle-raineri-1914-08-12-1920-10-7> .
+
+<https://w3id.org/sona/data/municipality/person/vincenzo-svidercoschi> a cpvapit:Person ;
+    dc:title "Vincenzo Svidercoschi"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Svidercoschi"^^xsd:string ;
+    cpvapit:givenName "Vincenzo"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/vincenzo-svidercoschi-1866-10-21-1885-11-7> .
+
+<https://w3id.org/sona/data/municipality/person/vittorio-merighi> a cpvapit:Person ;
+    dc:title "Vittorio Merighi"^^xsd:string ;
+    skos:inScheme municipality: ;
+    cpvapit:familyName "Merighi"^^xsd:string ;
+    cpvapit:givenName "Vittorio"^^xsd:string ;
+    roapit:holdsRoleInTime <https://w3id.org/sona/data/municipality/mayor/vittorio-merighi-1907-09-10-1914-08-11> .
+
+municipality:00500760236 covapit:holdEmployment <https://w3id.org/sona/data/municipality/mayor/achille-antonio-fiorini-1885-01-01-1893-11-13>,
+        <https://w3id.org/sona/data/municipality/mayor/alfonso-rinaldi-1943-10-30-1945-04-28>,
+        <https://w3id.org/sona/data/municipality/mayor/angelo-boscaini-1985-05-12-1992-10-15>,
+        <https://w3id.org/sona/data/municipality/mayor/carlo-scattolini-1960-11-7-1975-06-20>,
+        <https://w3id.org/sona/data/municipality/mayor/ferdinando-sparavieri-1893-01-01-1907-09-10>,
+        <https://w3id.org/sona/data/municipality/mayor/flavio-bonometti-2003-05-27-2008-04-14>,
+        <https://w3id.org/sona/data/municipality/mayor/franco-conti-1995-04-24-1997-07-13>,
+        <https://w3id.org/sona/data/municipality/mayor/gaetano-mondini-1923-07-18-1927-04-19>,
+        <https://w3id.org/sona/data/municipality/mayor/giacinto-zampieri-1920-10-8-1923-07-15>,
+        <https://w3id.org/sona/data/municipality/mayor/gianluigi-mazzi-2013-06-11>,
+        <https://w3id.org/sona/data/municipality/mayor/giorgio-gatto-1980-06-9-1985-05-12>,
+        <https://w3id.org/sona/data/municipality/mayor/giovanni-ledro-1946-03-24-1960-11-6>,
+        <https://w3id.org/sona/data/municipality/mayor/giuseppe-manzini-1945-04-29-1946-03-23>,
+        <https://w3id.org/sona/data/municipality/mayor/gualtiero-mazzi-2008-04-15-2013-06-10>,
+        <https://w3id.org/sona/data/municipality/mayor/guglielmo-innocenti-1942-07-8-1943-09-24>,
+        <https://w3id.org/sona/data/municipality/mayor/luigi-tonelato-1927-04-20-1942-04-17>,
+        <https://w3id.org/sona/data/municipality/mayor/maria-rosa-morone-1997-07-14-1998-11-29>,
+        <https://w3id.org/sona/data/municipality/mayor/michelangelo-aldrighetti-1992-10-16-1995-04-23>,
+        <https://w3id.org/sona/data/municipality/mayor/raffaele-tomelleri-1998-11-30-2003-05-26>,
+        <https://w3id.org/sona/data/municipality/mayor/renato-salvetti-1975-06-21-1980-06-8>,
+        <https://w3id.org/sona/data/municipality/mayor/sante-cappellani-1942-05-14-1942-07-9>,
+        <https://w3id.org/sona/data/municipality/mayor/temistocle-raineri-1914-08-12-1920-10-7>,
+        <https://w3id.org/sona/data/municipality/mayor/vincenzo-svidercoschi-1866-10-21-1885-11-7>,
+        <https://w3id.org/sona/data/municipality/mayor/vittorio-merighi-1907-09-10-1914-08-11> .
+
+municipality: skos:hasTopConcept <https://w3id.org/sona/data/municipality/person/achille-antonio-fiorini>,
+        <https://w3id.org/sona/data/municipality/person/alfonso-rinaldi>,
+        <https://w3id.org/sona/data/municipality/person/angelo-boscaini>,
+        <https://w3id.org/sona/data/municipality/person/carlo-scattolini>,
+        <https://w3id.org/sona/data/municipality/person/ferdinando-sparavieri>,
+        <https://w3id.org/sona/data/municipality/person/flavio-bonometti>,
+        <https://w3id.org/sona/data/municipality/person/franco-conti>,
+        <https://w3id.org/sona/data/municipality/person/gaetano-mondini>,
+        <https://w3id.org/sona/data/municipality/person/giacinto-zampieri>,
+        <https://w3id.org/sona/data/municipality/person/gianluigi-mazzi>,
+        <https://w3id.org/sona/data/municipality/person/giorgio-gatto>,
+        <https://w3id.org/sona/data/municipality/person/giovanni-ledro>,
+        <https://w3id.org/sona/data/municipality/person/giuseppe-manzini>,
+        <https://w3id.org/sona/data/municipality/person/gualtiero-mazzi>,
+        <https://w3id.org/sona/data/municipality/person/guglielmo-innocenti>,
+        <https://w3id.org/sona/data/municipality/person/luigi-tonelato>,
+        <https://w3id.org/sona/data/municipality/person/maria-rosa-morone>,
+        <https://w3id.org/sona/data/municipality/person/michelangelo-aldrighetti>,
+        <https://w3id.org/sona/data/municipality/person/raffaele-tomelleri>,
+        <https://w3id.org/sona/data/municipality/person/renato-salvetti>,
+        <https://w3id.org/sona/data/municipality/person/sante-cappellani>,
+        <https://w3id.org/sona/data/municipality/person/temistocle-raineri>,
+        <https://w3id.org/sona/data/municipality/person/vincenzo-svidercoschi>,
+        <https://w3id.org/sona/data/municipality/person/vittorio-merighi> .
+

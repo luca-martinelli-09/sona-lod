@@ -32,8 +32,6 @@ from ontopia_py.clv.GeometryType import Polygon, Point
 
 config = getConfig("../../conf.ini")
 
-BASE_URL = config.get("API", "base_url")
-
 # Create graph
 g : Graph = createGraph()
 
@@ -58,8 +56,7 @@ ANNCSU_DATA.addToGraph(g)
 datasetID = config.get("ANNCSU", "dataset")
 
 # ANNCSU streets
-anncsuAddresses = getOpenData(
-    BASE_URL, datasetID, config.get("ANNCSU", "streets"))
+anncsuAddresses = getOpenData(datasetID, config.get("ANNCSU", "streets"))
 anncsuAddresses.set_index("PROGR_NAZIONALE", inplace=True)
 
 # ANNCSU civic numbers

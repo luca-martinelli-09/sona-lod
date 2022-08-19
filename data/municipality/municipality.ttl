@@ -1,0 +1,78 @@
+@prefix channel: <https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/> .
+@prefix clvapit: <https://w3id.org/italia/onto/CLV/> .
+@prefix covapit: <https://w3id.org/italia/onto/COV/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix l0: <https://w3id.org/italia/onto/l0/> .
+@prefix legalstatus: <https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/> .
+@prefix municipality: <https://w3id.org/sona/data/municipality/> .
+@prefix ontoim: <https://w3id.org/ontoim/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix smapit: <https://w3id.org/italia/onto/SM/> .
+@prefix social: <https://w3id.org/sona/data/social/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+municipality:00500760236 a ontoim:PublicOrganization ;
+    dc:title "Comune di Sona"^^xsd:string ;
+    skos:inScheme municipality: ;
+    covapit:IPAcode "c_i826"^^xsd:string ;
+    covapit:hasAlternativeIdentifier <https://w3id.org/sona/data/municipality/id/023083>,
+        <https://w3id.org/sona/data/municipality/id/95962>,
+        <https://w3id.org/sona/data/municipality/id/I826> ;
+    covapit:hasLegalStatus legalstatus:2430 ;
+    covapit:legalName "Comune di Sona"^^xsd:string ;
+    covapit:taxCode "00500760236"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/00500760236> .
+
+<https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> a smapit:Email ;
+    dc:title "sona.vr@cert.ip-veneto.net"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:emailAddress "mailto:sona.vr@cert.ip-veneto.net"^^xsd:anyURI ;
+    smapit:hasEmailType channel:041 .
+
+<https://w3id.org/sona/data/municipality/id/023083> a clvapit:Identifier ;
+    skos:inScheme municipality: ;
+    clvapit:identifierType "Codice comune ISTAT"^^xsd:string ;
+    l0:identifier "023083"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/id/95962> a clvapit:Identifier ;
+    skos:inScheme municipality: ;
+    clvapit:identifierType "Codice ISTAT"^^xsd:string ;
+    l0:identifier "95962"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/id/I826> a clvapit:Identifier ;
+    skos:inScheme municipality: ;
+    clvapit:identifierType "Codice catastale"^^xsd:string ;
+    l0:identifier "I826"^^xsd:string .
+
+<https://w3id.org/sona/data/municipality/ocp/00500760236> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Comune di Sona"@en,
+        "Online Contact Point for Comune di Sona"@en ;
+    skos:inScheme municipality: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
+    smapit:hasUserAccount <https://w3id.org/sona/data/municipality/social/facebook/00500760236>,
+        <https://w3id.org/sona/data/municipality/social/youtube/00500760236> ;
+    smapit:hasWebSite <https://w3id.org/sona/data/municipality/website/00500760236> .
+
+<https://w3id.org/sona/data/municipality/social/facebook/00500760236> a smapit:UserAccount ;
+    dc:title "https://www.facebook.com/ComuneSona"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:URL "https://www.facebook.com/ComuneSona"^^xsd:anyURI ;
+    smapit:isAccountIssuedBy social:facebook .
+
+<https://w3id.org/sona/data/municipality/social/youtube/00500760236> a smapit:UserAccount ;
+    dc:title "https://www.youtube.com/channel/UCJfy-uzi1Rvp0Z8vhGaFNJg"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:URL "https://www.youtube.com/channel/UCJfy-uzi1Rvp0Z8vhGaFNJg"^^xsd:anyURI ;
+    smapit:isAccountIssuedBy social:youtube .
+
+<https://w3id.org/sona/data/municipality/website/00500760236> a smapit:WebSite ;
+    dc:title "www.comune.sona.vr.it"^^xsd:string ;
+    skos:inScheme municipality: ;
+    smapit:URL "www.comune.sona.vr.it"^^xsd:anyURI .
+
+municipality: a skos:ConceptScheme ;
+    rdfs:label "Comune di Sona"^^xsd:string ;
+    dc:creator <https://w3id.org/people/lucamartinelli> ;
+    skos:hasTopConcept municipality:00500760236 .
+
