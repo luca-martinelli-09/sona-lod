@@ -120,5 +120,6 @@ def createGraph():
     g.bind("municipality", MUN_DATA)
     g.bind("social", SOCIAL_DATA)
     g.bind("role", ROLE_DATA)
+    g.bind("heritage", HER_DATA)
 
     return g

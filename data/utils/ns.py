@@ -8,6 +8,7 @@ COV_DATA = Namespace("https://w3id.org/sona/data/organization/")
 MUN_DATA = Namespace("https://w3id.org/sona/data/municipality/")
 SOCIAL_DATA = Namespace("https://w3id.org/sona/data/social/")
 ROLE_DATA = Namespace("https://w3id.org/sona/data/role/")
+HER_DATA = Namespace("https://w3id.org/sona/data/heritage/")
 
 # Creator
 
