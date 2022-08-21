@@ -8,53 +8,26 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:tiapit="https://w3id.org/italia/onto/TI/"
 >
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1975-06-21-1980-06-8">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1920-10-8-1923-07-15">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1975-06-21 - 1980-06-8</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920-10-8 - 1923-07-15</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1980-06-01</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1975-06-21</tiapit:startTime>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1923-07-15</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-10-01</tiapit:startTime>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/temistocle-raineri">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Temistocle Raineri</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raineri</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Temistocle</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/temistocle-raineri-1914-08-12-1920-10-7"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/sante-cappellani">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sante Cappellani</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cappellani</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sante</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/sante-cappellani-1942-05-14-1942-07-9"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/gianluigi-mazzi-2013-06-11">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gianluigi Mazzi (2013-06-11 - nan)</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/gianluigi-mazzi"/>
-    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/2013-06-11"/>
-    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/giacinto-zampieri-1920-10-8-1923-07-15">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giacinto Zampieri (1920-10-8 - 1923-07-15)</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/giacinto-zampieri"/>
-    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1920-10-8-1923-07-15"/>
-    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1942-05-14-1942-07-9">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/2008-04-15-2013-06-10">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1942-05-14 - 1942-07-9</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008-04-15 - 2013-06-10</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1942-07-01</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1942-05-14</tiapit:startTime>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-10</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-04-15</tiapit:startTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1923-07-18-1927-04-19">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1923-07-18 - 1927-04-19</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1927-04-19</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1923-07-18</tiapit:startTime>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/ferdinando-sparavieri">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
@@ -64,72 +37,63 @@
     <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ferdinando</cpvapit:givenName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/ferdinando-sparavieri-1893-01-01-1907-09-10"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/giorgio-gatto">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giorgio Gatto</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gatto</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giorgio</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/giorgio-gatto-1980-06-9-1985-05-12"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/vittorio-merighi">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vittorio Merighi</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Merighi</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vittorio</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/vittorio-merighi-1907-09-10-1914-08-11"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/michelangelo-aldrighetti">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Michelangelo Aldrighetti</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aldrighetti</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Michelangelo</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/michelangelo-aldrighetti-1992-10-16-1995-04-23"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/00500760236">
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/vincenzo-svidercoschi-1866-10-21-1885-11-7"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/achille-antonio-fiorini-1885-01-01-1893-11-13"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/ferdinando-sparavieri-1893-01-01-1907-09-10"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/vittorio-merighi-1907-09-10-1914-08-11"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/temistocle-raineri-1914-08-12-1920-10-7"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/giacinto-zampieri-1920-10-8-1923-07-15"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/gaetano-mondini-1923-07-18-1927-04-19"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/luigi-tonelato-1927-04-20-1942-04-17"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/sante-cappellani-1942-05-14-1942-07-9"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/guglielmo-innocenti-1942-07-8-1943-09-24"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/alfonso-rinaldi-1943-10-30-1945-04-28"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/giuseppe-manzini-1945-04-29-1946-03-23"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/giovanni-ledro-1946-03-24-1960-11-6"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/carlo-scattolini-1960-11-7-1975-06-20"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/renato-salvetti-1975-06-21-1980-06-8"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/giorgio-gatto-1980-06-9-1985-05-12"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/angelo-boscaini-1985-05-12-1992-10-15"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/michelangelo-aldrighetti-1992-10-16-1995-04-23"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/franco-conti-1995-04-24-1997-07-13"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/maria-rosa-morone-1997-07-14-1998-11-29"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/raffaele-tomelleri-1998-11-30-2003-05-26"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/flavio-bonometti-2003-05-27-2008-04-14"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/gualtiero-mazzi-2008-04-15-2013-06-10"/>
-    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/gianluigi-mazzi-2013-06-11"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/carlo-scattolini">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carlo Scattolini</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scattolini</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carlo</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/carlo-scattolini-1960-11-7-1975-06-20"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/giovanni-ledro-1946-03-24-1960-11-6">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/ferdinando-sparavieri-1893-01-01-1907-09-10">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giovanni Ledro (1946-03-24 - 1960-11-6)</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ferdinando Sparavieri (1893-01-01 - 1907-09-10)</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/giovanni-ledro"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/ferdinando-sparavieri"/>
     <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1946-03-24-1960-11-6"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1893-01-01-1907-09-10"/>
     <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/alfonso-rinaldi">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alfonso Rinaldi</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rinaldi</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alfonso</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/alfonso-rinaldi-1943-10-30-1945-04-28"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/maria-rosa-morone-1997-07-14-1998-11-29">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maria Rosa Morone (1997-07-14 - 1998-11-29)</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/maria-rosa-morone"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1997-07-14-1998-11-29"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/vincenzo-svidercoschi-1866-10-21-1885-11-7">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vincenzo Svidercoschi (1866-10-21 - 1885-11-7)</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/vincenzo-svidercoschi"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1866-10-21-1885-11-7"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/gualtiero-mazzi">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gualtiero Mazzi</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mazzi</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gualtiero</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/gualtiero-mazzi-2008-04-15-2013-06-10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/temistocle-raineri">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Temistocle Raineri</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raineri</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Temistocle</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/temistocle-raineri-1914-08-12-1920-10-7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1975-06-21-1980-06-8">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1975-06-21 - 1980-06-8</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1980-06-01</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1975-06-21</tiapit:startTime>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/angelo-boscaini">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
@@ -139,46 +103,19 @@
     <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Angelo</cpvapit:givenName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/angelo-boscaini-1985-05-12-1992-10-15"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/luigi-tonelato-1927-04-20-1942-04-17">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luigi Tonelato (1927-04-20 - 1942-04-17)</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/luigi-tonelato"/>
-    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/podesta"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1927-04-20-1942-04-17"/>
-    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/2013-06-11">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1893-01-01-1907-09-10">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-06-11 - nan</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1893-01-01 - 1907-09-10</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-11</tiapit:startTime>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1907-09-10</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1893-01-01</tiapit:startTime>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/giovanni-ledro">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giovanni Ledro</dc:title>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1985-05-12-1992-10-15">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1985-05-12 - 1992-10-15</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ledro</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giovanni</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/giovanni-ledro-1946-03-24-1960-11-6"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/gaetano-mondini-1923-07-18-1927-04-19">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gaetano Mondini (1923-07-18 - 1927-04-19)</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/gaetano-mondini"/>
-    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/commissioner"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1923-07-18-1927-04-19"/>
-    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/gualtiero-mazzi-2008-04-15-2013-06-10">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gualtiero Mazzi (2008-04-15 - 2013-06-10)</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/gualtiero-mazzi"/>
-    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/2008-04-15-2013-06-10"/>
-    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-10-15</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-05-12</tiapit:startTime>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/">
     <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/person/vincenzo-svidercoschi"/>
@@ -206,20 +143,13 @@
     <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/person/gualtiero-mazzi"/>
     <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/person/gianluigi-mazzi"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1920-10-8-1923-07-15">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920-10-8 - 1923-07-15</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1923-07-15</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-10-01</tiapit:startTime>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/luigi-tonelato">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/vittorio-merighi">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luigi Tonelato</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vittorio Merighi</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tonelato</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luigi</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/luigi-tonelato-1927-04-20-1942-04-17"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Merighi</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vittorio</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/vittorio-merighi-1907-09-10-1914-08-11"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/renato-salvetti-1975-06-21-1980-06-8">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
@@ -230,30 +160,204 @@
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1975-06-21-1980-06-8"/>
     <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/temistocle-raineri-1914-08-12-1920-10-7">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/gianluigi-mazzi-2013-06-11">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Temistocle Raineri (1914-08-12 - 1920-10-7)</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gianluigi Mazzi (2013-06-11 - nan)</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/temistocle-raineri"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/gianluigi-mazzi"/>
     <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1914-08-12-1920-10-7"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/2013-06-11"/>
     <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/flavio-bonometti">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flavio Bonometti</dc:title>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/vittorio-merighi-1907-09-10-1914-08-11">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vittorio Merighi (1907-09-10 - 1914-08-11)</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bonometti</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flavio</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/flavio-bonometti-2003-05-27-2008-04-14"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/vittorio-merighi"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1907-09-10-1914-08-11"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/renato-salvetti">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/gianluigi-mazzi">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renato Salvetti</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gianluigi Mazzi</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Salvetti</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renato</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/renato-salvetti-1975-06-21-1980-06-8"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mazzi</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gianluigi</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/gianluigi-mazzi-2013-06-11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1927-04-20-1942-04-17">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1927-04-20 - 1942-04-17</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1942-04-17</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1927-04-20</tiapit:startTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/vincenzo-svidercoschi">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vincenzo Svidercoschi</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Svidercoschi</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vincenzo</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/vincenzo-svidercoschi-1866-10-21-1885-11-7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/carlo-scattolini">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carlo Scattolini</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scattolini</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carlo</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/carlo-scattolini-1960-11-7-1975-06-20"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1946-03-24-1960-11-6">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1946-03-24 - 1960-11-6</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1960-11-01</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1946-03-24</tiapit:startTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/luigi-tonelato-1927-04-20-1942-04-17">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luigi Tonelato (1927-04-20 - 1942-04-17)</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/luigi-tonelato"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/podesta"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1927-04-20-1942-04-17"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/michelangelo-aldrighetti">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Michelangelo Aldrighetti</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aldrighetti</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Michelangelo</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/michelangelo-aldrighetti-1992-10-16-1995-04-23"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/flavio-bonometti-2003-05-27-2008-04-14">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flavio Bonometti (2003-05-27 - 2008-04-14)</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/flavio-bonometti"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/2003-05-27-2008-04-14"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/sante-cappellani">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sante Cappellani</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cappellani</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sante</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/sante-cappellani-1942-05-14-1942-07-9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1914-08-12-1920-10-7">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1914-08-12 - 1920-10-7</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-10-01</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1914-08-12</tiapit:startTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/giorgio-gatto-1980-06-9-1985-05-12">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giorgio Gatto (1980-06-9 - 1985-05-12)</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/giorgio-gatto"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1980-06-9-1985-05-12"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1997-07-14-1998-11-29">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1997-07-14 - 1998-11-29</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1998-11-29</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-07-14</tiapit:startTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/2013-06-11">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-06-11 - nan</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-11</tiapit:startTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/franco-conti-1995-04-24-1997-07-13">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franco Conti (1995-04-24 - 1997-07-13)</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/franco-conti"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1995-04-24-1997-07-13"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/luigi-tonelato">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luigi Tonelato</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tonelato</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luigi</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/luigi-tonelato-1927-04-20-1942-04-17"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1942-05-14-1942-07-9">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1942-05-14 - 1942-07-9</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1942-07-01</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1942-05-14</tiapit:startTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/raffaele-tomelleri">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raffaele Tomelleri</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tomelleri</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raffaele</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/raffaele-tomelleri-1998-11-30-2003-05-26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/00500760236">
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/vincenzo-svidercoschi-1866-10-21-1885-11-7"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/achille-antonio-fiorini-1885-01-01-1893-11-13"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/ferdinando-sparavieri-1893-01-01-1907-09-10"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/vittorio-merighi-1907-09-10-1914-08-11"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/temistocle-raineri-1914-08-12-1920-10-7"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/giacinto-zampieri-1920-10-8-1923-07-15"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/gaetano-mondini-1923-07-18-1927-04-19"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/luigi-tonelato-1927-04-20-1942-04-17"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/sante-cappellani-1942-05-14-1942-07-9"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/guglielmo-innocenti-1942-07-8-1943-09-24"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/alfonso-rinaldi-1943-10-30-1945-04-28"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/giuseppe-manzini-1945-04-29-1946-03-23"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/giovanni-ledro-1946-03-24-1960-11-6"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/carlo-scattolini-1960-11-7-1975-06-20"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/renato-salvetti-1975-06-21-1980-06-8"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/giorgio-gatto-1980-06-9-1985-05-12"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/angelo-boscaini-1985-05-12-1992-10-15"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/michelangelo-aldrighetti-1992-10-16-1995-04-23"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/franco-conti-1995-04-24-1997-07-13"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/maria-rosa-morone-1997-07-14-1998-11-29"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/raffaele-tomelleri-1998-11-30-2003-05-26"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/flavio-bonometti-2003-05-27-2008-04-14"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/gualtiero-mazzi-2008-04-15-2013-06-10"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/mayor/gianluigi-mazzi-2013-06-11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1995-04-24-1997-07-13">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1995-04-24 - 1997-07-13</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-07-13</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-04-24</tiapit:startTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/gaetano-mondini">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gaetano Mondini</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mondini</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gaetano</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/gaetano-mondini-1923-07-18-1927-04-19"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1907-09-10-1914-08-11">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1907-09-10 - 1914-08-11</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1914-08-11</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1907-09-10</tiapit:startTime>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/giuseppe-manzini-1945-04-29-1946-03-23">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
@@ -264,38 +368,52 @@
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1945-04-29-1946-03-23"/>
     <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/ferdinando-sparavieri-1893-01-01-1907-09-10">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/sante-cappellani-1942-05-14-1942-07-9">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ferdinando Sparavieri (1893-01-01 - 1907-09-10)</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sante Cappellani (1942-05-14 - 1942-07-9)</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/ferdinando-sparavieri"/>
-    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1893-01-01-1907-09-10"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/sante-cappellani"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/commissioner"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1942-05-14-1942-07-9"/>
     <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/giuseppe-manzini">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giuseppe Manzini</dc:title>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1942-07-8-1943-09-24">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1942-07-8 - 1943-09-24</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manzini</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giuseppe</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/giuseppe-manzini-1945-04-29-1946-03-23"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1943-09-24</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1942-07-01</tiapit:startTime>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/achille-antonio-fiorini">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/maria-rosa-morone">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Achille Antonio Fiorini</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maria Rosa Morone</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fiorini</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Achille Antonio</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/achille-antonio-fiorini-1885-01-01-1893-11-13"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morone</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maria Rosa</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/maria-rosa-morone-1997-07-14-1998-11-29"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/maria-rosa-morone-1997-07-14-1998-11-29">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/flavio-bonometti">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flavio Bonometti</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bonometti</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flavio</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/flavio-bonometti-2003-05-27-2008-04-14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1885-01-01-1893-11-13">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1885-01-01 - 1893-11-13</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1893-11-13</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-01-01</tiapit:startTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/alfonso-rinaldi-1943-10-30-1945-04-28">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maria Rosa Morone (1997-07-14 - 1998-11-29)</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alfonso Rinaldi (1943-10-30 - 1945-04-28)</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/maria-rosa-morone"/>
-    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1997-07-14-1998-11-29"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/alfonso-rinaldi"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/commissioner"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1943-10-30-1945-04-28"/>
     <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1960-11-7-1975-06-20">
@@ -305,36 +423,36 @@
     <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1975-06-20</tiapit:endTime>
     <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1960-11-01</tiapit:startTime>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/vincenzo-svidercoschi">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vincenzo Svidercoschi</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Svidercoschi</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vincenzo</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/vincenzo-svidercoschi-1866-10-21-1885-11-7"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1885-01-01-1893-11-13">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1980-06-9-1985-05-12">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1885-01-01 - 1893-11-13</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1980-06-9 - 1985-05-12</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1893-11-13</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-01-01</tiapit:startTime>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-05-12</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1980-06-01</tiapit:startTime>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/raffaele-tomelleri">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/guglielmo-innocenti">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raffaele Tomelleri</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guglielmo Innocenti</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tomelleri</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raffaele</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/raffaele-tomelleri-1998-11-30-2003-05-26"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Innocenti</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guglielmo</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/guglielmo-innocenti-1942-07-8-1943-09-24"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/raffaele-tomelleri-1998-11-30-2003-05-26">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raffaele Tomelleri (1998-11-30 - 2003-05-26)</dc:title>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/renato-salvetti">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renato Salvetti</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/raffaele-tomelleri"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Salvetti</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renato</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/renato-salvetti-1975-06-21-1980-06-8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/gualtiero-mazzi-2008-04-15-2013-06-10">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gualtiero Mazzi (2008-04-15 - 2013-06-10)</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/gualtiero-mazzi"/>
     <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1998-11-30-2003-05-26"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/2008-04-15-2013-06-10"/>
     <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/carlo-scattolini-1960-11-7-1975-06-20">
@@ -346,137 +464,31 @@
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1960-11-7-1975-06-20"/>
     <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1945-04-29-1946-03-23">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1945-04-29 - 1946-03-23</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1946-03-23</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-04-29</tiapit:startTime>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/2008-04-15-2013-06-10">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008-04-15 - 2013-06-10</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-10</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-04-15</tiapit:startTime>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/franco-conti-1995-04-24-1997-07-13">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/gaetano-mondini-1923-07-18-1927-04-19">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franco Conti (1995-04-24 - 1997-07-13)</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gaetano Mondini (1923-07-18 - 1927-04-19)</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/franco-conti"/>
-    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1995-04-24-1997-07-13"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/gaetano-mondini"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/commissioner"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1923-07-18-1927-04-19"/>
     <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/vincenzo-svidercoschi-1866-10-21-1885-11-7">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/temistocle-raineri-1914-08-12-1920-10-7">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vincenzo Svidercoschi (1866-10-21 - 1885-11-7)</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Temistocle Raineri (1914-08-12 - 1920-10-7)</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/vincenzo-svidercoschi"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/temistocle-raineri"/>
     <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1866-10-21-1885-11-7"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1914-08-12-1920-10-7"/>
     <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1893-01-01-1907-09-10">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1893-01-01 - 1907-09-10</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1907-09-10</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1893-01-01</tiapit:startTime>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1992-10-16-1995-04-23">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1992-10-16 - 1995-04-23</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-04-23</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-10-16</tiapit:startTime>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1866-10-21-1885-11-7">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1866-10-21 - 1885-11-7</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-11-01</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1866-10-21</tiapit:startTime>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/achille-antonio-fiorini-1885-01-01-1893-11-13">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Achille Antonio Fiorini (1885-01-01 - 1893-11-13)</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/achille-antonio-fiorini"/>
-    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1885-01-01-1893-11-13"/>
-    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/gianluigi-mazzi">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/giorgio-gatto">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gianluigi Mazzi</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giorgio Gatto</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mazzi</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gianluigi</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/gianluigi-mazzi-2013-06-11"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/alfonso-rinaldi">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alfonso Rinaldi</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rinaldi</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alfonso</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/alfonso-rinaldi-1943-10-30-1945-04-28"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/vittorio-merighi-1907-09-10-1914-08-11">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vittorio Merighi (1907-09-10 - 1914-08-11)</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/vittorio-merighi"/>
-    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1907-09-10-1914-08-11"/>
-    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1914-08-12-1920-10-7">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1914-08-12 - 1920-10-7</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-10-01</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1914-08-12</tiapit:startTime>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/flavio-bonometti-2003-05-27-2008-04-14">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flavio Bonometti (2003-05-27 - 2008-04-14)</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/flavio-bonometti"/>
-    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/2003-05-27-2008-04-14"/>
-    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1907-09-10-1914-08-11">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1907-09-10 - 1914-08-11</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1914-08-11</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1907-09-10</tiapit:startTime>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1985-05-12-1992-10-15">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1985-05-12 - 1992-10-15</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-10-15</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-05-12</tiapit:startTime>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1943-10-30-1945-04-28">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1943-10-30 - 1945-04-28</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-04-28</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1943-10-30</tiapit:startTime>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/gualtiero-mazzi">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gualtiero Mazzi</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mazzi</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gualtiero</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/gualtiero-mazzi-2008-04-15-2013-06-10"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gatto</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giorgio</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/giorgio-gatto-1980-06-9-1985-05-12"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/2003-05-27-2008-04-14">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
@@ -485,66 +497,13 @@
     <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-04-14</tiapit:endTime>
     <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-05-27</tiapit:startTime>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/sante-cappellani-1942-05-14-1942-07-9">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/giovanni-ledro-1946-03-24-1960-11-6">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sante Cappellani (1942-05-14 - 1942-07-9)</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giovanni Ledro (1946-03-24 - 1960-11-6)</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/sante-cappellani"/>
-    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/commissioner"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1942-05-14-1942-07-9"/>
-    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/gaetano-mondini">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gaetano Mondini</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mondini</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gaetano</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/gaetano-mondini-1923-07-18-1927-04-19"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1942-07-8-1943-09-24">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1942-07-8 - 1943-09-24</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1943-09-24</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1942-07-01</tiapit:startTime>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1980-06-9-1985-05-12">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1980-06-9 - 1985-05-12</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-05-12</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1980-06-01</tiapit:startTime>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1923-07-18-1927-04-19">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1923-07-18 - 1927-04-19</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1927-04-19</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1923-07-18</tiapit:startTime>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/franco-conti">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franco Conti</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Conti</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franco</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/franco-conti-1995-04-24-1997-07-13"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1995-04-24-1997-07-13">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1995-04-24 - 1997-07-13</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-07-13</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-04-24</tiapit:startTime>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/alfonso-rinaldi-1943-10-30-1945-04-28">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alfonso Rinaldi (1943-10-30 - 1945-04-28)</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/alfonso-rinaldi"/>
-    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/commissioner"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1943-10-30-1945-04-28"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/giovanni-ledro"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1946-03-24-1960-11-6"/>
     <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/guglielmo-innocenti-1942-07-8-1943-09-24">
@@ -556,37 +515,21 @@
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1942-07-8-1943-09-24"/>
     <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/giacinto-zampieri">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/achille-antonio-fiorini">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giacinto Zampieri</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Achille Antonio Fiorini</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zampieri</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giacinto</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/giacinto-zampieri-1920-10-8-1923-07-15"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fiorini</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Achille Antonio</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/achille-antonio-fiorini-1885-01-01-1893-11-13"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1946-03-24-1960-11-6">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1946-03-24 - 1960-11-6</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1960-11-01</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1946-03-24</tiapit:startTime>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/guglielmo-innocenti">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/giuseppe-manzini">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guglielmo Innocenti</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giuseppe Manzini</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Innocenti</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guglielmo</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/guglielmo-innocenti-1942-07-8-1943-09-24"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/giorgio-gatto-1980-06-9-1985-05-12">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giorgio Gatto (1980-06-9 - 1985-05-12)</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/giorgio-gatto"/>
-    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
-    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1980-06-9-1985-05-12"/>
-    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manzini</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giuseppe</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/giuseppe-manzini-1945-04-29-1946-03-23"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/michelangelo-aldrighetti-1992-10-16-1995-04-23">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
@@ -597,13 +540,34 @@
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1992-10-16-1995-04-23"/>
     <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/maria-rosa-morone">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/franco-conti">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maria Rosa Morone</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franco Conti</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morone</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maria Rosa</cpvapit:givenName>
-    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/maria-rosa-morone-1997-07-14-1998-11-29"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Conti</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franco</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/franco-conti-1995-04-24-1997-07-13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1943-10-30-1945-04-28">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1943-10-30 - 1945-04-28</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-04-28</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1943-10-30</tiapit:startTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1945-04-29-1946-03-23">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1945-04-29 - 1946-03-23</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1946-03-23</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-04-29</tiapit:startTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1998-11-30-2003-05-26">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998-11-30 - 2003-05-26</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-05-26</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1998-11-30</tiapit:startTime>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/angelo-boscaini-1985-05-12-1992-10-15">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
@@ -614,25 +578,61 @@
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1985-05-12-1992-10-15"/>
     <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1997-07-14-1998-11-29">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1997-07-14 - 1998-11-29</dc:title>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/giacinto-zampieri">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giacinto Zampieri</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1998-11-29</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-07-14</tiapit:startTime>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zampieri</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giacinto</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/giacinto-zampieri-1920-10-8-1923-07-15"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1927-04-20-1942-04-17">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1927-04-20 - 1942-04-17</dc:title>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/achille-antonio-fiorini-1885-01-01-1893-11-13">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Achille Antonio Fiorini (1885-01-01 - 1893-11-13)</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1942-04-17</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1927-04-20</tiapit:startTime>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/achille-antonio-fiorini"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1885-01-01-1893-11-13"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1998-11-30-2003-05-26">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998-11-30 - 2003-05-26</dc:title>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/person/giovanni-ledro">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giovanni Ledro</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-05-26</tiapit:endTime>
-    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1998-11-30</tiapit:startTime>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ledro</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giovanni</cpvapit:givenName>
+    <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/municipality/mayor/giovanni-ledro-1946-03-24-1960-11-6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1866-10-21-1885-11-7">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1866-10-21 - 1885-11-7</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-11-01</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1866-10-21</tiapit:startTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ti/1992-10-16-1995-04-23">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/TimeInterval"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1992-10-16 - 1995-04-23</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <tiapit:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-04-23</tiapit:endTime>
+    <tiapit:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-10-16</tiapit:startTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/raffaele-tomelleri-1998-11-30-2003-05-26">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raffaele Tomelleri (1998-11-30 - 2003-05-26)</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/raffaele-tomelleri"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1998-11-30-2003-05-26"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/mayor/giacinto-zampieri-1920-10-8-1923-07-15">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giacinto Zampieri (1920-10-8 - 1923-07-15)</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/municipality/person/giacinto-zampieri"/>
+    <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/mayor"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/municipality/ti/1920-10-8-1923-07-15"/>
+    <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
   </rdf:Description>
 </rdf:RDF>

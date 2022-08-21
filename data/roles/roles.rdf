@@ -14,13 +14,21 @@
     <l0:name xml:lang="en">Commissioner</l0:name>
     <l0:name xml:lang="it">Commissario</l0:name>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/role/podesta">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/role/vicepresident">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/RO/Role"/>
-    <dc:title xml:lang="en">Podesta</dc:title>
-    <dc:title xml:lang="it">Podestà</dc:title>
+    <dc:title xml:lang="en">Vice president</dc:title>
+    <dc:title xml:lang="it">Vicepresidente</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/role/"/>
-    <l0:name xml:lang="en">Podesta</l0:name>
-    <l0:name xml:lang="it">Podestà</l0:name>
+    <l0:name xml:lang="en">Vice president</l0:name>
+    <l0:name xml:lang="it">Vicepresidente</l0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/role/councilor">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/RO/Role"/>
+    <dc:title xml:lang="en">Councilor</dc:title>
+    <dc:title xml:lang="it">Consigliere</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/role/"/>
+    <l0:name xml:lang="en">Councilor</l0:name>
+    <l0:name xml:lang="it">Consigliere</l0:name>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/role/mayor">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/RO/Role"/>
@@ -30,24 +38,37 @@
     <l0:name xml:lang="en">Mayor</l0:name>
     <l0:name xml:lang="it">Sindaco</l0:name>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/role/referent">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/role/assessor">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/RO/Role"/>
-    <dc:title xml:lang="en">Referent</dc:title>
-    <dc:title xml:lang="it">Responsabile</dc:title>
+    <dc:title xml:lang="en">Assessor</dc:title>
+    <dc:title xml:lang="it">Assessore</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/role/"/>
-    <l0:name xml:lang="en">Referent</l0:name>
-    <l0:name xml:lang="it">Responsabile</l0:name>
+    <l0:name xml:lang="en">Assessor</l0:name>
+    <l0:name xml:lang="it">Assessore</l0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/role/head-teacher">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/RO/Role"/>
+    <dc:title xml:lang="en">Head teacher</dc:title>
+    <dc:title xml:lang="it">Dirigente scolastico</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/role/"/>
+    <l0:name xml:lang="en">Head teacher</l0:name>
+    <l0:name xml:lang="it">Dirigente scolastico</l0:name>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/role/">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <rdfs:label xml:lang="en">Roles</rdfs:label>
     <rdfs:label xml:lang="it">Ruoli</rdfs:label>
     <dc:creator rdf:resource="https://w3id.org/people/lucamartinelli"/>
-    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/referent"/>
-    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/president"/>
     <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/mayor"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/vicemayor"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/assessor"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/councilor"/>
     <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/podesta"/>
     <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/commissioner"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/president"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/vicepresident"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/referent"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/role/head-teacher"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/role/president">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/RO/Role"/>
@@ -56,5 +77,29 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/role/"/>
     <l0:name xml:lang="en">President</l0:name>
     <l0:name xml:lang="it">Presidente</l0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/role/vicemayor">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/RO/Role"/>
+    <dc:title xml:lang="en">Vice mayor</dc:title>
+    <dc:title xml:lang="it">Vicesindaco</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/role/"/>
+    <l0:name xml:lang="en">Vice mayor</l0:name>
+    <l0:name xml:lang="it">Vicesindaco</l0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/role/referent">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/RO/Role"/>
+    <dc:title xml:lang="en">Referent</dc:title>
+    <dc:title xml:lang="it">Responsabile</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/role/"/>
+    <l0:name xml:lang="en">Referent</l0:name>
+    <l0:name xml:lang="it">Responsabile</l0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/role/podesta">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/RO/Role"/>
+    <dc:title xml:lang="en">Podesta</dc:title>
+    <dc:title xml:lang="it">Podestà</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/role/"/>
+    <l0:name xml:lang="en">Podesta</l0:name>
+    <l0:name xml:lang="it">Podestà</l0:name>
   </rdf:Description>
 </rdf:RDF>

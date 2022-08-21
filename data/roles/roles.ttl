@@ -5,12 +5,33 @@
 @prefix role: <https://w3id.org/sona/data/role/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
+role:assessor a roapit:Role ;
+    dc:title "Assessor"@en,
+        "Assessore"@it ;
+    skos:inScheme role: ;
+    l0:name "Assessor"@en,
+        "Assessore"@it .
+
 role:commissioner a roapit:Role ;
     dc:title "Commissioner"@en,
         "Commissario"@it ;
     skos:inScheme role: ;
     l0:name "Commissioner"@en,
         "Commissario"@it .
+
+role:councilor a roapit:Role ;
+    dc:title "Councilor"@en,
+        "Consigliere"@it ;
+    skos:inScheme role: ;
+    l0:name "Councilor"@en,
+        "Consigliere"@it .
+
+role:head-teacher a roapit:Role ;
+    dc:title "Head teacher"@en,
+        "Dirigente scolastico"@it ;
+    skos:inScheme role: ;
+    l0:name "Head teacher"@en,
+        "Dirigente scolastico"@it .
 
 role:mayor a roapit:Role ;
     dc:title "Mayor"@en,
@@ -40,13 +61,32 @@ role:referent a roapit:Role ;
     l0:name "Referent"@en,
         "Responsabile"@it .
 
+role:vicemayor a roapit:Role ;
+    dc:title "Vice mayor"@en,
+        "Vicesindaco"@it ;
+    skos:inScheme role: ;
+    l0:name "Vice mayor"@en,
+        "Vicesindaco"@it .
+
+role:vicepresident a roapit:Role ;
+    dc:title "Vice president"@en,
+        "Vicepresidente"@it ;
+    skos:inScheme role: ;
+    l0:name "Vice president"@en,
+        "Vicepresidente"@it .
+
 role: a skos:ConceptScheme ;
     rdfs:label "Roles"@en,
         "Ruoli"@it ;
     dc:creator <https://w3id.org/people/lucamartinelli> ;
-    skos:hasTopConcept role:commissioner,
+    skos:hasTopConcept role:assessor,
+        role:commissioner,
+        role:councilor,
+        role:head-teacher,
         role:mayor,
         role:podesta,
         role:president,
-        role:referent .
+        role:referent,
+        role:vicemayor,
+        role:vicepresident .
 

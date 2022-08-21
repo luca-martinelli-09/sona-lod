@@ -9,15 +9,44 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:smapit="https://w3id.org/italia/onto/SM/"
 >
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/00500760236">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
-    <dc:title xml:lang="en">Online Contact Point for Comune di Sona</dc:title>
-    <dc:title xml:lang="en">Contatti per Comune di Sona</dc:title>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comune di Sona</rdfs:label>
+    <dc:creator rdf:resource="https://w3id.org/people/lucamartinelli"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/website/00500760236">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/WebSite"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.comune.sona.vr.it</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
-    <smapit:hasUserAccount rdf:resource="https://w3id.org/sona/data/municipality/social/facebook/00500760236"/>
-    <smapit:hasUserAccount rdf:resource="https://w3id.org/sona/data/municipality/social/youtube/00500760236"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/municipality/website/00500760236"/>
+    <smapit:URL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">www.comune.sona.vr.it</smapit:URL>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sona.vr@cert.ip-veneto.net</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:sona.vr@cert.ip-veneto.net</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/id/I826">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CLV/Identifier"/>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <l0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I826</l0:identifier>
+    <clvapit:identifierType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Codice catastale</clvapit:identifierType>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/00500760236">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/PublicOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comune Di Sona</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <covapit:hasAlternativeIdentifier rdf:resource="https://w3id.org/sona/data/municipality/id/023083"/>
+    <covapit:hasAlternativeIdentifier rdf:resource="https://w3id.org/sona/data/municipality/id/95962"/>
+    <covapit:hasAlternativeIdentifier rdf:resource="https://w3id.org/sona/data/municipality/id/I826"/>
+    <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comune Di Sona</covapit:legalName>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <covapit:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/2430"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/00500760236"/>
+    <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00500760236</covapit:taxCode>
+    <covapit:IPAcode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">c_i826</covapit:IPAcode>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/social/facebook/00500760236">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/UserAccount"/>
@@ -26,11 +55,21 @@
     <smapit:isAccountIssuedBy rdf:resource="https://w3id.org/sona/data/social/facebook"/>
     <smapit:URL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.facebook.com/ComuneSona</smapit:URL>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/website/00500760236">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/WebSite"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.comune.sona.vr.it</dc:title>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/id/023083">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CLV/Identifier"/>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <smapit:URL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">www.comune.sona.vr.it</smapit:URL>
+    <l0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">023083</l0:identifier>
+    <clvapit:identifierType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Codice comune ISTAT</clvapit:identifierType>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/ocp/00500760236">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Comune Di Sona</dc:title>
+    <dc:title xml:lang="en">Contatti per Comune Di Sona</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net"/>
+    <smapit:hasUserAccount rdf:resource="https://w3id.org/sona/data/municipality/social/facebook/00500760236"/>
+    <smapit:hasUserAccount rdf:resource="https://w3id.org/sona/data/municipality/social/youtube/00500760236"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/municipality/website/00500760236"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/social/youtube/00500760236">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/UserAccount"/>
@@ -44,43 +83,5 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <l0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">95962</l0:identifier>
     <clvapit:identifierType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Codice ISTAT</clvapit:identifierType>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comune di Sona</rdfs:label>
-    <dc:creator rdf:resource="https://w3id.org/people/lucamartinelli"/>
-    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/id/I826">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CLV/Identifier"/>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <l0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I826</l0:identifier>
-    <clvapit:identifierType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Codice catastale</clvapit:identifierType>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/00500760236">
-    <rdf:type rdf:resource="https://w3id.org/ontoim/PublicOrganization"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comune di Sona</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <covapit:hasAlternativeIdentifier rdf:resource="https://w3id.org/sona/data/municipality/id/023083"/>
-    <covapit:hasAlternativeIdentifier rdf:resource="https://w3id.org/sona/data/municipality/id/95962"/>
-    <covapit:hasAlternativeIdentifier rdf:resource="https://w3id.org/sona/data/municipality/id/I826"/>
-    <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comune di Sona</covapit:legalName>
-    <covapit:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/2430"/>
-    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/00500760236"/>
-    <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00500760236</covapit:taxCode>
-    <covapit:IPAcode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">c_i826</covapit:IPAcode>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sona.vr@cert.ip-veneto.net</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
-    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:sona.vr@cert.ip-veneto.net</smapit:emailAddress>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/municipality/id/023083">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/CLV/Identifier"/>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
-    <l0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">023083</l0:identifier>
-    <clvapit:identifierType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Codice comune ISTAT</clvapit:identifierType>
   </rdf:Description>
 </rdf:RDF>

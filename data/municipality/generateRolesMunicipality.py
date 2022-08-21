@@ -24,18 +24,15 @@ from ontopia_py.cov import *
 
 config = getConfig("../../conf.ini")
 
-datasetID = config.get("MUNICIPALITY", "dataset")
-
 # Create graph
 g = createGraph()
 
 # Create a ConceptScheme
-MUNICIPALITY_DATA = ConceptScheme(MUN_DATA)
+MUNICIPALITY_DATASET = ConceptScheme(MUNICIPALITY_DATA)
 
 # %%
 # Load data
-mayorsDF = getOpenData(datasetID, config.get(
-    "MUNICIPALITY", "mayors"), dtype={'Codice_Fiscale_Ente': str})
+mayorsDF = getOpenData(config.get("MUNICIPALITY", "mayors"), dtype={'Codice_Fiscale_Ente': str})
 
 # %%
 # Insert referents
@@ -47,8 +44,8 @@ for _, mayorInfo in uniqueMyorsDF.iterrows():
 
     mayor = Person(
         id="person/" + genNameForID(nameMayor + " " + surnameMayor),
-        baseUri=MUN_DATA,
-        dataset=MUNICIPALITY_DATA,
+        baseUri=MUNICIPALITY_DATA,
+        dataset=MUNICIPALITY_DATASET,
         titles=[Literal(nameMayor + " " + surnameMayor, datatype=XSD.string)]
     )
 
@@ -71,7 +68,7 @@ for _, mayorInfo in mayorsDF.iterrows():
 
     publicOrganization = PublicOrganization(
       id=mayorInfo["Codice_Fiscale_Ente"],
-      baseUri=MUN_DATA
+      baseUri=MUNICIPALITY_DATA
     )
 
     dateRangeID = "{}{}".format(
@@ -83,14 +80,14 @@ for _, mayorInfo in mayorsDF.iterrows():
 
     mayorRole = Employment(
         id="mayor/" + mayorRoleID,
-        baseUri=MUN_DATA,
-        dataset=MUNICIPALITY_DATA,
+        baseUri=MUNICIPALITY_DATA,
+        dataset=MUNICIPALITY_DATASET,
         titles=[Literal("{} ({} - {})".format(mayorName, startDate, endDate), datatype=XSD.string)]
     )
 
     mayor = Person(
         id="person/" + mayorID,
-      baseUri=MUN_DATA
+      baseUri=MUNICIPALITY_DATA
     )
 
     mayorRole.employmentFor = publicOrganization
@@ -101,8 +98,8 @@ for _, mayorInfo in mayorsDF.iterrows():
 
     timeInterval = TimeInterval(
       id="ti/" + dateRangeID,
-      baseUri=MUN_DATA,
-      dataset=MUNICIPALITY_DATA,
+      baseUri=MUNICIPALITY_DATA,
+      dataset=MUNICIPALITY_DATASET,
       titles=[Literal("{} - {}".format(startDate, endDate), datatype=XSD.string)]
     )
     timeInterval.startTime = Literal(startDate, datatype=XSD.date)

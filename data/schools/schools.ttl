@@ -1,0 +1,10 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix school: <https://w3id.org/sona/data/school/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+school: a skos:ConceptScheme ;
+    rdfs:label "Schools and Comprehensive Institutes"@en,
+        "Scuole e Istituti Comprensivi"@it ;
+    dc:creator <https://w3id.org/people/lucamartinelli> .
+

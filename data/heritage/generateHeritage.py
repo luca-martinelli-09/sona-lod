@@ -23,27 +23,27 @@ from ontopia_py.cpv import *
 
 config = getConfig("../../conf.ini")
 
-datasetID = config.get("HERITAGE", "dataset")
-
 # Create graph
 g = createGraph()
 
+municipalityID = config.get("MUNICIPALITY", "municipality_id")
+
 # Create a ConceptScheme
-HERITAGE_DATA = ConceptScheme(HER_DATA)
+HERITAGE_DATASET = ConceptScheme(HERITAGE_DATA)
 
 # Set the properties
-HERITAGE_DATA.label = [
+HERITAGE_DATASET.label = [
     Literal("Heritage of Comune di Sona", lang="en"),
     Literal("Patrimonio immobilare del Comune di Sona", lang="it"),
 ]
-HERITAGE_DATA.creator = [ONTO_AUTHOR]
+HERITAGE_DATASET.creator = [ONTO_AUTHOR]
 
 # And add to graph
-HERITAGE_DATA.addToGraph(g)
+HERITAGE_DATASET.addToGraph(g)
 
 # %%
 # Load data
-heritageDF = getOpenData(datasetID, config.get("HERITAGE", "heritage"), dtype={
+heritageDF = getOpenData(config.get("HERITAGE", "heritage"), dtype={
                          "FOGLIO": "Int64", "PROGR_NAZIONALE": "Int64", "PROGR_CIVICO": "Int64"})
 
 # %%
@@ -51,6 +51,13 @@ heritageDF = getOpenData(datasetID, config.get("HERITAGE", "heritage"), dtype={
 
 insertFacilities = []
 insertHeritages = []
+
+municipality = PublicOrganization(
+    id=municipalityID,
+    baseUri=MUNICIPALITY_DATA
+)
+
+municipality.hasHeritage = []
 
 for _, facilityInfo in heritageDF.iterrows():
     facilityCode = facilityInfo["CODICE"]
@@ -80,8 +87,8 @@ for _, facilityInfo in heritageDF.iterrows():
 
     heritage = Heritage(
         id=str(heritageCategory),
-        baseUri=HER_DATA,
-        dataset=HERITAGE_DATA,
+        baseUri=HERITAGE_DATA,
+        dataset=HERITAGE_DATASET,
         titles=[Literal(heritageName, datatype=XSD.string)]
     )
 
@@ -94,12 +101,13 @@ for _, facilityInfo in heritageDF.iterrows():
 
     facility = Facility(
         id="facility/" + str(facilityCode),
-        baseUri=HER_DATA,
-        dataset=HERITAGE_DATA,
+        baseUri=HERITAGE_DATA,
+        dataset=HERITAGE_DATASET,
         titles=[Literal(facilityName, datatype=XSD.string)]
     )
 
     facility.POIofficialName = [Literal(facilityName, datatype=XSD.string)]
+    facility.ownedBy = [municipality]
 
     if not pd.isna(progrNazionale):
         address = Address(
@@ -125,8 +133,8 @@ for _, facilityInfo in heritageDF.iterrows():
                         cadastralCategory.replace(
                             "/", "") if not pd.isna(cadastralCategory) else "",
                     ),
-                    baseUri=HER_DATA,
-                    dataset=HERITAGE_DATA,
+                    baseUri=HERITAGE_DATA,
+                    dataset=HERITAGE_DATASET,
                     titles=[
                         Literal("Cadastral data for " +
                                 facilityName, lang="en"),
@@ -155,6 +163,8 @@ for _, facilityInfo in heritageDF.iterrows():
                 facility.hasCadastralData.append(cadastralData)
 
     heritage.hasFacility = [facility]
+    
+    municipality.hasHeritage.append(heritage)
 
     heritage.addToGraph(g, isTopConcept=True,
                         onlyProperties=isAlreadyInsertHeritage)
@@ -162,6 +172,7 @@ for _, facilityInfo in heritageDF.iterrows():
     facility.addToGraph(g, isTopConcept=True,
                         onlyProperties=isAlreadyInsertFacility)
 
+municipality.addToGraph(g, onlyProperties=True)
 # %%
 # Save graph
 

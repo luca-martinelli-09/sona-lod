@@ -30,28 +30,28 @@ ipaCode = config.get("MUNICIPALITY", "ipa_code")
 g: Graph = createGraph()
 
 # Create a ConceptScheme
-MUNICIPALITY_DATA = ConceptScheme(MUN_DATA)
+MUNICIPALITY_DATASET = ConceptScheme(MUNICIPALITY_DATA)
 
 # Set the properties
-MUNICIPALITY_DATA.label = [
+MUNICIPALITY_DATASET.label = [
     Literal("Comune di Sona", datatype=XSD.string),
 ]
-MUNICIPALITY_DATA.creator = [ONTO_AUTHOR]
+MUNICIPALITY_DATASET.creator = [ONTO_AUTHOR]
 
 # And add to graph
-MUNICIPALITY_DATA.addToGraph(g)
+MUNICIPALITY_DATASET.addToGraph(g)
 
 # %%
 # Load data
 
-organizationDF = getDataFromCKANApi(
-    "https://indicepa.gov.it/ipa-dati/api/3/action/datastore_search_sql?sql=SELECT%20*%20from%20%22d09adf99-dc10-4349-8c53-27b1e5aa97b6%22%20WHERE%20%22Codice_IPA%22%20=%20%27" + ipaCode + "%27")
+organizationDF = getOpenData("d09adf99-dc10-4349-8c53-27b1e5aa97b6",
+                             baseURL="https://indicepa.gov.it/ipa-dati", whereSQL=f"WHERE \"Codice_IPA\"='{ipaCode}'")
 
 # %%
 # Insert organization
 
 for _, publicOrganization in organizationDF.iterrows():
-    denominazione = publicOrganization["Denominazione_ente"]
+    denominazione = standardizeName(publicOrganization["Denominazione_ente"])
     acronym = publicOrganization["Acronimo"]
 
     taxCode = publicOrganization["Codice_fiscale_ente"]
@@ -86,12 +86,15 @@ for _, publicOrganization in organizationDF.iterrows():
     surnameResp = publicOrganization["Cognome_responsabile"]
     titleResp = publicOrganization["Titolo_responsabile"]
 
+    address = publicOrganization["Indirizzo"]
+    progrNazionale, progrCivico = queryStreetCode(address) if address != "" else (None, None)
+
     # Create organization
 
     municipality = PublicOrganization(
         id=taxCode,
-        baseUri=MUN_DATA,
-        dataset=MUNICIPALITY_DATA,
+        baseUri=MUNICIPALITY_DATA,
+        dataset=MUNICIPALITY_DATASET,
         titles=[Literal(denominazione, datatype=XSD.string)]
     )
 
@@ -107,8 +110,8 @@ for _, publicOrganization in organizationDF.iterrows():
     # Codice comune ISTAT
     municipalityIdentifier = Identifier(
         id="id/" + istatMunicipalityCode,
-        baseUri=MUN_DATA,
-        dataset=MUNICIPALITY_DATA
+        baseUri=MUNICIPALITY_DATA,
+        dataset=MUNICIPALITY_DATASET
     )
     municipalityIdentifier.identifier = Literal(
         istatMunicipalityCode, datatype=XSD.string)
@@ -119,8 +122,8 @@ for _, publicOrganization in organizationDF.iterrows():
     # Codice ISTAT
     istatIdentifier = Identifier(
         id="id/" + istatCode,
-        baseUri=MUN_DATA,
-        dataset=MUNICIPALITY_DATA
+        baseUri=MUNICIPALITY_DATA,
+        dataset=MUNICIPALITY_DATASET
     )
     istatIdentifier.identifier = Literal(
         istatCode, datatype=XSD.string)
@@ -131,8 +134,8 @@ for _, publicOrganization in organizationDF.iterrows():
     # Codice catastale
     cadastralIdentifier = Identifier(
         id="id/" + cadastralCode,
-        baseUri=MUN_DATA,
-        dataset=MUNICIPALITY_DATA
+        baseUri=MUNICIPALITY_DATA,
+        dataset=MUNICIPALITY_DATASET
     )
     cadastralIdentifier.identifier = Literal(
         cadastralCode, datatype=XSD.string)
@@ -143,6 +146,15 @@ for _, publicOrganization in organizationDF.iterrows():
     municipality.hasAlternativeIdentifier = [municipalityIdentifier,
                                              istatIdentifier,
                                              cadastralIdentifier]
+    
+    # Address
+    if progrNazionale:
+      address = Address(
+        id="{}-{}".format(progrNazionale, progrCivico if progrCivico else "snc"),
+        baseUri=ANNCSU
+      )
+
+      municipality.hasPrimaryAddress = address
 
     # Statuses
 
@@ -154,8 +166,8 @@ for _, publicOrganization in organizationDF.iterrows():
     # Contact Point
     onlineContactPoint = OnlineContactPoint(
       id="ocp/" + taxCode,
-      baseUri=MUN_DATA,
-      dataset=MUNICIPALITY_DATA,
+      baseUri=MUNICIPALITY_DATA,
+      dataset=MUNICIPALITY_DATASET,
       titles=[
           Literal("Online Contact Point for " + denominazione, lang="en"),
           Literal("Contatti per " + denominazione, lang="en")
@@ -170,8 +182,8 @@ for _, publicOrganization in organizationDF.iterrows():
       if mailInfo["mail"] != "":
         email = Email(
             id="email/" + genNameForID(mailInfo["mail"]),
-            baseUri=MUN_DATA,
-            dataset=MUNICIPALITY_DATA,
+            baseUri=MUNICIPALITY_DATA,
+            dataset=MUNICIPALITY_DATASET,
             titles=[Literal(mailInfo["mail"], datatype=XSD.string)]
         )
 
@@ -189,8 +201,8 @@ for _, publicOrganization in organizationDF.iterrows():
     if websiteUrl != "":
       website = WebSite(
         id="website/" + taxCode,
-        baseUri=MUN_DATA,
-        dataset=MUNICIPALITY_DATA,
+        baseUri=MUNICIPALITY_DATA,
+        dataset=MUNICIPALITY_DATASET,
         titles=[Literal(websiteUrl, datatype=XSD.string)]
       )
       website.URL = Literal(websiteUrl, datatype=XSD.anyURI)
@@ -201,8 +213,8 @@ for _, publicOrganization in organizationDF.iterrows():
     if twitterUrl != "":
       twitterAccount = UserAccount(
         id="social/twitter/" + taxCode,
-        baseUri=MUN_DATA,
-        dataset=MUNICIPALITY_DATA,
+        baseUri=MUNICIPALITY_DATA,
+        dataset=MUNICIPALITY_DATASET,
         titles=[Literal(twitterUrl, datatype=XSD.string)]
       )
       twitterAccount.isAccountIssuedBy = SocialMedia(id="twitter", baseUri=SOCIAL_DATA)
@@ -214,8 +226,8 @@ for _, publicOrganization in organizationDF.iterrows():
     if linkedinUrl != "":
       linkedinAccount = UserAccount(
           id="social/linkedin/" + taxCode,
-          baseUri=MUN_DATA,
-          dataset=MUNICIPALITY_DATA,
+          baseUri=MUNICIPALITY_DATA,
+          dataset=MUNICIPALITY_DATASET,
           titles=[Literal(linkedinUrl, datatype=XSD.string)]
       )
       linkedinAccount.isAccountIssuedBy = SocialMedia(
@@ -228,8 +240,8 @@ for _, publicOrganization in organizationDF.iterrows():
     if facebookUrl != "":
       facebookAccount = UserAccount(
           id="social/facebook/" + taxCode,
-          baseUri=MUN_DATA,
-          dataset=MUNICIPALITY_DATA,
+          baseUri=MUNICIPALITY_DATA,
+          dataset=MUNICIPALITY_DATASET,
           titles=[Literal(facebookUrl, datatype=XSD.string)]
       )
       facebookAccount.isAccountIssuedBy = SocialMedia(
@@ -242,8 +254,8 @@ for _, publicOrganization in organizationDF.iterrows():
     if youtubeUrl != "":
       youtubeAccount = UserAccount(
           id="social/youtube/" + taxCode,
-          baseUri=MUN_DATA,
-          dataset=MUNICIPALITY_DATA,
+          baseUri=MUNICIPALITY_DATA,
+          dataset=MUNICIPALITY_DATASET,
           titles=[Literal(youtubeUrl, datatype=XSD.string)]
       )
       youtubeAccount.isAccountIssuedBy = SocialMedia(

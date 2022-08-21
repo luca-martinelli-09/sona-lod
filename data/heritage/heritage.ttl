@@ -4,105 +4,12 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix heritage: <https://w3id.org/sona/data/heritage/> .
 @prefix heritagetypes: <https://w3od.org/ontoim/controlled-vocabulary/heritage-types/> .
+@prefix municipality: <https://w3id.org/sona/data/municipality/> .
 @prefix ontoim: <https://w3id.org/ontoim/> .
 @prefix poiapit: <https://w3id.org/italia/onto/POI/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-
-heritage:1 a ontoim:Heritage ;
-    dc:title "Beni demaniali"^^xsd:string ;
-    skos:inScheme heritage: ;
-    ontoim:hasFacility <https://w3id.org/sona/data/heritage/facility/1>,
-        <https://w3id.org/sona/data/heritage/facility/10>,
-        <https://w3id.org/sona/data/heritage/facility/11>,
-        <https://w3id.org/sona/data/heritage/facility/12>,
-        <https://w3id.org/sona/data/heritage/facility/13>,
-        <https://w3id.org/sona/data/heritage/facility/14>,
-        <https://w3id.org/sona/data/heritage/facility/15>,
-        <https://w3id.org/sona/data/heritage/facility/16>,
-        <https://w3id.org/sona/data/heritage/facility/2>,
-        <https://w3id.org/sona/data/heritage/facility/3>,
-        <https://w3id.org/sona/data/heritage/facility/4>,
-        <https://w3id.org/sona/data/heritage/facility/5>,
-        <https://w3id.org/sona/data/heritage/facility/6>,
-        <https://w3id.org/sona/data/heritage/facility/7>,
-        <https://w3id.org/sona/data/heritage/facility/8>,
-        <https://w3id.org/sona/data/heritage/facility/9> ;
-    ontoim:hasHeritageType heritagetypes:1 .
-
-heritage:2 a ontoim:Heritage ;
-    dc:title "Patrimonio disponibile"^^xsd:string ;
-    skos:inScheme heritage: ;
-    ontoim:hasFacility <https://w3id.org/sona/data/heritage/facility/57>,
-        <https://w3id.org/sona/data/heritage/facility/58>,
-        <https://w3id.org/sona/data/heritage/facility/59>,
-        <https://w3id.org/sona/data/heritage/facility/60>,
-        <https://w3id.org/sona/data/heritage/facility/61>,
-        <https://w3id.org/sona/data/heritage/facility/62>,
-        <https://w3id.org/sona/data/heritage/facility/63>,
-        <https://w3id.org/sona/data/heritage/facility/64>,
-        <https://w3id.org/sona/data/heritage/facility/65>,
-        <https://w3id.org/sona/data/heritage/facility/66>,
-        <https://w3id.org/sona/data/heritage/facility/67>,
-        <https://w3id.org/sona/data/heritage/facility/68>,
-        <https://w3id.org/sona/data/heritage/facility/69>,
-        <https://w3id.org/sona/data/heritage/facility/70>,
-        <https://w3id.org/sona/data/heritage/facility/71>,
-        <https://w3id.org/sona/data/heritage/facility/72>,
-        <https://w3id.org/sona/data/heritage/facility/73>,
-        <https://w3id.org/sona/data/heritage/facility/74>,
-        <https://w3id.org/sona/data/heritage/facility/75>,
-        <https://w3id.org/sona/data/heritage/facility/76>,
-        <https://w3id.org/sona/data/heritage/facility/77>,
-        <https://w3id.org/sona/data/heritage/facility/78>,
-        <https://w3id.org/sona/data/heritage/facility/79> ;
-    ontoim:hasHeritageType heritagetypes:2 .
-
-heritage:3 a ontoim:Heritage ;
-    dc:title "Patrimonio indisponibile"^^xsd:string ;
-    skos:inScheme heritage: ;
-    ontoim:hasFacility <https://w3id.org/sona/data/heritage/facility/17>,
-        <https://w3id.org/sona/data/heritage/facility/18>,
-        <https://w3id.org/sona/data/heritage/facility/19>,
-        <https://w3id.org/sona/data/heritage/facility/20>,
-        <https://w3id.org/sona/data/heritage/facility/21>,
-        <https://w3id.org/sona/data/heritage/facility/22>,
-        <https://w3id.org/sona/data/heritage/facility/23>,
-        <https://w3id.org/sona/data/heritage/facility/24>,
-        <https://w3id.org/sona/data/heritage/facility/25>,
-        <https://w3id.org/sona/data/heritage/facility/26>,
-        <https://w3id.org/sona/data/heritage/facility/27>,
-        <https://w3id.org/sona/data/heritage/facility/28>,
-        <https://w3id.org/sona/data/heritage/facility/29>,
-        <https://w3id.org/sona/data/heritage/facility/30>,
-        <https://w3id.org/sona/data/heritage/facility/31>,
-        <https://w3id.org/sona/data/heritage/facility/32>,
-        <https://w3id.org/sona/data/heritage/facility/33>,
-        <https://w3id.org/sona/data/heritage/facility/34>,
-        <https://w3id.org/sona/data/heritage/facility/35>,
-        <https://w3id.org/sona/data/heritage/facility/36>,
-        <https://w3id.org/sona/data/heritage/facility/37>,
-        <https://w3id.org/sona/data/heritage/facility/38>,
-        <https://w3id.org/sona/data/heritage/facility/39>,
-        <https://w3id.org/sona/data/heritage/facility/40>,
-        <https://w3id.org/sona/data/heritage/facility/41>,
-        <https://w3id.org/sona/data/heritage/facility/42>,
-        <https://w3id.org/sona/data/heritage/facility/43>,
-        <https://w3id.org/sona/data/heritage/facility/44>,
-        <https://w3id.org/sona/data/heritage/facility/45>,
-        <https://w3id.org/sona/data/heritage/facility/46>,
-        <https://w3id.org/sona/data/heritage/facility/47>,
-        <https://w3id.org/sona/data/heritage/facility/48>,
-        <https://w3id.org/sona/data/heritage/facility/49>,
-        <https://w3id.org/sona/data/heritage/facility/50>,
-        <https://w3id.org/sona/data/heritage/facility/51>,
-        <https://w3id.org/sona/data/heritage/facility/52>,
-        <https://w3id.org/sona/data/heritage/facility/53>,
-        <https://w3id.org/sona/data/heritage/facility/54>,
-        <https://w3id.org/sona/data/heritage/facility/55>,
-        <https://w3id.org/sona/data/heritage/facility/56> ;
-    ontoim:hasHeritageType heritagetypes:3 .
 
 <https://w3id.org/sona/data/heritage/cadastre/10-1224-B5> a ontoim:CadastralData ;
     dc:title "Cadastral data for Scuola elementare \"C. Collodi\" di San Giorgio in Salici"@en,
@@ -1387,6 +1294,100 @@ heritage:3 a ontoim:Heritage ;
     ontoim:map "B"^^xsd:string ;
     ontoim:sheet "9"^^xsd:string .
 
+heritage:1 a ontoim:Heritage ;
+    dc:title "Beni demaniali"^^xsd:string ;
+    skos:inScheme heritage: ;
+    ontoim:hasFacility <https://w3id.org/sona/data/heritage/facility/1>,
+        <https://w3id.org/sona/data/heritage/facility/10>,
+        <https://w3id.org/sona/data/heritage/facility/11>,
+        <https://w3id.org/sona/data/heritage/facility/12>,
+        <https://w3id.org/sona/data/heritage/facility/13>,
+        <https://w3id.org/sona/data/heritage/facility/14>,
+        <https://w3id.org/sona/data/heritage/facility/15>,
+        <https://w3id.org/sona/data/heritage/facility/16>,
+        <https://w3id.org/sona/data/heritage/facility/2>,
+        <https://w3id.org/sona/data/heritage/facility/3>,
+        <https://w3id.org/sona/data/heritage/facility/4>,
+        <https://w3id.org/sona/data/heritage/facility/5>,
+        <https://w3id.org/sona/data/heritage/facility/6>,
+        <https://w3id.org/sona/data/heritage/facility/7>,
+        <https://w3id.org/sona/data/heritage/facility/8>,
+        <https://w3id.org/sona/data/heritage/facility/9> ;
+    ontoim:hasHeritageType heritagetypes:1 .
+
+heritage:2 a ontoim:Heritage ;
+    dc:title "Patrimonio disponibile"^^xsd:string ;
+    skos:inScheme heritage: ;
+    ontoim:hasFacility <https://w3id.org/sona/data/heritage/facility/57>,
+        <https://w3id.org/sona/data/heritage/facility/58>,
+        <https://w3id.org/sona/data/heritage/facility/59>,
+        <https://w3id.org/sona/data/heritage/facility/60>,
+        <https://w3id.org/sona/data/heritage/facility/61>,
+        <https://w3id.org/sona/data/heritage/facility/62>,
+        <https://w3id.org/sona/data/heritage/facility/63>,
+        <https://w3id.org/sona/data/heritage/facility/64>,
+        <https://w3id.org/sona/data/heritage/facility/65>,
+        <https://w3id.org/sona/data/heritage/facility/66>,
+        <https://w3id.org/sona/data/heritage/facility/67>,
+        <https://w3id.org/sona/data/heritage/facility/68>,
+        <https://w3id.org/sona/data/heritage/facility/69>,
+        <https://w3id.org/sona/data/heritage/facility/70>,
+        <https://w3id.org/sona/data/heritage/facility/71>,
+        <https://w3id.org/sona/data/heritage/facility/72>,
+        <https://w3id.org/sona/data/heritage/facility/73>,
+        <https://w3id.org/sona/data/heritage/facility/74>,
+        <https://w3id.org/sona/data/heritage/facility/75>,
+        <https://w3id.org/sona/data/heritage/facility/76>,
+        <https://w3id.org/sona/data/heritage/facility/77>,
+        <https://w3id.org/sona/data/heritage/facility/78>,
+        <https://w3id.org/sona/data/heritage/facility/79> ;
+    ontoim:hasHeritageType heritagetypes:2 .
+
+heritage:3 a ontoim:Heritage ;
+    dc:title "Patrimonio indisponibile"^^xsd:string ;
+    skos:inScheme heritage: ;
+    ontoim:hasFacility <https://w3id.org/sona/data/heritage/facility/17>,
+        <https://w3id.org/sona/data/heritage/facility/18>,
+        <https://w3id.org/sona/data/heritage/facility/19>,
+        <https://w3id.org/sona/data/heritage/facility/20>,
+        <https://w3id.org/sona/data/heritage/facility/21>,
+        <https://w3id.org/sona/data/heritage/facility/22>,
+        <https://w3id.org/sona/data/heritage/facility/23>,
+        <https://w3id.org/sona/data/heritage/facility/24>,
+        <https://w3id.org/sona/data/heritage/facility/25>,
+        <https://w3id.org/sona/data/heritage/facility/26>,
+        <https://w3id.org/sona/data/heritage/facility/27>,
+        <https://w3id.org/sona/data/heritage/facility/28>,
+        <https://w3id.org/sona/data/heritage/facility/29>,
+        <https://w3id.org/sona/data/heritage/facility/30>,
+        <https://w3id.org/sona/data/heritage/facility/31>,
+        <https://w3id.org/sona/data/heritage/facility/32>,
+        <https://w3id.org/sona/data/heritage/facility/33>,
+        <https://w3id.org/sona/data/heritage/facility/34>,
+        <https://w3id.org/sona/data/heritage/facility/35>,
+        <https://w3id.org/sona/data/heritage/facility/36>,
+        <https://w3id.org/sona/data/heritage/facility/37>,
+        <https://w3id.org/sona/data/heritage/facility/38>,
+        <https://w3id.org/sona/data/heritage/facility/39>,
+        <https://w3id.org/sona/data/heritage/facility/40>,
+        <https://w3id.org/sona/data/heritage/facility/41>,
+        <https://w3id.org/sona/data/heritage/facility/42>,
+        <https://w3id.org/sona/data/heritage/facility/43>,
+        <https://w3id.org/sona/data/heritage/facility/44>,
+        <https://w3id.org/sona/data/heritage/facility/45>,
+        <https://w3id.org/sona/data/heritage/facility/46>,
+        <https://w3id.org/sona/data/heritage/facility/47>,
+        <https://w3id.org/sona/data/heritage/facility/48>,
+        <https://w3id.org/sona/data/heritage/facility/49>,
+        <https://w3id.org/sona/data/heritage/facility/50>,
+        <https://w3id.org/sona/data/heritage/facility/51>,
+        <https://w3id.org/sona/data/heritage/facility/52>,
+        <https://w3id.org/sona/data/heritage/facility/53>,
+        <https://w3id.org/sona/data/heritage/facility/54>,
+        <https://w3id.org/sona/data/heritage/facility/55>,
+        <https://w3id.org/sona/data/heritage/facility/56> ;
+    ontoim:hasHeritageType heritagetypes:3 .
+
 <https://w3id.org/sona/data/heritage/cadastre/2-A> a ontoim:CadastralData ;
     dc:title "Cadastral data for Chiesa di Santa Giustina all'interno del cimitero di Palazzolo"@en,
         "Cadastral data for Cimitero di Palazzolo"@en,
@@ -1452,35 +1453,40 @@ heritage:3 a ontoim:Heritage ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298417-snc ;
     poiapit:POIofficialName "Cimitero di Sona"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/28-H> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/28-H> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/10> a ontoim:Facility ;
     dc:title "Chiesa di Santa Giustina all'interno del cimitero di Palazzolo"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298476-snc ;
     poiapit:POIofficialName "Chiesa di Santa Giustina all'interno del cimitero di Palazzolo"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/2-A> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/2-A> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/11> a ontoim:Facility ;
     dc:title "Chiesa di S. Salvatore c/o cimitero di Sona"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298447-snc ;
     poiapit:POIofficialName "Chiesa di S. Salvatore c/o cimitero di Sona"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/28-H> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/28-H> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/12> a ontoim:Facility ;
     dc:title "Fontana c/o Piazza Roma in Sona"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298459-snc ;
     poiapit:POIofficialName "Fontana c/o Piazza Roma in Sona"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-259> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-259> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/13> a ontoim:Facility ;
     dc:title "Torre civica"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298274-snc ;
     poiapit:POIofficialName "Torre civica"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/4-1412-1> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/4-1412-1> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/14> a ontoim:Facility ;
     dc:title "Area attrezzata"^^xsd:string ;
@@ -1490,31 +1496,36 @@ heritage:3 a ontoim:Heritage ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/4-1410>,
         <https://w3id.org/sona/data/heritage/cadastre/4-1411>,
         <https://w3id.org/sona/data/heritage/cadastre/4-1414>,
-        <https://w3id.org/sona/data/heritage/cadastre/4-1415> .
+        <https://w3id.org/sona/data/heritage/cadastre/4-1415> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/15> a ontoim:Facility ;
     dc:title "Parchi, aiuole, aree verdi e giardini pubblici"^^xsd:string ;
     skos:inScheme heritage: ;
-    poiapit:POIofficialName "Parchi, aiuole, aree verdi e giardini pubblici"^^xsd:string .
+    poiapit:POIofficialName "Parchi, aiuole, aree verdi e giardini pubblici"^^xsd:string ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/16> a ontoim:Facility ;
     dc:title "Rete stradale e parcheggi"^^xsd:string ;
     skos:inScheme heritage: ;
-    poiapit:POIofficialName "Rete stradale e parcheggi"^^xsd:string .
+    poiapit:POIofficialName "Rete stradale e parcheggi"^^xsd:string ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/17> a ontoim:Facility ;
     dc:title "Palazzo Municipale"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298459-7926082 ;
     poiapit:POIofficialName "Palazzo Municipale"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1400-1-B4> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1400-1-B4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/18> a ontoim:Facility ;
     dc:title "Sala Consiliare / Vigili"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298297-snc ;
     poiapit:POIofficialName "Sala Consiliare / Vigili"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1400-2-B4> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1400-2-B4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/19> a ontoim:Facility ;
     dc:title "Fabbricato con Farmacia e n. 2 appartamenti"^^xsd:string ;
@@ -1523,7 +1534,8 @@ heritage:3 a ontoim:Heritage ;
     poiapit:POIofficialName "Fabbricato con Farmacia e n. 2 appartamenti"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1400-3-C1>,
         <https://w3id.org/sona/data/heritage/cadastre/13-1400-4-A3>,
-        <https://w3id.org/sona/data/heritage/cadastre/13-1400-5-A3> .
+        <https://w3id.org/sona/data/heritage/cadastre/13-1400-5-A3> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/2> a ontoim:Facility ;
     dc:title "Cimitero di Lugagnano"^^xsd:string ;
@@ -1531,14 +1543,16 @@ heritage:3 a ontoim:Heritage ;
     clvapit:hasAddress anncsu:298295-snc ;
     poiapit:POIofficialName "Cimitero di Lugagnano"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/46-505>,
-        <https://w3id.org/sona/data/heritage/cadastre/46-B> .
+        <https://w3id.org/sona/data/heritage/cadastre/46-B> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/20> a ontoim:Facility ;
     dc:title "Sala Affreschi"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298460-7938538 ;
     poiapit:POIofficialName "Sala Affreschi"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1401-6-B4> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1401-6-B4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/21> a ontoim:Facility ;
     dc:title "Museo Archeologico e biblioteca"^^xsd:string ;
@@ -1546,7 +1560,8 @@ heritage:3 a ontoim:Heritage ;
     clvapit:hasAddress anncsu:298543-snc ;
     poiapit:POIofficialName "Museo Archeologico e biblioteca"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1399-2-B4>,
-        <https://w3id.org/sona/data/heritage/cadastre/13-1399-7-B4> .
+        <https://w3id.org/sona/data/heritage/cadastre/13-1399-7-B4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/22> a ontoim:Facility ;
     dc:title "Fabbricati in Corte Fedrigo a Sona"^^xsd:string ;
@@ -1554,14 +1569,16 @@ heritage:3 a ontoim:Heritage ;
     clvapit:hasAddress anncsu:298543-snc ;
     poiapit:POIofficialName "Fabbricati in Corte Fedrigo a Sona"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1399-5-B4>,
-        <https://w3id.org/sona/data/heritage/cadastre/13-1399-6-C2> .
+        <https://w3id.org/sona/data/heritage/cadastre/13-1399-6-C2> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/23> a ontoim:Facility ;
     dc:title "Uffici pubblici in Sona"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298460-snc ;
     poiapit:POIofficialName "Uffici pubblici in Sona"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1401-5-B4> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1401-5-B4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/24> a ontoim:Facility ;
     dc:title "Magazzini comunali in Sona"^^xsd:string ;
@@ -1570,7 +1587,8 @@ heritage:3 a ontoim:Heritage ;
     poiapit:POIofficialName "Magazzini comunali in Sona"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1401-1-C2>,
         <https://w3id.org/sona/data/heritage/cadastre/13-1401-2-C2>,
-        <https://w3id.org/sona/data/heritage/cadastre/13-1401-3-C2> .
+        <https://w3id.org/sona/data/heritage/cadastre/13-1401-3-C2> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/25> a ontoim:Facility ;
     dc:title "Fabbricato in via Montecorno (centro minori) a Sona"^^xsd:string ;
@@ -1578,7 +1596,8 @@ heritage:3 a ontoim:Heritage ;
     clvapit:hasAddress anncsu:298412-snc ;
     poiapit:POIofficialName "Fabbricato in via Montecorno (centro minori) a Sona"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-180-A5>,
-        <https://w3id.org/sona/data/heritage/cadastre/13-418-A5> .
+        <https://w3id.org/sona/data/heritage/cadastre/13-418-A5> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/26> a ontoim:Facility ;
     dc:title "Scuola media \"Virgilio\" di Sona"^^xsd:string ;
@@ -1586,77 +1605,88 @@ heritage:3 a ontoim:Heritage ;
     clvapit:hasAddress anncsu:298354-7911630 ;
     poiapit:POIofficialName "Scuola media \"Virgilio\" di Sona"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1395-1-B5>,
-        <https://w3id.org/sona/data/heritage/cadastre/13-1397-5-B5> .
+        <https://w3id.org/sona/data/heritage/cadastre/13-1397-5-B5> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/27> a ontoim:Facility ;
     dc:title "Palestra c/o scuola media \"Virgilio\" di Sona"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298354-7911630 ;
     poiapit:POIofficialName "Palestra c/o scuola media \"Virgilio\" di Sona"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1395-2-C4> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1395-2-C4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/28> a ontoim:Facility ;
     dc:title "Scuola elementare \"Aleardo Aleardi\" di Sona"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298460-7938587 ;
     poiapit:POIofficialName "Scuola elementare \"Aleardo Aleardi\" di Sona"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1334-B5> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1334-B5> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/29> a ontoim:Facility ;
     dc:title "Scuola materna \"Cavalier Romani\" di Sona (Villa Trevisani)"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298460-snc ;
     poiapit:POIofficialName "Scuola materna \"Cavalier Romani\" di Sona (Villa Trevisani)"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1401-7-B5> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1401-7-B5> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/3> a ontoim:Facility ;
     dc:title "Cimitero di Palazzolo"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298476-snc ;
     poiapit:POIofficialName "Cimitero di Palazzolo"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/2-A> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/2-A> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/30> a ontoim:Facility ;
     dc:title "Scuola media \"Anna Frank\" di Lugagnano"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298353-7911623 ;
     poiapit:POIofficialName "Scuola media \"Anna Frank\" di Lugagnano"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/24-1424-4-B5> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/24-1424-4-B5> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/31> a ontoim:Facility ;
     dc:title "Scuola primaria \"Silvio Pellico 2\" di Lugagnano"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298353-7911623 ;
     poiapit:POIofficialName "Scuola primaria \"Silvio Pellico 2\" di Lugagnano"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/24-1424-5-B5> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/24-1424-5-B5> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/32> a ontoim:Facility ;
     dc:title "Scuola elementare e materna \"Silvio Pellico\" di Lugagnano"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298305-7916417 ;
     poiapit:POIofficialName "Scuola elementare e materna \"Silvio Pellico\" di Lugagnano"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/23-1224-B5> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/23-1224-B5> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/33> a ontoim:Facility ;
     dc:title "Asilo nido in Lugagnano"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298460-7911622 ;
     poiapit:POIofficialName "Asilo nido in Lugagnano"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/24-1424-2-B5> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/24-1424-2-B5> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/34> a ontoim:Facility ;
     dc:title "Scuola elementare \"Don G. Bosco\" di Palazzolo"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298268-snc ;
     poiapit:POIofficialName "Scuola elementare \"Don G. Bosco\" di Palazzolo"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/4-1395-B5> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/4-1395-B5> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/35> a ontoim:Facility ;
     dc:title "Scuola elementare \"C. Collodi\" di San Giorgio in Salici"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298275-snc ;
     poiapit:POIofficialName "Scuola elementare \"C. Collodi\" di San Giorgio in Salici"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/10-1224-B5> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/10-1224-B5> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/36> a ontoim:Facility ;
     dc:title "Edificio comunale in Lugagnano"^^xsd:string ;
@@ -1668,7 +1698,8 @@ heritage:3 a ontoim:Heritage ;
         <https://w3id.org/sona/data/heritage/cadastre/24-627-3-B4>,
         <https://w3id.org/sona/data/heritage/cadastre/24-627-4-B4>,
         <https://w3id.org/sona/data/heritage/cadastre/24-627-5-F1>,
-        <https://w3id.org/sona/data/heritage/cadastre/24-627-6-C2> .
+        <https://w3id.org/sona/data/heritage/cadastre/24-627-6-C2> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/37> a ontoim:Facility ;
     dc:title "Centro polivalente (casa di riposo) in Lugagnano"^^xsd:string ;
@@ -1678,7 +1709,8 @@ heritage:3 a ontoim:Heritage ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/23-1272-2-F1>,
         <https://w3id.org/sona/data/heritage/cadastre/23-1272-3-F1>,
         <https://w3id.org/sona/data/heritage/cadastre/23-1272-4-D6>,
-        <https://w3id.org/sona/data/heritage/cadastre/23-1272-6-B1> .
+        <https://w3id.org/sona/data/heritage/cadastre/23-1272-6-B1> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/38> a ontoim:Facility ;
     dc:title "Centro polivalente (casa di riposo) in Lugagnano"^^xsd:string ;
@@ -1692,7 +1724,8 @@ heritage:3 a ontoim:Heritage ;
         <https://w3id.org/sona/data/heritage/cadastre/13-1329-3-A3>,
         <https://w3id.org/sona/data/heritage/cadastre/13-1329-4-A3>,
         <https://w3id.org/sona/data/heritage/cadastre/13-1329-5-C2>,
-        <https://w3id.org/sona/data/heritage/cadastre/23-1272-5-A10> .
+        <https://w3id.org/sona/data/heritage/cadastre/23-1272-5-A10> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/39> a ontoim:Facility ;
     dc:title "Casa Cantoniera"^^xsd:string ;
@@ -1701,7 +1734,8 @@ heritage:3 a ontoim:Heritage ;
     poiapit:POIofficialName "Casa Cantoniera"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/7-187-3-A4>,
         <https://w3id.org/sona/data/heritage/cadastre/7-187-4-A4>,
-        <https://w3id.org/sona/data/heritage/cadastre/7-187-5-F2> .
+        <https://w3id.org/sona/data/heritage/cadastre/7-187-5-F2> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/4> a ontoim:Facility ;
     dc:title "Cimitero di San Giorgio in Salici"^^xsd:string ;
@@ -1709,35 +1743,40 @@ heritage:3 a ontoim:Heritage ;
     clvapit:hasAddress anncsu:298293-snc ;
     poiapit:POIofficialName "Cimitero di San Giorgio in Salici"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/9-462>,
-        <https://w3id.org/sona/data/heritage/cadastre/9-B> .
+        <https://w3id.org/sona/data/heritage/cadastre/9-B> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/40> a ontoim:Facility ;
     dc:title "Centro raccolta rifiuti urbani in Sona"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298493-snc ;
     poiapit:POIofficialName "Centro raccolta rifiuti urbani in Sona"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/26-546-D7> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/26-546-D7> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/41> a ontoim:Facility ;
     dc:title "Ecocentro in Lugagnano"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298295-snc ;
     poiapit:POIofficialName "Ecocentro in Lugagnano"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/46-505> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/46-505> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/42> a ontoim:Facility ;
     dc:title "Piazzola ecologica in Palazzolo"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298476-snc ;
     poiapit:POIofficialName "Piazzola ecologica in Palazzolo"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/4-1581> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/4-1581> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/43> a ontoim:Facility ;
     dc:title "Area attrezzata per attività sportive (campetto)"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298297-snc ;
     poiapit:POIofficialName "Area attrezzata per attività sportive (campetto)"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1400-6-C4> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1400-6-C4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/44> a ontoim:Facility ;
     dc:title "Impianti sportivi in Sona"^^xsd:string ;
@@ -1745,21 +1784,24 @@ heritage:3 a ontoim:Heritage ;
     clvapit:hasAddress anncsu:298257-snc ;
     poiapit:POIofficialName "Impianti sportivi in Sona"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/27-250>,
-        <https://w3id.org/sona/data/heritage/cadastre/27-519> .
+        <https://w3id.org/sona/data/heritage/cadastre/27-519> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/45> a ontoim:Facility ;
     dc:title "Campo rugby (ex calcio e tamburello) in Sona"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298472-snc ;
     poiapit:POIofficialName "Campo rugby (ex calcio e tamburello) in Sona"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/12-1104-C4> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/12-1104-C4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/46> a ontoim:Facility ;
     dc:title "Campi da tennis di Sona"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298338-snc ;
     poiapit:POIofficialName "Campi da tennis di Sona"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/12-1171-C4> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/12-1171-C4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/47> a ontoim:Facility ;
     dc:title "Impianti sportivi in Lugagnano (campi calcio)"^^xsd:string ;
@@ -1768,7 +1810,8 @@ heritage:3 a ontoim:Heritage ;
     poiapit:POIofficialName "Impianti sportivi in Lugagnano (campi calcio)"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/23-1260>,
         <https://w3id.org/sona/data/heritage/cadastre/23-1262-C4>,
-        <https://w3id.org/sona/data/heritage/cadastre/23-1263> .
+        <https://w3id.org/sona/data/heritage/cadastre/23-1263> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/48> a ontoim:Facility ;
     dc:title "Impianti sportivi in Lugagnano (campi calcio)"^^xsd:string ;
@@ -1780,14 +1823,16 @@ heritage:3 a ontoim:Heritage ;
         <https://w3id.org/sona/data/heritage/cadastre/23-1236>,
         <https://w3id.org/sona/data/heritage/cadastre/23-1265>,
         <https://w3id.org/sona/data/heritage/cadastre/23-1272>,
-        <https://w3id.org/sona/data/heritage/cadastre/23-134> .
+        <https://w3id.org/sona/data/heritage/cadastre/23-134> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/49> a ontoim:Facility ;
     dc:title "Palestra \"Boscaini\" in Lugagnano"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298312-snc ;
     poiapit:POIofficialName "Palestra \"Boscaini\" in Lugagnano"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/23-134-4-D6> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/23-134-4-D6> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/5> a ontoim:Facility ;
     dc:title "Acquedotto di Sona"^^xsd:string ;
@@ -1796,7 +1841,8 @@ heritage:3 a ontoim:Heritage ;
     poiapit:POIofficialName "Acquedotto di Sona"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/14-484>,
         <https://w3id.org/sona/data/heritage/cadastre/14-485>,
-        <https://w3id.org/sona/data/heritage/cadastre/14-486> .
+        <https://w3id.org/sona/data/heritage/cadastre/14-486> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/50> a ontoim:Facility ;
     dc:title "Centro tennis di Lugagnano"^^xsd:string ;
@@ -1807,7 +1853,8 @@ heritage:3 a ontoim:Heritage ;
         <https://w3id.org/sona/data/heritage/cadastre/23-1255>,
         <https://w3id.org/sona/data/heritage/cadastre/23-1257>,
         <https://w3id.org/sona/data/heritage/cadastre/23-1270>,
-        <https://w3id.org/sona/data/heritage/cadastre/23-134-4-D6> .
+        <https://w3id.org/sona/data/heritage/cadastre/23-134-4-D6> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/51> a ontoim:Facility ;
     dc:title "Centro sportivo \"Cecco Angiolieri\" in Palazzolo"^^xsd:string ;
@@ -1817,7 +1864,8 @@ heritage:3 a ontoim:Heritage ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/7-26-1-C2>,
         <https://w3id.org/sona/data/heritage/cadastre/7-26-2-C2>,
         <https://w3id.org/sona/data/heritage/cadastre/7-26-4-C4>,
-        <https://w3id.org/sona/data/heritage/cadastre/7-26-5-C1> .
+        <https://w3id.org/sona/data/heritage/cadastre/7-26-5-C1> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/52> a ontoim:Facility ;
     dc:title "Centro sportivo di San Giorgio in Salici"^^xsd:string ;
@@ -1825,14 +1873,16 @@ heritage:3 a ontoim:Heritage ;
     clvapit:hasAddress anncsu:298483-snc ;
     poiapit:POIofficialName "Centro sportivo di San Giorgio in Salici"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/29-645-1-C4>,
-        <https://w3id.org/sona/data/heritage/cadastre/29-645-2-C1> .
+        <https://w3id.org/sona/data/heritage/cadastre/29-645-2-C1> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/53> a ontoim:Facility ;
     dc:title "Campo di pattinaggio di San Giorgio in Salici"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298483-snc ;
     poiapit:POIofficialName "Campo di pattinaggio di San Giorgio in Salici"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/29-696-C4> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/29-696-C4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/54> a ontoim:Facility ;
     dc:title "Area sosta a lungo termine"^^xsd:string ;
@@ -1840,7 +1890,8 @@ heritage:3 a ontoim:Heritage ;
     clvapit:hasAddress anncsu:298380-snc ;
     poiapit:POIofficialName "Area sosta a lungo termine"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/15-658>,
-        <https://w3id.org/sona/data/heritage/cadastre/15-754> .
+        <https://w3id.org/sona/data/heritage/cadastre/15-754> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/55> a ontoim:Facility ;
     dc:title "Area per realizzazione Centro Civico in Palazzolo"^^xsd:string ;
@@ -1851,14 +1902,16 @@ heritage:3 a ontoim:Heritage ;
         <https://w3id.org/sona/data/heritage/cadastre/3-1197>,
         <https://w3id.org/sona/data/heritage/cadastre/3-1198>,
         <https://w3id.org/sona/data/heritage/cadastre/3-1199>,
-        <https://w3id.org/sona/data/heritage/cadastre/3-1200> .
+        <https://w3id.org/sona/data/heritage/cadastre/3-1200> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/56> a ontoim:Facility ;
     dc:title "Complesso immobiliare denominato \"La Casa di Alice\" in Lugagnano"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298458-snc ;
     poiapit:POIofficialName "Complesso immobiliare denominato \"La Casa di Alice\" in Lugagnano"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/46-156-D7> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/46-156-D7> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/57> a ontoim:Facility ;
     dc:title "Edificio comunale (ex ambulatori) a Sona"^^xsd:string ;
@@ -1871,7 +1924,8 @@ heritage:3 a ontoim:Heritage ;
         <https://w3id.org/sona/data/heritage/cadastre/13-189-4-B4>,
         <https://w3id.org/sona/data/heritage/cadastre/13-189-5-A3>,
         <https://w3id.org/sona/data/heritage/cadastre/13-189-6-B4>,
-        <https://w3id.org/sona/data/heritage/cadastre/13-189-7-A3> .
+        <https://w3id.org/sona/data/heritage/cadastre/13-189-7-A3> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/58> a ontoim:Facility ;
     dc:title "Edificio ex canonica a Sona"^^xsd:string ;
@@ -1881,14 +1935,16 @@ heritage:3 a ontoim:Heritage ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-885-10-C1>,
         <https://w3id.org/sona/data/heritage/cadastre/13-885-11-B4>,
         <https://w3id.org/sona/data/heritage/cadastre/13-885-12-B4>,
-        <https://w3id.org/sona/data/heritage/cadastre/13-885-13-B4> .
+        <https://w3id.org/sona/data/heritage/cadastre/13-885-13-B4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/59> a ontoim:Facility ;
     dc:title "Porzione di edificio adibito a bar Alpini in Sona"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298460-7938538 ;
     poiapit:POIofficialName "Porzione di edificio adibito a bar Alpini in Sona"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1401-4-C1> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1401-4-C1> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/6> a ontoim:Facility ;
     dc:title "Acquedotto di Lugagnano"^^xsd:string ;
@@ -1896,49 +1952,56 @@ heritage:3 a ontoim:Heritage ;
     clvapit:hasAddress anncsu:298202-snc ;
     poiapit:POIofficialName "Acquedotto di Lugagnano"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/23-1235>,
-        <https://w3id.org/sona/data/heritage/cadastre/23-1261> .
+        <https://w3id.org/sona/data/heritage/cadastre/23-1261> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/60> a ontoim:Facility ;
     dc:title "Portichetti in Sona"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298297-snc ;
     poiapit:POIofficialName "Portichetti in Sona"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-259-C4> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-259-C4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/61> a ontoim:Facility ;
     dc:title "Abitazione c/o scuola media a Sona (ex casa custode)"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298354-7911630 ;
     poiapit:POIofficialName "Abitazione c/o scuola media a Sona (ex casa custode)"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1395-3-A3> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/13-1395-3-A3> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/62> a ontoim:Facility ;
     dc:title "Edificio comunale (Poste) in Palazzolo"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298446-7931238 ;
     poiapit:POIofficialName "Edificio comunale (Poste) in Palazzolo"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/4-1423-4-B4> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/4-1423-4-B4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/63> a ontoim:Facility ;
     dc:title "Edificio comunale c/o torre scaligera in Palazzolo"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298268-snc ;
     poiapit:POIofficialName "Edificio comunale c/o torre scaligera in Palazzolo"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/4-1412-2-A3> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/4-1412-2-A3> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/64> a ontoim:Facility ;
     dc:title "Autorimessa c/o torre scaligera in Palazzolo"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298268-snc ;
     poiapit:POIofficialName "Autorimessa c/o torre scaligera in Palazzolo"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/4-1413-C6> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/4-1413-C6> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/65> a ontoim:Facility ;
     dc:title "Edificio comunale (ex mercato ortofrutticolo) a Lugagnano"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298577-snc ;
     poiapit:POIofficialName "Edificio comunale (ex mercato ortofrutticolo) a Lugagnano"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/23-1241-C4> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/23-1241-C4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/66> a ontoim:Facility ;
     dc:title "Edificio comunale (Poste e sala civica) in San Giorgio in Salici"^^xsd:string ;
@@ -1949,7 +2012,8 @@ heritage:3 a ontoim:Heritage ;
         <https://w3id.org/sona/data/heritage/cadastre/10-227-2-B4>,
         <https://w3id.org/sona/data/heritage/cadastre/10-227-3-B4>,
         <https://w3id.org/sona/data/heritage/cadastre/10-227-4-C6>,
-        <https://w3id.org/sona/data/heritage/cadastre/10-227-5-C6> .
+        <https://w3id.org/sona/data/heritage/cadastre/10-227-5-C6> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/67> a ontoim:Facility ;
     dc:title "Centro servizi a San Giorgio in Salici"^^xsd:string ;
@@ -1964,7 +2028,8 @@ heritage:3 a ontoim:Heritage ;
         <https://w3id.org/sona/data/heritage/cadastre/10-1474-3-C4>,
         <https://w3id.org/sona/data/heritage/cadastre/10-1474-4-C4>,
         <https://w3id.org/sona/data/heritage/cadastre/10-1474-5-A10>,
-        <https://w3id.org/sona/data/heritage/cadastre/10-1474-6-C1> .
+        <https://w3id.org/sona/data/heritage/cadastre/10-1474-6-C1> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/68> a ontoim:Facility ;
     dc:title "Baita alpini a Palazzolo"^^xsd:string ;
@@ -1972,14 +2037,16 @@ heritage:3 a ontoim:Heritage ;
     clvapit:hasAddress anncsu:298217-7928512 ;
     poiapit:POIofficialName "Baita alpini a Palazzolo"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/7-26-1-C2>,
-        <https://w3id.org/sona/data/heritage/cadastre/7-26-2-C2> .
+        <https://w3id.org/sona/data/heritage/cadastre/7-26-2-C2> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/69> a ontoim:Facility ;
     dc:title "Baita alpini a San Giorgio in Salici"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298499-7921555 ;
     poiapit:POIofficialName "Baita alpini a San Giorgio in Salici"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/10-1360-C4> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/10-1360-C4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/7> a ontoim:Facility ;
     dc:title "Acquedotto di Palazzolo"^^xsd:string ;
@@ -1990,21 +2057,24 @@ heritage:3 a ontoim:Heritage ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/4-1412-3>,
         <https://w3id.org/sona/data/heritage/cadastre/5-446>,
         <https://w3id.org/sona/data/heritage/cadastre/5-450>,
-        <https://w3id.org/sona/data/heritage/cadastre/5-451> .
+        <https://w3id.org/sona/data/heritage/cadastre/5-451> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/70> a ontoim:Facility ;
     dc:title "Baita alpini a Lugagnano"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298571-298571 ;
     poiapit:POIofficialName "Baita alpini a Lugagnano"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/24-953-6-C4> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/24-953-6-C4> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/71> a ontoim:Facility ;
     dc:title "Baita alpini a Lugagnano"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298571-298571 ;
     poiapit:POIofficialName "Baita alpini a Lugagnano"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/24-953-7-B5> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/24-953-7-B5> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/72> a ontoim:Facility ;
     dc:title "Ex area ecocentro - Sona"^^xsd:string ;
@@ -2012,7 +2082,8 @@ heritage:3 a ontoim:Heritage ;
     clvapit:hasAddress anncsu:298472-snc ;
     poiapit:POIofficialName "Ex area ecocentro - Sona"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/12-1106>,
-        <https://w3id.org/sona/data/heritage/cadastre/12-1111> .
+        <https://w3id.org/sona/data/heritage/cadastre/12-1111> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/73> a ontoim:Facility ;
     dc:title "Area c/o impianti sportivi di Palazzolo"^^xsd:string ;
@@ -2024,14 +2095,16 @@ heritage:3 a ontoim:Heritage ;
         <https://w3id.org/sona/data/heritage/cadastre/7-1169>,
         <https://w3id.org/sona/data/heritage/cadastre/7-1171>,
         <https://w3id.org/sona/data/heritage/cadastre/7-1173>,
-        <https://w3id.org/sona/data/heritage/cadastre/7-480> .
+        <https://w3id.org/sona/data/heritage/cadastre/7-480> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/74> a ontoim:Facility ;
     dc:title "Lotto n.10 zona PEEP a San Giorgio in Salici"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298427-snc ;
     poiapit:POIofficialName "Lotto n.10 zona PEEP a San Giorgio in Salici"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/10-809> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/10-809> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/75> a ontoim:Facility ;
     dc:title "Area PEEP a Palazzolo"^^xsd:string ;
@@ -2041,7 +2114,8 @@ heritage:3 a ontoim:Heritage ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/4-1565>,
         <https://w3id.org/sona/data/heritage/cadastre/4-1592>,
         <https://w3id.org/sona/data/heritage/cadastre/4-1642>,
-        <https://w3id.org/sona/data/heritage/cadastre/4-1643> .
+        <https://w3id.org/sona/data/heritage/cadastre/4-1643> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/76> a ontoim:Facility ;
     dc:title "Lotti edificati concessi in diritto di superficie"^^xsd:string ;
@@ -2049,14 +2123,16 @@ heritage:3 a ontoim:Heritage ;
     clvapit:hasAddress anncsu:298518-snc ;
     poiapit:POIofficialName "Lotti edificati concessi in diritto di superficie"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/23-780>,
-        <https://w3id.org/sona/data/heritage/cadastre/23-822> .
+        <https://w3id.org/sona/data/heritage/cadastre/23-822> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/77> a ontoim:Facility ;
     dc:title "Lotti edificati concessi in diritto di superficie"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298190-snc ;
     poiapit:POIofficialName "Lotti edificati concessi in diritto di superficie"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/23-810> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/23-810> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/78> a ontoim:Facility ;
     dc:title "Lotti edificati concessi in diritto di superficie"^^xsd:string ;
@@ -2064,7 +2140,8 @@ heritage:3 a ontoim:Heritage ;
     clvapit:hasAddress anncsu:298207-snc ;
     poiapit:POIofficialName "Lotti edificati concessi in diritto di superficie"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/12-1157>,
-        <https://w3id.org/sona/data/heritage/cadastre/12-847> .
+        <https://w3id.org/sona/data/heritage/cadastre/12-847> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/79> a ontoim:Facility ;
     dc:title "Area c/o cimitero di Palazzolo"^^xsd:string ;
@@ -2076,7 +2153,8 @@ heritage:3 a ontoim:Heritage ;
         <https://w3id.org/sona/data/heritage/cadastre/2-635>,
         <https://w3id.org/sona/data/heritage/cadastre/2-637>,
         <https://w3id.org/sona/data/heritage/cadastre/2-638>,
-        <https://w3id.org/sona/data/heritage/cadastre/2-639> .
+        <https://w3id.org/sona/data/heritage/cadastre/2-639> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/8> a ontoim:Facility ;
     dc:title "Acquedotto di San Giorgio in Salici"^^xsd:string ;
@@ -2084,14 +2162,20 @@ heritage:3 a ontoim:Heritage ;
     clvapit:hasAddress anncsu:298275-snc ;
     poiapit:POIofficialName "Acquedotto di San Giorgio in Salici"^^xsd:string ;
     ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/10-1368>,
-        <https://w3id.org/sona/data/heritage/cadastre/10-341> .
+        <https://w3id.org/sona/data/heritage/cadastre/10-341> ;
+    ontoim:ownedBy municipality:00500760236 .
 
 <https://w3id.org/sona/data/heritage/facility/9> a ontoim:Facility ;
     dc:title "Chiesetta sconsacrata ex cimitero Lugagnano"^^xsd:string ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298565-snc ;
     poiapit:POIofficialName "Chiesetta sconsacrata ex cimitero Lugagnano"^^xsd:string ;
-    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/24-C> .
+    ontoim:hasCadastralData <https://w3id.org/sona/data/heritage/cadastre/24-C> ;
+    ontoim:ownedBy municipality:00500760236 .
+
+municipality:00500760236 ontoim:hasHeritage heritage:1,
+        heritage:2,
+        heritage:3 .
 
 heritage: a skos:ConceptScheme ;
     rdfs:label "Heritage of Comune di Sona"@en,

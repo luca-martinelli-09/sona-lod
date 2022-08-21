@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:clvapit="https://w3id.org/italia/onto/CLV/"
+   xmlns:covapit="https://w3id.org/italia/onto/COV/"
+   xmlns:cpvapit="https://w3id.org/italia/onto/CPV/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:smapit="https://w3id.org/italia/onto/SM/"
+>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/email/vric814009-istruzione-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vric814009@istruzione.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:vric814009@istruzione.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/website/93128280232">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/WebSite"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.iclugagnano.gov.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:URL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">www.iclugagnano.gov.it</smapit:URL>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/email/vric83800t-pec-istruzione-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vric83800t@pec.istruzione.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:vric83800t@pec.istruzione.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/organization/VRIC814009">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PublicOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Istituto Comprensivo - Ic Sona - 'Virgilio'</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/school/head-teacher/maria-federici"/>
+    <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Istituto Comprensivo - Ic Sona - 'Virgilio'</covapit:legalName>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298354-7911630"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/80026500233"/>
+    <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80026500233</covapit:taxCode>
+    <covapit:orgAcronym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AMMINISTRAZIONE</covapit:orgAcronym>
+    <covapit:IPAcode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">istsc_vric814009</covapit:IPAcode>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/email/vric83800t-istruzione-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vric83800t@istruzione.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:vric83800t@istruzione.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/website/80026500233">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/WebSite"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.icsona.edu.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:URL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">www.icsona.edu.it</smapit:URL>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/head-teacher/elisabeth-piras-trombi-abibatu">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Head teacher for Istituto Comprensivo - Ic Lugagnano Di Sona</dc:title>
+    <dc:title xml:lang="it">Dirigente scolastico di Istituto Comprensivo - Ic Lugagnano Di Sona</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/head-teacher/maria-federici">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
+    <dc:title xml:lang="en">Head teacher for Istituto Comprensivo - Ic Sona - 'Virgilio'</dc:title>
+    <dc:title xml:lang="it">Dirigente scolastico di Istituto Comprensivo - Ic Sona - 'Virgilio'</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/80026500233">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Istituto Comprensivo - Ic Sona - 'Virgilio'</dc:title>
+    <dc:title xml:lang="en">Contatti per Istituto Comprensivo - Ic Sona - 'Virgilio'</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/school/email/vric814009-istruzione-it"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/school/email/vric814009-pec-istruzione-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/website/80026500233"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/person/elisabeth-piras-trombi-abibatu">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elisabeth Piras Trombi Abibatu</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piras Trombi Abibatu</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elisabeth</cpvapit:givenName>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Schools and Comprehensive Institutes</rdfs:label>
+    <rdfs:label xml:lang="it">Scuole e Istituti Comprensivi</rdfs:label>
+    <dc:creator rdf:resource="https://w3id.org/people/lucamartinelli"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/school/organization/VRIC814009"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/school/organization/VRIC83800T"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/person/maria-federici">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maria Federici</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Federici</cpvapit:familyName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maria</cpvapit:givenName>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/email/vric814009-pec-istruzione-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vric814009@pec.istruzione.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:vric814009@pec.istruzione.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/organization/VRIC83800T">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/PublicOrganization"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Istituto Comprensivo - Ic Lugagnano Di Sona</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/school/head-teacher/elisabeth-piras-trombi-abibatu"/>
+    <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Istituto Comprensivo - Ic Lugagnano Di Sona</covapit:legalName>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298353-7911623"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/93128280232"/>
+    <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93128280232</covapit:taxCode>
+    <covapit:IPAcode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">istsc_vric83800t</covapit:IPAcode>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/93128280232">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Istituto Comprensivo - Ic Lugagnano Di Sona</dc:title>
+    <dc:title xml:lang="en">Contatti per Istituto Comprensivo - Ic Lugagnano Di Sona</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/school/email/vric83800t-istruzione-it"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/school/email/vric83800t-pec-istruzione-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/website/93128280232"/>
+  </rdf:Description>
+</rdf:RDF>

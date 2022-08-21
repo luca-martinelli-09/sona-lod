@@ -1,0 +1,112 @@
+@prefix anncsu: <https://w3id.org/sona/data/ANNCSU/> .
+@prefix channel: <https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/> .
+@prefix clvapit: <https://w3id.org/italia/onto/CLV/> .
+@prefix covapit: <https://w3id.org/italia/onto/COV/> .
+@prefix cpvapit: <https://w3id.org/italia/onto/CPV/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix school: <https://w3id.org/sona/data/school/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix smapit: <https://w3id.org/italia/onto/SM/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/sona/data/school/person/elisabeth-piras-trombi-abibatu> a cpvapit:Person ;
+    dc:title "Elisabeth Piras Trombi Abibatu"^^xsd:string ;
+    skos:inScheme school: ;
+    cpvapit:familyName "Piras Trombi Abibatu"^^xsd:string ;
+    cpvapit:givenName "Elisabeth"^^xsd:string .
+
+<https://w3id.org/sona/data/school/person/maria-federici> a cpvapit:Person ;
+    dc:title "Maria Federici"^^xsd:string ;
+    skos:inScheme school: ;
+    cpvapit:familyName "Federici"^^xsd:string ;
+    cpvapit:givenName "Maria"^^xsd:string .
+
+<https://w3id.org/sona/data/school/email/vric814009-istruzione-it> a smapit:Email ;
+    dc:title "vric814009@istruzione.it"^^xsd:string ;
+    skos:inScheme school: ;
+    smapit:emailAddress "mailto:vric814009@istruzione.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/school/email/vric814009-pec-istruzione-it> a smapit:Email ;
+    dc:title "vric814009@pec.istruzione.it"^^xsd:string ;
+    skos:inScheme school: ;
+    smapit:emailAddress "mailto:vric814009@pec.istruzione.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:041 .
+
+<https://w3id.org/sona/data/school/email/vric83800t-istruzione-it> a smapit:Email ;
+    dc:title "vric83800t@istruzione.it"^^xsd:string ;
+    skos:inScheme school: ;
+    smapit:emailAddress "mailto:vric83800t@istruzione.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:042 .
+
+<https://w3id.org/sona/data/school/email/vric83800t-pec-istruzione-it> a smapit:Email ;
+    dc:title "vric83800t@pec.istruzione.it"^^xsd:string ;
+    skos:inScheme school: ;
+    smapit:emailAddress "mailto:vric83800t@pec.istruzione.it"^^xsd:anyURI ;
+    smapit:hasEmailType channel:041 .
+
+<https://w3id.org/sona/data/school/head-teacher/elisabeth-piras-trombi-abibatu> a covapit:Employment ;
+    dc:title "Head teacher for Istituto Comprensivo - Ic Lugagnano Di Sona"@en,
+        "Dirigente scolastico di Istituto Comprensivo - Ic Lugagnano Di Sona"@it ;
+    skos:inScheme school: .
+
+<https://w3id.org/sona/data/school/head-teacher/maria-federici> a covapit:Employment ;
+    dc:title "Head teacher for Istituto Comprensivo - Ic Sona - 'Virgilio'"@en,
+        "Dirigente scolastico di Istituto Comprensivo - Ic Sona - 'Virgilio'"@it ;
+    skos:inScheme school: .
+
+<https://w3id.org/sona/data/school/ocp/80026500233> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Istituto Comprensivo - Ic Sona - 'Virgilio'"@en,
+        "Online Contact Point for Istituto Comprensivo - Ic Sona - 'Virgilio'"@en ;
+    skos:inScheme school: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/school/email/vric814009-pec-istruzione-it> ;
+    smapit:hasEmail <https://w3id.org/sona/data/school/email/vric814009-istruzione-it> ;
+    smapit:hasWebSite <https://w3id.org/sona/data/school/website/80026500233> .
+
+<https://w3id.org/sona/data/school/ocp/93128280232> a smapit:OnlineContactPoint ;
+    dc:title "Contatti per Istituto Comprensivo - Ic Lugagnano Di Sona"@en,
+        "Online Contact Point for Istituto Comprensivo - Ic Lugagnano Di Sona"@en ;
+    skos:inScheme school: ;
+    smapit:hasCertifiedEmail <https://w3id.org/sona/data/school/email/vric83800t-pec-istruzione-it> ;
+    smapit:hasEmail <https://w3id.org/sona/data/school/email/vric83800t-istruzione-it> ;
+    smapit:hasWebSite <https://w3id.org/sona/data/school/website/93128280232> .
+
+<https://w3id.org/sona/data/school/organization/VRIC814009> a covapit:PublicOrganization ;
+    dc:title "Istituto Comprensivo - Ic Sona - 'Virgilio'"^^xsd:string ;
+    skos:inScheme school: ;
+    clvapit:hasPrimaryAddress anncsu:298354-7911630 ;
+    covapit:IPAcode "istsc_vric814009"^^xsd:string ;
+    covapit:holdEmployment <https://w3id.org/sona/data/school/head-teacher/maria-federici> ;
+    covapit:legalName "Istituto Comprensivo - Ic Sona - 'Virgilio'"^^xsd:string ;
+    covapit:orgAcronym "AMMINISTRAZIONE"^^xsd:string ;
+    covapit:taxCode "80026500233"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/80026500233> .
+
+<https://w3id.org/sona/data/school/organization/VRIC83800T> a covapit:PublicOrganization ;
+    dc:title "Istituto Comprensivo - Ic Lugagnano Di Sona"^^xsd:string ;
+    skos:inScheme school: ;
+    clvapit:hasPrimaryAddress anncsu:298353-7911623 ;
+    covapit:IPAcode "istsc_vric83800t"^^xsd:string ;
+    covapit:holdEmployment <https://w3id.org/sona/data/school/head-teacher/elisabeth-piras-trombi-abibatu> ;
+    covapit:legalName "Istituto Comprensivo - Ic Lugagnano Di Sona"^^xsd:string ;
+    covapit:taxCode "93128280232"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/93128280232> .
+
+<https://w3id.org/sona/data/school/website/80026500233> a smapit:WebSite ;
+    dc:title "www.icsona.edu.it"^^xsd:string ;
+    skos:inScheme school: ;
+    smapit:URL "www.icsona.edu.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/school/website/93128280232> a smapit:WebSite ;
+    dc:title "www.iclugagnano.gov.it"^^xsd:string ;
+    skos:inScheme school: ;
+    smapit:URL "www.iclugagnano.gov.it"^^xsd:anyURI .
+
+school: a skos:ConceptScheme ;
+    rdfs:label "Schools and Comprehensive Institutes"@en,
+        "Scuole e Istituti Comprensivi"@it ;
+    dc:creator <https://w3id.org/people/lucamartinelli> ;
+    skos:hasTopConcept <https://w3id.org/sona/data/school/organization/VRIC814009>,
+        <https://w3id.org/sona/data/school/organization/VRIC83800T> .
+

@@ -38,33 +38,31 @@ g : Graph = createGraph()
 # Create ANNCSU endpoint, with information about the dataset
 
 # Create a ConceptScheme
-ANNCSU_DATA = ConceptScheme(ANNCSU)
+ANNCSU_DATASET = ConceptScheme(ANNCSU)
 
 # Set the properties
-ANNCSU_DATA.label = [
+ANNCSU_DATASET.label = [
     Literal("Anagrafe nazionale numeri civici e strade urbane", lang="it"),
     Literal("Civic Addressing and Street Naming", lang="en")
 ]
-ANNCSU_DATA.creator = [ONTO_AUTHOR]
+ANNCSU_DATASET.creator = [ONTO_AUTHOR]
 
 # And add to graph
-ANNCSU_DATA.addToGraph(g)
+ANNCSU_DATASET.addToGraph(g)
 
 # %%
 # Get the data
 
-datasetID = config.get("ANNCSU", "dataset")
-
 # ANNCSU streets
-anncsuAddresses = getOpenData(datasetID, config.get("ANNCSU", "streets"))
+anncsuAddresses = getOpenData(config.get("ANNCSU", "streets"))
 anncsuAddresses.set_index("PROGR_NAZIONALE", inplace=True)
 
 # ANNCSU civic numbers
-anncsuCivics = getOpenData(datasetID, config.get("ANNCSU", "civics"))
+anncsuCivics = getOpenData(config.get("ANNCSU", "civics"))
 anncsuCivics.set_index("PROGR_CIVICO", inplace=True)
 
 # ISTAT census sections
-censusSectionsObj = getOpenData(datasetID, config.get("ANNCSU", "census_sections"), rawData=True)
+censusSectionsObj = getOpenData(config.get("ANNCSU", "census_sections"), rawData=True)
 
 # Since this is a KML file, need to be parsed by pykml
 censusSections = parser.parse(censusSectionsObj)
@@ -76,7 +74,7 @@ censusSections = parser.parse(censusSectionsObj)
 Sona = City(
     id="023083",
     baseUri=ANNCSU,
-    dataset=ANNCSU_DATA,
+    dataset=ANNCSU_DATASET,
     titles=[Literal("Sona", datatype=XSD.string)]
 )
 
@@ -121,7 +119,7 @@ with alive_bar(len(localitiesDF), dual_line=True, title='🗺️ Localities') as
         addressArea = AddressArea(
             id="locality/" + genNameForID(localityName),
             baseUri=ANNCSU,
-            dataset=ANNCSU_DATA,
+            dataset=ANNCSU_DATASET,
             titles=[
                 Literal(localityName, datatype=XSD.string)
             ])
@@ -151,7 +149,7 @@ with alive_bar(len(placemarks), dual_line=True, title='🗺️ Census sections')
         censusSection = CensusSection(
             id="cs/" + str(censID),
             baseUri=ANNCSU,
-            dataset=ANNCSU_DATA,
+            dataset=ANNCSU_DATASET,
             titles=[
                 Literal("Sezione di censimento " + str(censID), lang="it"),
                 Literal("Census section " + str(censID), lang="en")
@@ -160,7 +158,7 @@ with alive_bar(len(placemarks), dual_line=True, title='🗺️ Census sections')
         geometry = Geometry(
             id="gsc/" + str(censID),
             baseUri=ANNCSU,
-            dataset=ANNCSU_DATA,
+            dataset=ANNCSU_DATASET,
             titles=[
                 Literal("Sezione di censimento " + str(censID), lang="it"),
                 Literal("Census section " + str(censID), lang="en")
@@ -199,7 +197,7 @@ with alive_bar(len(anncsuAddresses), dual_line=True, title='🗺️ Street topon
         streetToponym = StreetToponym(
             id="street/" + str(streetID),
             baseUri=ANNCSU,
-            dataset=ANNCSU_DATA,
+            dataset=ANNCSU_DATASET,
             titles=[
                 Literal(fullName, datatype=XSD.string)
             ])
@@ -249,7 +247,7 @@ with alive_bar(len(anncsuCivics), dual_line=True, title='🏠 Addresses') as bar
         civicNumbering = CivicNumbering(
             id="civic/" + str(civicID),
             baseUri=ANNCSU,
-            dataset=ANNCSU_DATA,
+            dataset=ANNCSU_DATASET,
             titles=[
                 Literal(civicFullName, datatype=XSD.string)
             ])
@@ -295,7 +293,7 @@ with alive_bar(len(anncsuCivics), dual_line=True, title='🏠 Addresses') as bar
         address = Address(
             id="ad-" + str(streetID) + "-" + str(civicID),
             baseUri=ANNCSU,
-            dataset=ANNCSU_DATA,
+            dataset=ANNCSU_DATASET,
             titles=[
                 Literal(fullName, datatype=XSD.string)
             ])
@@ -320,7 +318,7 @@ with alive_bar(len(anncsuCivics), dual_line=True, title='🏠 Addresses') as bar
             geometry = Geometry(
                 id="gcn/" + str(civicID),
                 baseUri=ANNCSU,
-                dataset=ANNCSU_DATA,
+                dataset=ANNCSU_DATASET,
                 titles=[
                     Literal(fullName, datatype=XSD.string)
                 ]
@@ -378,7 +376,7 @@ with alive_bar(len(anncsuAddresses), dual_line=True, title='🏠 SNC Addresses')
         address = Address(
             id="ad-" + str(streetID) + "-snc",
             baseUri=ANNCSU,
-            dataset=ANNCSU_DATA,
+            dataset=ANNCSU_DATASET,
             titles=[
                 Literal(fullName, datatype=XSD.string)
             ])

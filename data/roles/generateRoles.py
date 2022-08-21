@@ -33,11 +33,16 @@ ROLE_DATASET.addToGraph(g)
 # Set data
 
 rolesDF = pd.DataFrame([
-    {"id": "referent", "name_it": "Responsabile", "name_en": "Referent"},
-    {"id": "president", "name_it": "Presidente", "name_en": "President"},
     {"id": "mayor", "name_it": "Sindaco", "name_en": "Mayor"},
+    {"id": "vicemayor", "name_it": "Vicesindaco", "name_en": "Vice mayor"},
+    {"id": "assessor", "name_it": "Assessore", "name_en": "Assessor"},
+    {"id": "councilor", "name_it": "Consigliere", "name_en": "Councilor"},
     {"id": "podesta", "name_it": "Podestà", "name_en": "Podesta"},
     {"id": "commissioner", "name_it": "Commissario", "name_en": "Commissioner"},
+    {"id": "president", "name_it": "Presidente", "name_en": "President"},
+    {"id": "vicepresident", "name_it": "Vicepresidente", "name_en": "Vice president"},
+    {"id": "referent", "name_it": "Responsabile", "name_en": "Referent"},
+    {"id": "head-teacher", "name_it": "Dirigente scolastico", "name_en": "Head teacher"},
 ])
 rolesDF.set_index("id", inplace=True)
 # %%

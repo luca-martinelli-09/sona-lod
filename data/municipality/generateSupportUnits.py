@@ -31,20 +31,19 @@ ipaCode = config.get("MUNICIPALITY", "ipa_code")
 g = createGraph()
 
 # Create a ConceptScheme
-MUNICIPALITY_DATA = ConceptScheme(MUN_DATA)
+MUNICIPALITY_DATASET = ConceptScheme(MUNICIPALITY_DATA)
 
 # %%
 # Load data
 
-aooDF = getDataFromCKANApi(
-    "https://indicepa.gov.it/ipa-dati/api/3/action/datastore_search_sql?sql=SELECT%20*%20from%20%22cdaded04-f84e-4193-a720-47d6d5f422aa%22%20WHERE%20%22Codice_IPA%22%20=%20%27" + ipaCode + "%27")
+aooDF = getOpenData("cdaded04-f84e-4193-a720-47d6d5f422aa",
+                    baseURL="https://indicepa.gov.it/ipa-dati", whereSQL=f"WHERE \"Codice_IPA\"='{ipaCode}'")
 
-uoDF = getDataFromCKANApi(
-    "https://indicepa.gov.it/ipa-dati/api/3/action/datastore_search_sql?sql=SELECT%20*%20from%20%22b0aa1f6c-f135-4c8a-b416-396fed4e1a5d%22%20WHERE%20%22Codice_IPA%22%20=%20%27" + ipaCode + "%27")
+uoDF = getOpenData("b0aa1f6c-f135-4c8a-b416-396fed4e1a5d",
+                   baseURL="https://indicepa.gov.it/ipa-dati", whereSQL=f"WHERE \"Codice_IPA\"='{ipaCode}'")
 
-eInvoiceServicesDF = getDataFromCKANApi(
-    "https://indicepa.gov.it/ipa-dati/api/3/action/datastore_search_sql?sql=SELECT%20*%20from%20%2257bd2be0-4d3d-41cd-bdb8-2f0a60d6f490%22%20WHERE%20%22Codice_IPA%22%20=%20%27" + ipaCode + "%27"
-)
+eInvoiceServicesDF = getOpenData("57bd2be0-4d3d-41cd-bdb8-2f0a60d6f490",
+                                 baseURL="https://indicepa.gov.it/ipa-dati", whereSQL=f"WHERE \"Codice_IPA\"='{ipaCode}'")
 
 officesDF = pd.concat([aooDF, uoDF], ignore_index=True)
 
@@ -55,15 +54,15 @@ referentsDF = officesDF[["Nome_responsabile", "Cognome_responsabile",
     subset=["Nome_responsabile", "Cognome_responsabile"])
 
 for _, referent in referentsDF.iterrows():
-    nameRef = referent["Nome_responsabile"]
-    surnameRef = referent["Cognome_responsabile"]
+    nameRef = standardizeName(referent["Nome_responsabile"])
+    surnameRef = standardizeName(referent["Cognome_responsabile"])
     mailRef = referent["Mail_responsabile"]
     phoneNumberRef = referent["Telefono_responsabile"]
 
     referent = Person(
         id="person/" + genNameForID(nameRef + " " + surnameRef),
-        baseUri=MUN_DATA,
-        dataset=MUNICIPALITY_DATA,
+        baseUri=MUNICIPALITY_DATA,
+        dataset=MUNICIPALITY_DATASET,
         titles=[Literal(nameRef + " " + surnameRef, datatype=XSD.string)]
     )
 
@@ -72,8 +71,8 @@ for _, referent in referentsDF.iterrows():
 
     onlineContactPointReferent = OnlineContactPoint(
         id="ocp/" + genNameForID(nameRef + " " + surnameRef),
-        baseUri=MUN_DATA,
-        dataset=MUNICIPALITY_DATA,
+        baseUri=MUNICIPALITY_DATA,
+        dataset=MUNICIPALITY_DATASET,
         titles=[
             Literal("Online Contact Point for " +
                     nameRef + " " + surnameRef, lang="en"),
@@ -84,8 +83,8 @@ for _, referent in referentsDF.iterrows():
     if mailRef != "":
       email = Email(
           id="email/" + genNameForID(mailRef),
-          baseUri=MUN_DATA,
-          dataset=MUNICIPALITY_DATA,
+          baseUri=MUNICIPALITY_DATA,
+          dataset=MUNICIPALITY_DATASET,
           titles=[Literal(mailRef, datatype=XSD.string)]
       )
       email.emailAddress = Literal("mailto:" + mailRef, datatype=XSD.anyURI)
@@ -97,8 +96,8 @@ for _, referent in referentsDF.iterrows():
     if phoneNumberRef:
       phone = Telephone(
           id="phone/" + phoneNumberRef,
-          baseUri=MUN_DATA,
-          dataset=MUNICIPALITY_DATA,
+          baseUri=MUNICIPALITY_DATA,
+          dataset=MUNICIPALITY_DATASET,
           titles=[Literal(phoneNumberRef, datatype=XSD.string)]
       )
       phone.telephoneNumber = Literal(phoneNumberRef, datatype=XSD.string)
@@ -120,10 +119,11 @@ for _, office in officesDF.iterrows():
     isAOO = pd.isna(office["Codice_uni_uo"])
 
     denominazione = office["Denominazione_aoo"] if isAOO else office["Descrizione_uo"]
+    denominazione = standardizeName(denominazione)
 
     publicOrganization = PublicOrganization(
       id=office["Codice_fiscale_ente"],
-      baseUri=MUN_DATA
+      baseUri=MUNICIPALITY_DATA
     )
 
     uoCode = office["Codice_uni_uo"]
@@ -146,21 +146,25 @@ for _, office in officesDF.iterrows():
 
     institutionDate = office["Data_istituzione"]
 
+    address = office["Indirizzo"]
+    progrNazionale, progrCivico = queryStreetCode(
+        address) if address != "" else (None, None)
+
     # Office
 
     if isAOO:
       publicOffice = HomogeneousOrganizationalArea(
         id="aoo/" + aooCode,
-        baseUri=MUN_DATA,
-        dataset=MUNICIPALITY_DATA,
+        baseUri=MUNICIPALITY_DATA,
+        dataset=MUNICIPALITY_DATASET,
         titles=[Literal(denominazione, datatype=XSD.string)]
       )
       publicOffice.AOOIdentifier = Literal(aooCode, datatype=XSD.string)
     else:
       publicOffice = Office(
         id="uo/" + uoCode,
-        baseUri=MUN_DATA,
-        dataset=MUNICIPALITY_DATA,
+        baseUri=MUNICIPALITY_DATA,
+        dataset=MUNICIPALITY_DATASET,
         titles=[Literal(denominazione, datatype=XSD.string)]
       )
       publicOffice.officeIdentifier = Literal(uoCode, datatype=XSD.string)
@@ -178,7 +182,7 @@ for _, office in officesDF.iterrows():
     if not isAOO and parentUOCode != "":
       parentUO = Office(
           id="uo/" + parentUOCode,
-          baseUri=MUN_DATA,
+          baseUri=MUNICIPALITY_DATA,
       )
 
       parentUO.hasSupportUnit = [publicOffice]
@@ -189,18 +193,28 @@ for _, office in officesDF.iterrows():
     if not isAOO and aooCode != "":
       parentAOO = HomogeneousOrganizationalArea(
           id="aoo/" + aooCode,
-          baseUri=MUN_DATA,
+          baseUri=MUNICIPALITY_DATA,
       )
 
       publicOffice.isPartOf = parentAOO
 
       parentAOO.addToGraph(g, onlyProperties=True)
     
+      # Address
+    if progrNazionale:
+      address = Address(
+          id="{}-{}".format(progrNazionale,
+                            progrCivico if progrCivico else "snc"),
+          baseUri=ANNCSU
+      )
+
+      publicOffice.hasPrimaryAddress = address
+    
     # Contact Point
     onlineContactPoint = OnlineContactPoint(
         id="ocp/" + (aooCode if isAOO else uoCode),
-        baseUri=MUN_DATA,
-        dataset=MUNICIPALITY_DATA,
+        baseUri=MUNICIPALITY_DATA,
+        dataset=MUNICIPALITY_DATASET,
         titles=[
             Literal("Online Contact Point for " + denominazione, lang="en"),
             Literal("Contatti per " + denominazione, lang="en")
@@ -215,8 +229,8 @@ for _, office in officesDF.iterrows():
       if mailInfo["mail"] != "":
         email = Email(
             id="email/" + genNameForID(mailInfo["mail"]),
-            baseUri=MUN_DATA,
-            dataset=MUNICIPALITY_DATA,
+            baseUri=MUNICIPALITY_DATA,
+            dataset=MUNICIPALITY_DATASET,
             titles=[Literal(mailInfo["mail"], datatype=XSD.string)]
         )
 
@@ -235,8 +249,8 @@ for _, office in officesDF.iterrows():
     if phoneNumber != "":
       phone = Telephone(
           id="phone/" + phoneNumber,
-          baseUri=MUN_DATA,
-          dataset=MUNICIPALITY_DATA,
+          baseUri=MUNICIPALITY_DATA,
+          dataset=MUNICIPALITY_DATASET,
           titles=[Literal(phoneNumber, datatype=XSD.string)]
       )
       phone.telephoneNumber = Literal(phoneNumber, datatype=XSD.string)
@@ -248,8 +262,8 @@ for _, office in officesDF.iterrows():
       if faxNumber != "":
         fax = Telephone(
             id="fax/" + faxNumber,
-            baseUri=MUN_DATA,
-            dataset=MUNICIPALITY_DATA,
+            baseUri=MUNICIPALITY_DATA,
+            dataset=MUNICIPALITY_DATASET,
             titles=[Literal(faxNumber, datatype=XSD.string)]
         )
         fax.telephoneNumber = Literal(faxNumber, datatype=XSD.string)
@@ -266,8 +280,8 @@ for _, office in officesDF.iterrows():
     if nameRef != "":
       employment = Employment(
           id="referent/" + (aooCode if isAOO else uoCode),
-          baseUri=MUN_DATA,
-          dataset=MUNICIPALITY_DATA,
+          baseUri=MUNICIPALITY_DATA,
+          dataset=MUNICIPALITY_DATASET,
           titles=[
             Literal("Referent for " + denominazione, lang="en"),
             Literal("Responsabile per " + denominazione, lang="it")
@@ -276,7 +290,7 @@ for _, office in officesDF.iterrows():
 
       referent = Person(
         id="person/" +  genNameForID(nameRef + " " + surnameRef),
-        baseUri=MUN_DATA
+        baseUri=MUNICIPALITY_DATA
       )
 
       employment.employmentFor = publicOffice
@@ -299,7 +313,7 @@ for _, office in officesDF.iterrows():
 
 for _, eInvoiceServiceInfo in eInvoiceServicesDF.iterrows():
   uoCode = eInvoiceServiceInfo["Codice_uni_uo"]
-  uoName = eInvoiceServiceInfo["Descrizione_uo"]
+  uoName = standardizeName(eInvoiceServiceInfo["Descrizione_uo"])
   taxCodeEIS = eInvoiceServiceInfo["Codice_fiscale_sfe"]
 
   taxCodeValidationDate = eInvoiceServiceInfo["Data_verifica_cf"]
@@ -307,8 +321,8 @@ for _, eInvoiceServiceInfo in eInvoiceServicesDF.iterrows():
 
   eInvService = eInvoiceService(
       id="service/" + uoCode,
-      baseUri=MUN_DATA,
-      dataset=MUNICIPALITY_DATA,
+      baseUri=MUNICIPALITY_DATA,
+      dataset=MUNICIPALITY_DATASET,
       titles=[
           Literal("eInvoice Service for " + uoName, lang="en"),
           Literal("Servizio di fatturazione elettronica per " + uoName, lang="it"),
@@ -321,7 +335,7 @@ for _, eInvoiceServiceInfo in eInvoiceServicesDF.iterrows():
 
   office = Office(
     id="uo/" + uoCode,
-    baseUri=MUN_DATA
+    baseUri=MUNICIPALITY_DATA
   )
 
   office.hasEInvoiceService = eInvService

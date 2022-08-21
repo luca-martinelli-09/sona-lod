@@ -1,3 +1,4 @@
+@prefix anncsu: <https://w3id.org/sona/data/ANNCSU/> .
 @prefix channel: <https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/> .
 @prefix clvapit: <https://w3id.org/italia/onto/CLV/> .
 @prefix covapit: <https://w3id.org/italia/onto/COV/> .
@@ -13,14 +14,15 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 municipality:00500760236 a ontoim:PublicOrganization ;
-    dc:title "Comune di Sona"^^xsd:string ;
+    dc:title "Comune Di Sona"^^xsd:string ;
     skos:inScheme municipality: ;
+    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
     covapit:IPAcode "c_i826"^^xsd:string ;
     covapit:hasAlternativeIdentifier <https://w3id.org/sona/data/municipality/id/023083>,
         <https://w3id.org/sona/data/municipality/id/95962>,
         <https://w3id.org/sona/data/municipality/id/I826> ;
     covapit:hasLegalStatus legalstatus:2430 ;
-    covapit:legalName "Comune di Sona"^^xsd:string ;
+    covapit:legalName "Comune Di Sona"^^xsd:string ;
     covapit:taxCode "00500760236"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/00500760236> .
 
@@ -46,8 +48,8 @@ municipality:00500760236 a ontoim:PublicOrganization ;
     l0:identifier "I826"^^xsd:string .
 
 <https://w3id.org/sona/data/municipality/ocp/00500760236> a smapit:OnlineContactPoint ;
-    dc:title "Contatti per Comune di Sona"@en,
-        "Online Contact Point for Comune di Sona"@en ;
+    dc:title "Contatti per Comune Di Sona"@en,
+        "Online Contact Point for Comune Di Sona"@en ;
     skos:inScheme municipality: ;
     smapit:hasCertifiedEmail <https://w3id.org/sona/data/municipality/email/sona-vr-cert-ip-veneto-net> ;
     smapit:hasUserAccount <https://w3id.org/sona/data/municipality/social/facebook/00500760236>,
