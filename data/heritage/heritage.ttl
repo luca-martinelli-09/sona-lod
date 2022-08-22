@@ -6,8 +6,10 @@
 @prefix heritagetypes: <https://w3od.org/ontoim/controlled-vocabulary/heritage-types/> .
 @prefix municipality: <https://w3id.org/sona/data/municipality/> .
 @prefix ontoim: <https://w3id.org/ontoim/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix poiapit: <https://w3id.org/italia/onto/POI/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix school: <https://w3id.org/sona/data/school/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -1601,6 +1603,7 @@ heritage:3 a ontoim:Heritage ;
 
 <https://w3id.org/sona/data/heritage/facility/26> a ontoim:Facility ;
     dc:title "Scuola media \"Virgilio\" di Sona"^^xsd:string ;
+    owl:sameAs school:VRMM81401A ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298354-7911630 ;
     poiapit:POIofficialName "Scuola media \"Virgilio\" di Sona"^^xsd:string ;
@@ -1618,6 +1621,7 @@ heritage:3 a ontoim:Heritage ;
 
 <https://w3id.org/sona/data/heritage/facility/28> a ontoim:Facility ;
     dc:title "Scuola elementare \"Aleardo Aleardi\" di Sona"^^xsd:string ;
+    owl:sameAs school:VREE81403D ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298460-7938587 ;
     poiapit:POIofficialName "Scuola elementare \"Aleardo Aleardi\" di Sona"^^xsd:string ;
@@ -1626,6 +1630,7 @@ heritage:3 a ontoim:Heritage ;
 
 <https://w3id.org/sona/data/heritage/facility/29> a ontoim:Facility ;
     dc:title "Scuola materna \"Cavalier Romani\" di Sona (Villa Trevisani)"^^xsd:string ;
+    owl:sameAs school:VRAA814016 ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298460-snc ;
     poiapit:POIofficialName "Scuola materna \"Cavalier Romani\" di Sona (Villa Trevisani)"^^xsd:string ;
@@ -1642,6 +1647,7 @@ heritage:3 a ontoim:Heritage ;
 
 <https://w3id.org/sona/data/heritage/facility/30> a ontoim:Facility ;
     dc:title "Scuola media \"Anna Frank\" di Lugagnano"^^xsd:string ;
+    owl:sameAs school:VRMM83801V ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298353-7911623 ;
     poiapit:POIofficialName "Scuola media \"Anna Frank\" di Lugagnano"^^xsd:string ;
@@ -1650,6 +1656,7 @@ heritage:3 a ontoim:Heritage ;
 
 <https://w3id.org/sona/data/heritage/facility/31> a ontoim:Facility ;
     dc:title "Scuola primaria \"Silvio Pellico 2\" di Lugagnano"^^xsd:string ;
+    owl:sameAs school:VREE83801X ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298353-7911623 ;
     poiapit:POIofficialName "Scuola primaria \"Silvio Pellico 2\" di Lugagnano"^^xsd:string ;
@@ -1658,6 +1665,7 @@ heritage:3 a ontoim:Heritage ;
 
 <https://w3id.org/sona/data/heritage/facility/32> a ontoim:Facility ;
     dc:title "Scuola elementare e materna \"Silvio Pellico\" di Lugagnano"^^xsd:string ;
+    owl:sameAs school:VREE83801X ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298305-7916417 ;
     poiapit:POIofficialName "Scuola elementare e materna \"Silvio Pellico\" di Lugagnano"^^xsd:string ;
@@ -1674,6 +1682,7 @@ heritage:3 a ontoim:Heritage ;
 
 <https://w3id.org/sona/data/heritage/facility/34> a ontoim:Facility ;
     dc:title "Scuola elementare \"Don G. Bosco\" di Palazzolo"^^xsd:string ;
+    owl:sameAs school:VREE81402C ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298268-snc ;
     poiapit:POIofficialName "Scuola elementare \"Don G. Bosco\" di Palazzolo"^^xsd:string ;
@@ -1682,6 +1691,7 @@ heritage:3 a ontoim:Heritage ;
 
 <https://w3id.org/sona/data/heritage/facility/35> a ontoim:Facility ;
     dc:title "Scuola elementare \"C. Collodi\" di San Giorgio in Salici"^^xsd:string ;
+    owl:sameAs school:VREE81401B ;
     skos:inScheme heritage: ;
     clvapit:hasAddress anncsu:298275-snc ;
     poiapit:POIofficialName "Scuola elementare \"C. Collodi\" di San Giorgio in Salici"^^xsd:string ;

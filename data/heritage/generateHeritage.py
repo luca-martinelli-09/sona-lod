@@ -6,7 +6,7 @@ sys.path.append(str(Path(__file__).parents[1]))
 
 from utils import *
 
-from rdflib import Literal, XSD
+from rdflib import Literal, XSD, OWL
 
 from ontoim_py.ontoim import *
 from ontoim_py.ns import *
@@ -62,6 +62,8 @@ municipality.hasHeritage = []
 for _, facilityInfo in heritageDF.iterrows():
     facilityCode = facilityInfo["CODICE"]
 
+    miurCode = facilityInfo["CODICE_MIUR"]
+
     facilityName = facilityInfo["DENOMINAZIONE"]
     heritageName = facilityInfo["NOME_CATEGORIA"]
 
@@ -116,6 +118,11 @@ for _, facilityInfo in heritageDF.iterrows():
             baseUri=ANNCSU
         )
         facility.hasAddress = [address]
+
+    # MIUR
+
+    if not pd.isna(miurCode):
+        g.add((facility.uriRef, OWL.sameAs, SCHOOL_DATA[miurCode]))
 
     # CADASTRAL DATA
 
