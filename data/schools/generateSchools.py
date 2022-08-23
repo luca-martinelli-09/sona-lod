@@ -43,6 +43,14 @@ SCHOOL_DATASET.creator = [ONTO_AUTHOR]
 # And add to graph
 SCHOOL_DATASET.addToGraph(g)
 
+# School names to school codes
+
+schoolNtoC = {
+    "SCUOLA PRIMARIA": "3",
+    "SCUOLA INFANZIA": "2",
+    "SCUOLA PRIMO GRADO": "4"
+}
+
 # %%
 # Load data
 
@@ -50,8 +58,141 @@ schoolsDF = getOpenData(config.get("SCHOOLS", "public_schools"))
 
 schoolsDF = schoolsDF.loc[schoolsDF["CODICECOMUNESCUOLA"] == cadastralCode]
 
-schoolsDF
+schoolCodes = list(schoolsDF["CODICESCUOLA"])
+
+# %%
+# Insert data
+
+for _, schoolInfo in schoolsDF.iterrows():
+    schoolCode = schoolInfo["CODICESCUOLA"]
+    denominazione = schoolInfo["DENOMINAZIONESCUOLA"]
+
+    schoolTypeName = schoolInfo["DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA"]
+
+    comprehensiveInstituteCode = schoolInfo["CODICEISTITUTORIFERIMENTO"]
+
+    websiteUrl = schoolInfo["SITOWEBSCUOLA"].lower()
+    emailAddress = schoolInfo["INDIRIZZOEMAILSCUOLA"].lower()
+    pecAddress = schoolInfo["INDIRIZZOPECSCUOLA"].lower()
+
+    isComprehensive = comprehensiveInstituteCode == schoolCode
+
+    address = schoolInfo["INDIRIZZOSCUOLA"]
+    progrNazionale, progrCivico = queryStreetCode(
+        address) if address != "" else (None, None)
+    
+    if isComprehensive:
+        school = ComprehensiveInstitute(
+            id=schoolCode,
+            baseUri=SCHOOL_DATA,
+            dataset=SCHOOL_DATASET,
+            titles=[Literal(denominazione, datatype=XSD.string)]
+        )
+    else:
+        school = PublicSchool(
+            id=schoolCode,
+            baseUri=SCHOOL_DATA,
+            dataset=SCHOOL_DATASET,
+            titles=[Literal(denominazione, datatype=XSD.string)]
+        )
+
+        schoolType = schoolNtoC[schoolTypeName]
+        school.hasSchoolType = [SchoolType(id=schoolType, baseUri=SCHOOL_TYPES)]
+    
+    comprehensiveInstitute = ComprehensiveInstitute(
+        id=comprehensiveInstituteCode,
+        baseUri=SCHOOL_DATA
+    )
+
+    comprehensiveInstituteOrganization = PublicOrganization(
+        id="organization/" + comprehensiveInstituteCode,
+        baseUri=SCHOOL_DATA
+    )
+    
+    # Main info
+    school.POIofficialName = [Literal(denominazione, datatype=XSD.string)]
+    school.schoolCode = Literal(schoolCode, datatype=XSD.string)
+
+    # Address
+    if progrNazionale:
+      address = Address(
+          id="{}-{}".format(progrNazionale,
+                            progrCivico if progrCivico else "snc"),
+          baseUri=ANNCSU
+      )
+
+      school.hasAddress = [address]
+
+    # Online contact pont
+    ocp = OnlineContactPoint(
+        id="ocp/" + schoolCode,
+        baseUri=SCHOOL_DATA,
+        dataset=SCHOOL_DATASET,
+        titles=[
+            Literal("Online Contact Point for " +
+                    denominazione, lang="en"),
+            Literal("Contatti per " + denominazione, lang="it"),
+        ]
+    )
+
+    website = None
+    if websiteUrl != "non disponibile":
+        website = WebSite(
+            id="web/" + genNameForID(websiteUrl),
+            baseUri=SCHOOL_DATA,
+            dataset=SCHOOL_DATASET,
+            titles=[Literal(websiteUrl, datatype=XSD.string)]
+        )
+        website.URL = Literal(websiteUrl, datatype=XSD.anyURI)
+        website.addToGraph(g, isTopConcept=False)
+
+        ocp.hasWebSite = [website]
+
+    email = None
+    if emailAddress != "non disponibile":
+        email = Email(
+            id="email/" + genNameForID(emailAddress),
+            baseUri=SCHOOL_DATA,
+            dataset=SCHOOL_DATASET,
+            titles=[Literal(emailAddress, datatype=XSD.string)]
+        )
+        email.emailAddress = Literal(
+            "mailto:" + emailAddress, datatype=XSD.anyURI)
+        email.hasEmailType = EmailType(id="042", baseUri=EROGATION_CHANNELS)
+        email.addToGraph(g, isTopConcept=False)
+
+        ocp.hasEmail = [email]
+
+    pec = None
+    if pecAddress != "non disponibile":
+        pec = Email(
+            id="pec/" + genNameForID(pecAddress),
+            baseUri=SCHOOL_DATA,
+            dataset=SCHOOL_DATASET,
+            titles=[Literal(pecAddress, datatype=XSD.string)]
+        )
+        pec.emailAddress = Literal(
+            "mailto:" + pecAddress, datatype=XSD.anyURI)
+        pec.hasEmailType = EmailType(id="041", baseUri=EROGATION_CHANNELS)
+        pec.addToGraph(g, isTopConcept=False)
+
+        ocp.hasCertifiedEmail = [pec]
+    
+    if website or email or pec:
+        ocp.addToGraph(g, isTopConcept=False)
+        
+        school.hasOnlineContactPoint = ocp
+    
+    if not isComprehensive:
+        comprehensiveInstitute.includesSchool = [school]
+        comprehensiveInstitute.addToGraph(g, onlyProperties=True)
+
+        school.concessedTo = [comprehensiveInstituteOrganization]
+    
+    school.addToGraph(g, isTopConcept=True)
+
 # %%
 # Save graph
 
 saveGraph(g, "schools")
+# %%
