@@ -1,10 +1,187 @@
+@prefix anncsu: <https://w3id.org/sona/data/ANNCSU/> .
+@prefix clvapit: <https://w3id.org/italia/onto/CLV/> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ontoim: <https://w3id.org/ontoim/> .
+@prefix poiapit: <https://w3id.org/italia/onto/POI/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix school: <https://w3id.org/sona/data/school/> .
+@prefix schooltypes: <https://w3od.org/ontoim/controlled-vocabulary/school-types/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix smapit: <https://w3id.org/italia/onto/SM/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+school:VRIC814009 a ontoim:ComprehensiveInstitute ;
+    dc:title "IC VIRGILIO SONA"^^xsd:string ;
+    skos:inScheme school: ;
+    clvapit:hasAddress anncsu:298354-7911630 ;
+    poiapit:POIofficialName "IC VIRGILIO SONA"^^xsd:string ;
+    ontoim:includesSchool school:VRAA814016,
+        school:VREE81401B,
+        school:VREE81402C,
+        school:VREE81403D,
+        school:VRMM81401A ;
+    ontoim:schoolCode "VRIC814009"^^xsd:string .
+
+school:VRIC83800T a ontoim:ComprehensiveInstitute ;
+    dc:title "IC LUGAGNANO DI SONA"^^xsd:string ;
+    skos:inScheme school: ;
+    clvapit:hasAddress anncsu:298353-7911623 ;
+    poiapit:POIofficialName "IC LUGAGNANO DI SONA"^^xsd:string ;
+    ontoim:includesSchool school:VRAA83802Q,
+        school:VREE83801X,
+        school:VRMM83801V ;
+    ontoim:schoolCode "VRIC83800T"^^xsd:string .
+
+<https://w3id.org/sona/data/school/ocp/VRAA814016> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for CAVALIER ANNIBALE ROMANI"@en,
+        "Contatti per CAVALIER ANNIBALE ROMANI"@it ;
+    skos:inScheme school: ;
+    smapit:hasWebSite <https://w3id.org/sona/data/school/web/www-icsona-gov-it> .
+
+<https://w3id.org/sona/data/school/ocp/VRAA83802Q> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for MATERNA DI LUGAGNANO"@en,
+        "Contatti per MATERNA DI LUGAGNANO"@it ;
+    skos:inScheme school: ;
+    smapit:hasWebSite <https://w3id.org/sona/data/school/web/www-iclugagnano-gov-it> .
+
+<https://w3id.org/sona/data/school/ocp/VREE81401B> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for S. GIORGIO IN SALICI \"COLLODI\""@en,
+        "Contatti per S. GIORGIO IN SALICI \"COLLODI\""@it ;
+    skos:inScheme school: ;
+    smapit:hasWebSite <https://w3id.org/sona/data/school/web/www-icsona-gov-it> .
+
+<https://w3id.org/sona/data/school/ocp/VREE81402C> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for PALAZZOLO \"S.GIOVANNI BOSCO\""@en,
+        "Contatti per PALAZZOLO \"S.GIOVANNI BOSCO\""@it ;
+    skos:inScheme school: ;
+    smapit:hasWebSite <https://w3id.org/sona/data/school/web/www-icsona-gov-it> .
+
+<https://w3id.org/sona/data/school/ocp/VREE81403D> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for SONA \" ALEARDI A.\""@en,
+        "Contatti per SONA \" ALEARDI A.\""@it ;
+    skos:inScheme school: ;
+    smapit:hasWebSite <https://w3id.org/sona/data/school/web/www-icsona-gov-it> .
+
+<https://w3id.org/sona/data/school/ocp/VREE83801X> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for SILVIO PELLICO-LUGAGNANO"@en,
+        "Contatti per SILVIO PELLICO-LUGAGNANO"@it ;
+    skos:inScheme school: ;
+    smapit:hasWebSite <https://w3id.org/sona/data/school/web/www-iclugagnano-gov-it> .
+
+<https://w3id.org/sona/data/school/ocp/VRMM81401A> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for SONA - \"VIRGILIO\""@en,
+        "Contatti per SONA - \"VIRGILIO\""@it ;
+    skos:inScheme school: ;
+    smapit:hasWebSite <https://w3id.org/sona/data/school/web/www-icsona-gov-it> .
+
+<https://w3id.org/sona/data/school/ocp/VRMM83801V> a smapit:OnlineContactPoint ;
+    dc:title "Online Contact Point for LUGAGNANO - \"ANNA FRANK\""@en,
+        "Contatti per LUGAGNANO - \"ANNA FRANK\""@it ;
+    skos:inScheme school: ;
+    smapit:hasWebSite <https://w3id.org/sona/data/school/web/www-iclugagnano-gov-it> .
+
+school:VRAA814016 a ontoim:PublicSchool ;
+    dc:title "CAVALIER ANNIBALE ROMANI"^^xsd:string ;
+    skos:inScheme school: ;
+    clvapit:hasAddress anncsu:298460-7938579 ;
+    poiapit:POIofficialName "CAVALIER ANNIBALE ROMANI"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VRAA814016> ;
+    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC814009> ;
+    ontoim:hasSchoolType schooltypes:2 ;
+    ontoim:schoolCode "VRAA814016"^^xsd:string .
+
+school:VRAA83802Q a ontoim:PublicSchool ;
+    dc:title "MATERNA DI LUGAGNANO"^^xsd:string ;
+    skos:inScheme school: ;
+    clvapit:hasAddress anncsu:298196-snc ;
+    poiapit:POIofficialName "MATERNA DI LUGAGNANO"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VRAA83802Q> ;
+    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC83800T> ;
+    ontoim:hasSchoolType schooltypes:2 ;
+    ontoim:schoolCode "VRAA83802Q"^^xsd:string .
+
+school:VREE81401B a ontoim:PublicSchool ;
+    dc:title "S. GIORGIO IN SALICI \"COLLODI\""^^xsd:string ;
+    skos:inScheme school: ;
+    clvapit:hasAddress anncsu:298275-snc ;
+    poiapit:POIofficialName "S. GIORGIO IN SALICI \"COLLODI\""^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VREE81401B> ;
+    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC814009> ;
+    ontoim:hasSchoolType schooltypes:3 ;
+    ontoim:schoolCode "VREE81401B"^^xsd:string .
+
+school:VREE81402C a ontoim:PublicSchool ;
+    dc:title "PALAZZOLO \"S.GIOVANNI BOSCO\""^^xsd:string ;
+    skos:inScheme school: ;
+    clvapit:hasAddress anncsu:298268-snc ;
+    poiapit:POIofficialName "PALAZZOLO \"S.GIOVANNI BOSCO\""^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VREE81402C> ;
+    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC814009> ;
+    ontoim:hasSchoolType schooltypes:3 ;
+    ontoim:schoolCode "VREE81402C"^^xsd:string .
+
+school:VREE81403D a ontoim:PublicSchool ;
+    dc:title "SONA \" ALEARDI A.\""^^xsd:string ;
+    skos:inScheme school: ;
+    clvapit:hasAddress anncsu:298460-snc ;
+    poiapit:POIofficialName "SONA \" ALEARDI A.\""^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VREE81403D> ;
+    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC814009> ;
+    ontoim:hasSchoolType schooltypes:3 ;
+    ontoim:schoolCode "VREE81403D"^^xsd:string .
+
+school:VREE83801X a ontoim:PublicSchool ;
+    dc:title "SILVIO PELLICO-LUGAGNANO"^^xsd:string ;
+    skos:inScheme school: ;
+    clvapit:hasAddress anncsu:298305-snc ;
+    poiapit:POIofficialName "SILVIO PELLICO-LUGAGNANO"^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VREE83801X> ;
+    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC83800T> ;
+    ontoim:hasSchoolType schooltypes:3 ;
+    ontoim:schoolCode "VREE83801X"^^xsd:string .
+
+school:VRMM81401A a ontoim:PublicSchool ;
+    dc:title "SONA - \"VIRGILIO\""^^xsd:string ;
+    skos:inScheme school: ;
+    clvapit:hasAddress anncsu:298354-7911630 ;
+    poiapit:POIofficialName "SONA - \"VIRGILIO\""^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VRMM81401A> ;
+    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC814009> ;
+    ontoim:hasSchoolType schooltypes:4 ;
+    ontoim:schoolCode "VRMM81401A"^^xsd:string .
+
+school:VRMM83801V a ontoim:PublicSchool ;
+    dc:title "LUGAGNANO - \"ANNA FRANK\""^^xsd:string ;
+    skos:inScheme school: ;
+    clvapit:hasAddress anncsu:298353-7911623 ;
+    poiapit:POIofficialName "LUGAGNANO - \"ANNA FRANK\""^^xsd:string ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VRMM83801V> ;
+    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC83800T> ;
+    ontoim:hasSchoolType schooltypes:4 ;
+    ontoim:schoolCode "VRMM83801V"^^xsd:string .
+
+<https://w3id.org/sona/data/school/web/www-iclugagnano-gov-it> a smapit:WebSite ;
+    dc:title "www.iclugagnano.gov.it"^^xsd:string ;
+    skos:inScheme school: ;
+    smapit:URL "www.iclugagnano.gov.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/school/web/www-icsona-gov-it> a smapit:WebSite ;
+    dc:title "www.icsona.gov.it"^^xsd:string ;
+    skos:inScheme school: ;
+    smapit:URL "www.icsona.gov.it"^^xsd:anyURI .
 
 school: a skos:ConceptScheme ;
     rdfs:label "Schools and Comprehensive Institutes"@en,
         "Scuole e Istituti Comprensivi"@it ;
-    dc:creator <https://w3id.org/people/lucamartinelli> .
+    dc:creator <https://w3id.org/people/lucamartinelli> ;
+    skos:hasTopConcept school:VRAA814016,
+        school:VRAA83802Q,
+        school:VREE81401B,
+        school:VREE81402C,
+        school:VREE81403D,
+        school:VREE83801X,
+        school:VRIC814009,
+        school:VRIC83800T,
+        school:VRMM81401A,
+        school:VRMM83801V .
 
