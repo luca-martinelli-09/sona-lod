@@ -33,16 +33,6 @@ g: Graph = createGraph()
 # Create a ConceptScheme
 SCHOOL_DATASET = ConceptScheme(SCHOOL_DATA)
 
-# Set the properties
-SCHOOL_DATASET.label = [
-    Literal("Schools and Comprehensive Institutes", lang="en"),
-    Literal("Scuole e Istituti Comprensivi", lang="it"),
-]
-SCHOOL_DATASET.creator = [ONTO_AUTHOR]
-
-# And add to graph
-SCHOOL_DATASET.addToGraph(g)
-
 # %%
 # Load data
 

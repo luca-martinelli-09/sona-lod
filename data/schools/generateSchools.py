@@ -48,6 +48,7 @@ SCHOOL_DATASET.addToGraph(g)
 schoolNtoC = {
     "SCUOLA PRIMARIA": "3",
     "SCUOLA INFANZIA": "2",
+    "SCUOLA INFANZIA NON STATALE": "2",
     "SCUOLA PRIMO GRADO": "4"
 }
 
@@ -55,8 +56,12 @@ schoolNtoC = {
 # Load data
 
 schoolsDF = getOpenData(config.get("SCHOOLS", "public_schools"))
+privateSchoolsDF = getOpenData(config.get("SCHOOLS", "private_schools"))
 
 schoolsDF = schoolsDF.loc[schoolsDF["CODICECOMUNESCUOLA"] == cadastralCode]
+privateSchoolsDF = privateSchoolsDF.loc[privateSchoolsDF["CODICECOMUNESCUOLA"] == cadastralCode]
+
+schoolsDF = pd.concat([schoolsDF, privateSchoolsDF])
 
 schoolCodes = list(schoolsDF["CODICESCUOLA"])
 
@@ -65,7 +70,7 @@ schoolCodes = list(schoolsDF["CODICESCUOLA"])
 
 for _, schoolInfo in schoolsDF.iterrows():
     schoolCode = schoolInfo["CODICESCUOLA"]
-    denominazione = schoolInfo["DENOMINAZIONESCUOLA"]
+    denominazione = standardizeName(schoolInfo["DENOMINAZIONESCUOLA"])
 
     schoolTypeName = schoolInfo["DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA"]
 
@@ -76,6 +81,7 @@ for _, schoolInfo in schoolsDF.iterrows():
     pecAddress = schoolInfo["INDIRIZZOPECSCUOLA"].lower()
 
     isComprehensive = comprehensiveInstituteCode == schoolCode
+    isPrivate = pd.isna(comprehensiveInstituteCode)
 
     address = schoolInfo["INDIRIZZOSCUOLA"]
     progrNazionale, progrCivico = queryStreetCode(
@@ -89,12 +95,20 @@ for _, schoolInfo in schoolsDF.iterrows():
             titles=[Literal(denominazione, datatype=XSD.string)]
         )
     else:
-        school = PublicSchool(
-            id=schoolCode,
-            baseUri=SCHOOL_DATA,
-            dataset=SCHOOL_DATASET,
-            titles=[Literal(denominazione, datatype=XSD.string)]
-        )
+        if isPrivate:
+            school = PrivateSchool(
+                id=schoolCode,
+                baseUri=SCHOOL_DATA,
+                dataset=SCHOOL_DATASET,
+                titles=[Literal(denominazione, datatype=XSD.string)]
+            )
+        else:
+            school = PublicSchool(
+                id=schoolCode,
+                baseUri=SCHOOL_DATA,
+                dataset=SCHOOL_DATASET,
+                titles=[Literal(denominazione, datatype=XSD.string)]
+            )
 
         schoolType = schoolNtoC[schoolTypeName]
         school.hasSchoolType = [SchoolType(id=schoolType, baseUri=SCHOOL_TYPES)]
@@ -104,10 +118,11 @@ for _, schoolInfo in schoolsDF.iterrows():
         baseUri=SCHOOL_DATA
     )
 
-    comprehensiveInstituteOrganization = PublicOrganization(
-        id="organization/" + comprehensiveInstituteCode,
-        baseUri=SCHOOL_DATA
-    )
+    if not isPrivate:
+        comprehensiveInstituteOrganization = PublicOrganization(
+            id="organization/" + comprehensiveInstituteCode,
+            baseUri=SCHOOL_DATA
+        )
     
     # Main info
     school.POIofficialName = [Literal(denominazione, datatype=XSD.string)]
@@ -183,7 +198,7 @@ for _, schoolInfo in schoolsDF.iterrows():
         
         school.hasOnlineContactPoint = ocp
     
-    if not isComprehensive:
+    if not isComprehensive and not isPrivate:
         comprehensiveInstitute.includesSchool = [school]
         comprehensiveInstitute.addToGraph(g, onlyProperties=True)
 
