@@ -10,6 +10,10 @@ SOCIAL_DATA = Namespace("https://w3id.org/sona/data/social/")
 ROLE_DATA = Namespace("https://w3id.org/sona/data/role/")
 HERITAGE_DATA = Namespace("https://w3id.org/sona/data/heritage/")
 SCHOOL_DATA = Namespace("https://w3id.org/sona/data/school/")
+WASTE_DATA = Namespace("https://w3id.org/sona/data/waste/")
+ASSOCIATIONS_DATA = Namespace("https://w3id.org/sona/data/association/")
+DEMOGRAPHY_DATA = Namespace("https://w3id.org/sona/data/demography/")
+TRAFFIC_DATA = Namespace("https://w3id.org/sona/data/traffic/")
 
 # Creator
 

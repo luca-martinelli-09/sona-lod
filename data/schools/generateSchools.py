@@ -55,13 +55,12 @@ schoolNtoC = {
 # %%
 # Load data
 
-schoolsDF = getOpenData(config.get("SCHOOLS", "public_schools"))
+publicSchoolsDF = getOpenData(config.get("SCHOOLS", "public_schools"))
 privateSchoolsDF = getOpenData(config.get("SCHOOLS", "private_schools"))
 
-schoolsDF = schoolsDF.loc[schoolsDF["CODICECOMUNESCUOLA"] == cadastralCode]
-privateSchoolsDF = privateSchoolsDF.loc[privateSchoolsDF["CODICECOMUNESCUOLA"] == cadastralCode]
+schoolsDF = pd.concat([publicSchoolsDF, privateSchoolsDF])
 
-schoolsDF = pd.concat([schoolsDF, privateSchoolsDF])
+schoolsDF = schoolsDF.loc[schoolsDF["CODICECOMUNESCUOLA"] == cadastralCode]
 
 schoolCodes = list(schoolsDF["CODICESCUOLA"])
 

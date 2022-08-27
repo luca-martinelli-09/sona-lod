@@ -1,0 +1,1863 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix muapit: <https://w3id.org/italia/onto/MU/> .
+@prefix ontoim: <https://w3id.org/ontoim/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix tiapit: <https://w3id.org/italia/onto/TI/> .
+@prefix wastecategories: <https://w3od.org/ontoim/controlled-vocabulary/waste-categories/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/sona/data/waste/bulky-2010> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2010 - Ingombranti"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/bulky-2010> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2010> ;
+    ontoim:hasWasteCategory wastecategories:bulky .
+
+<https://w3id.org/sona/data/waste/bulky-2011> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2011 - Ingombranti"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/bulky-2011> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2011> ;
+    ontoim:hasWasteCategory wastecategories:bulky .
+
+<https://w3id.org/sona/data/waste/bulky-2012> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2012 - Ingombranti"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/bulky-2012> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2012> ;
+    ontoim:hasWasteCategory wastecategories:bulky .
+
+<https://w3id.org/sona/data/waste/bulky-2013> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2013 - Ingombranti"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/bulky-2013> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2013> ;
+    ontoim:hasWasteCategory wastecategories:bulky .
+
+<https://w3id.org/sona/data/waste/bulky-2014> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2014 - Ingombranti"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/bulky-2014> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2014> ;
+    ontoim:hasWasteCategory wastecategories:bulky .
+
+<https://w3id.org/sona/data/waste/bulky-2015> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2015 - Ingombranti"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/bulky-2015> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2015> ;
+    ontoim:hasWasteCategory wastecategories:bulky .
+
+<https://w3id.org/sona/data/waste/bulky-2016> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2016 - Ingombranti"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/bulky-2016> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2016> ;
+    ontoim:hasWasteCategory wastecategories:bulky .
+
+<https://w3id.org/sona/data/waste/bulky-2017> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2017 - Ingombranti"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/bulky-2017> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2017> ;
+    ontoim:hasWasteCategory wastecategories:bulky .
+
+<https://w3id.org/sona/data/waste/bulky-2018> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2018 - Ingombranti"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/bulky-2018> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2018> ;
+    ontoim:hasWasteCategory wastecategories:bulky .
+
+<https://w3id.org/sona/data/waste/bulky-2019> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2019 - Ingombranti"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/bulky-2019> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2019> ;
+    ontoim:hasWasteCategory wastecategories:bulky .
+
+<https://w3id.org/sona/data/waste/bulky-2020> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2020 - Ingombranti"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/bulky-2020> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2020> ;
+    ontoim:hasWasteCategory wastecategories:bulky .
+
+<https://w3id.org/sona/data/waste/candd-2016> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2016 - Da C&D"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/candd-2016> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2016> ;
+    ontoim:hasWasteCategory wastecategories:candd .
+
+<https://w3id.org/sona/data/waste/candd-2017> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2017 - Da C&D"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/candd-2017> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2017> ;
+    ontoim:hasWasteCategory wastecategories:candd .
+
+<https://w3id.org/sona/data/waste/candd-2018> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2018 - Da C&D"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/candd-2018> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2018> ;
+    ontoim:hasWasteCategory wastecategories:candd .
+
+<https://w3id.org/sona/data/waste/candd-2019> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2019 - Da C&D"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/candd-2019> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2019> ;
+    ontoim:hasWasteCategory wastecategories:candd .
+
+<https://w3id.org/sona/data/waste/candd-2020> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2020 - Da C&D"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/candd-2020> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2020> ;
+    ontoim:hasWasteCategory wastecategories:candd .
+
+<https://w3id.org/sona/data/waste/glass-2010> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2010 - Vetro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/glass-2010> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2010> ;
+    ontoim:hasWasteCategory wastecategories:glass .
+
+<https://w3id.org/sona/data/waste/glass-2011> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2011 - Vetro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/glass-2011> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2011> ;
+    ontoim:hasWasteCategory wastecategories:glass .
+
+<https://w3id.org/sona/data/waste/glass-2012> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2012 - Vetro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/glass-2012> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2012> ;
+    ontoim:hasWasteCategory wastecategories:glass .
+
+<https://w3id.org/sona/data/waste/glass-2013> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2013 - Vetro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/glass-2013> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2013> ;
+    ontoim:hasWasteCategory wastecategories:glass .
+
+<https://w3id.org/sona/data/waste/glass-2014> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2014 - Vetro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/glass-2014> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2014> ;
+    ontoim:hasWasteCategory wastecategories:glass .
+
+<https://w3id.org/sona/data/waste/glass-2015> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2015 - Vetro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/glass-2015> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2015> ;
+    ontoim:hasWasteCategory wastecategories:glass .
+
+<https://w3id.org/sona/data/waste/glass-2016> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2016 - Vetro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/glass-2016> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2016> ;
+    ontoim:hasWasteCategory wastecategories:glass .
+
+<https://w3id.org/sona/data/waste/glass-2017> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2017 - Vetro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/glass-2017> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2017> ;
+    ontoim:hasWasteCategory wastecategories:glass .
+
+<https://w3id.org/sona/data/waste/glass-2018> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2018 - Vetro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/glass-2018> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2018> ;
+    ontoim:hasWasteCategory wastecategories:glass .
+
+<https://w3id.org/sona/data/waste/glass-2019> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2019 - Vetro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/glass-2019> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2019> ;
+    ontoim:hasWasteCategory wastecategories:glass .
+
+<https://w3id.org/sona/data/waste/glass-2020> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2020 - Vetro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/glass-2020> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2020> ;
+    ontoim:hasWasteCategory wastecategories:glass .
+
+<https://w3id.org/sona/data/waste/metal-2010> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2010 - Metallo"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/metal-2010> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2010> ;
+    ontoim:hasWasteCategory wastecategories:metal .
+
+<https://w3id.org/sona/data/waste/metal-2011> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2011 - Metallo"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/metal-2011> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2011> ;
+    ontoim:hasWasteCategory wastecategories:metal .
+
+<https://w3id.org/sona/data/waste/metal-2012> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2012 - Metallo"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/metal-2012> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2012> ;
+    ontoim:hasWasteCategory wastecategories:metal .
+
+<https://w3id.org/sona/data/waste/metal-2013> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2013 - Metallo"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/metal-2013> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2013> ;
+    ontoim:hasWasteCategory wastecategories:metal .
+
+<https://w3id.org/sona/data/waste/metal-2014> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2014 - Metallo"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/metal-2014> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2014> ;
+    ontoim:hasWasteCategory wastecategories:metal .
+
+<https://w3id.org/sona/data/waste/metal-2015> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2015 - Metallo"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/metal-2015> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2015> ;
+    ontoim:hasWasteCategory wastecategories:metal .
+
+<https://w3id.org/sona/data/waste/metal-2016> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2016 - Metallo"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/metal-2016> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2016> ;
+    ontoim:hasWasteCategory wastecategories:metal .
+
+<https://w3id.org/sona/data/waste/metal-2017> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2017 - Metallo"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/metal-2017> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2017> ;
+    ontoim:hasWasteCategory wastecategories:metal .
+
+<https://w3id.org/sona/data/waste/metal-2018> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2018 - Metallo"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/metal-2018> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2018> ;
+    ontoim:hasWasteCategory wastecategories:metal .
+
+<https://w3id.org/sona/data/waste/metal-2019> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2019 - Metallo"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/metal-2019> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2019> ;
+    ontoim:hasWasteCategory wastecategories:metal .
+
+<https://w3id.org/sona/data/waste/metal-2020> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2020 - Metallo"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/metal-2020> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2020> ;
+    ontoim:hasWasteCategory wastecategories:metal .
+
+<https://w3id.org/sona/data/waste/organic-2010> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2010 - Frazione Organica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/organic-2010> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2010> ;
+    ontoim:hasWasteCategory wastecategories:organic .
+
+<https://w3id.org/sona/data/waste/organic-2011> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2011 - Frazione Organica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/organic-2011> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2011> ;
+    ontoim:hasWasteCategory wastecategories:organic .
+
+<https://w3id.org/sona/data/waste/organic-2012> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2012 - Frazione Organica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/organic-2012> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2012> ;
+    ontoim:hasWasteCategory wastecategories:organic .
+
+<https://w3id.org/sona/data/waste/organic-2013> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2013 - Frazione Organica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/organic-2013> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2013> ;
+    ontoim:hasWasteCategory wastecategories:organic .
+
+<https://w3id.org/sona/data/waste/organic-2014> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2014 - Frazione Organica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/organic-2014> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2014> ;
+    ontoim:hasWasteCategory wastecategories:organic .
+
+<https://w3id.org/sona/data/waste/organic-2015> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2015 - Frazione Organica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/organic-2015> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2015> ;
+    ontoim:hasWasteCategory wastecategories:organic .
+
+<https://w3id.org/sona/data/waste/organic-2016> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2016 - Frazione Organica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/organic-2016> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2016> ;
+    ontoim:hasWasteCategory wastecategories:organic .
+
+<https://w3id.org/sona/data/waste/organic-2017> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2017 - Frazione Organica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/organic-2017> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2017> ;
+    ontoim:hasWasteCategory wastecategories:organic .
+
+<https://w3id.org/sona/data/waste/organic-2018> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2018 - Frazione Organica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/organic-2018> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2018> ;
+    ontoim:hasWasteCategory wastecategories:organic .
+
+<https://w3id.org/sona/data/waste/organic-2019> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2019 - Frazione Organica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/organic-2019> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2019> ;
+    ontoim:hasWasteCategory wastecategories:organic .
+
+<https://w3id.org/sona/data/waste/organic-2020> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2020 - Frazione Organica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/organic-2020> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2020> ;
+    ontoim:hasWasteCategory wastecategories:organic .
+
+<https://w3id.org/sona/data/waste/other-2010> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2010 - Altro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/other-2010> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2010> ;
+    ontoim:hasWasteCategory wastecategories:other .
+
+<https://w3id.org/sona/data/waste/other-2011> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2011 - Altro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/other-2011> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2011> ;
+    ontoim:hasWasteCategory wastecategories:other .
+
+<https://w3id.org/sona/data/waste/other-2012> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2012 - Altro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/other-2012> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2012> ;
+    ontoim:hasWasteCategory wastecategories:other .
+
+<https://w3id.org/sona/data/waste/other-2013> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2013 - Altro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/other-2013> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2013> ;
+    ontoim:hasWasteCategory wastecategories:other .
+
+<https://w3id.org/sona/data/waste/other-2014> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2014 - Altro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/other-2014> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2014> ;
+    ontoim:hasWasteCategory wastecategories:other .
+
+<https://w3id.org/sona/data/waste/other-2015> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2015 - Altro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/other-2015> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2015> ;
+    ontoim:hasWasteCategory wastecategories:other .
+
+<https://w3id.org/sona/data/waste/other-2016> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2016 - Altro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/other-2016> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2016> ;
+    ontoim:hasWasteCategory wastecategories:other .
+
+<https://w3id.org/sona/data/waste/other-2017> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2017 - Altro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/other-2017> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2017> ;
+    ontoim:hasWasteCategory wastecategories:other .
+
+<https://w3id.org/sona/data/waste/other-2018> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2018 - Altro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/other-2018> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2018> ;
+    ontoim:hasWasteCategory wastecategories:other .
+
+<https://w3id.org/sona/data/waste/other-2019> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2019 - Altro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/other-2019> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2019> ;
+    ontoim:hasWasteCategory wastecategories:other .
+
+<https://w3id.org/sona/data/waste/other-2020> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2020 - Altro"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/other-2020> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2020> ;
+    ontoim:hasWasteCategory wastecategories:other .
+
+<https://w3id.org/sona/data/waste/paper-2010> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2010 - Carta E Cartone"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/paper-2010> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2010> ;
+    ontoim:hasWasteCategory wastecategories:paper .
+
+<https://w3id.org/sona/data/waste/paper-2011> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2011 - Carta E Cartone"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/paper-2011> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2011> ;
+    ontoim:hasWasteCategory wastecategories:paper .
+
+<https://w3id.org/sona/data/waste/paper-2012> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2012 - Carta E Cartone"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/paper-2012> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2012> ;
+    ontoim:hasWasteCategory wastecategories:paper .
+
+<https://w3id.org/sona/data/waste/paper-2013> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2013 - Carta E Cartone"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/paper-2013> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2013> ;
+    ontoim:hasWasteCategory wastecategories:paper .
+
+<https://w3id.org/sona/data/waste/paper-2014> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2014 - Carta E Cartone"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/paper-2014> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2014> ;
+    ontoim:hasWasteCategory wastecategories:paper .
+
+<https://w3id.org/sona/data/waste/paper-2015> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2015 - Carta E Cartone"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/paper-2015> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2015> ;
+    ontoim:hasWasteCategory wastecategories:paper .
+
+<https://w3id.org/sona/data/waste/paper-2016> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2016 - Carta E Cartone"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/paper-2016> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2016> ;
+    ontoim:hasWasteCategory wastecategories:paper .
+
+<https://w3id.org/sona/data/waste/paper-2017> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2017 - Carta E Cartone"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/paper-2017> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2017> ;
+    ontoim:hasWasteCategory wastecategories:paper .
+
+<https://w3id.org/sona/data/waste/paper-2018> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2018 - Carta E Cartone"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/paper-2018> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2018> ;
+    ontoim:hasWasteCategory wastecategories:paper .
+
+<https://w3id.org/sona/data/waste/paper-2019> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2019 - Carta E Cartone"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/paper-2019> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2019> ;
+    ontoim:hasWasteCategory wastecategories:paper .
+
+<https://w3id.org/sona/data/waste/paper-2020> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2020 - Carta E Cartone"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/paper-2020> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2020> ;
+    ontoim:hasWasteCategory wastecategories:paper .
+
+<https://w3id.org/sona/data/waste/plastic-2010> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2010 - Plastica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/plastic-2010> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2010> ;
+    ontoim:hasWasteCategory wastecategories:plastic .
+
+<https://w3id.org/sona/data/waste/plastic-2011> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2011 - Plastica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/plastic-2011> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2011> ;
+    ontoim:hasWasteCategory wastecategories:plastic .
+
+<https://w3id.org/sona/data/waste/plastic-2012> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2012 - Plastica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/plastic-2012> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2012> ;
+    ontoim:hasWasteCategory wastecategories:plastic .
+
+<https://w3id.org/sona/data/waste/plastic-2013> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2013 - Plastica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/plastic-2013> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2013> ;
+    ontoim:hasWasteCategory wastecategories:plastic .
+
+<https://w3id.org/sona/data/waste/plastic-2014> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2014 - Plastica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/plastic-2014> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2014> ;
+    ontoim:hasWasteCategory wastecategories:plastic .
+
+<https://w3id.org/sona/data/waste/plastic-2015> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2015 - Plastica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/plastic-2015> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2015> ;
+    ontoim:hasWasteCategory wastecategories:plastic .
+
+<https://w3id.org/sona/data/waste/plastic-2016> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2016 - Plastica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/plastic-2016> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2016> ;
+    ontoim:hasWasteCategory wastecategories:plastic .
+
+<https://w3id.org/sona/data/waste/plastic-2017> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2017 - Plastica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/plastic-2017> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2017> ;
+    ontoim:hasWasteCategory wastecategories:plastic .
+
+<https://w3id.org/sona/data/waste/plastic-2018> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2018 - Plastica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/plastic-2018> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2018> ;
+    ontoim:hasWasteCategory wastecategories:plastic .
+
+<https://w3id.org/sona/data/waste/plastic-2019> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2019 - Plastica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/plastic-2019> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2019> ;
+    ontoim:hasWasteCategory wastecategories:plastic .
+
+<https://w3id.org/sona/data/waste/plastic-2020> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2020 - Plastica"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/plastic-2020> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2020> ;
+    ontoim:hasWasteCategory wastecategories:plastic .
+
+<https://w3id.org/sona/data/waste/selective-2010> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2010 - Selettiva"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/selective-2010> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2010> ;
+    ontoim:hasWasteCategory wastecategories:selective .
+
+<https://w3id.org/sona/data/waste/selective-2011> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2011 - Selettiva"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/selective-2011> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2011> ;
+    ontoim:hasWasteCategory wastecategories:selective .
+
+<https://w3id.org/sona/data/waste/selective-2012> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2012 - Selettiva"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/selective-2012> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2012> ;
+    ontoim:hasWasteCategory wastecategories:selective .
+
+<https://w3id.org/sona/data/waste/selective-2013> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2013 - Selettiva"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/selective-2013> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2013> ;
+    ontoim:hasWasteCategory wastecategories:selective .
+
+<https://w3id.org/sona/data/waste/selective-2015> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2015 - Selettiva"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/selective-2015> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2015> ;
+    ontoim:hasWasteCategory wastecategories:selective .
+
+<https://w3id.org/sona/data/waste/selective-2016> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2016 - Selettiva"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/selective-2016> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2016> ;
+    ontoim:hasWasteCategory wastecategories:selective .
+
+<https://w3id.org/sona/data/waste/selective-2017> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2017 - Selettiva"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/selective-2017> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2017> ;
+    ontoim:hasWasteCategory wastecategories:selective .
+
+<https://w3id.org/sona/data/waste/selective-2018> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2018 - Selettiva"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/selective-2018> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2018> ;
+    ontoim:hasWasteCategory wastecategories:selective .
+
+<https://w3id.org/sona/data/waste/selective-2019> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2019 - Selettiva"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/selective-2019> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2019> ;
+    ontoim:hasWasteCategory wastecategories:selective .
+
+<https://w3id.org/sona/data/waste/selective-2020> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2020 - Selettiva"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/selective-2020> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2020> ;
+    ontoim:hasWasteCategory wastecategories:selective .
+
+<https://w3id.org/sona/data/waste/street-2016> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2016 - Pulizia Stradale"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/street-2016> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2016> ;
+    ontoim:hasWasteCategory wastecategories:street .
+
+<https://w3id.org/sona/data/waste/street-2017> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2017 - Pulizia Stradale"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/street-2017> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2017> ;
+    ontoim:hasWasteCategory wastecategories:street .
+
+<https://w3id.org/sona/data/waste/street-2018> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2018 - Pulizia Stradale"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/street-2018> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2018> ;
+    ontoim:hasWasteCategory wastecategories:street .
+
+<https://w3id.org/sona/data/waste/street-2019> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2019 - Pulizia Stradale"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/street-2019> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2019> ;
+    ontoim:hasWasteCategory wastecategories:street .
+
+<https://w3id.org/sona/data/waste/street-2020> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2020 - Pulizia Stradale"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/street-2020> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2020> ;
+    ontoim:hasWasteCategory wastecategories:street .
+
+<https://w3id.org/sona/data/waste/textiles-2013> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2013 - Tessili"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/textiles-2013> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2013> ;
+    ontoim:hasWasteCategory wastecategories:textiles .
+
+<https://w3id.org/sona/data/waste/textiles-2014> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2014 - Tessili"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/textiles-2014> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2014> ;
+    ontoim:hasWasteCategory wastecategories:textiles .
+
+<https://w3id.org/sona/data/waste/textiles-2015> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2015 - Tessili"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/textiles-2015> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2015> ;
+    ontoim:hasWasteCategory wastecategories:textiles .
+
+<https://w3id.org/sona/data/waste/textiles-2016> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2016 - Tessili"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/textiles-2016> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2016> ;
+    ontoim:hasWasteCategory wastecategories:textiles .
+
+<https://w3id.org/sona/data/waste/textiles-2017> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2017 - Tessili"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/textiles-2017> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2017> ;
+    ontoim:hasWasteCategory wastecategories:textiles .
+
+<https://w3id.org/sona/data/waste/textiles-2018> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2018 - Tessili"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/textiles-2018> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2018> ;
+    ontoim:hasWasteCategory wastecategories:textiles .
+
+<https://w3id.org/sona/data/waste/textiles-2019> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2019 - Tessili"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/textiles-2019> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2019> ;
+    ontoim:hasWasteCategory wastecategories:textiles .
+
+<https://w3id.org/sona/data/waste/textiles-2020> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2020 - Tessili"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/textiles-2020> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2020> ;
+    ontoim:hasWasteCategory wastecategories:textiles .
+
+<https://w3id.org/sona/data/waste/value/bulky-2010> a muapit:Value ;
+    dc:title "206.22 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "206.22"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/bulky-2011> a muapit:Value ;
+    dc:title "200.42 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "200.42"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/bulky-2012> a muapit:Value ;
+    dc:title "128.94 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "128.94"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/bulky-2013> a muapit:Value ;
+    dc:title "125.46 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "125.46"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/bulky-2014> a muapit:Value ;
+    dc:title "113.3 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "113.3"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/bulky-2015> a muapit:Value ;
+    dc:title "139.46 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "139.46"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/bulky-2016> a muapit:Value ;
+    dc:title "132.56 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "132.56"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/bulky-2017> a muapit:Value ;
+    dc:title "143.54 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "143.54"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/bulky-2018> a muapit:Value ;
+    dc:title "42.22 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "42.22"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/bulky-2019> a muapit:Value ;
+    dc:title "106.7 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "106.7"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/bulky-2020> a muapit:Value ;
+    dc:title "101.26 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "101.26"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/candd-2016> a muapit:Value ;
+    dc:title "264.45 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "264.45"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/candd-2017> a muapit:Value ;
+    dc:title "265.41 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "265.41"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/candd-2018> a muapit:Value ;
+    dc:title "266.64 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "266.64"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/candd-2019> a muapit:Value ;
+    dc:title "267.135 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "267.135"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/candd-2020> a muapit:Value ;
+    dc:title "263.97 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "263.97"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/glass-2010> a muapit:Value ;
+    dc:title "682.45 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "682.45"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/glass-2011> a muapit:Value ;
+    dc:title "705.29 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "705.29"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/glass-2012> a muapit:Value ;
+    dc:title "694.7 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "694.7"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/glass-2013> a muapit:Value ;
+    dc:title "606.41 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "606.41"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/glass-2014> a muapit:Value ;
+    dc:title "581.97 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "581.97"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/glass-2015> a muapit:Value ;
+    dc:title "591.47 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "591.47"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/glass-2016> a muapit:Value ;
+    dc:title "561.12 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "561.12"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/glass-2017> a muapit:Value ;
+    dc:title "588.98 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "588.98"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/glass-2018> a muapit:Value ;
+    dc:title "611.94 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "611.94"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/glass-2019> a muapit:Value ;
+    dc:title "606.86 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "606.86"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/glass-2020> a muapit:Value ;
+    dc:title "670.01 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "670.01"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/metal-2010> a muapit:Value ;
+    dc:title "74.92 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "74.92"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/metal-2011> a muapit:Value ;
+    dc:title "97.68 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "97.68"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/metal-2012> a muapit:Value ;
+    dc:title "61.22 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "61.22"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/metal-2013> a muapit:Value ;
+    dc:title "135.148 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "135.148"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/metal-2014> a muapit:Value ;
+    dc:title "159.696 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "159.696"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/metal-2015> a muapit:Value ;
+    dc:title "162.008 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "162.008"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/metal-2016> a muapit:Value ;
+    dc:title "155.446 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "155.446"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/metal-2017> a muapit:Value ;
+    dc:title "160.56 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "160.56"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/metal-2018> a muapit:Value ;
+    dc:title "167.864 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "167.864"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/metal-2019> a muapit:Value ;
+    dc:title "173.372 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "173.372"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/metal-2020> a muapit:Value ;
+    dc:title "178.458 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "178.458"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/organic-2010> a muapit:Value ;
+    dc:title "2475.59 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "2475.59"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/organic-2011> a muapit:Value ;
+    dc:title "2582.79 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "2582.79"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/organic-2012> a muapit:Value ;
+    dc:title "2430.73 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "2430.73"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/organic-2013> a muapit:Value ;
+    dc:title "2445.92 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "2445.92"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/organic-2014> a muapit:Value ;
+    dc:title "2522.11 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "2522.11"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/organic-2015> a muapit:Value ;
+    dc:title "2307.02 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "2307.02"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/organic-2016> a muapit:Value ;
+    dc:title "2791.563 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "2791.563"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/organic-2017> a muapit:Value ;
+    dc:title "2350.58 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "2350.58"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/organic-2018> a muapit:Value ;
+    dc:title "2380.2 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "2380.2"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/organic-2019> a muapit:Value ;
+    dc:title "2312.42 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "2312.42"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/organic-2020> a muapit:Value ;
+    dc:title "2268.64 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "2268.64"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/other-2010> a muapit:Value ;
+    dc:title "39.68 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "39.68"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/other-2011> a muapit:Value ;
+    dc:title "33.91 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "33.91"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/other-2012> a muapit:Value ;
+    dc:title "9.54 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "9.54"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/other-2013> a muapit:Value ;
+    dc:title "1.78 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "1.78"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/other-2014> a muapit:Value ;
+    dc:title "25.625 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "25.625"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/other-2015> a muapit:Value ;
+    dc:title "2.46 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "2.46"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/other-2016> a muapit:Value ;
+    dc:title "28.48 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "28.48"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/other-2017> a muapit:Value ;
+    dc:title "106.535 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "106.535"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/other-2018> a muapit:Value ;
+    dc:title "32.993 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "32.993"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/other-2019> a muapit:Value ;
+    dc:title "37.358 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "37.358"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/other-2020> a muapit:Value ;
+    dc:title "36.31 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "36.31"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/paper-2010> a muapit:Value ;
+    dc:title "1366.53 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "1366.53"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/paper-2011> a muapit:Value ;
+    dc:title "1347.98 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "1347.98"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/paper-2012> a muapit:Value ;
+    dc:title "1265.7 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "1265.7"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/paper-2013> a muapit:Value ;
+    dc:title "1284.57 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "1284.57"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/paper-2014> a muapit:Value ;
+    dc:title "1255.08 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "1255.08"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/paper-2015> a muapit:Value ;
+    dc:title "994.68 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "994.68"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/paper-2016> a muapit:Value ;
+    dc:title "908.16 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "908.16"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/paper-2017> a muapit:Value ;
+    dc:title "948.69 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "948.69"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/paper-2018> a muapit:Value ;
+    dc:title "971.22 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "971.22"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/paper-2019> a muapit:Value ;
+    dc:title "964.77 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "964.77"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/paper-2020> a muapit:Value ;
+    dc:title "916.57 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "916.57"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/plastic-2010> a muapit:Value ;
+    dc:title "355.54 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "355.54"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/plastic-2011> a muapit:Value ;
+    dc:title "345.63 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "345.63"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/plastic-2012> a muapit:Value ;
+    dc:title "389.87 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "389.87"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/plastic-2013> a muapit:Value ;
+    dc:title "351.681 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "351.681"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/plastic-2014> a muapit:Value ;
+    dc:title "395.892 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "395.892"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/plastic-2015> a muapit:Value ;
+    dc:title "411.329 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "411.329"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/plastic-2016> a muapit:Value ;
+    dc:title "406.074 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "406.074"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/plastic-2017> a muapit:Value ;
+    dc:title "414.896 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "414.896"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/plastic-2018> a muapit:Value ;
+    dc:title "437.893 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "437.893"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/plastic-2019> a muapit:Value ;
+    dc:title "449.761 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "449.761"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/plastic-2020> a muapit:Value ;
+    dc:title "445.712 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "445.712"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/selective-2010> a muapit:Value ;
+    dc:title "32.235 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "32.235"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/selective-2011> a muapit:Value ;
+    dc:title "24.821 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "24.821"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/selective-2012> a muapit:Value ;
+    dc:title "25.035 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "25.035"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/selective-2013> a muapit:Value ;
+    dc:title "24.971 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "24.971"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/selective-2015> a muapit:Value ;
+    dc:title "20.936 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "20.936"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/selective-2016> a muapit:Value ;
+    dc:title "20.854 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "20.854"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/selective-2017> a muapit:Value ;
+    dc:title "20.836 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "20.836"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/selective-2018> a muapit:Value ;
+    dc:title "23.076 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "23.076"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/selective-2019> a muapit:Value ;
+    dc:title "22.347 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "22.347"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/selective-2020> a muapit:Value ;
+    dc:title "24.627 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "24.627"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/street-2016> a muapit:Value ;
+    dc:title "229.93 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "229.93"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/street-2017> a muapit:Value ;
+    dc:title "211.33 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "211.33"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/street-2018> a muapit:Value ;
+    dc:title "190.21 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "190.21"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/street-2019> a muapit:Value ;
+    dc:title "173.855 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "173.855"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/street-2020> a muapit:Value ;
+    dc:title "161.73 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "161.73"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/textiles-2013> a muapit:Value ;
+    dc:title "9.08 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "9.08"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/textiles-2014> a muapit:Value ;
+    dc:title "23.968 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "23.968"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/textiles-2015> a muapit:Value ;
+    dc:title "27.464 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "27.464"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/textiles-2016> a muapit:Value ;
+    dc:title "36.52 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "36.52"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/textiles-2017> a muapit:Value ;
+    dc:title "47.506 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "47.506"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/textiles-2018> a muapit:Value ;
+    dc:title "85.729 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "85.729"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/textiles-2019> a muapit:Value ;
+    dc:title "59.19 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "59.19"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/textiles-2020> a muapit:Value ;
+    dc:title "46.155 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "46.155"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/weee-2010> a muapit:Value ;
+    dc:title "116.533 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "116.533"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/weee-2011> a muapit:Value ;
+    dc:title "107.538 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "107.538"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/weee-2012> a muapit:Value ;
+    dc:title "79.811 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "79.811"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/weee-2013> a muapit:Value ;
+    dc:title "59.794 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "59.794"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/weee-2014> a muapit:Value ;
+    dc:title "79.274 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "79.274"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/weee-2015> a muapit:Value ;
+    dc:title "81.259 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "81.259"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/weee-2016> a muapit:Value ;
+    dc:title "85.018 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "85.018"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/weee-2017> a muapit:Value ;
+    dc:title "95.115 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "95.115"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/weee-2018> a muapit:Value ;
+    dc:title "94.94 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "94.94"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/weee-2019> a muapit:Value ;
+    dc:title "92.574 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "92.574"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/weee-2020> a muapit:Value ;
+    dc:title "104.992 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "104.992"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/wood-2010> a muapit:Value ;
+    dc:title "488.6 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "488.6"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/wood-2011> a muapit:Value ;
+    dc:title "492.51 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "492.51"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/wood-2012> a muapit:Value ;
+    dc:title "409.92 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "409.92"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/wood-2013> a muapit:Value ;
+    dc:title "388.47 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "388.47"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/wood-2014> a muapit:Value ;
+    dc:title "375.66 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "375.66"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/wood-2015> a muapit:Value ;
+    dc:title "309.61 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "309.61"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/wood-2016> a muapit:Value ;
+    dc:title "315.02 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "315.02"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/wood-2017> a muapit:Value ;
+    dc:title "310.5 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "310.5"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/wood-2018> a muapit:Value ;
+    dc:title "317.43 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "317.43"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/wood-2019> a muapit:Value ;
+    dc:title "296.55 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "296.55"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/value/wood-2020> a muapit:Value ;
+    dc:title "304.15 t" ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasMeasurementUnit <https://w3id.org/sona/data/waste/mu/tons> ;
+    muapit:value "304.15"^^xsd:float .
+
+<https://w3id.org/sona/data/waste/weee-2010> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2010 - Raee"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/weee-2010> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2010> ;
+    ontoim:hasWasteCategory wastecategories:weee .
+
+<https://w3id.org/sona/data/waste/weee-2011> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2011 - Raee"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/weee-2011> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2011> ;
+    ontoim:hasWasteCategory wastecategories:weee .
+
+<https://w3id.org/sona/data/waste/weee-2012> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2012 - Raee"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/weee-2012> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2012> ;
+    ontoim:hasWasteCategory wastecategories:weee .
+
+<https://w3id.org/sona/data/waste/weee-2013> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2013 - Raee"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/weee-2013> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2013> ;
+    ontoim:hasWasteCategory wastecategories:weee .
+
+<https://w3id.org/sona/data/waste/weee-2014> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2014 - Raee"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/weee-2014> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2014> ;
+    ontoim:hasWasteCategory wastecategories:weee .
+
+<https://w3id.org/sona/data/waste/weee-2015> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2015 - Raee"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/weee-2015> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2015> ;
+    ontoim:hasWasteCategory wastecategories:weee .
+
+<https://w3id.org/sona/data/waste/weee-2016> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2016 - Raee"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/weee-2016> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2016> ;
+    ontoim:hasWasteCategory wastecategories:weee .
+
+<https://w3id.org/sona/data/waste/weee-2017> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2017 - Raee"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/weee-2017> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2017> ;
+    ontoim:hasWasteCategory wastecategories:weee .
+
+<https://w3id.org/sona/data/waste/weee-2018> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2018 - Raee"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/weee-2018> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2018> ;
+    ontoim:hasWasteCategory wastecategories:weee .
+
+<https://w3id.org/sona/data/waste/weee-2019> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2019 - Raee"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/weee-2019> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2019> ;
+    ontoim:hasWasteCategory wastecategories:weee .
+
+<https://w3id.org/sona/data/waste/weee-2020> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2020 - Raee"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/weee-2020> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2020> ;
+    ontoim:hasWasteCategory wastecategories:weee .
+
+<https://w3id.org/sona/data/waste/wood-2010> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2010 - Legno"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/wood-2010> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2010> ;
+    ontoim:hasWasteCategory wastecategories:wood .
+
+<https://w3id.org/sona/data/waste/wood-2011> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2011 - Legno"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/wood-2011> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2011> ;
+    ontoim:hasWasteCategory wastecategories:wood .
+
+<https://w3id.org/sona/data/waste/wood-2012> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2012 - Legno"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/wood-2012> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2012> ;
+    ontoim:hasWasteCategory wastecategories:wood .
+
+<https://w3id.org/sona/data/waste/wood-2013> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2013 - Legno"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/wood-2013> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2013> ;
+    ontoim:hasWasteCategory wastecategories:wood .
+
+<https://w3id.org/sona/data/waste/wood-2014> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2014 - Legno"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/wood-2014> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2014> ;
+    ontoim:hasWasteCategory wastecategories:wood .
+
+<https://w3id.org/sona/data/waste/wood-2015> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2015 - Legno"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/wood-2015> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2015> ;
+    ontoim:hasWasteCategory wastecategories:wood .
+
+<https://w3id.org/sona/data/waste/wood-2016> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2016 - Legno"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/wood-2016> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2016> ;
+    ontoim:hasWasteCategory wastecategories:wood .
+
+<https://w3id.org/sona/data/waste/wood-2017> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2017 - Legno"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/wood-2017> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2017> ;
+    ontoim:hasWasteCategory wastecategories:wood .
+
+<https://w3id.org/sona/data/waste/wood-2018> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2018 - Legno"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/wood-2018> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2018> ;
+    ontoim:hasWasteCategory wastecategories:wood .
+
+<https://w3id.org/sona/data/waste/wood-2019> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2019 - Legno"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/wood-2019> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2019> ;
+    ontoim:hasWasteCategory wastecategories:wood .
+
+<https://w3id.org/sona/data/waste/wood-2020> a ontoim:WasteProduction ;
+    dc:title "Produzione di rifiuti nel 2020 - Legno"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    muapit:hasValue <https://w3id.org/sona/data/waste/value/wood-2020> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/waste/ti/2020> ;
+    ontoim:hasWasteCategory wastecategories:wood .
+
+<https://w3id.org/sona/data/waste/ti/2010> a tiapit:Year ;
+    dc:title "2010"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    tiapit:year "2010"^^xsd:gYear .
+
+<https://w3id.org/sona/data/waste/ti/2011> a tiapit:Year ;
+    dc:title "2011"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    tiapit:year "2011"^^xsd:gYear .
+
+<https://w3id.org/sona/data/waste/ti/2012> a tiapit:Year ;
+    dc:title "2012"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    tiapit:year "2012"^^xsd:gYear .
+
+<https://w3id.org/sona/data/waste/ti/2014> a tiapit:Year ;
+    dc:title "2014"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    tiapit:year "2014"^^xsd:gYear .
+
+<https://w3id.org/sona/data/waste/ti/2013> a tiapit:Year ;
+    dc:title "2013"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    tiapit:year "2013"^^xsd:gYear .
+
+<https://w3id.org/sona/data/waste/ti/2015> a tiapit:Year ;
+    dc:title "2015"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    tiapit:year "2015"^^xsd:gYear .
+
+<https://w3id.org/sona/data/waste/ti/2016> a tiapit:Year ;
+    dc:title "2016"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    tiapit:year "2016"^^xsd:gYear .
+
+<https://w3id.org/sona/data/waste/ti/2017> a tiapit:Year ;
+    dc:title "2017"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    tiapit:year "2017"^^xsd:gYear .
+
+<https://w3id.org/sona/data/waste/ti/2018> a tiapit:Year ;
+    dc:title "2018"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    tiapit:year "2018"^^xsd:gYear .
+
+<https://w3id.org/sona/data/waste/ti/2019> a tiapit:Year ;
+    dc:title "2019"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    tiapit:year "2019"^^xsd:gYear .
+
+<https://w3id.org/sona/data/waste/ti/2020> a tiapit:Year ;
+    dc:title "2020"^^xsd:string ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> ;
+    tiapit:year "2020"^^xsd:gYear .
+
+<https://w3id.org/sona/data/waste/mu/tons> a muapit:MeasurementUnit ;
+    dc:title "Tons"@en,
+        "Tonnellate"@it ;
+    skos:inScheme <https://w3id.org/sona/data/waste/> .
+
+<https://w3id.org/sona/data/waste/> a skos:ConceptScheme ;
+    rdfs:label "Waste production"@en,
+        "Produzione di rifiuti"@it ;
+    dc:creator <https://w3id.org/people/lucamartinelli> ;
+    skos:hasTopConcept <https://w3id.org/sona/data/waste/bulky-2010>,
+        <https://w3id.org/sona/data/waste/bulky-2011>,
+        <https://w3id.org/sona/data/waste/bulky-2012>,
+        <https://w3id.org/sona/data/waste/bulky-2013>,
+        <https://w3id.org/sona/data/waste/bulky-2014>,
+        <https://w3id.org/sona/data/waste/bulky-2015>,
+        <https://w3id.org/sona/data/waste/bulky-2016>,
+        <https://w3id.org/sona/data/waste/bulky-2017>,
+        <https://w3id.org/sona/data/waste/bulky-2018>,
+        <https://w3id.org/sona/data/waste/bulky-2019>,
+        <https://w3id.org/sona/data/waste/bulky-2020>,
+        <https://w3id.org/sona/data/waste/candd-2016>,
+        <https://w3id.org/sona/data/waste/candd-2017>,
+        <https://w3id.org/sona/data/waste/candd-2018>,
+        <https://w3id.org/sona/data/waste/candd-2019>,
+        <https://w3id.org/sona/data/waste/candd-2020>,
+        <https://w3id.org/sona/data/waste/glass-2010>,
+        <https://w3id.org/sona/data/waste/glass-2011>,
+        <https://w3id.org/sona/data/waste/glass-2012>,
+        <https://w3id.org/sona/data/waste/glass-2013>,
+        <https://w3id.org/sona/data/waste/glass-2014>,
+        <https://w3id.org/sona/data/waste/glass-2015>,
+        <https://w3id.org/sona/data/waste/glass-2016>,
+        <https://w3id.org/sona/data/waste/glass-2017>,
+        <https://w3id.org/sona/data/waste/glass-2018>,
+        <https://w3id.org/sona/data/waste/glass-2019>,
+        <https://w3id.org/sona/data/waste/glass-2020>,
+        <https://w3id.org/sona/data/waste/metal-2010>,
+        <https://w3id.org/sona/data/waste/metal-2011>,
+        <https://w3id.org/sona/data/waste/metal-2012>,
+        <https://w3id.org/sona/data/waste/metal-2013>,
+        <https://w3id.org/sona/data/waste/metal-2014>,
+        <https://w3id.org/sona/data/waste/metal-2015>,
+        <https://w3id.org/sona/data/waste/metal-2016>,
+        <https://w3id.org/sona/data/waste/metal-2017>,
+        <https://w3id.org/sona/data/waste/metal-2018>,
+        <https://w3id.org/sona/data/waste/metal-2019>,
+        <https://w3id.org/sona/data/waste/metal-2020>,
+        <https://w3id.org/sona/data/waste/organic-2010>,
+        <https://w3id.org/sona/data/waste/organic-2011>,
+        <https://w3id.org/sona/data/waste/organic-2012>,
+        <https://w3id.org/sona/data/waste/organic-2013>,
+        <https://w3id.org/sona/data/waste/organic-2014>,
+        <https://w3id.org/sona/data/waste/organic-2015>,
+        <https://w3id.org/sona/data/waste/organic-2016>,
+        <https://w3id.org/sona/data/waste/organic-2017>,
+        <https://w3id.org/sona/data/waste/organic-2018>,
+        <https://w3id.org/sona/data/waste/organic-2019>,
+        <https://w3id.org/sona/data/waste/organic-2020>,
+        <https://w3id.org/sona/data/waste/other-2010>,
+        <https://w3id.org/sona/data/waste/other-2011>,
+        <https://w3id.org/sona/data/waste/other-2012>,
+        <https://w3id.org/sona/data/waste/other-2013>,
+        <https://w3id.org/sona/data/waste/other-2014>,
+        <https://w3id.org/sona/data/waste/other-2015>,
+        <https://w3id.org/sona/data/waste/other-2016>,
+        <https://w3id.org/sona/data/waste/other-2017>,
+        <https://w3id.org/sona/data/waste/other-2018>,
+        <https://w3id.org/sona/data/waste/other-2019>,
+        <https://w3id.org/sona/data/waste/other-2020>,
+        <https://w3id.org/sona/data/waste/paper-2010>,
+        <https://w3id.org/sona/data/waste/paper-2011>,
+        <https://w3id.org/sona/data/waste/paper-2012>,
+        <https://w3id.org/sona/data/waste/paper-2013>,
+        <https://w3id.org/sona/data/waste/paper-2014>,
+        <https://w3id.org/sona/data/waste/paper-2015>,
+        <https://w3id.org/sona/data/waste/paper-2016>,
+        <https://w3id.org/sona/data/waste/paper-2017>,
+        <https://w3id.org/sona/data/waste/paper-2018>,
+        <https://w3id.org/sona/data/waste/paper-2019>,
+        <https://w3id.org/sona/data/waste/paper-2020>,
+        <https://w3id.org/sona/data/waste/plastic-2010>,
+        <https://w3id.org/sona/data/waste/plastic-2011>,
+        <https://w3id.org/sona/data/waste/plastic-2012>,
+        <https://w3id.org/sona/data/waste/plastic-2013>,
+        <https://w3id.org/sona/data/waste/plastic-2014>,
+        <https://w3id.org/sona/data/waste/plastic-2015>,
+        <https://w3id.org/sona/data/waste/plastic-2016>,
+        <https://w3id.org/sona/data/waste/plastic-2017>,
+        <https://w3id.org/sona/data/waste/plastic-2018>,
+        <https://w3id.org/sona/data/waste/plastic-2019>,
+        <https://w3id.org/sona/data/waste/plastic-2020>,
+        <https://w3id.org/sona/data/waste/selective-2010>,
+        <https://w3id.org/sona/data/waste/selective-2011>,
+        <https://w3id.org/sona/data/waste/selective-2012>,
+        <https://w3id.org/sona/data/waste/selective-2013>,
+        <https://w3id.org/sona/data/waste/selective-2015>,
+        <https://w3id.org/sona/data/waste/selective-2016>,
+        <https://w3id.org/sona/data/waste/selective-2017>,
+        <https://w3id.org/sona/data/waste/selective-2018>,
+        <https://w3id.org/sona/data/waste/selective-2019>,
+        <https://w3id.org/sona/data/waste/selective-2020>,
+        <https://w3id.org/sona/data/waste/street-2016>,
+        <https://w3id.org/sona/data/waste/street-2017>,
+        <https://w3id.org/sona/data/waste/street-2018>,
+        <https://w3id.org/sona/data/waste/street-2019>,
+        <https://w3id.org/sona/data/waste/street-2020>,
+        <https://w3id.org/sona/data/waste/textiles-2013>,
+        <https://w3id.org/sona/data/waste/textiles-2014>,
+        <https://w3id.org/sona/data/waste/textiles-2015>,
+        <https://w3id.org/sona/data/waste/textiles-2016>,
+        <https://w3id.org/sona/data/waste/textiles-2017>,
+        <https://w3id.org/sona/data/waste/textiles-2018>,
+        <https://w3id.org/sona/data/waste/textiles-2019>,
+        <https://w3id.org/sona/data/waste/textiles-2020>,
+        <https://w3id.org/sona/data/waste/ti/2010>,
+        <https://w3id.org/sona/data/waste/ti/2011>,
+        <https://w3id.org/sona/data/waste/ti/2012>,
+        <https://w3id.org/sona/data/waste/ti/2013>,
+        <https://w3id.org/sona/data/waste/ti/2014>,
+        <https://w3id.org/sona/data/waste/ti/2015>,
+        <https://w3id.org/sona/data/waste/ti/2016>,
+        <https://w3id.org/sona/data/waste/ti/2017>,
+        <https://w3id.org/sona/data/waste/ti/2018>,
+        <https://w3id.org/sona/data/waste/ti/2019>,
+        <https://w3id.org/sona/data/waste/ti/2020>,
+        <https://w3id.org/sona/data/waste/weee-2010>,
+        <https://w3id.org/sona/data/waste/weee-2011>,
+        <https://w3id.org/sona/data/waste/weee-2012>,
+        <https://w3id.org/sona/data/waste/weee-2013>,
+        <https://w3id.org/sona/data/waste/weee-2014>,
+        <https://w3id.org/sona/data/waste/weee-2015>,
+        <https://w3id.org/sona/data/waste/weee-2016>,
+        <https://w3id.org/sona/data/waste/weee-2017>,
+        <https://w3id.org/sona/data/waste/weee-2018>,
+        <https://w3id.org/sona/data/waste/weee-2019>,
+        <https://w3id.org/sona/data/waste/weee-2020>,
+        <https://w3id.org/sona/data/waste/wood-2010>,
+        <https://w3id.org/sona/data/waste/wood-2011>,
+        <https://w3id.org/sona/data/waste/wood-2012>,
+        <https://w3id.org/sona/data/waste/wood-2013>,
+        <https://w3id.org/sona/data/waste/wood-2014>,
+        <https://w3id.org/sona/data/waste/wood-2015>,
+        <https://w3id.org/sona/data/waste/wood-2016>,
+        <https://w3id.org/sona/data/waste/wood-2017>,
+        <https://w3id.org/sona/data/waste/wood-2018>,
+        <https://w3id.org/sona/data/waste/wood-2019>,
+        <https://w3id.org/sona/data/waste/wood-2020> .
+

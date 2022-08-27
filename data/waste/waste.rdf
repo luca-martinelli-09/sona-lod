@@ -1,0 +1,2132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:muapit="https://w3id.org/italia/onto/MU/"
+   xmlns:ontoim="https://w3id.org/ontoim/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:tiapit="https://w3id.org/italia/onto/TI/"
+>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2020">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2020 - Vetro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2020"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/plastic-2010">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>355.54 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">355.54</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/paper-2011">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>1347.98 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1347.98</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/street-2018">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2018 - Pulizia Stradale</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/street-2018"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/street"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/selective-2019">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2019 - Selettiva</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2019"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/paper-2014">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2014 - Carta E Cartone</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2014"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2020">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>2268.64 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2268.64</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/ti/2018">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2018</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <tiapit:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2018</tiapit:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/plastic-2015">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>411.329 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">411.329</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/ti/2014">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <tiapit:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2014</tiapit:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2010">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2010 - Plastica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2010"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2019">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2019 - Legno</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2019"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/selective-2015">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2015 - Selettiva</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2015"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2019">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>173.372 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">173.372</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2017">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>160.56 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">160.56</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/weee-2020">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>104.992 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">104.992</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2014">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2014 - Altro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2014"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/ti/2015">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <tiapit:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2015</tiapit:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/other-2019">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>37.358 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">37.358</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Waste production</rdfs:label>
+    <rdfs:label xml:lang="it">Produzione di rifiuti</rdfs:label>
+    <dc:creator rdf:resource="https://w3id.org/people/lucamartinelli"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/other-2020"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/bulky-2020"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/paper-2020"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/organic-2020"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/wood-2020"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/metal-2020"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/plastic-2020"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/weee-2020"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/selective-2020"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/textiles-2020"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/glass-2020"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/candd-2020"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/street-2020"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/other-2019"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/bulky-2019"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/paper-2019"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/organic-2019"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/wood-2019"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/metal-2019"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/plastic-2019"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/weee-2019"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/selective-2019"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/textiles-2019"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/glass-2019"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/candd-2019"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/street-2019"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/other-2018"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/bulky-2018"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/paper-2018"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/organic-2018"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/wood-2018"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/metal-2018"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/plastic-2018"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/weee-2018"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/selective-2018"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/textiles-2018"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/glass-2018"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/candd-2018"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/street-2018"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/other-2017"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/bulky-2017"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/paper-2017"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/organic-2017"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/wood-2017"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/metal-2017"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/plastic-2017"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/weee-2017"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/selective-2017"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/textiles-2017"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/glass-2017"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/candd-2017"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/street-2017"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/other-2016"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/bulky-2016"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/paper-2016"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/organic-2016"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/wood-2016"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/metal-2016"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/plastic-2016"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/weee-2016"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/selective-2016"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/textiles-2016"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/glass-2016"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/candd-2016"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/street-2016"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/other-2015"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/bulky-2015"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/paper-2015"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/organic-2015"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/wood-2015"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/metal-2015"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/plastic-2015"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/weee-2015"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/selective-2015"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/textiles-2015"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/glass-2015"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/other-2014"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/bulky-2014"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/paper-2014"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/organic-2014"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/wood-2014"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/metal-2014"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/plastic-2014"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/weee-2014"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/textiles-2014"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/glass-2014"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/other-2013"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/bulky-2013"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/paper-2013"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/organic-2013"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/wood-2013"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/metal-2013"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/plastic-2013"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/weee-2013"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/selective-2013"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/textiles-2013"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/glass-2013"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/other-2012"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/bulky-2012"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/paper-2012"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/organic-2012"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/wood-2012"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/metal-2012"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/plastic-2012"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/weee-2012"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/selective-2012"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/glass-2012"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/other-2011"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/bulky-2011"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/paper-2011"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/organic-2011"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/wood-2011"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/metal-2011"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/plastic-2011"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/weee-2011"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/selective-2011"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/glass-2011"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/other-2010"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/bulky-2010"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/paper-2010"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/organic-2010"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/wood-2010"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/metal-2010"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/plastic-2010"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/weee-2010"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/selective-2010"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/waste/glass-2010"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2011">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>705.29 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">705.29</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/selective-2011">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2011 - Selettiva</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2011"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/street-2020">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2020 - Pulizia Stradale</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/street-2020"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/street"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2015">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>139.46 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.46</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/selective-2017">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2017 - Selettiva</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2017"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2020">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>178.458 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.458</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2012">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>61.22 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">61.22</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2020">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2020 - Metallo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2020"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/other-2013">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>1.78 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.78</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2017">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2017 - Altro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2017"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/weee-2019">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>92.574 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">92.574</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2019">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>296.55 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">296.55</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/candd-2016">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2016 - Da C&amp;D</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/candd-2016"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/candd"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/textiles-2015">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2015 - Tessili</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2015"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2016">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>132.56 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">132.56</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/bulky-2015">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2015 - Ingombranti</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2015"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/textiles-2014">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>23.968 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">23.968</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2015">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>162.008 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">162.008</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/other-2011">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>33.91 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">33.91</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2015">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2015 - Vetro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2015"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/weee-2020">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2020 - Raee</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2020"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2011">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2011 - Altro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2011"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2018">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>611.94 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">611.94</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/selective-2013">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2013 - Selettiva</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2013"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2013">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>2445.92 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2445.92</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/bulky-2020">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2020 - Ingombranti</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2020"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/other-2010">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>39.68 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">39.68</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/weee-2018">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>94.94 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">94.94</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/street-2016">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2016 - Pulizia Stradale</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/street-2016"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/street"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/textiles-2014">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2014 - Tessili</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2014"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/plastic-2014">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>395.892 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">395.892</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/weee-2016">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2016 - Raee</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2016"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2011">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2011 - Vetro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2011"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2012">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2012 - Altro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2012"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/bulky-2012">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2012 - Ingombranti</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2012"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2012">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2012 - Plastica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2012"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/paper-2017">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>948.69 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">948.69</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2014">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>2522.11 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2522.11</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/weee-2016">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>85.018 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">85.018</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/weee-2018">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2018 - Raee</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2018"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/plastic-2020">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>445.712 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">445.712</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2020">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>304.15 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">304.15</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/selective-2020">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>24.627 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.627</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/weee-2013">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2013 - Raee</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2013"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2014">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>581.97 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">581.97</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2019">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2019 - Metallo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2019"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/candd-2016">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>264.45 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">264.45</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2017">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2017 - Vetro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2017"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2016">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>561.12 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">561.12</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/selective-2016">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2016 - Selettiva</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2016"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/selective-2017">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>20.836 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.836</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/textiles-2018">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2018 - Tessili</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2018"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2017">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>310.5 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">310.5</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2015">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2015 - Altro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2015"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/ti/2020">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <tiapit:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2020</tiapit:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2019">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>606.86 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">606.86</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2016">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2016 - Legno</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2016"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2015">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2015 - Plastica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2015"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2014">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2014 - Plastica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2014"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2014">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2014 - Vetro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2014"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/organic-2012">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2012 - Frazione Organica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2012"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2019">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2019 - Plastica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2019"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/selective-2019">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>22.347 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">22.347</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/bulky-2019">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2019 - Ingombranti</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2019"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/organic-2018">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2018 - Frazione Organica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2018"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/selective-2015">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>20.936 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.936</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/ti/2016">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2016</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <tiapit:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2016</tiapit:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/paper-2012">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>1265.7 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1265.7</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/plastic-2011">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>345.63 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">345.63</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2018">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2018 - Legno</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2018"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/candd-2017">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2017 - Da C&amp;D</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/candd-2017"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/candd"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2018">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2018 - Metallo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2018"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/weee-2011">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2011 - Raee</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2011"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/bulky-2011">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2011 - Ingombranti</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2011"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/paper-2010">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2010 - Carta E Cartone</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2010"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/textiles-2015">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>27.464 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.464</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/textiles-2018">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>85.729 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">85.729</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2011">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>2582.79 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2582.79</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2016">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2016 - Metallo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2016"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2014">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>159.696 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">159.696</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/weee-2014">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2014 - Raee</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2014"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/candd-2019">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>267.135 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">267.135</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/candd-2017">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>265.41 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">265.41</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/street-2016">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>229.93 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">229.93</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/organic-2019">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2019 - Frazione Organica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2019"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/ti/2013">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <tiapit:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2013</tiapit:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/selective-2011">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>24.821 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.821</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2011">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>492.51 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">492.51</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/bulky-2016">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2016 - Ingombranti</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2016"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2013">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>388.47 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">388.47</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/weee-2010">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>116.533 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">116.533</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2018">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>317.43 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">317.43</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/bulky-2017">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2017 - Ingombranti</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2017"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2016">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2016 - Plastica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2016"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2016">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2016 - Vetro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2016"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2010">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2010 - Vetro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2010"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/paper-2012">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2012 - Carta E Cartone</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2012"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/weee-2015">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2015 - Raee</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2015"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/organic-2013">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2013 - Frazione Organica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2013"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2016">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>155.446 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">155.446</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2019">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>106.7 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">106.7</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/weee-2019">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2019 - Raee</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2019"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/textiles-2017">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2017 - Tessili</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2017"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2016">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2016 - Altro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2016"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2016">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>315.02 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">315.02</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2018">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2018 - Altro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2018"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2013">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>606.41 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">606.41</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/organic-2015">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2015 - Frazione Organica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2015"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2011">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2011 - Metallo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2011"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/plastic-2018">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>437.893 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">437.893</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2020">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>670.01 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">670.01</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2011">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2011 - Plastica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2011"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2010">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>2475.59 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2475.59</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2013">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2013 - Plastica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2013"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/paper-2014">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>1255.08 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1255.08</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2010">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>206.22 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">206.22</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/bulky-2014">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2014 - Ingombranti</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2014"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2010">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2010 - Metallo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2010"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/weee-2013">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>59.794 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">59.794</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/paper-2019">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2019 - Carta E Cartone</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2019"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2011">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>97.68 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">97.68</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/paper-2018">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2018 - Carta E Cartone</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2018"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/candd-2020">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>263.97 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">263.97</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/organic-2014">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2014 - Frazione Organica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2014"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/textiles-2017">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>47.506 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.506</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/ti/2017">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2017</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <tiapit:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2017</tiapit:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2018">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>2380.2 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2380.2</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2016">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>2791.563 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2791.563</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/selective-2012">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2012 - Selettiva</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2012"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2018">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2018 - Plastica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2018"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2012">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2012 - Vetro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2012"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/organic-2010">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2010 - Frazione Organica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2010"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2018">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>167.864 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">167.864</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/paper-2010">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>1366.53 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1366.53</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2013">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2013 - Metallo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2013"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2017">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>143.54 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">143.54</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/paper-2011">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2011 - Carta E Cartone</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2011"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2010">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>74.92 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">74.92</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/paper-2018">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>971.22 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">971.22</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2015">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>309.61 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">309.61</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/paper-2015">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2015 - Carta E Cartone</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2015"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/other-2014">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>25.625 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.625</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/paper-2015">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>994.68 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">994.68</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2012">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2012 - Legno</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2012"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/street-2019">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>173.855 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">173.855</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/other-2018">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>32.993 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">32.993</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2015">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2015 - Metallo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2015"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/weee-2010">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2010 - Raee</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2010"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/bulky-2018">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2018 - Ingombranti</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2018"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/textiles-2020">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2020 - Tessili</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2020"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/candd-2018">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>266.64 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">266.64</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/paper-2016">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2016 - Carta E Cartone</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2016"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/paper-2013">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>1284.57 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1284.57</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2013">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>135.148 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">135.148</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/selective-2010">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2010 - Selettiva</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2010"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2012">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>409.92 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">409.92</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/street-2018">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>190.21 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">190.21</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/weee-2017">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2017 - Raee</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2017"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2017">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2017 - Metallo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2017"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2010">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2010 - Altro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2010"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2011">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>200.42 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">200.42</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/organic-2011">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2011 - Frazione Organica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2011"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2017">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2017 - Plastica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2017"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2010">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2010 - Legno</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2010"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2012">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>128.94 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">128.94</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2013">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2013 - Altro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2013"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2015">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>591.47 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">591.47</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/street-2019">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2019 - Pulizia Stradale</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/street-2019"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/street"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/candd-2020">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2020 - Da C&amp;D</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/candd-2020"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/candd"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2013">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2013 - Legno</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2013"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2018">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>42.22 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">42.22</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/ti/2010">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2010</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <tiapit:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2010</tiapit:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/plastic-2016">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>406.074 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">406.074</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/ti/2019">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2019</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <tiapit:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2019</tiapit:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/weee-2017">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>95.115 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">95.115</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2011">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2011 - Legno</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2011"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2020">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2020 - Plastica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2020"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2014">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>113.3 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">113.3</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/ti/2012">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <tiapit:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2012</tiapit:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/bulky-2013">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2013 - Ingombranti</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2013"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/textiles-2019">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>59.19 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">59.19</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/other-2017">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>106.535 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">106.535</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/candd-2019">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2019 - Da C&amp;D</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/candd-2019"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/candd"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/street-2017">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>211.33 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">211.33</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/selective-2016">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>20.854 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.854</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2019">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2019 - Vetro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2019"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/weee-2011">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>107.538 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">107.538</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/selective-2018">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>23.076 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">23.076</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/other-2020">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>36.31 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">36.31</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/weee-2014">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>79.274 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">79.274</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/paper-2020">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2020 - Carta E Cartone</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2020"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2014">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>375.66 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">375.66</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/weee-2012">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2012 - Raee</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2012"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2015">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2015 - Legno</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2015"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/bulky-2010">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2010 - Ingombranti</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2010"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2019">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>2312.42 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2312.42</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/plastic-2013">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>351.681 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">351.681</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/textiles-2013">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2013 - Tessili</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2013"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/candd-2018">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2018 - Da C&amp;D</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/candd-2018"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/candd"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2019">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2019 - Altro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2019"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2014">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2014 - Legno</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2014"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/street-2017">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2017 - Pulizia Stradale</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/street-2017"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/street"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2013">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>125.46 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">125.46</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/paper-2017">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2017 - Carta E Cartone</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2017"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2013">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2013 - Vetro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2013"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2017">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2017 - Legno</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2017"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2018">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2018 - Vetro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2018"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2010">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>488.6 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">488.6</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2020">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2020 - Legno</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2020"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/selective-2010">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>32.235 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">32.235</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/plastic-2012">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>389.87 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">389.87</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/textiles-2020">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>46.155 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.155</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/weee-2015">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>81.259 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">81.259</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/street-2020">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>161.73 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">161.73</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/paper-2020">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>916.57 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">916.57</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/organic-2016">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2016 - Frazione Organica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2016"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2014">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2014 - Metallo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2014"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/other-2016">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>28.48 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">28.48</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/selective-2020">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2020 - Selettiva</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2020"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/ti/2011">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2011</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <tiapit:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2011</tiapit:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/organic-2017">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2017 - Frazione Organica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2017"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/selective-2018">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2018 - Selettiva</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2018"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2017">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>588.98 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">588.98</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/textiles-2016">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2016 - Tessili</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2016"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2012">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>694.7 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">694.7</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/textiles-2019">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2019 - Tessili</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2019"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2017">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>2350.58 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2350.58</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/paper-2019">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>964.77 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">964.77</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/plastic-2019">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>449.761 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">449.761</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2020">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>101.26 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">101.26</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/other-2012">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>9.54 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">9.54</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/plastic-2017">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>414.896 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">414.896</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2020">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2020 - Altro</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2020"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/weee-2012">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>79.811 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">79.811</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/other-2015">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>2.46 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.46</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/paper-2016">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>908.16 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">908.16</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/selective-2013">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>24.971 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.971</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2012">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2012 - Metallo</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2012"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/selective-2012">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>25.035 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.035</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/organic-2020">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2020 - Frazione Organica</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2020"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2010">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>682.45 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">682.45</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/textiles-2016">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>36.52 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">36.52</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2012">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>2430.73 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2430.73</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/mu/tons">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/MeasurementUnit"/>
+    <dc:title xml:lang="en">Tons</dc:title>
+    <dc:title xml:lang="it">Tonnellate</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/paper-2013">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produzione di rifiuti nel 2013 - Carta E Cartone</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2013"/>
+    <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2015">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>2307.02 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2307.02</muapit:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/textiles-2013">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
+    <dc:title>9.08 t</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
+    <muapit:hasMeasurementUnit rdf:resource="https://w3id.org/sona/data/waste/mu/tons"/>
+    <muapit:value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">9.08</muapit:value>
+  </rdf:Description>
+</rdf:RDF>
