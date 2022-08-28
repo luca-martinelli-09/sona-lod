@@ -134,6 +134,8 @@ def queryStreetCode(q):
 
     if selectedResult.isnumeric():
         return streetsForSearchIDs[int(selectedResult)]
+    elif selectedResult == "":
+        return None, None
     else:
         return queryStreetCode(selectedResult)
 

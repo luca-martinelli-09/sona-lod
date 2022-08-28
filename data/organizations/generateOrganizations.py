@@ -60,7 +60,7 @@ ORGANIZATIONS_DATASET.addToGraph(g)
 # %%
 # Get the data
 
-# Accomodation facilities
+# Organizations
 organizations = getOpenData(config.get("ORGANIZATIONS", "organizations"), dtype={'PARTITA-IVA': str, 'C-FISCALE': str})
 organizations = organizations.set_index(["PRG"])
 organizations['PROGR_NAZIONALE'] = organizations['PROGR_NAZIONALE'].astype('Int64')
