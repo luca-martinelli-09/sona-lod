@@ -1,0 +1,436 @@
+@prefix association: <https://w3id.org/sona/data/association/> .
+@prefix concession: <https://w3id.org/sona/data/concession/> .
+@prefix concessionacttypes: <https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix heritage: <https://w3id.org/sona/data/heritage/> .
+@prefix municipality: <https://w3id.org/sona/data/municipality/> .
+@prefix ontoim: <https://w3id.org/ontoim/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+heritage:44 ontoim:concessedWithAct concession:2 .
+
+heritage:45 ontoim:concessedWithAct concession:4 .
+
+heritage:48 ontoim:concessedWithAct concession:1 .
+
+heritage:49 ontoim:concessedWithAct concession:6 .
+
+heritage:51 ontoim:concessedWithAct concession:5 .
+
+heritage:52 ontoim:concessedWithAct concession:3 .
+
+concession:10 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-28"^^xsd:date ;
+    ontoim:actNumber "1118"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa."^^xsd:string ;
+    ontoim:hasBeneficiary association:04499600239 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "3339.55"^^xsd:float .
+
+concession:11 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-28"^^xsd:date ;
+    ontoim:actNumber "1118"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa."^^xsd:string ;
+    ontoim:hasBeneficiary association:04648910232 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "8010.39"^^xsd:float .
+
+concession:12 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-28"^^xsd:date ;
+    ontoim:actNumber "1118"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa."^^xsd:string ;
+    ontoim:hasBeneficiary association:02211940230 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "6828.11"^^xsd:float .
+
+concession:13 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-30"^^xsd:date ;
+    ontoim:actNumber "1135"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa."^^xsd:string ;
+    ontoim:hasBeneficiary association:04635630231 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:RB37D6 ;
+    ontoim:paymentAmount "1027.0"^^xsd:float .
+
+concession:14 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-"^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-30"^^xsd:date ;
+    ontoim:actNumber "1132"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-"^^xsd:string ;
+    ontoim:hasBeneficiary association:93243320236 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:QC00CE ;
+    ontoim:paymentAmount "1000.0"^^xsd:float .
+
+concession:15 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-"^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-30"^^xsd:date ;
+    ontoim:actNumber "1132"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-"^^xsd:string ;
+    ontoim:hasBeneficiary association:93264960233 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:QC00CE ;
+    ontoim:paymentAmount "1500.0"^^xsd:float .
+
+concession:16 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-"^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-30"^^xsd:date ;
+    ontoim:actNumber "1132"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-"^^xsd:string ;
+    ontoim:hasBeneficiary association:80026720237 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:QC00CE ;
+    ontoim:paymentAmount "7000.0"^^xsd:float .
+
+concession:17 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-"^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-30"^^xsd:date ;
+    ontoim:actNumber "1132"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-"^^xsd:string ;
+    ontoim:hasBeneficiary association:93100800239 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:QC00CE ;
+    ontoim:paymentAmount "1500.0"^^xsd:float .
+
+concession:18 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-"^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-30"^^xsd:date ;
+    ontoim:actNumber "1132"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-"^^xsd:string ;
+    ontoim:hasBeneficiary association:93295480235 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:QC00CE ;
+    ontoim:paymentAmount "1500.0"^^xsd:float .
+
+concession:19 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Per Finalita' Culturali, Ricreative, Di Promozione Sociale  E Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni.  Assunzione Di Spesa.-"^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-29"^^xsd:date ;
+    ontoim:actNumber "1123"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Per Finalita' Culturali, Ricreative, Di Promozione Sociale  E Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni.  Assunzione Di Spesa.-"^^xsd:string ;
+    ontoim:hasBeneficiary association:93029240236 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:QC00CE ;
+    ontoim:paymentAmount "386.0"^^xsd:float .
+
+concession:20 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Per Finalita' Culturali, Ricreative, Di Promozione Sociale  E Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni.  Assunzione Di Spesa.-"^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-29"^^xsd:date ;
+    ontoim:actNumber "1123"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Per Finalita' Culturali, Ricreative, Di Promozione Sociale  E Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni.  Assunzione Di Spesa.-"^^xsd:string ;
+    ontoim:hasBeneficiary association:93056000230 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:QC00CE ;
+    ontoim:paymentAmount "300.0"^^xsd:float .
+
+concession:21 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Per Finalita' Culturali, Ricreative, Di Promozione Sociale  E Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni.  Assunzione Di Spesa.-"^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-29"^^xsd:date ;
+    ontoim:actNumber "1123"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Per Finalita' Culturali, Ricreative, Di Promozione Sociale  E Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni.  Assunzione Di Spesa.-"^^xsd:string ;
+    ontoim:hasBeneficiary association:93277540238 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:QC00CE ;
+    ontoim:paymentAmount "1651.0"^^xsd:float .
+
+concession:22 a ontoim:ConcessionAct ;
+    dc:title "Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-28"^^xsd:date ;
+    ontoim:actNumber "1117"^^xsd:string ;
+    ontoim:actTitle "Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa."^^xsd:string ;
+    ontoim:hasBeneficiary association:04648910232 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "2100.0"^^xsd:float .
+
+concession:23 a ontoim:ConcessionAct ;
+    dc:title "Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-28"^^xsd:date ;
+    ontoim:actNumber "1117"^^xsd:string ;
+    ontoim:actTitle "Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa."^^xsd:string ;
+    ontoim:hasBeneficiary association:93066310231 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "1100.0"^^xsd:float .
+
+concession:24 a ontoim:ConcessionAct ;
+    dc:title "Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-28"^^xsd:date ;
+    ontoim:actNumber "1117"^^xsd:string ;
+    ontoim:actTitle "Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa."^^xsd:string ;
+    ontoim:hasBeneficiary association:93074770236 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "300.0"^^xsd:float .
+
+concession:25 a ontoim:ConcessionAct ;
+    dc:title "Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-28"^^xsd:date ;
+    ontoim:actNumber "1117"^^xsd:string ;
+    ontoim:actTitle "Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa."^^xsd:string ;
+    ontoim:hasBeneficiary association:04269030237 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "1377.0"^^xsd:float .
+
+concession:26 a ontoim:ConcessionAct ;
+    dc:title "Impegno Di Spesa E Liquidazione Contributo Integrativo Alla Convenzione Per Il Trasporto Sociale Con  Il"^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-28"^^xsd:date ;
+    ontoim:actNumber "1120"^^xsd:string ;
+    ontoim:actTitle "Impegno Di Spesa E Liquidazione Contributo Integrativo Alla Convenzione Per Il Trasporto Sociale Con  Il"^^xsd:string ;
+    ontoim:hasBeneficiary association:93087790239 ;
+    ontoim:hasConcessionActType concessionacttypes:3 ;
+    ontoim:hasOrganization municipality:RB37D6 ;
+    ontoim:paymentAmount "3000.0"^^xsd:float .
+
+concession:27 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-24"^^xsd:date ;
+    ontoim:actNumber "1086"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    ontoim:hasBeneficiary association:93024460235 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "770.0"^^xsd:float .
+
+concession:28 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-24"^^xsd:date ;
+    ontoim:actNumber "1086"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    ontoim:hasBeneficiary association:03432580235 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "616.0"^^xsd:float .
+
+concession:29 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-24"^^xsd:date ;
+    ontoim:actNumber "1086"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    ontoim:hasBeneficiary association:93066310231 ;
+    ontoim:hasConcessionActType concessionacttypes:5 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "2024.0"^^xsd:float .
+
+concession:30 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-24"^^xsd:date ;
+    ontoim:actNumber "1086"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    ontoim:hasBeneficiary association:04205530233 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "1452.0"^^xsd:float .
+
+concession:31 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-24"^^xsd:date ;
+    ontoim:actNumber "1086"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    ontoim:hasBeneficiary association:04269030237 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "2244.0"^^xsd:float .
+
+concession:32 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-24"^^xsd:date ;
+    ontoim:actNumber "1086"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    ontoim:hasBeneficiary association:93195450239 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "1804.0"^^xsd:float .
+
+concession:33 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-24"^^xsd:date ;
+    ontoim:actNumber "1086"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    ontoim:hasBeneficiary association:93074770236 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "594.0"^^xsd:float .
+
+concession:34 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-24"^^xsd:date ;
+    ontoim:actNumber "1086"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione."^^xsd:string ;
+    ontoim:hasBeneficiary association:04648910232 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "3630.0"^^xsd:float .
+
+concession:7 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-28"^^xsd:date ;
+    ontoim:actNumber "1118"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa."^^xsd:string ;
+    ontoim:hasBeneficiary association:03432580235 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "1696.14"^^xsd:float .
+
+concession:8 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-28"^^xsd:date ;
+    ontoim:actNumber "1118"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa."^^xsd:string ;
+    ontoim:hasBeneficiary association:93024460235 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "2315.99"^^xsd:float .
+
+concession:9 a ontoim:ConcessionAct ;
+    dc:title "Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-28"^^xsd:date ;
+    ontoim:actNumber "1118"^^xsd:string ;
+    ontoim:actTitle "Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa."^^xsd:string ;
+    ontoim:hasBeneficiary association:02112970237 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "2809.82"^^xsd:float .
+
+concession:1 a ontoim:ConcessionAct ;
+    dc:title "Concessione In Uso Degli Impianti Sportivi Di Via Barlottini E Via Stadio All'U.C.D Lugagnano. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-09"^^xsd:date ;
+    ontoim:actNumber "973"^^xsd:string ;
+    ontoim:actTitle "Concessione In Uso Degli Impianti Sportivi Di Via Barlottini E Via Stadio All'U.C.D Lugagnano. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021."^^xsd:string ;
+    ontoim:hasBeneficiary association:04648910232 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "22000.0"^^xsd:float .
+
+concession:2 a ontoim:ConcessionAct ;
+    dc:title "Concessione In Uso Degli Impianti Sportivi Di Via Casella All'A.S.D. Sona Calcio. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-09"^^xsd:date ;
+    ontoim:actNumber "972"^^xsd:string ;
+    ontoim:actTitle "Concessione In Uso Degli Impianti Sportivi Di Via Casella All'A.S.D. Sona Calcio. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021."^^xsd:string ;
+    ontoim:hasBeneficiary association:04499600239 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "18650.0"^^xsd:float .
+
+concession:3 a ontoim:ConcessionAct ;
+    dc:title "Concessione In Uso Degli Impianti Sportivi Di Via Segradi All'Associazione Polisportiva Dilettantistica San Giorgio In Salici. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-09"^^xsd:date ;
+    ontoim:actNumber "971"^^xsd:string ;
+    ontoim:actTitle "Concessione In Uso Degli Impianti Sportivi Di Via Segradi All'Associazione Polisportiva Dilettantistica San Giorgio In Salici. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021."^^xsd:string ;
+    ontoim:hasBeneficiary association:02112970237 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "27650.0"^^xsd:float .
+
+concession:4 a ontoim:ConcessionAct ;
+    dc:title "Concessione In Uso Degli Impianti Sportivi In Via San Quirico A Sona All'Associazione West Verona Rugby Union Asd. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Anno 2021."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-09"^^xsd:date ;
+    ontoim:actNumber "970"^^xsd:string ;
+    ontoim:actTitle "Concessione In Uso Degli Impianti Sportivi In Via San Quirico A Sona All'Associazione West Verona Rugby Union Asd. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Anno 2021."^^xsd:string ;
+    ontoim:hasBeneficiary association:03432580235 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "10500.0"^^xsd:float .
+
+concession:5 a ontoim:ConcessionAct ;
+    dc:title "Concessione In Uso Degli Impianti Sportivi Di Via C. Angiolieri Alla Polisportiva Palazzolo. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per Lanno 2021."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-09"^^xsd:date ;
+    ontoim:actNumber "969"^^xsd:string ;
+    ontoim:actTitle "Concessione In Uso Degli Impianti Sportivi Di Via C. Angiolieri Alla Polisportiva Palazzolo. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per Lanno 2021."^^xsd:string ;
+    ontoim:hasBeneficiary association:02211940230 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "43400.0"^^xsd:float .
+
+concession:6 a ontoim:ConcessionAct ;
+    dc:title "Concessione In Uso Del Palazzetto Dello Sport Di Via Dora Baltea - Lugagnano Al Gruppo Sportivo Lugagnano. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021."^^xsd:string ;
+    skos:inScheme concession: ;
+    ontoim:actDate "2021-12-09"^^xsd:date ;
+    ontoim:actNumber "968"^^xsd:string ;
+    ontoim:actTitle "Concessione In Uso Del Palazzetto Dello Sport Di Via Dora Baltea - Lugagnano Al Gruppo Sportivo Lugagnano. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021."^^xsd:string ;
+    ontoim:hasBeneficiary association:93024460235 ;
+    ontoim:hasConcessionActType concessionacttypes:7 ;
+    ontoim:hasOrganization municipality:9OPD0G ;
+    ontoim:paymentAmount "45350.0"^^xsd:float .
+
+concession: a skos:ConceptScheme ;
+    rdfs:label "Concession Acts"@en,
+        "Atti di concessione"@it ;
+    dc:creator <https://w3id.org/people/lucamartinelli> ;
+    skos:hasTopConcept concession:1,
+        concession:10,
+        concession:11,
+        concession:12,
+        concession:13,
+        concession:14,
+        concession:15,
+        concession:16,
+        concession:17,
+        concession:18,
+        concession:19,
+        concession:2,
+        concession:20,
+        concession:21,
+        concession:22,
+        concession:23,
+        concession:24,
+        concession:25,
+        concession:26,
+        concession:27,
+        concession:28,
+        concession:29,
+        concession:3,
+        concession:30,
+        concession:31,
+        concession:32,
+        concession:33,
+        concession:34,
+        concession:4,
+        concession:5,
+        concession:6,
+        concession:7,
+        concession:8,
+        concession:9 .
+

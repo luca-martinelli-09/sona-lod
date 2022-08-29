@@ -200,8 +200,6 @@ for _, schoolInfo in schoolsDF.iterrows():
     if not isComprehensive and not isPrivate:
         comprehensiveInstitute.includesSchool = [school]
         comprehensiveInstitute.addToGraph(g, onlyProperties=True)
-
-        school.concessedTo = [comprehensiveInstituteOrganization]
     
     school.addToGraph(g, isTopConcept=True)
 

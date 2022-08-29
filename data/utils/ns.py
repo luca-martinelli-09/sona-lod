@@ -4,6 +4,7 @@ from rdflib import Namespace, URIRef
 
 ANNCSU = Namespace("https://w3id.org/sona/data/ANNCSU/")
 ACCO_DATA = Namespace("https://w3id.org/sona/data/tourism/accommodation/")
+TOURISM_DATA = Namespace("https://w3id.org/sona/data/tourism/")
 COV_DATA = Namespace("https://w3id.org/sona/data/organization/")
 MUNICIPALITY_DATA = Namespace("https://w3id.org/sona/data/municipality/")
 SOCIAL_DATA = Namespace("https://w3id.org/sona/data/social/")
@@ -14,6 +15,7 @@ WASTE_DATA = Namespace("https://w3id.org/sona/data/waste/")
 ASSOCIATIONS_DATA = Namespace("https://w3id.org/sona/data/association/")
 DEMOGRAPHY_DATA = Namespace("https://w3id.org/sona/data/demography/")
 TRAFFIC_DATA = Namespace("https://w3id.org/sona/data/traffic/")
+CONCESSIONS_DATA = Namespace("https://w3id.org/sona/data/concession/")
 
 # Creator
 

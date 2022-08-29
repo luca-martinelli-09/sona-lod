@@ -43,7 +43,7 @@ HERITAGE_DATASET.addToGraph(g)
 
 # %%
 # Load data
-heritageDF = getOpenData(config.get("HERITAGE", "heritage"), dtype={
+heritageDF = getOpenData(config.get("MUNICIPALITY", "heritage"), dtype={
                          "FOGLIO": "Int64", "PROGR_NAZIONALE": "Int64", "PROGR_CIVICO": "Int64"})
 
 # %%

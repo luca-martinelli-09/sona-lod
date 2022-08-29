@@ -148,6 +148,7 @@ def createGraph():
 
     # Data
     g.bind("anncsu", ANNCSU)
+    g.bind("tourism", TOURISM_DATA)
     g.bind("accommodation", ACCO_DATA)
     g.bind("organization", COV_DATA)
     g.bind("municipality", MUNICIPALITY_DATA)
@@ -155,5 +156,10 @@ def createGraph():
     g.bind("role", ROLE_DATA)
     g.bind("heritage", HERITAGE_DATA)
     g.bind("school", SCHOOL_DATA)
+    g.bind("waste", WASTE_DATA)
+    g.bind("association", ASSOCIATIONS_DATA)
+    g.bind("demography", DEMOGRAPHY_DATA)
+    g.bind("traffic", TRAFFIC_DATA)
+    g.bind("concession", CONCESSIONS_DATA)
 
     return g

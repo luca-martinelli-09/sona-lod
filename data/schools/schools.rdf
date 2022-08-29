@@ -15,7 +15,6 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298354-7911630"/>
     <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sona - "Virgilio"</poiapit:POIofficialName>
-    <ontoim:concessedTo rdf:resource="https://w3id.org/sona/data/school/organization/VRIC814009"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VRMM81401A"/>
     <ontoim:hasSchoolType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/school-types/4"/>
     <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VRMM81401A</ontoim:schoolCode>
@@ -26,7 +25,6 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298353-7911623"/>
     <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lugagnano - "Anna Frank"</poiapit:POIofficialName>
-    <ontoim:concessedTo rdf:resource="https://w3id.org/sona/data/school/organization/VRIC83800T"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VRMM83801V"/>
     <ontoim:hasSchoolType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/school-types/4"/>
     <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VRMM83801V</ontoim:schoolCode>
@@ -37,7 +35,6 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298268-snc"/>
     <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Palazzolo "S.Giovanni Bosco"</poiapit:POIofficialName>
-    <ontoim:concessedTo rdf:resource="https://w3id.org/sona/data/school/organization/VRIC814009"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VREE81402C"/>
     <ontoim:hasSchoolType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/school-types/3"/>
     <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VREE81402C</ontoim:schoolCode>
@@ -55,7 +52,6 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298460-7938579"/>
     <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cavalier Annibale Romani</poiapit:POIofficialName>
-    <ontoim:concessedTo rdf:resource="https://w3id.org/sona/data/school/organization/VRIC814009"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VRAA814016"/>
     <ontoim:hasSchoolType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/school-types/2"/>
     <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VRAA814016</ontoim:schoolCode>
@@ -171,7 +167,6 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298196-snc"/>
     <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Materna Di Lugagnano</poiapit:POIofficialName>
-    <ontoim:concessedTo rdf:resource="https://w3id.org/sona/data/school/organization/VRIC83800T"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VRAA83802Q"/>
     <ontoim:hasSchoolType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/school-types/2"/>
     <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VRAA83802Q</ontoim:schoolCode>
@@ -190,7 +185,6 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298275-snc"/>
     <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S. Giorgio In Salici "Collodi"</poiapit:POIofficialName>
-    <ontoim:concessedTo rdf:resource="https://w3id.org/sona/data/school/organization/VRIC814009"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VREE81401B"/>
     <ontoim:hasSchoolType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/school-types/3"/>
     <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VREE81401B</ontoim:schoolCode>
@@ -238,7 +232,6 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298460-snc"/>
     <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sona " Aleardi A."</poiapit:POIofficialName>
-    <ontoim:concessedTo rdf:resource="https://w3id.org/sona/data/school/organization/VRIC814009"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VREE81403D"/>
     <ontoim:hasSchoolType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/school-types/3"/>
     <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VREE81403D</ontoim:schoolCode>
@@ -282,7 +275,6 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298305-snc"/>
     <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silvio Pellico-Lugagnano</poiapit:POIofficialName>
-    <ontoim:concessedTo rdf:resource="https://w3id.org/sona/data/school/organization/VRIC83800T"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VREE83801X"/>
     <ontoim:hasSchoolType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/school-types/3"/>
     <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VREE83801X</ontoim:schoolCode>

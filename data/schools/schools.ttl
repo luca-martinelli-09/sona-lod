@@ -162,7 +162,6 @@ school:VRAA814016 a ontoim:PublicSchool ;
     clvapit:hasAddress anncsu:298460-7938579 ;
     poiapit:POIofficialName "Cavalier Annibale Romani"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VRAA814016> ;
-    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC814009> ;
     ontoim:hasSchoolType schooltypes:2 ;
     ontoim:schoolCode "VRAA814016"^^xsd:string .
 
@@ -172,7 +171,6 @@ school:VRAA83802Q a ontoim:PublicSchool ;
     clvapit:hasAddress anncsu:298196-snc ;
     poiapit:POIofficialName "Materna Di Lugagnano"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VRAA83802Q> ;
-    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC83800T> ;
     ontoim:hasSchoolType schooltypes:2 ;
     ontoim:schoolCode "VRAA83802Q"^^xsd:string .
 
@@ -182,7 +180,6 @@ school:VREE81401B a ontoim:PublicSchool ;
     clvapit:hasAddress anncsu:298275-snc ;
     poiapit:POIofficialName "S. Giorgio In Salici \"Collodi\""^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VREE81401B> ;
-    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC814009> ;
     ontoim:hasSchoolType schooltypes:3 ;
     ontoim:schoolCode "VREE81401B"^^xsd:string .
 
@@ -192,7 +189,6 @@ school:VREE81402C a ontoim:PublicSchool ;
     clvapit:hasAddress anncsu:298268-snc ;
     poiapit:POIofficialName "Palazzolo \"S.Giovanni Bosco\""^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VREE81402C> ;
-    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC814009> ;
     ontoim:hasSchoolType schooltypes:3 ;
     ontoim:schoolCode "VREE81402C"^^xsd:string .
 
@@ -202,7 +198,6 @@ school:VREE81403D a ontoim:PublicSchool ;
     clvapit:hasAddress anncsu:298460-snc ;
     poiapit:POIofficialName "Sona \" Aleardi A.\""^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VREE81403D> ;
-    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC814009> ;
     ontoim:hasSchoolType schooltypes:3 ;
     ontoim:schoolCode "VREE81403D"^^xsd:string .
 
@@ -212,7 +207,6 @@ school:VREE83801X a ontoim:PublicSchool ;
     clvapit:hasAddress anncsu:298305-snc ;
     poiapit:POIofficialName "Silvio Pellico-Lugagnano"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VREE83801X> ;
-    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC83800T> ;
     ontoim:hasSchoolType schooltypes:3 ;
     ontoim:schoolCode "VREE83801X"^^xsd:string .
 
@@ -222,7 +216,6 @@ school:VRMM81401A a ontoim:PublicSchool ;
     clvapit:hasAddress anncsu:298354-7911630 ;
     poiapit:POIofficialName "Sona - \"Virgilio\""^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VRMM81401A> ;
-    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC814009> ;
     ontoim:hasSchoolType schooltypes:4 ;
     ontoim:schoolCode "VRMM81401A"^^xsd:string .
 
@@ -232,7 +225,6 @@ school:VRMM83801V a ontoim:PublicSchool ;
     clvapit:hasAddress anncsu:298353-7911623 ;
     poiapit:POIofficialName "Lugagnano - \"Anna Frank\""^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VRMM83801V> ;
-    ontoim:concessedTo <https://w3id.org/sona/data/school/organization/VRIC83800T> ;
     ontoim:hasSchoolType schooltypes:4 ;
     ontoim:schoolCode "VRMM83801V"^^xsd:string .
 
