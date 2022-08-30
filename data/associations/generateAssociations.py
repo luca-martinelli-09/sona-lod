@@ -308,7 +308,7 @@ for _, associationInfo in associationsDF.iterrows():
 
       onlineContactPoint.addToGraph(g, isTopConcept=False)
     
-    association.addToGraph(g, onlyProperties=True)
+    association.addToGraph(g, isTopConcept=True)
 
 # %%
 # Save graph
