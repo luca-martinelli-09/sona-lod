@@ -2718,470 +2718,470 @@ association:negozi-associati-lugagnano a ontoim:Association ;
 <https://w3id.org/sona/data/association/person/adamoli-massimo> a cpvapit:Person ;
     dc:title "Adamoli Massimo"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Massimo"^^xsd:string ;
-    cpvapit:givenName "Adamoli"^^xsd:string ;
+    cpvapit:givenName "Massimo"^^xsd:string ;
+    cpvapit:familyName "Adamoli"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/coro-a-n-a---amici-della-baita-> .
 
 <https://w3id.org/sona/data/association/person/alessandro-alessandro> a cpvapit:Person ;
     dc:title "Alessandro Alessandro"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Alessandro"^^xsd:string ;
     cpvapit:givenName "Alessandro"^^xsd:string ;
+    cpvapit:familyName "Alessandro"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/03340470230> .
 
 <https://w3id.org/sona/data/association/person/amali-mirco> a cpvapit:Person ;
     dc:title "Amali Mirco"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Mirco"^^xsd:string ;
-    cpvapit:givenName "Amali"^^xsd:string ;
+    cpvapit:givenName "Mirco"^^xsd:string ;
+    cpvapit:familyName "Amali"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93074770236> .
 
 <https://w3id.org/sona/data/association/person/ambrosi-flora-anna> a cpvapit:Person ;
     dc:title "Ambrosi Flora Anna"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Flora Anna"^^xsd:string ;
-    cpvapit:givenName "Ambrosi"^^xsd:string ;
+    cpvapit:givenName "Flora Anna"^^xsd:string ;
+    cpvapit:familyName "Ambrosi"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93244740234> .
 
 <https://w3id.org/sona/data/association/person/ambrosi-stefano> a cpvapit:Person ;
     dc:title "Ambrosi Stefano"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Stefano"^^xsd:string ;
-    cpvapit:givenName "Ambrosi"^^xsd:string ;
+    cpvapit:givenName "Stefano"^^xsd:string ;
+    cpvapit:familyName "Ambrosi"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93174930235> .
 
 <https://w3id.org/sona/data/association/person/arduini-barbara> a cpvapit:Person ;
     dc:title "Arduini Barbara"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Barbara"^^xsd:string ;
-    cpvapit:givenName "Arduini"^^xsd:string ;
+    cpvapit:givenName "Barbara"^^xsd:string ;
+    cpvapit:familyName "Arduini"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/il-cerchio-atelier-d-espressione> .
 
 <https://w3id.org/sona/data/association/person/barrichello-massimo> a cpvapit:Person ;
     dc:title "Barrichello Massimo"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Massimo"^^xsd:string ;
-    cpvapit:givenName "Barrichello"^^xsd:string ;
+    cpvapit:givenName "Massimo"^^xsd:string ;
+    cpvapit:familyName "Barrichello"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93265060231> .
 
 <https://w3id.org/sona/data/association/person/bassan-claudio> a cpvapit:Person ;
     dc:title "Bassan Claudio"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Claudio"^^xsd:string ;
-    cpvapit:givenName "Bassan"^^xsd:string ;
+    cpvapit:givenName "Claudio"^^xsd:string ;
+    cpvapit:familyName "Bassan"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93216240239> .
 
 <https://w3id.org/sona/data/association/person/battistini-angelo> a cpvapit:Person ;
     dc:title "Battistini Angelo"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Angelo"^^xsd:string ;
-    cpvapit:givenName "Battistini"^^xsd:string ;
+    cpvapit:givenName "Angelo"^^xsd:string ;
+    cpvapit:familyName "Battistini"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93264540233> .
 
 <https://w3id.org/sona/data/association/person/belle-gaetano> a cpvapit:Person ;
     dc:title "Bellè Gaetano"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Gaetano"^^xsd:string ;
-    cpvapit:givenName "Bellè"^^xsd:string ;
+    cpvapit:givenName "Gaetano"^^xsd:string ;
+    cpvapit:familyName "Bellè"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/03416500233> .
 
 <https://w3id.org/sona/data/association/person/benedetti-doriano> a cpvapit:Person ;
     dc:title "Benedetti Doriano"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Doriano"^^xsd:string ;
-    cpvapit:givenName "Benedetti"^^xsd:string ;
+    cpvapit:givenName "Doriano"^^xsd:string ;
+    cpvapit:familyName "Benedetti"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/80026720237> .
 
 <https://w3id.org/sona/data/association/person/bettinazzi-rosa> a cpvapit:Person ;
     dc:title "Bettinazzi Rosa"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Rosa"^^xsd:string ;
-    cpvapit:givenName "Bettinazzi"^^xsd:string ;
+    cpvapit:givenName "Rosa"^^xsd:string ;
+    cpvapit:familyName "Bettinazzi"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93142630230> .
 
 <https://w3id.org/sona/data/association/person/bonifichi-barbara> a cpvapit:Person ;
     dc:title "Bonifichi Barbara"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Barbara"^^xsd:string ;
-    cpvapit:givenName "Bonifichi"^^xsd:string ;
+    cpvapit:givenName "Barbara"^^xsd:string ;
+    cpvapit:familyName "Bonifichi"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/04205530233> .
 
 <https://w3id.org/sona/data/association/person/bortignon-giorgio> a cpvapit:Person ;
     dc:title "Bortignon Giorgio"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Giorgio"^^xsd:string ;
-    cpvapit:givenName "Bortignon"^^xsd:string ;
+    cpvapit:givenName "Giorgio"^^xsd:string ;
+    cpvapit:familyName "Bortignon"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93105690239> .
 
 <https://w3id.org/sona/data/association/person/boscaini-valentina> a cpvapit:Person ;
     dc:title "Boscaini Valentina"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Valentina"^^xsd:string ;
-    cpvapit:givenName "Boscaini"^^xsd:string ;
+    cpvapit:givenName "Valentina"^^xsd:string ;
+    cpvapit:familyName "Boscaini"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93088560235> .
 
 <https://w3id.org/sona/data/association/person/castioni-giuseppe> a cpvapit:Person ;
     dc:title "Castioni Giuseppe"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Giuseppe"^^xsd:string ;
-    cpvapit:givenName "Castioni"^^xsd:string ;
+    cpvapit:givenName "Giuseppe"^^xsd:string ;
+    cpvapit:familyName "Castioni"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93024460235> .
 
 <https://w3id.org/sona/data/association/person/chiavenato-gianni> a cpvapit:Person ;
     dc:title "Chiavenato Gianni"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Gianni"^^xsd:string ;
-    cpvapit:givenName "Chiavenato"^^xsd:string ;
+    cpvapit:givenName "Gianni"^^xsd:string ;
+    cpvapit:familyName "Chiavenato"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/associazione-nazionale-combattenti-e-reduci> .
 
 <https://w3id.org/sona/data/association/person/ciampalini-silvia> a cpvapit:Person ;
     dc:title "Ciampalini Silvia"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Silvia"^^xsd:string ;
-    cpvapit:givenName "Ciampalini"^^xsd:string ;
+    cpvapit:givenName "Silvia"^^xsd:string ;
+    cpvapit:familyName "Ciampalini"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93206620235> .
 
 <https://w3id.org/sona/data/association/person/cipolli-marco> a cpvapit:Person ;
     dc:title "Cipolli Marco"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Marco"^^xsd:string ;
-    cpvapit:givenName "Cipolli"^^xsd:string ;
+    cpvapit:givenName "Marco"^^xsd:string ;
+    cpvapit:familyName "Cipolli"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/80052230234> .
 
 <https://w3id.org/sona/data/association/person/cordioli-giordano> a cpvapit:Person ;
     dc:title "Cordioli Giordano"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Giordano"^^xsd:string ;
-    cpvapit:givenName "Cordioli"^^xsd:string ;
+    cpvapit:givenName "Giordano"^^xsd:string ;
+    cpvapit:familyName "Cordioli"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93087790239> .
 
 <https://w3id.org/sona/data/association/person/corrado-andreoli> a cpvapit:Person ;
     dc:title "Corrado Andreoli"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Andreoli"^^xsd:string ;
-    cpvapit:givenName "Corrado"^^xsd:string ;
+    cpvapit:givenName "Andreoli"^^xsd:string ;
+    cpvapit:familyName "Corrado"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93080510238> .
 
 <https://w3id.org/sona/data/association/person/costa-federica> a cpvapit:Person ;
     dc:title "Costa Federica"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Federica"^^xsd:string ;
-    cpvapit:givenName "Costa"^^xsd:string ;
+    cpvapit:givenName "Federica"^^xsd:string ;
+    cpvapit:familyName "Costa"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93203290239> .
 
 <https://w3id.org/sona/data/association/person/cristini-bruno> a cpvapit:Person ;
     dc:title "Cristini Bruno"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Bruno"^^xsd:string ;
-    cpvapit:givenName "Cristini"^^xsd:string ;
+    cpvapit:givenName "Bruno"^^xsd:string ;
+    cpvapit:familyName "Cristini"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93059380233> .
 
 <https://w3id.org/sona/data/association/person/dal-barco-adriano> a cpvapit:Person ;
     dc:title "Dal Barco Adriano"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Adriano"^^xsd:string ;
-    cpvapit:givenName "Dal Barco"^^xsd:string ;
+    cpvapit:givenName "Adriano"^^xsd:string ;
+    cpvapit:familyName "Dal Barco"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93234460231> .
 
 <https://w3id.org/sona/data/association/person/di-giovine-vincenzo> a cpvapit:Person ;
     dc:title "Di Giovine Vincenzo"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Vincenzo"^^xsd:string ;
-    cpvapit:givenName "Di Giovine"^^xsd:string ;
+    cpvapit:givenName "Vincenzo"^^xsd:string ;
+    cpvapit:familyName "Di Giovine"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/04356190233> .
 
 <https://w3id.org/sona/data/association/person/falcon-luca> a cpvapit:Person ;
     dc:title "Falcon Luca"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Luca"^^xsd:string ;
-    cpvapit:givenName "Falcon"^^xsd:string ;
+    cpvapit:givenName "Luca"^^xsd:string ;
+    cpvapit:familyName "Falcon"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93295480235> .
 
 <https://w3id.org/sona/data/association/person/fedrigo-franco> a cpvapit:Person ;
     dc:title "Fedrigo Franco"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Franco"^^xsd:string ;
-    cpvapit:givenName "Fedrigo"^^xsd:string ;
+    cpvapit:givenName "Franco"^^xsd:string ;
+    cpvapit:familyName "Fedrigo"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93256040234> .
 
 <https://w3id.org/sona/data/association/person/fiumini-ernestina> a cpvapit:Person ;
     dc:title "Fiumini Ernestina"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Ernestina"^^xsd:string ;
-    cpvapit:givenName "Fiumini"^^xsd:string ;
+    cpvapit:givenName "Ernestina"^^xsd:string ;
+    cpvapit:familyName "Fiumini"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/04635630231> .
 
 <https://w3id.org/sona/data/association/person/forlin-pietro> a cpvapit:Person ;
     dc:title "Forlin Pietro"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Pietro"^^xsd:string ;
-    cpvapit:givenName "Forlin"^^xsd:string ;
+    cpvapit:givenName "Pietro"^^xsd:string ;
+    cpvapit:familyName "Forlin"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93195450239> .
 
 <https://w3id.org/sona/data/association/person/forlini-luca> a cpvapit:Person ;
     dc:title "Forlini Luca"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Luca"^^xsd:string ;
-    cpvapit:givenName "Forlini"^^xsd:string ;
+    cpvapit:givenName "Luca"^^xsd:string ;
+    cpvapit:familyName "Forlini"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93152760232> .
 
 <https://w3id.org/sona/data/association/person/foroni-luca> a cpvapit:Person ;
     dc:title "Foroni Luca"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Luca"^^xsd:string ;
-    cpvapit:givenName "Foroni"^^xsd:string ;
+    cpvapit:givenName "Luca"^^xsd:string ;
+    cpvapit:familyName "Foroni"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93162150234> .
 
 <https://w3id.org/sona/data/association/person/franceschini-gessica> a cpvapit:Person ;
     dc:title "Franceschini Gessica"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Gessica"^^xsd:string ;
-    cpvapit:givenName "Franceschini"^^xsd:string ;
+    cpvapit:givenName "Gessica"^^xsd:string ;
+    cpvapit:familyName "Franceschini"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93201700239> .
 
 <https://w3id.org/sona/data/association/person/gasparato-ezio> a cpvapit:Person ;
     dc:title "Gasparato Ezio"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Ezio"^^xsd:string ;
-    cpvapit:givenName "Gasparato"^^xsd:string ;
+    cpvapit:givenName "Ezio"^^xsd:string ;
+    cpvapit:familyName "Gasparato"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93036520232> .
 
 <https://w3id.org/sona/data/association/person/gasparato-francesco> a cpvapit:Person ;
     dc:title "Gasparato Francesco"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Francesco"^^xsd:string ;
-    cpvapit:givenName "Gasparato"^^xsd:string ;
+    cpvapit:givenName "Francesco"^^xsd:string ;
+    cpvapit:familyName "Gasparato"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/80112970159> .
 
 <https://w3id.org/sona/data/association/person/giardini-giovanni> a cpvapit:Person ;
     dc:title "Giardini Giovanni"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Giovanni"^^xsd:string ;
-    cpvapit:givenName "Giardini"^^xsd:string ;
+    cpvapit:givenName "Giovanni"^^xsd:string ;
+    cpvapit:familyName "Giardini"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93073240231> .
 
 <https://w3id.org/sona/data/association/person/hueller-claudio> a cpvapit:Person ;
     dc:title "Hueller Claudio"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Claudio"^^xsd:string ;
-    cpvapit:givenName "Hueller"^^xsd:string ;
+    cpvapit:givenName "Claudio"^^xsd:string ;
+    cpvapit:familyName "Hueller"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93266060230> .
 
 <https://w3id.org/sona/data/association/person/larno-giovanni> a cpvapit:Person ;
     dc:title "Larno Giovanni"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Giovanni"^^xsd:string ;
-    cpvapit:givenName "Larno"^^xsd:string ;
+    cpvapit:givenName "Giovanni"^^xsd:string ;
+    cpvapit:familyName "Larno"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93229170233> .
 
 <https://w3id.org/sona/data/association/person/letterio-longo> a cpvapit:Person ;
     dc:title "Letterio Longo"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Longo"^^xsd:string ;
-    cpvapit:givenName "Letterio"^^xsd:string ;
+    cpvapit:givenName "Longo"^^xsd:string ;
+    cpvapit:familyName "Letterio"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/80195150588> .
 
 <https://w3id.org/sona/data/association/person/lorenzola-antonio> a cpvapit:Person ;
     dc:title "Lorenzola Antonio"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Antonio"^^xsd:string ;
-    cpvapit:givenName "Lorenzola"^^xsd:string ;
+    cpvapit:givenName "Antonio"^^xsd:string ;
+    cpvapit:familyName "Lorenzola"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/04269030237> .
 
 <https://w3id.org/sona/data/association/person/manara-nicola> a cpvapit:Person ;
     dc:title "Manara Nicola"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Nicola"^^xsd:string ;
-    cpvapit:givenName "Manara"^^xsd:string ;
+    cpvapit:givenName "Nicola"^^xsd:string ;
+    cpvapit:familyName "Manara"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/02211940230> .
 
 <https://w3id.org/sona/data/association/person/marconi-giacomina> a cpvapit:Person ;
     dc:title "Marconi Giacomina"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Giacomina"^^xsd:string ;
-    cpvapit:givenName "Marconi"^^xsd:string ;
+    cpvapit:givenName "Giacomina"^^xsd:string ;
+    cpvapit:familyName "Marconi"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/unitalsi-sottosezione-di-verona---gruppo-san-giorgio-in-salici> .
 
 <https://w3id.org/sona/data/association/person/mazzi-fausto> a cpvapit:Person ;
     dc:title "Mazzi Fausto"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Fausto"^^xsd:string ;
-    cpvapit:givenName "Mazzi"^^xsd:string ;
+    cpvapit:givenName "Fausto"^^xsd:string ;
+    cpvapit:familyName "Mazzi"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93214620234> .
 
 <https://w3id.org/sona/data/association/person/melchiori-corrado> a cpvapit:Person ;
     dc:title "Melchiori Corrado"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Corrado"^^xsd:string ;
-    cpvapit:givenName "Melchiori"^^xsd:string ;
+    cpvapit:givenName "Corrado"^^xsd:string ;
+    cpvapit:familyName "Melchiori"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93003580235> .
 
 <https://w3id.org/sona/data/association/person/miglioranzi-leonardo> a cpvapit:Person ;
     dc:title "Miglioranzi Leonardo"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Leonardo"^^xsd:string ;
-    cpvapit:givenName "Miglioranzi"^^xsd:string ;
+    cpvapit:givenName "Leonardo"^^xsd:string ;
+    cpvapit:familyName "Miglioranzi"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93282780233> .
 
 <https://w3id.org/sona/data/association/person/oliosi-romeo> a cpvapit:Person ;
     dc:title "Oliosi Romeo"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Romeo"^^xsd:string ;
-    cpvapit:givenName "Oliosi"^^xsd:string ;
+    cpvapit:givenName "Romeo"^^xsd:string ;
+    cpvapit:familyName "Oliosi"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/02112970237> .
 
 <https://w3id.org/sona/data/association/person/olioso-enrico> a cpvapit:Person ;
     dc:title "Olioso Enrico"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Enrico"^^xsd:string ;
-    cpvapit:givenName "Olioso"^^xsd:string ;
+    cpvapit:givenName "Enrico"^^xsd:string ;
+    cpvapit:familyName "Olioso"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93106070233> .
 
 <https://w3id.org/sona/data/association/person/pachera-eddo> a cpvapit:Person ;
     dc:title "Pachera Eddo"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Eddo"^^xsd:string ;
-    cpvapit:givenName "Pachera"^^xsd:string ;
+    cpvapit:givenName "Eddo"^^xsd:string ;
+    cpvapit:familyName "Pachera"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93264960233> .
 
 <https://w3id.org/sona/data/association/person/panetto-giorgia> a cpvapit:Person ;
     dc:title "Panetto Giorgia"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Giorgia"^^xsd:string ;
-    cpvapit:givenName "Panetto"^^xsd:string ;
+    cpvapit:givenName "Giorgia"^^xsd:string ;
+    cpvapit:familyName "Panetto"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/03857060234> .
 
 <https://w3id.org/sona/data/association/person/pasquali-luca> a cpvapit:Person ;
     dc:title "Pasquali Luca"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Luca"^^xsd:string ;
-    cpvapit:givenName "Pasquali"^^xsd:string ;
+    cpvapit:givenName "Luca"^^xsd:string ;
+    cpvapit:familyName "Pasquali"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93017450235> .
 
 <https://w3id.org/sona/data/association/person/piccoli-denis> a cpvapit:Person ;
     dc:title "Piccoli Denis"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Denis"^^xsd:string ;
-    cpvapit:givenName "Piccoli"^^xsd:string ;
+    cpvapit:givenName "Denis"^^xsd:string ;
+    cpvapit:familyName "Piccoli"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93275410236> .
 
 <https://w3id.org/sona/data/association/person/placchi-andrea> a cpvapit:Person ;
     dc:title "Placchi Andrea"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Andrea"^^xsd:string ;
-    cpvapit:givenName "Placchi"^^xsd:string ;
+    cpvapit:givenName "Andrea"^^xsd:string ;
+    cpvapit:familyName "Placchi"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/team-bike-adfruit> .
 
 <https://w3id.org/sona/data/association/person/pradella-paolo> a cpvapit:Person ;
     dc:title "Pradella Paolo"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Paolo"^^xsd:string ;
-    cpvapit:givenName "Pradella"^^xsd:string ;
+    cpvapit:givenName "Paolo"^^xsd:string ;
+    cpvapit:familyName "Pradella"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/04499600239> .
 
 <https://w3id.org/sona/data/association/person/ramundo-mario> a cpvapit:Person ;
     dc:title "Ramundo Mario"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Mario"^^xsd:string ;
-    cpvapit:givenName "Ramundo"^^xsd:string ;
+    cpvapit:givenName "Mario"^^xsd:string ;
+    cpvapit:familyName "Ramundo"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/03432580235> .
 
 <https://w3id.org/sona/data/association/person/roberto-roberto> a cpvapit:Person ;
     dc:title "Roberto Roberto"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Roberto"^^xsd:string ;
     cpvapit:givenName "Roberto"^^xsd:string ;
+    cpvapit:familyName "Roberto"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93066310231> .
 
 <https://w3id.org/sona/data/association/person/soave-andrea> a cpvapit:Person ;
     dc:title "Soave Andrea"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Andrea"^^xsd:string ;
-    cpvapit:givenName "Soave"^^xsd:string ;
+    cpvapit:givenName "Andrea"^^xsd:string ;
+    cpvapit:familyName "Soave"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93243320236> .
 
 <https://w3id.org/sona/data/association/person/speri-stefano> a cpvapit:Person ;
     dc:title "Speri Stefano"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Stefano"^^xsd:string ;
-    cpvapit:givenName "Speri"^^xsd:string ;
+    cpvapit:givenName "Stefano"^^xsd:string ;
+    cpvapit:familyName "Speri"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93057860236> .
 
 <https://w3id.org/sona/data/association/person/stevanoni-bruno> a cpvapit:Person ;
     dc:title "Stevanoni Bruno"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Bruno"^^xsd:string ;
-    cpvapit:givenName "Stevanoni"^^xsd:string ;
+    cpvapit:givenName "Bruno"^^xsd:string ;
+    cpvapit:familyName "Stevanoni"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93277540238> .
 
 <https://w3id.org/sona/data/association/person/tavormina-mattia> a cpvapit:Person ;
     dc:title "Tavormina Mattia"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Mattia"^^xsd:string ;
-    cpvapit:givenName "Tavormina"^^xsd:string ;
+    cpvapit:givenName "Mattia"^^xsd:string ;
+    cpvapit:familyName "Tavormina"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93272730230> .
 
 <https://w3id.org/sona/data/association/person/tietto-gianfranco> a cpvapit:Person ;
     dc:title "Tietto Gianfranco"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Gianfranco"^^xsd:string ;
-    cpvapit:givenName "Tietto"^^xsd:string ;
+    cpvapit:givenName "Gianfranco"^^xsd:string ;
+    cpvapit:familyName "Tietto"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/negozi-associati-lugagnano> .
 
 <https://w3id.org/sona/data/association/person/todeschini-sergio> a cpvapit:Person ;
     dc:title "Todeschini Sergio"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Sergio"^^xsd:string ;
-    cpvapit:givenName "Todeschini"^^xsd:string ;
+    cpvapit:givenName "Sergio"^^xsd:string ;
+    cpvapit:familyName "Todeschini"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93100800239> .
 
 <https://w3id.org/sona/data/association/person/tumicelli-elena> a cpvapit:Person ;
     dc:title "Tumicelli Elena"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Elena"^^xsd:string ;
-    cpvapit:givenName "Tumicelli"^^xsd:string ;
+    cpvapit:givenName "Elena"^^xsd:string ;
+    cpvapit:familyName "Tumicelli"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/comitato-genitori-istituto-comprensivo-di-sona> .
 
 <https://w3id.org/sona/data/association/person/vezzoli-paolo> a cpvapit:Person ;
     dc:title "Vezzoli Paolo"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Paolo"^^xsd:string ;
-    cpvapit:givenName "Vezzoli"^^xsd:string ;
+    cpvapit:givenName "Paolo"^^xsd:string ;
+    cpvapit:familyName "Vezzoli"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93029240236> .
 
 <https://w3id.org/sona/data/association/person/zambaldi-melloni-laura> a cpvapit:Person ;
     dc:title "Zambaldi Melloni Laura"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Laura"^^xsd:string ;
-    cpvapit:givenName "Zambaldi Melloni"^^xsd:string ;
+    cpvapit:givenName "Laura"^^xsd:string ;
+    cpvapit:familyName "Zambaldi Melloni"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/english-by-doing> .
 
 <https://w3id.org/sona/data/association/person/zandona-mattia> a cpvapit:Person ;
     dc:title "Zandonà Mattia"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Mattia"^^xsd:string ;
-    cpvapit:givenName "Zandonà"^^xsd:string ;
+    cpvapit:givenName "Mattia"^^xsd:string ;
+    cpvapit:familyName "Zandonà"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93194640236> .
 
 <https://w3id.org/sona/data/association/person/zilio-davide> a cpvapit:Person ;
     dc:title "Zilio Davide"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Davide"^^xsd:string ;
-    cpvapit:givenName "Zilio"^^xsd:string ;
+    cpvapit:givenName "Davide"^^xsd:string ;
+    cpvapit:familyName "Zilio"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/tasting-lover> .
 
 <https://w3id.org/sona/data/association/person/zocca-tiziano> a cpvapit:Person ;
     dc:title "Zocca Tiziano"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Tiziano"^^xsd:string ;
-    cpvapit:givenName "Zocca"^^xsd:string ;
+    cpvapit:givenName "Tiziano"^^xsd:string ;
+    cpvapit:familyName "Zocca"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93056000230> .
 
 <https://w3id.org/sona/data/association/person/zoccatelli-beatrice> a cpvapit:Person ;
     dc:title "Zoccatelli Beatrice"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Beatrice"^^xsd:string ;
-    cpvapit:givenName "Zoccatelli"^^xsd:string ;
+    cpvapit:givenName "Beatrice"^^xsd:string ;
+    cpvapit:familyName "Zoccatelli"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/93251830233> .
 
 <https://w3id.org/sona/data/association/president/02112970237> a covapit:Employment ;
@@ -3780,8 +3780,8 @@ association:unitalsi-sottosezione-di-verona---gruppo-san-giorgio-in-salici a ont
 <https://w3id.org/sona/data/association/person/forlin-giovanni> a cpvapit:Person ;
     dc:title "Forlin Giovanni"^^xsd:string ;
     skos:inScheme association: ;
-    cpvapit:familyName "Giovanni"^^xsd:string ;
-    cpvapit:givenName "Forlin"^^xsd:string ;
+    cpvapit:givenName "Giovanni"^^xsd:string ;
+    cpvapit:familyName "Forlin"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/04648910232>,
         <https://w3id.org/sona/data/association/president/80028640235> .
 

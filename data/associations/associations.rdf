@@ -158,8 +158,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miglioranzi Leonardo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leonardo</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miglioranzi</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leonardo</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miglioranzi</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93282780233"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/93234460231">
@@ -232,8 +232,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tumicelli Elena</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elena</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tumicelli</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elena</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tumicelli</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/comitato-genitori-istituto-comprensivo-di-sona"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/93106070233">
@@ -342,8 +342,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stevanoni Bruno</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bruno</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stevanoni</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bruno</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stevanoni</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93277540238"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/segreteria-aclugagnano-it">
@@ -393,8 +393,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giardini Giovanni</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giovanni</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giardini</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giovanni</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giardini</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93073240231"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/comitatogenitorisona-gmail-com">
@@ -503,8 +503,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Melchiori Corrado</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corrado</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Melchiori</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corrado</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Melchiori</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93003580235"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/93216240239">
@@ -578,8 +578,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zilio Davide</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Davide</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zilio</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Davide</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zilio</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/tasting-lover"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/youtube/uc05yjnkc6sqox04gki6yy6q">
@@ -715,16 +715,16 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hueller Claudio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Claudio</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hueller</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Claudio</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hueller</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93266060230"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/olioso-enrico">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olioso Enrico</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Enrico</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olioso</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Enrico</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olioso</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93106070233"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/negozi-associati-lugagnano">
@@ -754,8 +754,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chiavenato Gianni</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gianni</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chiavenato</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gianni</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chiavenato</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/associazione-nazionale-combattenti-e-reduci"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/03416500233">
@@ -837,8 +837,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zocca Tiziano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tiziano</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zocca</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tiziano</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zocca</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93056000230"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/facebook/westveronarugby">
@@ -911,16 +911,16 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pradella Paolo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paolo</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pradella</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paolo</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pradella</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/04499600239"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/benedetti-doriano">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Benedetti Doriano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Doriano</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Benedetti</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Doriano</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Benedetti</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/80026720237"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/phone/3404868144">
@@ -1001,8 +1001,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ramundo Mario</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mario</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ramundo</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mario</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ramundo</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/03432580235"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/93017450235">
@@ -1096,8 +1096,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Larno Giovanni</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giovanni</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Larno</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giovanni</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Larno</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93229170233"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/instagram/english-by-doing-italy">
@@ -1159,8 +1159,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alessandro Alessandro</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alessandro</cpvapit:familyName>
     <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alessandro</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alessandro</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/03340470230"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/unitalsi-sottosezione-di-verona---gruppo-san-giorgio-in-salici">
@@ -1218,8 +1218,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cipolli Marco</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marco</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cipolli</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marco</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cipolli</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/80052230234"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/youtube/uc5fwcbtecm5f3xprvjk0zvq">
@@ -1293,8 +1293,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Di Giovine Vincenzo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vincenzo</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Di Giovine</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vincenzo</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Di Giovine</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/04356190233"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/93282780233">
@@ -1311,8 +1311,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bonifichi Barbara</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barbara</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bonifichi</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barbara</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bonifichi</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/04205530233"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/website/www-diversamenteindanza-it">
@@ -1487,8 +1487,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fedrigo Franco</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franco</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fedrigo</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franco</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fedrigo</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93256040234"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/sonaversoilmondo-gmail-com">
@@ -1542,24 +1542,24 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corrado Andreoli</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Andreoli</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corrado</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Andreoli</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corrado</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93080510238"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/bassan-claudio">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bassan Claudio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Claudio</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bassan</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Claudio</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bassan</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93216240239"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/soave-andrea">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Soave Andrea</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Andrea</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Soave</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Andrea</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Soave</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93243320236"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/website/www-assobersaglieri-it">
@@ -1594,8 +1594,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arduini Barbara</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barbara</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arduini</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barbara</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arduini</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/il-cerchio-atelier-d-espressione"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/facebook/comitatogenitorisona">
@@ -1640,8 +1640,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amali Mirco</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mirco</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amali</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mirco</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amali</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93074770236"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/facebook/karmaontheroad">
@@ -1656,8 +1656,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forlin Giovanni</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giovanni</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forlin</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giovanni</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forlin</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/04648910232"/>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/80028640235"/>
   </rdf:Description>
@@ -1673,8 +1673,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Placchi Andrea</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Andrea</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Placchi</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Andrea</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Placchi</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/team-bike-adfruit"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/93017450235">
@@ -1859,16 +1859,16 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manara Nicola</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nicola</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manara</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nicola</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manara</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/02211940230"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/boscaini-valentina">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boscaini Valentina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valentina</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boscaini</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valentina</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boscaini</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93088560235"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/instagram/sonacalcio">
@@ -1889,16 +1889,16 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mazzi Fausto</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fausto</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mazzi</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fausto</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mazzi</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93214620234"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/vezzoli-paolo">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vezzoli Paolo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paolo</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vezzoli</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paolo</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vezzoli</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93029240236"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/93275410236">
@@ -1917,8 +1917,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ambrosi Stefano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stefano</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ambrosi</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stefano</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ambrosi</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93174930235"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/comitato-genitori-istituto-comprensivo-di-sona">
@@ -1967,8 +1967,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barrichello Massimo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Massimo</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barrichello</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Massimo</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barrichello</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93265060231"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/04269030237">
@@ -2095,8 +2095,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Todeschini Sergio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sergio</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Todeschini</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sergio</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Todeschini</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93100800239"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/93066310231">
@@ -2139,8 +2139,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Falcon Luca</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luca</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Falcon</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luca</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Falcon</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93295480235"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/80195150588">
@@ -2305,8 +2305,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cristini Bruno</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bruno</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cristini</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bruno</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cristini</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93059380233"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/pec/fibrosi-cistica-aovr-pecveneto-it">
@@ -2346,8 +2346,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forlini Luca</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luca</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forlini</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luca</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forlini</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93152760232"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/04635630231">
@@ -2364,8 +2364,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gasparato Ezio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ezio</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gasparato</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ezio</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gasparato</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93036520232"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/website/englishbydoing-business-site">
@@ -2378,8 +2378,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zandonà Mattia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mattia</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zandonà</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mattia</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zandonà</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93194640236"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/02211940230">
@@ -2516,8 +2516,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ciampalini Silvia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silvia</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ciampalini</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silvia</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ciampalini</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93206620235"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/02112970237">
@@ -2578,8 +2578,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Costa Federica</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Federica</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Costa</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Federica</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Costa</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93203290239"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/93195450239">
@@ -2614,16 +2614,16 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Letterio Longo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Longo</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Letterio</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Longo</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Letterio</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/80195150588"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/zoccatelli-beatrice">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zoccatelli Beatrice</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Beatrice</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zoccatelli</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Beatrice</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zoccatelli</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93251830233"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/avissona-virgilio-it">
@@ -2637,8 +2637,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adamoli Massimo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Massimo</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adamoli</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Massimo</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adamoli</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/coro-a-n-a---amici-della-baita-"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/cicloclublugagnano-gmail-com">
@@ -2717,8 +2717,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tavormina Mattia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mattia</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tavormina</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mattia</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tavormina</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93272730230"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/silviosanna904-gmail-com">
@@ -2875,8 +2875,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bortignon Giorgio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giorgio</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bortignon</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giorgio</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bortignon</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93105690239"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/eforli-hotmail-it">
@@ -2991,8 +2991,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oliosi Romeo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Romeo</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oliosi</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Romeo</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oliosi</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/02112970237"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/93277540238">
@@ -3031,8 +3031,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bettinazzi Rosa</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rosa</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bettinazzi</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rosa</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bettinazzi</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93142630230"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/website/loverspalazzolo-myblog-it">
@@ -3099,8 +3099,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ambrosi Flora Anna</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flora Anna</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ambrosi</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flora Anna</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ambrosi</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93244740234"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/facebook/emporio-malkovich">
@@ -3138,8 +3138,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roberto Roberto</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roberto</cpvapit:familyName>
     <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roberto</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roberto</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93066310231"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/93295480235">
@@ -3293,8 +3293,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pasquali Luca</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luca</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pasquali</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luca</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pasquali</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93017450235"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/93194640236">
@@ -3363,16 +3363,16 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gasparato Francesco</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Francesco</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gasparato</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Francesco</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gasparato</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/80112970159"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/tietto-gianfranco">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tietto Gianfranco</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gianfranco</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tietto</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gianfranco</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tietto</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/negozi-associati-lugagnano"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/93295480235">
@@ -3446,8 +3446,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pachera Eddo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eddo</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pachera</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eddo</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pachera</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93264960233"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/website/www-bandadisona-it">
@@ -3469,8 +3469,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cordioli Giordano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giordano</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cordioli</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giordano</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cordioli</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93087790239"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/sona-in-quattro-passi">
@@ -3525,8 +3525,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fiumini Ernestina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ernestina</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fiumini</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ernestina</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fiumini</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/04635630231"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/phone/3482567224">
@@ -3599,8 +3599,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panetto Giorgia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giorgia</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panetto</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giorgia</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panetto</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/03857060234"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/youtube/uctxa4gut2qlfnncznj3ovsa">
@@ -3615,8 +3615,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marconi Giacomina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giacomina</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marconi</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giacomina</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marconi</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/unitalsi-sottosezione-di-verona---gruppo-san-giorgio-in-salici"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/coro-a-n-a---amici-della-baita-">
@@ -3695,8 +3695,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battistini Angelo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Angelo</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battistini</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Angelo</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battistini</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93264540233"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/il-cerchio-atelier-d-espressione">
@@ -3752,8 +3752,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speri Stefano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stefano</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speri</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stefano</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speri</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93057860236"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/pec/sos-sona-pec-it">
@@ -3767,8 +3767,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Castioni Giuseppe</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giuseppe</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Castioni</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giuseppe</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Castioni</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93024460235"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/negozi-associati-lugagnano">
@@ -3790,8 +3790,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piccoli Denis</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Denis</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piccoli</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Denis</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piccoli</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93275410236"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/80195150588">
@@ -3926,8 +3926,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dal Barco Adriano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adriano</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dal Barco</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adriano</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dal Barco</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93234460231"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/mancalacquaproject-gmail-com">
@@ -3958,8 +3958,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Foroni Luca</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luca</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Foroni</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luca</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Foroni</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93162150234"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/info-sos-sona-it">
@@ -4109,8 +4109,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bellè Gaetano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gaetano</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bellè</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gaetano</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bellè</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/03416500233"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/phone/3519986531">
@@ -4179,8 +4179,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forlin Pietro</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pietro</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forlin</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pietro</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forlin</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93195450239"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/phone/045986396">
@@ -4201,8 +4201,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zambaldi Melloni Laura</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Laura</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zambaldi Melloni</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Laura</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zambaldi Melloni</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/english-by-doing"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/amatori-calcio-sona">
@@ -4217,8 +4217,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lorenzola Antonio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antonio</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lorenzola</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antonio</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lorenzola</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/04269030237"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/facebook/proloco-sona">
@@ -4264,8 +4264,8 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franceschini Gessica</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gessica</cpvapit:familyName>
-    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franceschini</cpvapit:givenName>
+    <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gessica</cpvapit:givenName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Franceschini</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/93201700239"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/03340470230">
