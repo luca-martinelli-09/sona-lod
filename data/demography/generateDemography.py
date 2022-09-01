@@ -28,11 +28,11 @@ config = getConfig("../../conf.ini")
 # Create graph
 g = createGraph()
 
-POPULATION_DATA = Namespace("https://w3id.org/sona/demography/population/")
-FOREIGN_CITIZENS_DATA = Namespace("https://w3id.org/sona/demography/foreign-citizens/")
-CIVIL_STATUS_DATA = Namespace("https://w3id.org/sona/demography/ivil-status/")
-FREQUENT_NAMES_DATA = Namespace("https://w3id.org/sona/demography/names/")
-FREQUENT_SURNAMES_DATA = Namespace("https://w3id.org/sona/demography/surnames/")
+POPULATION_DATA = Namespace("https://w3id.org/sona/data/demography/population/")
+FOREIGN_CITIZENS_DATA = Namespace("https://w3id.org/sona/data/demography/foreign-citizens/")
+CIVIL_STATUS_DATA = Namespace("https://w3id.org/sona/data/demography/ivil-status/")
+FREQUENT_NAMES_DATA = Namespace("https://w3id.org/sona/data/demography/names/")
+FREQUENT_SURNAMES_DATA = Namespace("https://w3id.org/sona/data/demography/surnames/")
 
 # Create a ConceptScheme
 # MAIN CONCEPT SCHEME
