@@ -15,9 +15,10 @@ g = createGraph()
 
 for dir, _, files in os.walk("./"):
     for file in files:
-      filepath = os.path.join(dir, file)
-      if file.endswith(".rdf"):
-        g.parse(filepath)
+      if not file.endswith("sona.rdf"):
+        filepath = os.path.join(dir, file)
+        if file.endswith(".rdf"):
+          g.parse(filepath)
 
 # %%
 saveGraph(g, "sona")
