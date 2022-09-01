@@ -22,71 +22,88 @@ demography: a skos:ConceptScheme ;
 
 <https://w3id.org/sona/demography/foreign-citizens/ti/2012> a tiapit:Year ;
     dc:title "2012"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/foreign-citizens/> .
+    skos:inScheme <https://w3id.org/sona/demography/foreign-citizens/> ;
+    tiapit:year "2012"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/foreign-citizens/ti/2013> a tiapit:Year ;
     dc:title "2013"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/foreign-citizens/> .
+    skos:inScheme <https://w3id.org/sona/demography/foreign-citizens/> ;
+    tiapit:year "2013"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/foreign-citizens/ti/2014> a tiapit:Year ;
     dc:title "2014"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/foreign-citizens/> .
+    skos:inScheme <https://w3id.org/sona/demography/foreign-citizens/> ;
+    tiapit:year "2014"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/foreign-citizens/ti/2015> a tiapit:Year ;
     dc:title "2015"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/foreign-citizens/> .
+    skos:inScheme <https://w3id.org/sona/demography/foreign-citizens/> ;
+    tiapit:year "2015"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/foreign-citizens/ti/2019> a tiapit:Year ;
     dc:title "2019"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/foreign-citizens/> .
+    skos:inScheme <https://w3id.org/sona/demography/foreign-citizens/> ;
+    tiapit:year "2019"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/foreign-citizens/ti/2020> a tiapit:Year ;
     dc:title "2020"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/foreign-citizens/> .
+    skos:inScheme <https://w3id.org/sona/demography/foreign-citizens/> ;
+    tiapit:year "2020"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/foreign-citizens/ti/2021> a tiapit:Year ;
     dc:title "2021"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/foreign-citizens/> .
+    skos:inScheme <https://w3id.org/sona/demography/foreign-citizens/> ;
+    tiapit:year "2021"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/ivil-status/ti/2012> a tiapit:Year ;
     dc:title "2012"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> .
+    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> ;
+    tiapit:year "2012"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/ivil-status/ti/2013> a tiapit:Year ;
     dc:title "2013"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> .
+    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> ;
+    tiapit:year "2013"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/ivil-status/ti/2014> a tiapit:Year ;
     dc:title "2014"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> .
+    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> ;
+    tiapit:year "2014"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/ivil-status/ti/2015> a tiapit:Year ;
     dc:title "2015"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> .
+    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> ;
+    tiapit:year "2015"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/ivil-status/ti/2016> a tiapit:Year ;
     dc:title "2016"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> .
+    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> ;
+    tiapit:year "2016"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/ivil-status/ti/2017> a tiapit:Year ;
     dc:title "2017"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> .
+    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> ;
+    tiapit:year "2017"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/ivil-status/ti/2018> a tiapit:Year ;
     dc:title "2018"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> .
+    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> ;
+    tiapit:year "2018"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/ivil-status/ti/2019> a tiapit:Year ;
     dc:title "2019"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> .
+    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> ;
+    tiapit:year "2019"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/ivil-status/ti/2020> a tiapit:Year ;
     dc:title "2020"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> .
+    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> ;
+    tiapit:year "2020"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/ivil-status/ti/2021> a tiapit:Year ;
     dc:title "2021"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> .
+    skos:inScheme <https://w3id.org/sona/demography/ivil-status/> ;
+    tiapit:year "2021"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/foreign-citizens/2012-f-1a0> a ontoim:Citizens ;
     dc:title "Cittadini con cittadinanza Kosovo nel 2012 - F"^^xsd:string ;
@@ -8686,1280 +8703,1280 @@ demography: a skos:ConceptScheme ;
     dc:title "Numero di cittadini nel 2012 a Lugagnano - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "4404"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2012-lugagnano-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2012 a Lugagnano - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "3615"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2012-lugagnano-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2012 a Lugagnano - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "4374"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2012-lugagnano-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2012 a Lugagnano - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "786"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2012-palazzolo-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2012 a Palazzolo - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "1487"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2012-palazzolo-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2012 a Palazzolo - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "1197"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2012-palazzolo-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2012 a Palazzolo - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "1473"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2012-palazzolo-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2012 a Palazzolo - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "320"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2012-san-giorgio-in-salici-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2012 a San Giorgio in Salici - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "1224"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2012-san-giorgio-in-salici-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2012 a San Giorgio in Salici - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "968"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2012-san-giorgio-in-salici-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2012 a San Giorgio in Salici - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "1232"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2012-san-giorgio-in-salici-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2012 a San Giorgio in Salici - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "256"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2012-sona-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2012 a Sona - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "1638"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2012-sona-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2012 a Sona - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "1329"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2012-sona-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2012 a Sona - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "1664"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2012-sona-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2012 a Sona - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2012> ;
     ontoim:observationValue "283"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-lugagnano-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a Lugagnano - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "4438"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-lugagnano-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a Lugagnano - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "3650"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-lugagnano-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a Lugagnano - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "4409"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-lugagnano-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a Lugagnano - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "791"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-palazzolo-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a Palazzolo - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "1490"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-palazzolo-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a Palazzolo - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "1203"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-palazzolo-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a Palazzolo - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "1475"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-palazzolo-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a Palazzolo - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "316"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-san-giorgio-in-salici-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a San Giorgio in Salici - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "1236"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-san-giorgio-in-salici-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a San Giorgio in Salici - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "965"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-san-giorgio-in-salici-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a San Giorgio in Salici - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "1226"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-san-giorgio-in-salici-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a San Giorgio in Salici - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "239"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-sona-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a Sona - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "1659"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-sona-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a Sona - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "1348"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-sona-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a Sona - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "1680"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2013-sona-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2013 a Sona - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2013> ;
     ontoim:observationValue "298"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-lugagnano-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a Lugagnano - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "4469"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-lugagnano-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a Lugagnano - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "3675"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-lugagnano-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a Lugagnano - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "4399"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-lugagnano-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a Lugagnano - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "809"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-palazzolo-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a Palazzolo - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "1482"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-palazzolo-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a Palazzolo - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "1201"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-palazzolo-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a Palazzolo - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "1471"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-palazzolo-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a Palazzolo - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "335"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-san-giorgio-in-salici-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a San Giorgio in Salici - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "1246"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-san-giorgio-in-salici-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a San Giorgio in Salici - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "971"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-san-giorgio-in-salici-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a San Giorgio in Salici - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "1239"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-san-giorgio-in-salici-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a San Giorgio in Salici - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "234"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-sona-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a Sona - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "1676"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-sona-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a Sona - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "1374"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-sona-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a Sona - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "1705"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2014-sona-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2014 a Sona - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2014> ;
     ontoim:observationValue "337"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-lugagnano-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a Lugagnano - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "4529"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-lugagnano-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a Lugagnano - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "3724"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-lugagnano-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a Lugagnano - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "4446"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-lugagnano-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a Lugagnano - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "816"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-palazzolo-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a Palazzolo - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "1471"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-palazzolo-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a Palazzolo - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "1180"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-palazzolo-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a Palazzolo - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "1459"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-palazzolo-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a Palazzolo - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "278"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-san-giorgio-in-salici-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a San Giorgio in Salici - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "1226"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-san-giorgio-in-salici-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a San Giorgio in Salici - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "956"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-san-giorgio-in-salici-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a San Giorgio in Salici - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "1209"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-san-giorgio-in-salici-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a San Giorgio in Salici - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "198"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-sona-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a Sona - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "1665"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-sona-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a Sona - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "1366"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-sona-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a Sona - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "1678"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2015-sona-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2015 a Sona - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2015> ;
     ontoim:observationValue "303"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-lugagnano-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a Lugagnano - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "4516"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-lugagnano-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a Lugagnano - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "3718"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-lugagnano-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a Lugagnano - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "4419"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-lugagnano-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a Lugagnano - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "814"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-palazzolo-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a Palazzolo - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "1455"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-palazzolo-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a Palazzolo - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "1180"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-palazzolo-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a Palazzolo - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "1460"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-palazzolo-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a Palazzolo - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "254"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-san-giorgio-in-salici-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a San Giorgio in Salici - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "1240"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-san-giorgio-in-salici-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a San Giorgio in Salici - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "966"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-san-giorgio-in-salici-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a San Giorgio in Salici - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "1212"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-san-giorgio-in-salici-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a San Giorgio in Salici - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "185"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-sona-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a Sona - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "1657"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-sona-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a Sona - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "1355"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-sona-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a Sona - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "1671"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2016-sona-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2016 a Sona - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2016> ;
     ontoim:observationValue "285"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-lugagnano-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a Lugagnano - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "4562"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-lugagnano-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a Lugagnano - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "3730"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-lugagnano-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a Lugagnano - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "4430"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-lugagnano-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a Lugagnano - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "847"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-palazzolo-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a Palazzolo - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "1457"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-palazzolo-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a Palazzolo - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "1201"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-palazzolo-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a Palazzolo - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "1463"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-palazzolo-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a Palazzolo - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "242"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-san-giorgio-in-salici-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a San Giorgio in Salici - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "1234"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-san-giorgio-in-salici-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a San Giorgio in Salici - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "982"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-san-giorgio-in-salici-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a San Giorgio in Salici - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "1216"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-san-giorgio-in-salici-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a San Giorgio in Salici - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "175"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-sona-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a Sona - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "1662"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-sona-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a Sona - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "1359"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-sona-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a Sona - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "1670"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2017-sona-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2017 a Sona - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2017> ;
     ontoim:observationValue "278"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-lugagnano-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a Lugagnano - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "4564"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-lugagnano-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a Lugagnano - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "3728"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-lugagnano-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a Lugagnano - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "4434"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-lugagnano-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a Lugagnano - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "871"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-palazzolo-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a Palazzolo - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "1486"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-palazzolo-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a Palazzolo - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "1224"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-palazzolo-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a Palazzolo - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "1477"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-palazzolo-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a Palazzolo - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "264"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-san-giorgio-in-salici-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a San Giorgio in Salici - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "1237"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-san-giorgio-in-salici-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a San Giorgio in Salici - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "986"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-san-giorgio-in-salici-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a San Giorgio in Salici - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "1222"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-san-giorgio-in-salici-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a San Giorgio in Salici - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "177"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-sona-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a Sona - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "1680"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-sona-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a Sona - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "1362"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-sona-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a Sona - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "1676"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2018-sona-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2018 a Sona - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2018> ;
     ontoim:observationValue "292"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-lugagnano-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a Lugagnano - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "4534"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-lugagnano-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a Lugagnano - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "3718"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-lugagnano-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a Lugagnano - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "4424"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-lugagnano-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a Lugagnano - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "884"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-palazzolo-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a Palazzolo - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "1450"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-palazzolo-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a Palazzolo - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "1210"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-palazzolo-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a Palazzolo - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "1443"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-palazzolo-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a Palazzolo - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "249"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-san-giorgio-in-salici-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a San Giorgio in Salici - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "1242"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-san-giorgio-in-salici-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a San Giorgio in Salici - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "989"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-san-giorgio-in-salici-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a San Giorgio in Salici - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "1236"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-san-giorgio-in-salici-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a San Giorgio in Salici - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "179"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-sona-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a Sona - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "1695"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-sona-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a Sona - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "1386"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-sona-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a Sona - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "1695"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2019-sona-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2019 a Sona - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2019> ;
     ontoim:observationValue "292"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-lugagnano-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a Lugagnano - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "4547"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-lugagnano-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a Lugagnano - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "3725"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-lugagnano-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a Lugagnano - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "4405"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-lugagnano-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a Lugagnano - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "877"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-palazzolo-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a Palazzolo - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "1456"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-palazzolo-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a Palazzolo - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "1226"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-palazzolo-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a Palazzolo - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "1445"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-palazzolo-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a Palazzolo - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "248"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-san-giorgio-in-salici-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a San Giorgio in Salici - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "1230"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-san-giorgio-in-salici-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a San Giorgio in Salici - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "989"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-san-giorgio-in-salici-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a San Giorgio in Salici - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "1214"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-san-giorgio-in-salici-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a San Giorgio in Salici - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "169"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-sona-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a Sona - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "1683"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-sona-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a Sona - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "1397"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-sona-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a Sona - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "1708"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2020-sona-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2020 a Sona - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2020> ;
     ontoim:observationValue "281"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-lugagnano-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a Lugagnano - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "4519"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-lugagnano-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a Lugagnano - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "3712"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-lugagnano-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a Lugagnano - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "4376"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-lugagnano-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a Lugagnano - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/lugagnano> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "851"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-palazzolo-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a Palazzolo - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "1448"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-palazzolo-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a Palazzolo - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "1236"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-palazzolo-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a Palazzolo - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "1459"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-palazzolo-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a Palazzolo - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/palazzolo> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "272"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-san-giorgio-in-salici-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a San Giorgio in Salici - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "1220"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-san-giorgio-in-salici-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a San Giorgio in Salici - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "986"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-san-giorgio-in-salici-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a San Giorgio in Salici - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "1213"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-san-giorgio-in-salici-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a San Giorgio in Salici - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/san-giorgio-in-salici> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "169"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-sona-f> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a Sona - F" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/female> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "1699"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-sona-famiglie> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a Sona - Famiglie" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/family> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "1400"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-sona-m> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a Sona - M" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/male> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "1707"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/population/2021-sona-stranieri> a ontoim:Citizens ;
     dc:title "Numero di cittadini nel 2021 a Sona - Stranieri" ;
     skos:inScheme <https://w3id.org/sona/demography/population/> ;
     clvapit:hasSpatialCoverage <https://w3id.org/sona/data/ANNCSU/locality/sona> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:hasDemographicReference <https://w3id.org/sona/demography/population/reference/foreign> ;
-    ontoim:hasTemporalEntity <https://w3id.org/sona/demography/population/ti/2021> ;
     ontoim:observationValue "294"^^xsd:nonNegativeInteger .
 
 <https://w3id.org/sona/demography/surnames/reference/surname-adami-f> a cpvapit:Person ;
@@ -11974,43 +11991,53 @@ demography: a skos:ConceptScheme ;
 
 <https://w3id.org/sona/demography/population/ti/2012> a tiapit:Year ;
     dc:title "2012"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/population/> .
+    skos:inScheme <https://w3id.org/sona/demography/population/> ;
+    tiapit:year "2012"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/population/ti/2013> a tiapit:Year ;
     dc:title "2013"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/population/> .
+    skos:inScheme <https://w3id.org/sona/demography/population/> ;
+    tiapit:year "2013"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/population/ti/2014> a tiapit:Year ;
     dc:title "2014"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/population/> .
+    skos:inScheme <https://w3id.org/sona/demography/population/> ;
+    tiapit:year "2014"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/population/ti/2015> a tiapit:Year ;
     dc:title "2015"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/population/> .
+    skos:inScheme <https://w3id.org/sona/demography/population/> ;
+    tiapit:year "2015"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/population/ti/2016> a tiapit:Year ;
     dc:title "2016"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/population/> .
+    skos:inScheme <https://w3id.org/sona/demography/population/> ;
+    tiapit:year "2016"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/population/ti/2017> a tiapit:Year ;
     dc:title "2017"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/population/> .
+    skos:inScheme <https://w3id.org/sona/demography/population/> ;
+    tiapit:year "2017"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/population/ti/2018> a tiapit:Year ;
     dc:title "2018"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/population/> .
+    skos:inScheme <https://w3id.org/sona/demography/population/> ;
+    tiapit:year "2018"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/population/ti/2019> a tiapit:Year ;
     dc:title "2019"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/population/> .
+    skos:inScheme <https://w3id.org/sona/demography/population/> ;
+    tiapit:year "2019"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/population/ti/2020> a tiapit:Year ;
     dc:title "2020"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/population/> .
+    skos:inScheme <https://w3id.org/sona/demography/population/> ;
+    tiapit:year "2020"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/population/ti/2021> a tiapit:Year ;
     dc:title "2021"^^xsd:string ;
-    skos:inScheme <https://w3id.org/sona/demography/population/> .
+    skos:inScheme <https://w3id.org/sona/demography/population/> ;
+    tiapit:year "2021"^^xsd:gYear .
 
 <https://w3id.org/sona/demography/population/reference/family> a cpvapit:Family ;
     dc:title "Family"@en,

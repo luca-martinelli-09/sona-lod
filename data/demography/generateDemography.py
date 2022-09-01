@@ -173,6 +173,7 @@ for _, statsInfo in populationDF.iterrows():
     dataset=POPULATION_DATASET,
     titles=[Literal(year, datatype=XSD.string)]
   )
+  temporalEntity.year = Literal(year, datatype=XSD.gYear)
   temporalEntity.addToGraph(g, isTopConcept=False)
   
   for type in ["M", "F", "FAMIGLIE", "STRANIERI"]:
@@ -266,6 +267,7 @@ for _, statsInfo in civilStatusDF.iterrows():
       dataset=CIVIL_STATUS_DATASET,
       titles=[Literal(year, datatype=XSD.string)]
   )
+  temporalEntity.year = Literal(year, datatype=XSD.gYear)
   temporalEntity.addToGraph(g, isTopConcept=False)
 
   for type in ["M", "F", "TOTALE"]:
@@ -318,6 +320,7 @@ for _, statsInfo in citizenshipForeignDF[citizenshipForeignDF["COD_NAZIONE"].not
       dataset=FOREIGN_CITIZENS_DATASET,
       titles=[Literal(year, datatype=XSD.string)]
   )
+  temporalEntity.year = Literal(year, datatype=XSD.gYear)
   temporalEntity.addToGraph(g, isTopConcept=False)
 
   for type in ["M", "F"]:
