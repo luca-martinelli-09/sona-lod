@@ -2019,7 +2019,7 @@ association:03340470230 a ontoim:Association ;
     covapit:legalName "Ausonia Sona United"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/association/ocp/03340470230> ;
     ontoim:hasAssociationCategory associationcategories:6 ;
-    ontoim:hasReferent <https://w3id.org/sona/data/association/person/alessandro-alessandro> .
+    ontoim:hasReferent <https://w3id.org/sona/data/association/person/alessandro-tacconi> .
 
 association:03416500233 a ontoim:Association ;
     dc:title "Associazione Ciclistica Sona"^^xsd:string ;
@@ -2722,11 +2722,11 @@ association:negozi-associati-lugagnano a ontoim:Association ;
     cpvapit:familyName "Adamoli"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/coro-a-n-a---amici-della-baita-> .
 
-<https://w3id.org/sona/data/association/person/alessandro-alessandro> a cpvapit:Person ;
-    dc:title "Alessandro Alessandro"^^xsd:string ;
+<https://w3id.org/sona/data/association/person/alessandro-tacconi> a cpvapit:Person ;
+    dc:title "Alessandro Tacconi"^^xsd:string ;
     skos:inScheme association: ;
     cpvapit:givenName "Alessandro"^^xsd:string ;
-    cpvapit:familyName "Alessandro"^^xsd:string ;
+    cpvapit:familyName "Tacconi"^^xsd:string ;
     roapit:holdsRoleInTime <https://w3id.org/sona/data/association/president/03340470230> .
 
 <https://w3id.org/sona/data/association/person/amali-mirco> a cpvapit:Person ;
@@ -3205,7 +3205,7 @@ association:negozi-associati-lugagnano a ontoim:Association ;
         "Presidente di Ausonia Sona United"@it ;
     skos:inScheme association: ;
     covapit:employmentFor association:03340470230 ;
-    roapit:isRoleInTimeOf <https://w3id.org/sona/data/association/person/alessandro-alessandro> ;
+    roapit:isRoleInTimeOf <https://w3id.org/sona/data/association/person/alessandro-tacconi> ;
     roapit:withRole role:president .
 
 <https://w3id.org/sona/data/association/president/03416500233> a covapit:Employment ;

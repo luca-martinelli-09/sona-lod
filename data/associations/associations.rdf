@@ -199,7 +199,7 @@
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/03340470230"/>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03340470230</covapit:VATnumber>
     <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
-    <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/alessandro-alessandro"/>
+    <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/alessandro-tacconi"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/93029240236">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
@@ -1155,12 +1155,12 @@
     <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
     <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:corpobandisticodisona@pec.it</smapit:emailAddress>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/alessandro-alessandro">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/alessandro-tacconi">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alessandro Alessandro</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alessandro Tacconi</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
     <cpvapit:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alessandro</cpvapit:givenName>
-    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alessandro</cpvapit:familyName>
+    <cpvapit:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tacconi</cpvapit:familyName>
     <roapit:holdsRoleInTime rdf:resource="https://w3id.org/sona/data/association/president/03340470230"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/unitalsi-sottosezione-di-verona---gruppo-san-giorgio-in-salici">
@@ -2570,7 +2570,7 @@
     <dc:title xml:lang="en">President of Ausonia Sona United</dc:title>
     <dc:title xml:lang="it">Presidente di Ausonia Sona United</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
-    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/association/person/alessandro-alessandro"/>
+    <roapit:isRoleInTimeOf rdf:resource="https://w3id.org/sona/data/association/person/alessandro-tacconi"/>
     <roapit:withRole rdf:resource="https://w3id.org/sona/data/role/president"/>
     <covapit:employmentFor rdf:resource="https://w3id.org/sona/data/association/03340470230"/>
   </rdf:Description>
