@@ -51,13 +51,15 @@ associationsDF = getOpenData(config.get("ASSOCIATIONS", "associations"), dtype={
 # %%
 # Insert data
 
+insertedAssociations = Graph()
+insertedAssociations.parse("./associations.rdf");
+
 for _, associationInfo in associationsDF.iterrows():
     denominazione = associationInfo["DENOMINAZIONE"]
 
     removeFromRegisterDate = associationInfo["RIMOZIONE_ALBO"]
 
     address = associationInfo["SEDE"]
-    progrNazionale, progrCivico = queryStreetCode(address) if address != "" else (None, None)
 
     associationCategoryCode = associationInfo["COD_TIPOLOGIA"]
 
@@ -107,16 +109,32 @@ for _, associationInfo in associationsDF.iterrows():
       association.VATnumber = Literal(vatCode, datatype=XSD.string)
 
     # ADDRESS
+
+    alreadyInsertAddress = insertedAssociations.value(
+        association.uriRef, CLV["hasPrimaryAddress"])
     
-    if progrNazionale:
-      progrCivico = progrCivico if progrCivico else "snc"
-
+    if alreadyInsertAddress:
+      addressID = str(insertedAssociations.value(association,
+          CLV["hasPrimaryAddress"])).removeprefix(str(ANNCSU))
       address = Address(
-          id="ad-{}-{}".format(progrNazionale, progrCivico),
-          baseUri=ANNCSU
+        id=addressID,
+        baseUri=ANNCSU
       )
-
+      address.uriRef = alreadyInsertAddress
       association.hasPrimaryAddress = address
+    else:
+      progrNazionale, progrCivico = queryStreetCode(
+          address) if address != "" else (None, None)
+
+      if progrNazionale:
+        progrCivico = progrCivico if progrCivico else "snc"
+
+        address = Address(
+            id="ad-{}-{}".format(progrNazionale, progrCivico),
+            baseUri=ANNCSU
+        )
+
+        association.hasPrimaryAddress = address
     
     # DATE
 
