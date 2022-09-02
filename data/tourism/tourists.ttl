@@ -1,5 +1,5 @@
 @prefix clvapit: <https://w3id.org/italia/onto/CLV/> .
-@prefix country: <https://publications.europa.eu/resource/authority/country/> .
+@prefix country: <http://publications.europa.eu/resource/authority/country/> .
 @prefix cpvapit: <https://w3id.org/italia/onto/CPV/> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix italy: <https://w3id.org/italia/controlled-vocabulary/territorial-classifications/countries/italy/> .

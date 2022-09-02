@@ -4420,7 +4420,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Portogallo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/PRT"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/PRT"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2015-ROU-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -5107,7 +5107,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Corea del Sud</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/KOR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/KOR"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2012-02-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -5626,7 +5626,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Danimarca</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/DNK"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/DNK"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2019-KOR-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -5701,7 +5701,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Grecia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/GRC"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/GRC"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2019-05-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -6157,7 +6157,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Repubblica Ceca</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CZE"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CZE"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2017-ISR-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -7027,7 +7027,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da India</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/IND"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/IND"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2017-20-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -7696,7 +7696,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Cina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CHN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CHN"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2017-SWE-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -7774,7 +7774,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Lituania</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/LTU"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/LTU"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2007-13-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -7951,7 +7951,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Brasile</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BRA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BRA"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2013-BGR-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -8427,7 +8427,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Russia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/RUS"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/RUS"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2008-18-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -8851,7 +8851,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Svizzera-Liecht.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CHE"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CHE"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/ti/2014">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
@@ -10197,7 +10197,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Australia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/AUS"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/AUS"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2006-05-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -10624,7 +10624,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Austria</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/AUT"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/AUT"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2014-BGR-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -11096,7 +11096,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Israele</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ISR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ISR"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2014-SWE-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -11156,7 +11156,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Svezia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/SWE"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/SWE"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2017-MEX-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -12343,7 +12343,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Venezuela</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/VEN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/VEN"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2019-ZAF-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -13246,7 +13246,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Finlandia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/FIN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/FIN"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2011-01-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -13468,7 +13468,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Giappone</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/JPN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/JPN"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2013-PRT-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -13582,7 +13582,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Canada</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CAN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CAN"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2019-FRA-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -14149,7 +14149,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Argentina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ARG"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ARG"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2018-SVN-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -14580,7 +14580,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Ucraina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/UKR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/UKR"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2006-GRC-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -14766,7 +14766,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Messico</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/MEX"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/MEX"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2007-SVN-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -14835,7 +14835,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Bulgaria</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BGR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BGR"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2011-LUX-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -14931,7 +14931,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Romania</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ROU"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ROU"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2007-BRA-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -15252,7 +15252,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Nuova Zelanda</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/NZL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/NZL"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2020-totale">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -15371,7 +15371,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Slovenia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/SVN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/SVN"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2013-AUT-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -16773,7 +16773,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Sud Africa</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ZAF"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ZAF"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2018-NOR-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -17334,7 +17334,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Paesi bassi</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/NDL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/NDL"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2008-LTU-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -17697,7 +17697,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Cipro</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CYP"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CYP"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2017-10-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -17793,7 +17793,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Islanda</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ISL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ISL"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2018-02-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -17988,7 +17988,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Lettonia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/LVA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/LVA"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2009-NZL-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -18228,7 +18228,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Croazia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/HRV"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/HRV"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2005-06-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -18804,7 +18804,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Turchia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/TUR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/TUR"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/address/03">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CLV/Address"/>
@@ -18817,7 +18817,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da U.S.A.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/USA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/USA"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2012-NZL-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -19046,7 +19046,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Lussemburgo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/LUX"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/LUX"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2018-19-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -19436,7 +19436,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Estonia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/EST"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/EST"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2006-MLT-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -19577,7 +19577,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Spagna</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ESP"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ESP"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/address/14">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CLV/Address"/>
@@ -19787,7 +19787,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Irlanda</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/IRL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/IRL"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2013-02-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -19811,7 +19811,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Ungheria</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/HUN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/HUN"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2018-IND-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -20414,7 +20414,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Germania</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/DEU"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/DEU"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2019-KOR-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -20789,7 +20789,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Regno Unito</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/GBR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/GBR"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2012-JPN-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -20822,7 +20822,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Belgio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BEL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BEL"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2006-SVK-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -20846,7 +20846,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Norvegia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/NOR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/NOR"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2018-11-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -21131,7 +21131,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Polonia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/POL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/POL"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2020-DEU-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -21155,7 +21155,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Egitto</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/EGY"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/EGY"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2016-SVN-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -21374,7 +21374,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Francia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/FRA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/FRA"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2008-IRL-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -22912,7 +22912,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Malta</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/MLT"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/MLT"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2005-CHE-arrivi">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>
@@ -22990,7 +22990,7 @@
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persona da Slovacchia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/SVK"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/SVK"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/2009-CHE-presenze">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Tourists"/>

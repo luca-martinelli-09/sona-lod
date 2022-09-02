@@ -1325,7 +1325,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/UKR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/UKR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2012-f-dnk">
@@ -1525,7 +1525,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/GEO"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/GEO"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2015-f-aut">
@@ -1689,7 +1689,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BGD"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BGD"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/male-rou">
@@ -1697,7 +1697,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ROU"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ROU"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/population/2016-sona-stranieri">
@@ -1722,7 +1722,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/POL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/POL"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/female-egy">
@@ -1730,7 +1730,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/EGY"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/EGY"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2021-m-mli">
@@ -2043,7 +2043,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/UKR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/UKR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/female-dma">
@@ -2051,7 +2051,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/DMA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/DMA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/names/name-matilde-f">
@@ -2125,7 +2125,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/MEX"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/MEX"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2020-m-pry">
@@ -2332,7 +2332,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BRA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BRA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2020-f-ecu">
@@ -2529,7 +2529,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BGD"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BGD"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2020-f-ind">
@@ -2683,7 +2683,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/TUN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/TUN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2021-m-d-1">
@@ -2801,7 +2801,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/SWE"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/SWE"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2013-m-sen">
@@ -2835,7 +2835,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/GIN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/GIN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2021-f-grc">
@@ -2983,7 +2983,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/LBY"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/LBY"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2020-m-nga">
@@ -3126,7 +3126,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BEL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BEL"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2013-m-gha">
@@ -3142,7 +3142,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/COL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/COL"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2019-totale-e-2">
@@ -3328,7 +3328,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CHN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CHN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2019-f-nga">
@@ -3538,7 +3538,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/SRB"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/SRB"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2014-f-pak">
@@ -3644,7 +3644,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ETH"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ETH"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2020-m-d-3">
@@ -3670,7 +3670,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/FRA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/FRA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2020-f-bgd">
@@ -3751,7 +3751,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/DZA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/DZA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/population/2020-lugagnano-m">
@@ -3776,7 +3776,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BEL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BEL"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/population/ti/2020">
@@ -3798,7 +3798,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/RUS"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/RUS"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2021-m-egy">
@@ -4209,7 +4209,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/LVA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/LVA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2016-totale-c-2">
@@ -4412,7 +4412,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ALB"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ALB"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2017-totale-c-1">
@@ -4528,7 +4528,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CIV"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CIV"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2014-f-ven">
@@ -4737,7 +4737,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/KOR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/KOR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2015-m-mar">
@@ -4839,7 +4839,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/MNE"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/MNE"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2013-m-a-2">
@@ -4856,7 +4856,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/DZA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/DZA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2018-f-a-5">
@@ -4987,7 +4987,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/GHA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/GHA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2019-f-bgd">
@@ -5108,7 +5108,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/EGY"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/EGY"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2013-m-cmr">
@@ -5149,7 +5149,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/KOR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/KOR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2017-totale-e-2">
@@ -5339,7 +5339,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/NGA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/NGA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/population/2016-lugagnano-famiglie">
@@ -5475,7 +5475,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/VEN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/VEN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/">
@@ -5510,7 +5510,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CUB"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CUB"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2012-m-alb">
@@ -5752,7 +5752,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CIV"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CIV"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2012-f-d-1">
@@ -5785,7 +5785,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BOL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BOL"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2018-f-a-1">
@@ -5913,7 +5913,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/LKA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/LKA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/surnames/surname-perina-f">
@@ -6021,7 +6021,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/AUT"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/AUT"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/female-phl">
@@ -6029,7 +6029,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/PHL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/PHL"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/names/name-marco-m">
@@ -6054,7 +6054,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CHE"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CHE"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/surnames/surname-ambrosi-f">
@@ -6092,7 +6092,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BGR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BGR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2018-totale-b-2">
@@ -6130,7 +6130,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BLR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BLR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2021-f-ind">
@@ -6162,7 +6162,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CMR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CMR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2020-m-gbr">
@@ -6285,7 +6285,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/DEU"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/DEU"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2013-m-c-2">
@@ -6326,7 +6326,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/NGA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/NGA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2021-totale-g-2">
@@ -6533,7 +6533,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/AUT"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/AUT"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/surnames/surname-bianchi-m">
@@ -6757,7 +6757,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/URY"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/URY"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2013-f-ven">
@@ -6922,7 +6922,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CZE"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CZE"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/population/reference/family">
@@ -6991,7 +6991,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/HTI"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/HTI"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2016-totale-f-2">
@@ -7097,7 +7097,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/IRN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/IRN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/population/2017-palazzolo-f">
@@ -7354,7 +7354,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BIH"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BIH"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/names/name-elisabetta-f">
@@ -7474,7 +7474,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/GRC"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/GRC"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2012-m-ind">
@@ -7645,7 +7645,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/IND"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/IND"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2019-m-bgd">
@@ -7808,7 +7808,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/YUG"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/YUG"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2021-totale-b-2">
@@ -7840,7 +7840,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/NLD"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/NLD"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2021-m-c-2">
@@ -7911,7 +7911,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/FIN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/FIN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/population/2015-lugagnano-famiglie">
@@ -8028,7 +8028,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/KAZ"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/KAZ"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2021-f-srb">
@@ -8070,7 +8070,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/COL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/COL"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/surnames/surname-bertoncelli-m">
@@ -8093,7 +8093,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BLR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BLR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2019-m-bol">
@@ -8152,7 +8152,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BFA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BFA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2020-f-nga">
@@ -8176,7 +8176,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/DMA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/DMA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2013-m-1a0">
@@ -8192,7 +8192,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/URY"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/URY"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2013-f-mda">
@@ -8225,7 +8225,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CHN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CHN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/surnames/surname-giacomelli-m">
@@ -8331,7 +8331,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/POL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/POL"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2020-m-a-4">
@@ -8380,7 +8380,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/IND"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/IND"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/male-mex">
@@ -8388,7 +8388,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/MEX"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/MEX"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2021-f-nga">
@@ -8421,7 +8421,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/SEN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/SEN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2019-f-col">
@@ -8622,7 +8622,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ECU"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ECU"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2013-m-swe">
@@ -8799,7 +8799,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/GMB"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/GMB"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/population/2019-lugagnano-stranieri">
@@ -8956,7 +8956,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/DNK"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/DNK"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/surnames/surname-speri-m">
@@ -9012,7 +9012,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/PAK"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/PAK"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2020-f-lva">
@@ -9336,7 +9336,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/USA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/USA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/population/2012-sona-famiglie">
@@ -9380,7 +9380,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/PHL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/PHL"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2020-f-alb">
@@ -9405,7 +9405,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/TUR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/TUR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2015-f-col">
@@ -9549,7 +9549,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/MDA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/MDA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/female-1a0">
@@ -9557,7 +9557,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/1A0"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/1A0"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/surnames/reference/surname-giacomelli-m">
@@ -9605,7 +9605,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/FIN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/FIN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2018-m-d-3">
@@ -10355,7 +10355,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BRA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BRA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2020-f-blr">
@@ -10396,7 +10396,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ESP"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ESP"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/female-che">
@@ -10404,7 +10404,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CHE"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CHE"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2012-m-prt">
@@ -10621,7 +10621,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/HRV"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/HRV"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/names/name-roberto-m">
@@ -10637,7 +10637,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/PER"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/PER"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2019-f-tha">
@@ -10759,7 +10759,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/THA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/THA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2012-totale-c-2">
@@ -10879,7 +10879,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/GEO"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/GEO"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2019-f-pol">
@@ -11064,7 +11064,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/VEN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/VEN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/surnames/surname-zardini-m">
@@ -11136,7 +11136,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/DNK"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/DNK"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/names/name-gabriele-m">
@@ -11230,7 +11230,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/SRB"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/SRB"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/names/name-antonella-f">
@@ -11368,7 +11368,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/HUN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/HUN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/names/name-luciana-f">
@@ -11504,7 +11504,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/MAR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/MAR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2021-f-pak">
@@ -11634,7 +11634,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ETH"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ETH"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/female-bih">
@@ -11642,7 +11642,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BIH"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BIH"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2015-m-sen">
@@ -11908,7 +11908,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ESP"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ESP"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2019-m-nld">
@@ -12109,7 +12109,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ISL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ISL"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2015-m-nga">
@@ -12378,7 +12378,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BOL"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BOL"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/names/name-sara-f">
@@ -12745,7 +12745,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/GIN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/GIN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/female-cze">
@@ -12753,7 +12753,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CZE"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CZE"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2020-m-civ">
@@ -12872,7 +12872,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/PRT"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/PRT"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2020-m-mkd">
@@ -12888,7 +12888,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/PRT"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/PRT"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2014-f-chn">
@@ -13014,7 +13014,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/PRY"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/PRY"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2013-f-usa">
@@ -13056,7 +13056,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/MAR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/MAR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2013-f-egy">
@@ -13300,7 +13300,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ROU"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ROU"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2021-m-tcd">
@@ -13349,7 +13349,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/AZE"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/AZE"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2017-f-a-6">
@@ -13438,7 +13438,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/SYR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/SYR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2013-f-a-4">
@@ -13495,7 +13495,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/TCD"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/TCD"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2013-f-bra">
@@ -13583,7 +13583,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/FRA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/FRA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2014-m-a-3">
@@ -13624,7 +13624,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ARG"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ARG"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2015-m-gha">
@@ -13831,7 +13831,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/LBY"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/LBY"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2021-f-sen">
@@ -13994,7 +13994,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/BGR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/BGR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/names/reference/name-stefania-f">
@@ -14017,7 +14017,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ALB"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ALB"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/male-grc">
@@ -14025,7 +14025,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/GRC"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/GRC"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2019-f-lbn">
@@ -14226,7 +14226,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/SWE"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/SWE"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2021-m-col">
@@ -14307,7 +14307,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/MKD"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/MKD"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2012-m-mda">
@@ -14370,7 +14370,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/USA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/USA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/female-pry">
@@ -14378,7 +14378,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/PRY"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/PRY"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/female-tun">
@@ -14386,7 +14386,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/TUN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/TUN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2019-m-col">
@@ -14554,7 +14554,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/PAK"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/PAK"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/surnames/reference/surname-brunelli-m">
@@ -14585,7 +14585,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/GBR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/GBR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2012-f-tun">
@@ -14690,7 +14690,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/LBN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/LBN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/names/reference/name-giulia-f">
@@ -14763,7 +14763,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/1A0"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/1A0"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2016-totale-d-1">
@@ -14786,7 +14786,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/PER"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/PER"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2020-f-pry">
@@ -14841,7 +14841,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/HRV"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/HRV"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/names/name-gianluca-m">
@@ -14888,7 +14888,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/MDA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/MDA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2013-f-mkd">
@@ -15094,7 +15094,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/GBR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/GBR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/male-kaz">
@@ -15102,7 +15102,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/KAZ"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/KAZ"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2021-totale-f-2">
@@ -15118,7 +15118,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/SEN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/SEN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/female-irn">
@@ -15126,7 +15126,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/IRN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/IRN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/names/reference/name-roberta-f">
@@ -15323,7 +15323,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/HUN"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/HUN"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2012-m-svk">
@@ -15389,7 +15389,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/MLI"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/MLI"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/female-ecu">
@@ -15397,7 +15397,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ECU"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ECU"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/reference/male-deu">
@@ -15405,7 +15405,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/DEU"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/DEU"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/names/reference/name-angelo-m">
@@ -15509,7 +15509,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/HTI"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/HTI"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2013-f-col">
@@ -15564,7 +15564,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/NLD"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/NLD"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2019-m-tha">
@@ -15714,7 +15714,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/YUG"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/YUG"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2013-m-d-1">
@@ -15779,7 +15779,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CMR"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CMR"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/names/name-francesco-m">
@@ -15956,7 +15956,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/MKD"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/MKD"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2016-f-c-2">
@@ -16064,7 +16064,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/GHA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/GHA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2014-totale-b-2">
@@ -16112,7 +16112,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/LKA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/LKA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2018-f-c-3">
@@ -16195,7 +16195,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/SVK"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/SVK"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2015-m-egy">
@@ -16274,7 +16274,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/ARG"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/ARG"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/ivil-status/2020-f-d-2">
@@ -16490,7 +16490,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/CUB"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/CUB"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2015-f-usa">
@@ -16588,7 +16588,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/SVK"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/SVK"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2021-f-eth">
@@ -16749,7 +16749,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/TCD"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/TCD"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/ti/2015">
@@ -16857,7 +16857,7 @@
     <dc:title xml:lang="en">Female</dc:title>
     <dc:title xml:lang="it">Femmina</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/RUS"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/RUS"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/F"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2019-f-rou">
@@ -16944,7 +16944,7 @@
     <dc:title xml:lang="en">Male</dc:title>
     <dc:title xml:lang="it">Maschio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/demography/foreign-citizens/"/>
-    <cpvapit:hasCitizenship rdf:resource="https://publications.europa.eu/resource/authority/country/THA"/>
+    <cpvapit:hasCitizenship rdf:resource="http://publications.europa.eu/resource/authority/country/THA"/>
     <cpvapit:hasSex rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex/M"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/demography/foreign-citizens/2019-f-hrv">

@@ -1,6 +1,6 @@
 @prefix civilstatuscategories: <https://w3od.org/ontoim/controlled-vocabulary/civil-status-categories/> .
 @prefix clvapit: <https://w3id.org/italia/onto/CLV/> .
-@prefix country: <https://publications.europa.eu/resource/authority/country/> .
+@prefix country: <http://publications.europa.eu/resource/authority/country/> .
 @prefix cpvapit: <https://w3id.org/italia/onto/CPV/> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix demography: <https://w3id.org/sona/data/demography/> .
