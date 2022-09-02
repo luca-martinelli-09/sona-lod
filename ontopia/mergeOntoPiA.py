@@ -30,10 +30,10 @@ for dir, pdir, files in os.walk("./ontopia-repo/Ontologie"):
 for dir, pdir, files in os.walk("./ontopia-repo/VocabolariControllati"):
     for file in files:
         filepath = os.path.join(dir, file)
-        if file.endswith(".rdf"):
+        if file.endswith(".rdf") or file.endswith(".ttl"):
             g.parse(filepath)
 # %%
-
+# Save
 g.serialize("ontopia.ttl", "turtle")
 g.serialize("ontopia.rdf", "pretty-xml")
 # %%
