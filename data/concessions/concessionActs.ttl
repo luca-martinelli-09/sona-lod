@@ -1,6 +1,6 @@
 @prefix association: <https://w3id.org/sona/data/association/> .
 @prefix concession: <https://w3id.org/sona/data/concession/> .
-@prefix concessionacttypes: <https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/> .
+@prefix concessionacttypes: <https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix heritage: <https://w3id.org/sona/data/heritage/> .
 @prefix municipality: <https://w3id.org/sona/data/municipality/> .

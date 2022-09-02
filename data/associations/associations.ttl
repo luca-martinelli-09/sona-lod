@@ -1,6 +1,6 @@
 @prefix anncsu: <https://w3id.org/sona/data/ANNCSU/> .
 @prefix association: <https://w3id.org/sona/data/association/> .
-@prefix associationcategories: <https://w3od.org/ontoim/controlled-vocabulary/association-categories/> .
+@prefix associationcategories: <https://w3id.org/ontoim/controlled-vocabulary/association-categories/> .
 @prefix channel: <https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/> .
 @prefix clvapit: <https://w3id.org/italia/onto/CLV/> .
 @prefix covapit: <https://w3id.org/italia/onto/COV/> .

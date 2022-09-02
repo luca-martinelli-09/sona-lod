@@ -11,7 +11,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Impegno Di Spesa E Liquidazione Contributo Integrativo Alla Convenzione Per Il Trasporto Sociale Con  Il</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93087790239"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/3"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/3"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/RB37D6"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Impegno Di Spesa E Liquidazione Contributo Integrativo Alla Convenzione Per Il Trasporto Sociale Con  Il</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-28</ontoim:actDate>
@@ -23,7 +23,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93024460235"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-28</ontoim:actDate>
@@ -35,7 +35,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concessione In Uso Degli Impianti Sportivi Di Via Barlottini E Via Stadio All'U.C.D Lugagnano. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/04648910232"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concessione In Uso Degli Impianti Sportivi Di Via Barlottini E Via Stadio All'U.C.D Lugagnano. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-09</ontoim:actDate>
@@ -47,7 +47,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93074770236"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-28</ontoim:actDate>
@@ -59,7 +59,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93195450239"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-24</ontoim:actDate>
@@ -71,7 +71,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/02211940230"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-28</ontoim:actDate>
@@ -83,7 +83,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/02112970237"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-28</ontoim:actDate>
@@ -95,7 +95,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concessione In Uso Degli Impianti Sportivi In Via San Quirico A Sona All'Associazione West Verona Rugby Union Asd. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Anno 2021.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/03432580235"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concessione In Uso Degli Impianti Sportivi In Via San Quirico A Sona All'Associazione West Verona Rugby Union Asd. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Anno 2021.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-09</ontoim:actDate>
@@ -107,7 +107,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Finalita' Culturali, Ricreative, Di Promozione Sociale  E Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni.  Assunzione Di Spesa.-</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93056000230"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/QC00CE"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Finalita' Culturali, Ricreative, Di Promozione Sociale  E Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni.  Assunzione Di Spesa.-</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-29</ontoim:actDate>
@@ -119,7 +119,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93243320236"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/QC00CE"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-30</ontoim:actDate>
@@ -131,7 +131,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93264960233"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/QC00CE"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-30</ontoim:actDate>
@@ -143,7 +143,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/04648910232"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-24</ontoim:actDate>
@@ -155,7 +155,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93024460235"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-24</ontoim:actDate>
@@ -207,7 +207,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93100800239"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/QC00CE"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-30</ontoim:actDate>
@@ -219,7 +219,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concessione In Uso Degli Impianti Sportivi Di Via Segradi All'Associazione Polisportiva Dilettantistica San Giorgio In Salici. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/02112970237"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concessione In Uso Degli Impianti Sportivi Di Via Segradi All'Associazione Polisportiva Dilettantistica San Giorgio In Salici. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-09</ontoim:actDate>
@@ -231,7 +231,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/04269030237"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-24</ontoim:actDate>
@@ -243,7 +243,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Finalita' Culturali, Ricreative, Di Promozione Sociale  E Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni.  Assunzione Di Spesa.-</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93029240236"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/QC00CE"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Finalita' Culturali, Ricreative, Di Promozione Sociale  E Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni.  Assunzione Di Spesa.-</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-29</ontoim:actDate>
@@ -255,7 +255,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/04635630231"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/RB37D6"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-30</ontoim:actDate>
@@ -267,7 +267,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/80026720237"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/QC00CE"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-30</ontoim:actDate>
@@ -279,7 +279,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93066310231"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-28</ontoim:actDate>
@@ -291,7 +291,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93295480235"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/QC00CE"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi A Gruppi E Associazioni Per Finalita' Culturali, Ricreative E Di Promozione Sociale Anno 2021. Assunzione Di Spesa.-</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-30</ontoim:actDate>
@@ -303,7 +303,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/04648910232"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-28</ontoim:actDate>
@@ -315,7 +315,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/04499600239"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-28</ontoim:actDate>
@@ -327,7 +327,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/03432580235"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-24</ontoim:actDate>
@@ -339,7 +339,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93074770236"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-24</ontoim:actDate>
@@ -351,7 +351,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93066310231"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/5"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/5"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-24</ontoim:actDate>
@@ -363,7 +363,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/03432580235"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-28</ontoim:actDate>
@@ -375,7 +375,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/04269030237"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-28</ontoim:actDate>
@@ -387,7 +387,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concessione In Uso Del Palazzetto Dello Sport Di Via Dora Baltea - Lugagnano Al Gruppo Sportivo Lugagnano. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93024460235"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concessione In Uso Del Palazzetto Dello Sport Di Via Dora Baltea - Lugagnano Al Gruppo Sportivo Lugagnano. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-09</ontoim:actDate>
@@ -399,7 +399,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Finalita' Culturali, Ricreative, Di Promozione Sociale  E Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni.  Assunzione Di Spesa.-</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/93277540238"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/QC00CE"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Finalita' Culturali, Ricreative, Di Promozione Sociale  E Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni.  Assunzione Di Spesa.-</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-29</ontoim:actDate>
@@ -411,7 +411,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/04648910232"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contributi Per Finalita' Sportive Anno 2021 Ex Artt. 6 E 7 Del Regolamento Per La Concessione Di Contributi, Vantaggi Economici E Patrocini E Art. 5 Del Regolamento Del Forum Delle Associazioni. Impegno Di Spesa.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-28</ontoim:actDate>
@@ -423,7 +423,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concessione In Uso Degli Impianti Sportivi Di Via C. Angiolieri Alla Polisportiva Palazzolo. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per Lanno 2021.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/02211940230"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concessione In Uso Degli Impianti Sportivi Di Via C. Angiolieri Alla Polisportiva Palazzolo. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per Lanno 2021.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-09</ontoim:actDate>
@@ -435,7 +435,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/04205530233"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assegnazione Contributi Per Attività Stagione 2020/21 O Anno 2021 Ad Associazioni Sportive. Assunzione Impegno Di Spesa E Liquidazione.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-24</ontoim:actDate>
@@ -453,7 +453,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concessione In Uso Degli Impianti Sportivi Di Via Casella All'A.S.D. Sona Calcio. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021.</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/concession/"/>
     <ontoim:hasBeneficiary rdf:resource="https://w3id.org/sona/data/association/04499600239"/>
-    <ontoim:hasConcessionActType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
+    <ontoim:hasConcessionActType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/7"/>
     <ontoim:hasOrganization rdf:resource="https://w3id.org/sona/data/municipality/9OPD0G"/>
     <ontoim:actTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concessione In Uso Degli Impianti Sportivi Di Via Casella All'A.S.D. Sona Calcio. Contributi Per Attivita' Svolta. Impegno Di Spesa E Accertamento Di Entrata Per L'Anno 2021.</ontoim:actTitle>
     <ontoim:actDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-09</ontoim:actDate>

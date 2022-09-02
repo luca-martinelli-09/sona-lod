@@ -14,7 +14,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2020"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/plastic-2010">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -36,7 +36,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/street-2018"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/street"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/street"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/selective-2019">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -44,7 +44,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2019"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/paper-2014">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -52,7 +52,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2014"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2020">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -86,7 +86,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2010"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2019">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -94,7 +94,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2019"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/selective-2015">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -102,7 +102,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2015"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2019">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -131,7 +131,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2014"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/other"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/ti/2015">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
@@ -303,7 +303,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2011"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/street-2020">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -311,7 +311,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/street-2020"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/street"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/street"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2015">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -326,7 +326,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2017"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2020">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -348,7 +348,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2020"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/other-2013">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -363,7 +363,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2017"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/other"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/weee-2019">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -385,7 +385,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/candd-2016"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/candd"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/candd"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/textiles-2015">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -393,7 +393,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2015"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2016">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -408,7 +408,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2015"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/textiles-2014">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -437,7 +437,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2015"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/weee-2020">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -445,7 +445,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2020"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2011">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -453,7 +453,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2011"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/other"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2018">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -468,7 +468,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2013"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2013">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -483,7 +483,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2020"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/other-2010">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -505,7 +505,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/street-2016"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/street"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/street"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/textiles-2014">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -513,7 +513,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2014"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/plastic-2014">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -528,7 +528,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2016"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2011">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -536,7 +536,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2011"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2012">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -544,7 +544,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2012"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/other"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/bulky-2012">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -552,7 +552,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2012"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2012">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -560,7 +560,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2012"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/paper-2017">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -589,7 +589,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2018"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/plastic-2020">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -618,7 +618,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2013"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2014">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -633,7 +633,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2019"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/candd-2016">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -648,7 +648,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2017"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2016">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -663,7 +663,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2016"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/selective-2017">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -678,7 +678,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2018"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2017">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -693,7 +693,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2015"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/other"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/ti/2020">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
@@ -714,7 +714,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2016"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2015">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -722,7 +722,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2015"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2014">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -730,7 +730,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2014"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2014">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -738,7 +738,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2014"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/organic-2012">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -746,7 +746,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2012"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2019">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -754,7 +754,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2019"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/selective-2019">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -769,7 +769,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2019"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/organic-2018">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -777,7 +777,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2018"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/selective-2015">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -812,7 +812,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2018"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/candd-2017">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -820,7 +820,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/candd-2017"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/candd"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/candd"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2018">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -828,7 +828,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2018"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/weee-2011">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -836,7 +836,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2011"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/bulky-2011">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -844,7 +844,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2011"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/paper-2010">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -852,7 +852,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2010"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/textiles-2015">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -881,7 +881,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2016"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2014">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -896,7 +896,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2014"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/candd-2019">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -925,7 +925,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2019"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/ti/2013">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
@@ -953,7 +953,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2016"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2013">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -982,7 +982,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2017"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2016">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -990,7 +990,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2016"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2016">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -998,7 +998,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2016"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2010">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1006,7 +1006,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2010"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/paper-2012">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1014,7 +1014,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2012"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/weee-2015">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1022,7 +1022,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2015"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/organic-2013">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1030,7 +1030,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2013"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2016">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1052,7 +1052,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2019"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/textiles-2017">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1060,7 +1060,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2017"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2016">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1068,7 +1068,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2016"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/other"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2016">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1083,7 +1083,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2018"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/other"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2013">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1098,7 +1098,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2015"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2011">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1106,7 +1106,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2011"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/plastic-2018">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1128,7 +1128,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2011"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2010">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1143,7 +1143,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2013"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/paper-2014">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1165,7 +1165,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2014"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2010">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1173,7 +1173,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2010"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/weee-2013">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1188,7 +1188,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2019"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2011">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1203,7 +1203,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2018"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/candd-2020">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1218,7 +1218,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2014"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/textiles-2017">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1253,7 +1253,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2012"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2018">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1261,7 +1261,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2018"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2012">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1269,7 +1269,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2012"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/organic-2010">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1277,7 +1277,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2010"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2018">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1299,7 +1299,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2013"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2017">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1314,7 +1314,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2011"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/metal-2010">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1343,7 +1343,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2015"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/other-2014">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1365,7 +1365,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2012"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/street-2019">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1387,7 +1387,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2015"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/weee-2010">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1395,7 +1395,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2010"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/bulky-2018">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1403,7 +1403,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2018"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/textiles-2020">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1411,7 +1411,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2020"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/candd-2018">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1426,7 +1426,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2016"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/paper-2013">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1448,7 +1448,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2010"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2012">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1470,7 +1470,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2017"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2017">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1478,7 +1478,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2017"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2010">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1486,7 +1486,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2010"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/other"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2011">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1501,7 +1501,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2011"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2017">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1509,7 +1509,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2017"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2010">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1517,7 +1517,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2010"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2012">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1532,7 +1532,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2013"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/other"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2015">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1547,7 +1547,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/street-2019"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/street"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/street"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/candd-2020">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1555,7 +1555,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/candd-2020"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/candd"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/candd"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2013">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1563,7 +1563,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2013"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2018">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1604,7 +1604,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2011"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2011"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/plastic-2020">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1612,7 +1612,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/plastic-2020"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/plastic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2014">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1633,7 +1633,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2013"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/textiles-2019">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1655,7 +1655,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/candd-2019"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/candd"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/candd"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/street-2017">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1677,7 +1677,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2019"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/weee-2011">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1713,7 +1713,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2020"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2014">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1728,7 +1728,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/weee-2012"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/weee"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2015">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1736,7 +1736,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2015"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2015"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/bulky-2010">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1744,7 +1744,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/bulky-2010"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2010"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/bulky"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2019">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1766,7 +1766,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2013"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/candd-2018">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1774,7 +1774,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/candd-2018"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/candd"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/candd"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/other-2019">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1782,7 +1782,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2019"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/other"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2014">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1790,7 +1790,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2014"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/street-2017">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1798,7 +1798,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/street-2017"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/street"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/street"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/bulky-2013">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1813,7 +1813,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2017"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2013">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1821,7 +1821,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2013"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/wood-2017">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1829,7 +1829,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2017"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/glass-2018">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1837,7 +1837,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/glass-2018"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/glass"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/wood-2010">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1852,7 +1852,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/wood-2020"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/wood"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/selective-2010">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1902,7 +1902,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2016"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/metal-2014">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1910,7 +1910,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2014"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2014"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/other-2016">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1925,7 +1925,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2020"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/ti/2011">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/TI/Year"/>
@@ -1939,7 +1939,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2017"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2017"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/selective-2018">
     <rdf:type rdf:resource="https://w3id.org/ontoim/WasteProduction"/>
@@ -1947,7 +1947,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/selective-2018"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2018"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/selective"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2017">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1962,7 +1962,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2016"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2016"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2012">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -1977,7 +1977,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/textiles-2019"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2019"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/textiles"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2017">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -2027,7 +2027,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/other-2020"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/other"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/other"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/weee-2012">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -2063,7 +2063,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/metal-2012"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2012"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/metal"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/selective-2012">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -2078,7 +2078,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/organic-2020"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2020"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/organic"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/glass-2010">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>
@@ -2113,7 +2113,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/waste/"/>
     <muapit:hasValue rdf:resource="https://w3id.org/sona/data/waste/value/paper-2013"/>
     <tiapit:hasTemporalEntity rdf:resource="https://w3id.org/sona/data/waste/ti/2013"/>
-    <ontoim:hasWasteCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
+    <ontoim:hasWasteCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/waste-categories/paper"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/waste/value/organic-2015">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/MU/Value"/>

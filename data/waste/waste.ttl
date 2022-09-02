@@ -4,7 +4,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tiapit: <https://w3id.org/italia/onto/TI/> .
-@prefix wastecategories: <https://w3od.org/ontoim/controlled-vocabulary/waste-categories/> .
+@prefix wastecategories: <https://w3id.org/ontoim/controlled-vocabulary/waste-categories/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <https://w3id.org/sona/data/waste/bulky-2010> a ontoim:WasteProduction ;

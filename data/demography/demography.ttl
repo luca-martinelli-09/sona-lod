@@ -1,4 +1,4 @@
-@prefix civilstatuscategories: <https://w3od.org/ontoim/controlled-vocabulary/civil-status-categories/> .
+@prefix civilstatuscategories: <https://w3id.org/ontoim/controlled-vocabulary/civil-status-categories/> .
 @prefix clvapit: <https://w3id.org/italia/onto/CLV/> .
 @prefix country: <http://publications.europa.eu/resource/authority/country/> .
 @prefix cpvapit: <https://w3id.org/italia/onto/CPV/> .

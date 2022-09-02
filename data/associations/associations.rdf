@@ -36,7 +36,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298479-7914067"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93265060231"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93265060231</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/massimo-barrichello"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/coro-a-n-a---amici-della-baita-">
@@ -86,7 +86,7 @@
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/03416500233"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03416500233</covapit:taxCode>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03416500233</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/gaetano-belle"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/03340470230">
@@ -122,7 +122,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298460-7938579"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93106070233"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93106070233</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/enrico-olioso"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/tasting-lover">
@@ -133,7 +133,7 @@
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tasting Lover</covapit:legalName>
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298221-7940871"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/tasting-lover"/>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/davide-zilio"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/il-cerchio-atelier-d-espressione">
@@ -144,7 +144,7 @@
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Il Cerchio Atelier d'Espressione</covapit:legalName>
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298254-7923695"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/il-cerchio-atelier-d-espressione"/>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/barbara-arduini"/>
     <ontoim:associationRemovalFromRegisterDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-18</ontoim:associationRemovalFromRegisterDate>
   </rdf:Description>
@@ -173,7 +173,7 @@
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93100800239"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93100800239</covapit:taxCode>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03958000238</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/8"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/8"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/sergio-todeschini"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/93087790239">
@@ -185,7 +185,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298297-7926155"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93087790239"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93087790239</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/giordano-cordioli"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/93234460231">
@@ -206,7 +206,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298394-7913907"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/80112970159"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80112970159</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/8"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/8"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/francesco-gasparato"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/93080510238">
@@ -224,7 +224,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amatori Calcio Sona</covapit:legalName>
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298205-7933509"/>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/93282780233">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Association"/>
@@ -235,7 +235,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298244-7945652"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93282780233"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93282780233</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/leonardo-miglioranzi"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/93275410236">
@@ -263,7 +263,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Centro Danza Equilibrium</covapit:legalName>
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298199-7930976"/>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/roberto-pimazzoni">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
@@ -304,7 +304,7 @@
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Team Bike Adfruit</covapit:legalName>
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298213-7931039"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/team-bike-adfruit"/>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/andrea-placchi"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/phone/3343595301">
@@ -416,7 +416,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298571-31495214"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93214620234"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93214620234</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/8"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/8"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/fausto-mazzi"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/phone/3495445587">
@@ -464,7 +464,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298274-7940847"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/03340470230"/>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03340470230</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/alessandro-tacconi"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/phone/045984396">
@@ -497,7 +497,7 @@
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coro A.N.A. "Amici della Baita"</covapit:legalName>
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298571-31495214"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/coro-a-n-a---amici-della-baita-"/>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/massimo-adamoli"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/93295480235">
@@ -568,7 +568,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298571-31495214"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93229170233"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93229170233</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/giovanni-larno"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/loverspalazzolo-libero-it">
@@ -595,7 +595,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298257-32144975"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/04499600239"/>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04499600239</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/paolo-pradella"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/93194640236">
@@ -607,7 +607,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298305-7916407"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93194640236"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93194640236</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/mattia-zandona"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/93277540238">
@@ -619,7 +619,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298200-7933533"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93277540238"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93277540238</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/bruno-stevanoni"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/sc-barlottini-yahoo-it">
@@ -638,7 +638,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298366-snc"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/04648910232"/>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04648910232</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/giovanni-forlin"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/gs-lugagnano-email-it">
@@ -683,7 +683,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298460-7938534"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93080510238"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93080510238</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/corrado-andreoli"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/claudio-bassan">
@@ -710,7 +710,7 @@
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comitato Genitori Istituto Comprensivo di Sona</covapit:legalName>
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298354-7911630"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/comitato-genitori-istituto-comprensivo-di-sona"/>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/elena-tumicelli"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/facebook/alpinisangiorgio">
@@ -738,7 +738,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298274-7940847"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93174930235"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93174930235</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/stefano-ambrosi"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/website/www-ants-onlus-it">
@@ -801,7 +801,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298571-31495214"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93059380233"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93059380233</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/bruno-cristini"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/negozi-associati-lugagnano">
@@ -812,7 +812,7 @@
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Negozi Associati Lugagnano</covapit:legalName>
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298521-7936137"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/negozi-associati-lugagnano"/>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/gianfranco-tietto"/>
     <ontoim:associationRemovalFromRegisterDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-18</ontoim:associationRemovalFromRegisterDate>
   </rdf:Description>
@@ -856,7 +856,7 @@
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gruppo Marciatori C.V.A. Rossetto</covapit:legalName>
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298571-31495211"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93234460231</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/adriano-dal-barco"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/english-by-doing">
@@ -867,7 +867,7 @@
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English by Doing</covapit:legalName>
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298240-7936030"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/english-by-doing"/>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/laura-zambaldi-melloni"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/youtube/uc4tsdlekkaelslsntb5ndcg">
@@ -901,7 +901,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sona in Quattro Passi</covapit:legalName>
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298343-7909132"/>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/93045700239">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
@@ -967,7 +967,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298275-7938400"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93251830233"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93251830233</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/beatrice-zoccatelli"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/pec/corpobandisticodisona-pec-it">
@@ -994,7 +994,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298298-7926438"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/80195150588"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80195150588</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/8"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/8"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/longo-letterio"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/pec/sos-sona-pec-it">
@@ -1046,7 +1046,7 @@
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93162150234"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93162150234</covapit:taxCode>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3610450235</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/luca-foroni"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/02211940230">
@@ -1059,7 +1059,7 @@
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/02211940230"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02211940230</covapit:taxCode>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02211940230</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/nicola-manara"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/04635630231">
@@ -1072,7 +1072,7 @@
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/04635630231"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04635630231</covapit:taxCode>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04635630231</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/3"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/3"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/ernestina-fiumini"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/93243320236">
@@ -1099,7 +1099,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298300-7926401"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93036520232"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93036520232</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/ezio-gasparato"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/93152760232">
@@ -1166,7 +1166,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298306-7916427"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93264960233"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93264960233</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/eddo-pachera"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/93073240231">
@@ -1204,7 +1204,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298215-7931105"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93201700239"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93201700239</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/gessica-franceschini"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/gianfranco-tietto-satcancelli-it">
@@ -1223,7 +1223,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298460-7938538"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93142630230"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93142630230</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/rosa-bettinazzi"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/website/www-cfcverona-it">
@@ -1339,7 +1339,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298535-snc"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93105690239"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93105690239</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/giorgio-bortignon"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/80028640235">
@@ -1382,7 +1382,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298445-7931191"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93206620235"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93206620235</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/silvia-ciampalini"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/80026720237">
@@ -1394,7 +1394,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298460-7938538"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/80026720237"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80026720237</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/doriano-benedetti"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/tiziano-zocca">
@@ -1495,7 +1495,7 @@
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emporio Malkovich</covapit:legalName>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93169540239"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93169540239</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/sergio-todeschini">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
@@ -1590,7 +1590,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298499-7921555"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93057860236"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93057860236</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/8"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/8"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/stefano-speri"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/karmaontheroad20-gmail-com">
@@ -1699,7 +1699,7 @@
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93045700239"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93045700239</covapit:taxCode>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02460810233</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/93256040234">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/COV/Employment"/>
@@ -1720,7 +1720,7 @@
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/04269030237"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04269030237</covapit:taxCode>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04269030237</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/antonio-lorenzola"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/youtube/ucildc0repxbdvj4sekdxssg">
@@ -1780,7 +1780,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298393-7911536"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/80028640235"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80028640235</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/giovanni-forlin"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/mancalacquaproject-gmail-com">
@@ -1895,7 +1895,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298521-7936119"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93088560235"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93088560235</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/valentina-boscaini"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/facebook/tastinglover">
@@ -1949,7 +1949,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298256-7945734"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93272730230"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93272730230</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/mattia-tavormina"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/facebook/apsculturalmentevr">
@@ -2065,7 +2065,7 @@
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Associazione Nazionale Combattenti e Reduci</covapit:legalName>
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298217-7928524"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/associazione-nazionale-combattenti-e-reduci"/>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/8"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/8"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/gianni-chiavenato"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/negozi-associati-lugagnano">
@@ -2086,7 +2086,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298214-7931096"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93003580235"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93003580235</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/corrado-melchiori"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/il-cerchio-atelier-d-espressione">
@@ -2107,7 +2107,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298300-7926422"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93275410236"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93275410236</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/denis-piccoli"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/info-analugagnanovr-it">
@@ -2135,7 +2135,7 @@
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/04205530233"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04205530233</covapit:taxCode>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04205530233</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/barbara-bonifichi"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/associazione-nazionale-combattenti-e-reduci">
@@ -2169,7 +2169,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298274-7940847"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93066310231"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93066310231</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/roberto-pimazzoni"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/facebook/aclugagnano">
@@ -2196,7 +2196,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298518-7931338"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93266060230"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93266060230</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/claudio-hueller"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/93029240236">
@@ -2208,7 +2208,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298571-31495211"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93029240236"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93029240236</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/paolo-vezzoli"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/93203290239">
@@ -2238,7 +2238,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298306-7916427"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93017450235"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93017450235</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/luca-pasquali"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/80052230234">
@@ -2395,7 +2395,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298306-7916432"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93056000230"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93056000230</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/tiziano-zocca"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/flora-anna-ambrosi">
@@ -2415,7 +2415,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298315-7926196"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93195450239"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93195450239</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/pietro-forlin"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/instagram/vivisangiorgio">
@@ -2444,7 +2444,7 @@
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/03432580235"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03432580235</covapit:taxCode>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03432580235</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/mario-ramundo"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/93017450235">
@@ -2548,7 +2548,7 @@
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gruppo Fibrosi Cistica</covapit:legalName>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/80052230234"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80052230234</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/marco-cipolli"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/arduinibarbara72-gmail-com">
@@ -2605,7 +2605,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298480-snc"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93024460235"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93024460235</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/giuseppe-castioni"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/eforli-hotmail-it">
@@ -2748,7 +2748,7 @@
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/02112970237"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02112970237</covapit:taxCode>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02112970237</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/romeo-oliosi"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/93036520232">
@@ -2783,7 +2783,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298518-7931356"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93264540233"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93264540233</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/angelo-battistini"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/president/93174930235">
@@ -2822,7 +2822,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298577-31532009"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93073240231"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93073240231</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/giovanni-giardini"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/phone/3482631308">
@@ -2952,7 +2952,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298297-7928451"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93256040234"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93256040234</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/franco-fedrigo"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/circolonoi-giustiniano-gmail-com">
@@ -3030,7 +3030,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298523-snc"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93201250235"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93201250235</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/phone/3497415198">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
@@ -3062,7 +3062,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rouver</covapit:legalName>
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298359-7914175"/>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/englishbydoingverona-gmail-com">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
@@ -3095,7 +3095,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298455-7933692"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93216240239"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93216240239</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/claudio-bassan"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/93106070233">
@@ -3124,7 +3124,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298281-7923604"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93244740234"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93244740234</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2.1"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/flora-anna-ambrosi"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/80028640235">
@@ -3238,7 +3238,7 @@
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diversamente in Danza</covapit:legalName>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/03857060234"/>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03857060234</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/giorgia-panetto"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/youtube/karmaontheroad">
@@ -3278,7 +3278,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/association/"/>
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rocken</covapit:legalName>
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298248-7921330"/>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/2"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/2"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/mattia-tavormina">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/CPV/Person"/>
@@ -3320,7 +3320,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298565-7936219"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/04356190233"/>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04356190233</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/vincenzo-di-giovine"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/person/franco-fedrigo">
@@ -3382,7 +3382,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298196-7928569"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93152760232"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93152760232</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/luca-forlini"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/tcslugagnano-libero-it">
@@ -3401,7 +3401,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298312-7921506"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93074770236"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93074770236</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/6"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/6"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/mirco-amali"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/adp-sangiorgio-virgilio-it">
@@ -3596,7 +3596,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298341-7945858"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93203290239"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93203290239</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/5"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/5"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/federica-costa"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/facebook/diversamenteindanza">
@@ -3793,7 +3793,7 @@
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298241-7945967"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93243320236"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93243320236</covapit:taxCode>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/andrea-soave"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/email/emporiomalkovichlive-gmail-com">
@@ -3922,7 +3922,7 @@
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unitalsi Sottosezione di Verona - Gruppo San Giorgio in Salici</covapit:legalName>
     <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298259-7945976"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/unitalsi-sottosezione-di-verona---gruppo-san-giorgio-in-salici"/>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/giacomina-marconi"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/facebook/bandadisona">
@@ -3964,7 +3964,7 @@
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/association/ocp/93295480235"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93295480235</covapit:taxCode>
     <covapit:VATnumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0483690230</covapit:VATnumber>
-    <ontoim:hasAssociationCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/association-categories/4"/>
+    <ontoim:hasAssociationCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/association-categories/4"/>
     <ontoim:hasReferent rdf:resource="https://w3id.org/sona/data/association/person/luca-falcon"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/association/ocp/93194640236">

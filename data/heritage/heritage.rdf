@@ -14,7 +14,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro servizi a San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro servizi a San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1474</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:subordinate>
@@ -24,7 +24,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale (ex ambulatori) a Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale (ex ambulatori) a Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">189</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ontoim:subordinate>
@@ -43,7 +43,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale (Poste e sala civica) in San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale (Poste e sala civica) in San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">227</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ontoim:subordinate>
@@ -111,7 +111,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale in Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale in Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">627</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ontoim:subordinate>
@@ -144,7 +144,7 @@
     <dc:title xml:lang="en">Cadastral data for Fabbricati in Corte Fedrigo a Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Fabbricati in Corte Fedrigo a Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1399</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ontoim:subordinate>
@@ -177,7 +177,7 @@
     <dc:title xml:lang="en">Cadastral data for Magazzini comunali in Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Magazzini comunali in Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1401</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ontoim:subordinate>
@@ -187,7 +187,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro sportivo di San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro sportivo di San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">645</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ontoim:subordinate>
@@ -197,7 +197,7 @@
     <dc:title xml:lang="en">Cadastral data for Baita alpini a Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Baita alpini a Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">953</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ontoim:subordinate>
@@ -209,7 +209,7 @@
     <dc:title xml:lang="en">Cadastral data for Baita alpini a Palazzolo</dc:title>
     <dc:title xml:lang="it">Dati catastali per Baita alpini a Palazzolo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ontoim:subordinate>
@@ -219,7 +219,7 @@
     <dc:title xml:lang="en">Cadastral data for Sala Affreschi</dc:title>
     <dc:title xml:lang="it">Dati catastali per Sala Affreschi</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1401</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ontoim:subordinate>
@@ -229,7 +229,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro servizi a San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro servizi a San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.10"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.10"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1474</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ontoim:subordinate>
@@ -249,7 +249,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro sportivo "Cecco Angiolieri" in Palazzolo</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro sportivo "Cecco Angiolieri" in Palazzolo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ontoim:subordinate>
@@ -259,7 +259,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale (Poste e sala civica) in San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale (Poste e sala civica) in San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.6"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.6"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">227</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:subordinate>
@@ -300,14 +300,14 @@
     <ontoim:hasFacility rdf:resource="https://w3id.org/sona/data/heritage/facility/77"/>
     <ontoim:hasFacility rdf:resource="https://w3id.org/sona/data/heritage/facility/78"/>
     <ontoim:hasFacility rdf:resource="https://w3id.org/sona/data/heritage/facility/79"/>
-    <ontoim:hasHeritageType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/heritage-types/2"/>
+    <ontoim:hasHeritageType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/heritage-types/2"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/heritage/cadastre/24-1424-2-B5">
     <rdf:type rdf:resource="https://w3id.org/ontoim/CadastralData"/>
     <dc:title xml:lang="en">Cadastral data for Asilo nido in Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Asilo nido in Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1424</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ontoim:subordinate>
@@ -422,7 +422,7 @@
     <dc:title xml:lang="en">Cadastral data for Magazzini comunali in Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Magazzini comunali in Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1401</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ontoim:subordinate>
@@ -432,7 +432,7 @@
     <dc:title xml:lang="en">Cadastral data for Autorimessa c/o torre scaligera in Palazzolo</dc:title>
     <dc:title xml:lang="it">Dati catastali per Autorimessa c/o torre scaligera in Palazzolo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.6"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.6"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1413</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:sheet>
   </rdf:Description>
@@ -441,7 +441,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale (Poste e sala civica) in San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale (Poste e sala civica) in San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">227</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ontoim:subordinate>
@@ -451,7 +451,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro raccolta rifiuti urbani in Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro raccolta rifiuti urbani in Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/D.7"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/D.7"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">546</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</ontoim:sheet>
   </rdf:Description>
@@ -470,7 +470,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro tennis di Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro tennis di Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/D.6"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/D.6"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">134</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:subordinate>
@@ -496,7 +496,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale in Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale in Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">627</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ontoim:subordinate>
@@ -506,7 +506,7 @@
     <dc:title xml:lang="en">Cadastral data for Complesso immobiliare denominato "La Casa di Alice" in Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Complesso immobiliare denominato "La Casa di Alice" in Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/D.7"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/D.7"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">156</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46</ontoim:sheet>
   </rdf:Description>
@@ -533,7 +533,7 @@
     <dc:title xml:lang="en">Cadastral data for Abitazione c/o scuola media a Sona (ex casa custode)</dc:title>
     <dc:title xml:lang="it">Dati catastali per Abitazione c/o scuola media a Sona (ex casa custode)</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1395</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ontoim:subordinate>
@@ -560,7 +560,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro servizi a San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro servizi a San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1474</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</ontoim:subordinate>
@@ -579,7 +579,7 @@
     <dc:title xml:lang="en">Cadastral data for Scuola media "Anna Frank" di Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Scuola media "Anna Frank" di Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1424</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:subordinate>
@@ -599,7 +599,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio ex canonica a Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio ex canonica a Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">885</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</ontoim:subordinate>
@@ -609,7 +609,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio ex canonica a Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio ex canonica a Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">885</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:subordinate>
@@ -627,7 +627,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale in Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale in Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/F.1"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/F.1"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">627</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ontoim:subordinate>
@@ -668,7 +668,7 @@
     <dc:title xml:lang="en">Cadastral data for Baita alpini a Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Baita alpini a Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">953</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ontoim:subordinate>
@@ -678,7 +678,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio ex canonica a Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio ex canonica a Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">885</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</ontoim:subordinate>
@@ -688,7 +688,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale in Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale in Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">627</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ontoim:subordinate>
@@ -707,7 +707,7 @@
     <dc:title xml:lang="en">Cadastral data for Scuola elementare "C. Collodi" di San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Scuola elementare "C. Collodi" di San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1224</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
   </rdf:Description>
@@ -774,7 +774,7 @@
     <dc:title xml:lang="en">Cadastral data for Fabbricato in via Montecorno (centro minori) a Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Fabbricato in via Montecorno (centro minori) a Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.5"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.5"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">180</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
   </rdf:Description>
@@ -798,7 +798,7 @@
     <ontoim:hasFacility rdf:resource="https://w3id.org/sona/data/heritage/facility/14"/>
     <ontoim:hasFacility rdf:resource="https://w3id.org/sona/data/heritage/facility/15"/>
     <ontoim:hasFacility rdf:resource="https://w3id.org/sona/data/heritage/facility/16"/>
-    <ontoim:hasHeritageType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/heritage-types/1"/>
+    <ontoim:hasHeritageType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/heritage-types/1"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/heritage/facility/20">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Facility"/>
@@ -857,7 +857,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale (ex mercato ortofrutticolo) a Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale (ex mercato ortofrutticolo) a Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1241</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</ontoim:sheet>
   </rdf:Description>
@@ -874,7 +874,7 @@
     <dc:title xml:lang="en">Cadastral data for Casa Cantoniera</dc:title>
     <dc:title xml:lang="it">Dati catastali per Casa Cantoniera</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/F.2"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/F.2"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">187</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ontoim:subordinate>
@@ -884,7 +884,7 @@
     <dc:title xml:lang="en">Cadastral data for Scuola media "Virgilio" di Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Scuola media "Virgilio" di Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1395</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ontoim:subordinate>
@@ -902,7 +902,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro polivalente (casa di riposo) in Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro polivalente (casa di riposo) in Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/F.1"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/F.1"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1272</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ontoim:subordinate>
@@ -923,7 +923,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro polivalente (casa di riposo) in Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro polivalente (casa di riposo) in Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.10"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.10"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1272</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ontoim:subordinate>
@@ -966,7 +966,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale (ex ambulatori) a Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale (ex ambulatori) a Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">189</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ontoim:subordinate>
@@ -976,7 +976,7 @@
     <dc:title xml:lang="en">Cadastral data for Area attrezzata per attività sportive (campetto)</dc:title>
     <dc:title xml:lang="it">Dati catastali per Area attrezzata per attività sportive (campetto)</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1400</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ontoim:subordinate>
@@ -994,7 +994,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro polivalente (casa di riposo) in Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro polivalente (casa di riposo) in Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/D.6"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/D.6"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1272</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:subordinate>
@@ -1024,7 +1024,7 @@
     <dc:title xml:lang="en">Cadastral data for Impianti sportivi in Lugagnano (campi calcio)</dc:title>
     <dc:title xml:lang="it">Dati catastali per Impianti sportivi in Lugagnano (campi calcio)</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1262</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</ontoim:sheet>
   </rdf:Description>
@@ -1046,7 +1046,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro servizi a San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro servizi a San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1474</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:subordinate>
@@ -1064,7 +1064,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale (ex ambulatori) a Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale (ex ambulatori) a Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">189</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ontoim:subordinate>
@@ -1074,7 +1074,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro servizi a San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro servizi a San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1474</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ontoim:subordinate>
@@ -1084,7 +1084,7 @@
     <dc:title xml:lang="en">Cadastral data for Palazzo Municipale</dc:title>
     <dc:title xml:lang="it">Dati catastali per Palazzo Municipale</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1400</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ontoim:subordinate>
@@ -1116,7 +1116,7 @@
     <dc:title xml:lang="en">Cadastral data for Campo rugby (ex calcio e tamburello) in Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Campo rugby (ex calcio e tamburello) in Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1104</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</ontoim:sheet>
   </rdf:Description>
@@ -1212,7 +1212,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale (ex ambulatori) a Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale (ex ambulatori) a Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">189</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:subordinate>
@@ -1230,7 +1230,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale (ex ambulatori) a Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale (ex ambulatori) a Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">189</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ontoim:subordinate>
@@ -1240,7 +1240,7 @@
     <dc:title xml:lang="en">Cadastral data for Casa anziani in Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Casa anziani in Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1329</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ontoim:subordinate>
@@ -1250,7 +1250,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro polivalente (casa di riposo) in Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro polivalente (casa di riposo) in Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/F.1"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/F.1"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1272</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ontoim:subordinate>
@@ -1270,7 +1270,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale (ex ambulatori) a Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale (ex ambulatori) a Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">189</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ontoim:subordinate>
@@ -1280,7 +1280,7 @@
     <dc:title xml:lang="en">Cadastral data for Casa Cantoniera</dc:title>
     <dc:title xml:lang="it">Dati catastali per Casa Cantoniera</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">187</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:subordinate>
@@ -1290,7 +1290,7 @@
     <dc:title xml:lang="en">Cadastral data for Fabbricato con Farmacia e n. 2 appartamenti</dc:title>
     <dc:title xml:lang="it">Dati catastali per Fabbricato con Farmacia e n. 2 appartamenti</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1400</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:subordinate>
@@ -1309,7 +1309,7 @@
     <dc:title xml:lang="en">Cadastral data for Uffici pubblici in Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Uffici pubblici in Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1401</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ontoim:subordinate>
@@ -1319,7 +1319,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro servizi a San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro servizi a San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1474</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ontoim:subordinate>
@@ -1329,7 +1329,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale (Poste e sala civica) in San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale (Poste e sala civica) in San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">227</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ontoim:subordinate>
@@ -1353,7 +1353,7 @@
     <dc:title xml:lang="en">Cadastral data for Museo Archeologico e biblioteca</dc:title>
     <dc:title xml:lang="it">Dati catastali per Museo Archeologico e biblioteca</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1399</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ontoim:subordinate>
@@ -1363,7 +1363,7 @@
     <dc:title xml:lang="en">Cadastral data for Porzione di edificio adibito a bar Alpini in Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Porzione di edificio adibito a bar Alpini in Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1401</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:subordinate>
@@ -1422,7 +1422,7 @@
     <dc:title xml:lang="en">Cadastral data for Sala Consiliare / Vigili</dc:title>
     <dc:title xml:lang="it">Dati catastali per Sala Consiliare / Vigili</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1400</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ontoim:subordinate>
@@ -1486,7 +1486,7 @@
     <dc:title xml:lang="en">Cadastral data for Scuola primaria "Silvio Pellico 2" di Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Scuola primaria "Silvio Pellico 2" di Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1424</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ontoim:subordinate>
@@ -1496,7 +1496,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale in Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale in Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">627</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ontoim:subordinate>
@@ -1537,7 +1537,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale (ex ambulatori) a Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale (ex ambulatori) a Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">189</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ontoim:subordinate>
@@ -1606,7 +1606,7 @@
     <ontoim:hasFacility rdf:resource="https://w3id.org/sona/data/heritage/facility/54"/>
     <ontoim:hasFacility rdf:resource="https://w3id.org/sona/data/heritage/facility/55"/>
     <ontoim:hasFacility rdf:resource="https://w3id.org/sona/data/heritage/facility/56"/>
-    <ontoim:hasHeritageType rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/heritage-types/3"/>
+    <ontoim:hasHeritageType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/heritage-types/3"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/heritage/facility/13">
     <rdf:type rdf:resource="https://w3id.org/ontoim/Facility"/>
@@ -1622,7 +1622,7 @@
     <dc:title xml:lang="en">Cadastral data for Magazzini comunali in Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Magazzini comunali in Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1401</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ontoim:subordinate>
@@ -1659,7 +1659,7 @@
     <dc:title xml:lang="en">Cadastral data for Portichetti in Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Portichetti in Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">259</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
   </rdf:Description>
@@ -1685,7 +1685,7 @@
     <dc:title xml:lang="en">Cadastral data for Fabbricati in Corte Fedrigo a Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Fabbricati in Corte Fedrigo a Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1399</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ontoim:subordinate>
@@ -1730,7 +1730,7 @@
     <dc:title xml:lang="en">Cadastral data for Casa anziani in Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Casa anziani in Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1329</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ontoim:subordinate>
@@ -1754,7 +1754,7 @@
     <dc:title xml:lang="en">Cadastral data for Scuola media "Virgilio" di Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Scuola media "Virgilio" di Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1397</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ontoim:subordinate>
@@ -1764,7 +1764,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro servizi a San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro servizi a San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1474</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</ontoim:subordinate>
@@ -1790,7 +1790,7 @@
     <dc:title xml:lang="en">Cadastral data for Campi da tennis di Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Campi da tennis di Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1171</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</ontoim:sheet>
   </rdf:Description>
@@ -1833,7 +1833,7 @@
     <dc:title xml:lang="en">Cadastral data for Scuola elementare "Aleardo Aleardi" di Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Scuola elementare "Aleardo Aleardi" di Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1334</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
   </rdf:Description>
@@ -1869,7 +1869,7 @@
     <dc:title xml:lang="en">Cadastral data for Baita alpini a Palazzolo</dc:title>
     <dc:title xml:lang="it">Dati catastali per Baita alpini a Palazzolo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.2"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ontoim:subordinate>
@@ -1951,7 +1951,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale c/o torre scaligera in Palazzolo</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale c/o torre scaligera in Palazzolo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1412</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ontoim:subordinate>
@@ -1961,7 +1961,7 @@
     <dc:title xml:lang="en">Cadastral data for Museo Archeologico e biblioteca</dc:title>
     <dc:title xml:lang="it">Dati catastali per Museo Archeologico e biblioteca</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1399</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ontoim:subordinate>
@@ -1990,7 +1990,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro sportivo "Cecco Angiolieri" in Palazzolo</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro sportivo "Cecco Angiolieri" in Palazzolo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:subordinate>
@@ -2049,7 +2049,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale (Poste e sala civica) in San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale (Poste e sala civica) in San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.6"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.6"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">227</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ontoim:subordinate>
@@ -2067,7 +2067,7 @@
     <dc:title xml:lang="en">Cadastral data for Casa anziani in Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Casa anziani in Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1329</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ontoim:subordinate>
@@ -2095,7 +2095,7 @@
     <dc:title xml:lang="en">Cadastral data for Scuola elementare "Don G. Bosco" di Palazzolo</dc:title>
     <dc:title xml:lang="it">Dati catastali per Scuola elementare "Don G. Bosco" di Palazzolo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1395</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:sheet>
   </rdf:Description>
@@ -2104,7 +2104,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro sportivo di San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro sportivo di San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">645</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</ontoim:subordinate>
@@ -2122,7 +2122,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio ex canonica a Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio ex canonica a Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">885</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:subordinate>
@@ -2132,7 +2132,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale (Poste) in Palazzolo</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale (Poste) in Palazzolo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1423</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:subordinate>
@@ -2168,7 +2168,7 @@
     <dc:title xml:lang="en">Cadastral data for Casa Cantoniera</dc:title>
     <dc:title xml:lang="it">Dati catastali per Casa Cantoniera</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">187</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ontoim:subordinate>
@@ -2188,7 +2188,7 @@
     <dc:title xml:lang="en">Cadastral data for Edificio comunale in Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Edificio comunale in Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">627</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:subordinate>
@@ -2206,7 +2206,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro servizi a San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro servizi a San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1474</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ontoim:subordinate>
@@ -2224,7 +2224,7 @@
     <dc:title xml:lang="en">Cadastral data for Scuola materna "Cavalier Romani" di Sona (Villa Trevisani)</dc:title>
     <dc:title xml:lang="it">Dati catastali per Scuola materna "Cavalier Romani" di Sona (Villa Trevisani)</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1401</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</ontoim:subordinate>
@@ -2302,7 +2302,7 @@
     <dc:title xml:lang="en">Cadastral data for Fabbricato con Farmacia e n. 2 appartamenti</dc:title>
     <dc:title xml:lang="it">Dati catastali per Fabbricato con Farmacia e n. 2 appartamenti</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1400</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ontoim:subordinate>
@@ -2312,7 +2312,7 @@
     <dc:title xml:lang="en">Cadastral data for Campo di pattinaggio di San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Campo di pattinaggio di San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">696</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29</ontoim:sheet>
   </rdf:Description>
@@ -2321,7 +2321,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro polivalente (casa di riposo) in Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro polivalente (casa di riposo) in Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.1"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.1"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1272</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ontoim:subordinate>
@@ -2331,7 +2331,7 @@
     <dc:title xml:lang="en">Cadastral data for Fabbricato in via Montecorno (centro minori) a Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Fabbricato in via Montecorno (centro minori) a Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.5"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.5"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">418</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
   </rdf:Description>
@@ -2357,7 +2357,7 @@
     <dc:title xml:lang="en">Cadastral data for Casa anziani in Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Casa anziani in Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1329</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ontoim:subordinate>
@@ -2367,7 +2367,7 @@
     <dc:title xml:lang="en">Cadastral data for Baita alpini a San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Baita alpini a San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1360</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
   </rdf:Description>
@@ -2376,7 +2376,7 @@
     <dc:title xml:lang="en">Cadastral data for Scuola elementare e materna "Silvio Pellico" di Lugagnano</dc:title>
     <dc:title xml:lang="it">Dati catastali per Scuola elementare e materna "Silvio Pellico" di Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/B.5"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1224</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</ontoim:sheet>
   </rdf:Description>
@@ -2394,7 +2394,7 @@
     <dc:title xml:lang="en">Cadastral data for Centro servizi a San Giorgio in Salici</dc:title>
     <dc:title xml:lang="it">Dati catastali per Centro servizi a San Giorgio in Salici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1474</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ontoim:subordinate>
@@ -2429,7 +2429,7 @@
     <dc:title xml:lang="en">Cadastral data for Palestra c/o scuola media "Virgilio" di Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Palestra c/o scuola media "Virgilio" di Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.4"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1395</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ontoim:subordinate>
@@ -2465,7 +2465,7 @@
     <dc:title xml:lang="en">Cadastral data for Casa anziani in Sona</dc:title>
     <dc:title xml:lang="it">Dati catastali per Casa anziani in Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/A.3"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1329</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ontoim:subordinate>
@@ -2475,7 +2475,7 @@
     <dc:title xml:lang="en">Cadastral data for Fabbricato con Farmacia e n. 2 appartamenti</dc:title>
     <dc:title xml:lang="it">Dati catastali per Fabbricato con Farmacia e n. 2 appartamenti</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/heritage/"/>
-    <ontoim:hasCadastralCategory rdf:resource="https://w3od.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
+    <ontoim:hasCadastralCategory rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/cadastral-categories/C.1"/>
     <ontoim:map rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1400</ontoim:map>
     <ontoim:sheet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</ontoim:sheet>
     <ontoim:subordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ontoim:subordinate>
