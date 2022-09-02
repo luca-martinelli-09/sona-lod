@@ -304,6 +304,7 @@ for _, statsInfo in civilStatusDF.iterrows():
       civilStatus.hasCivilStatusCategory = CivilStatusCategory(id=statusCode, baseUri=CIVIL_STATUS_CATEGORIES)
       civilStatus.observationValue = Literal(obsValue, datatype=XSD.nonNegativeInteger)
       civilStatus.hasDemographicReference = demoReference
+      civilStatus.hasTemporalEntity = temporalEntity
 
       civilStatus.addToGraph(g, isTopConcept=True)
 
@@ -355,6 +356,7 @@ for _, statsInfo in citizenshipForeignDF[citizenshipForeignDF["COD_NAZIONE"].not
       foreignCitizens.observationValue = Literal(
           obsValue, datatype=XSD.nonNegativeInteger)
       foreignCitizens.hasDemographicReference = demoReference
+      foreignCitizens.hasTemporalEntity = temporalEntity
 
       foreignCitizens.addToGraph(g, isTopConcept=True)
 # %%
