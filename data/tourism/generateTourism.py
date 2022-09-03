@@ -115,7 +115,7 @@ for year, tourismInfo in tourismDF.groupby(by=["ANNO"]).agg({"ARRIVI": "sum", "P
     number = tourismInfo[tType]
 
     tourists = Tourists(
-        id="{}-{}".format(year, "totale", tType.lower()),
+        id="{}-{}-{}".format(year, "totale", tType.lower()),
         baseUri=TOURISM_DATA,
         dataset=TOURISM_DATASET,
         titles=[Literal("{} turisti{} totali - {}".format(
@@ -124,7 +124,7 @@ for year, tourismInfo in tourismDF.groupby(by=["ANNO"]).agg({"ARRIVI": "sum", "P
                 originName, year), datatype=XSD.string)]
     )
     tourists.observationValue = Literal(number, datatype=XSD.int)
-    tourists.hasTouristType = Arrival()if tType == "ARRIVI" else Presence()
+    tourists.hasTouristType = Arrival() if tType == "ARRIVI" else Presence()
     tourists.hasTemporalEntity = temporalEntity
 
     tourists.addToGraph(g, isTopConcept=True)
