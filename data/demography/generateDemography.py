@@ -30,7 +30,7 @@ g = createGraph()
 
 POPULATION_DATA = Namespace("https://w3id.org/sona/data/demography/population/")
 FOREIGN_CITIZENS_DATA = Namespace("https://w3id.org/sona/data/demography/foreign-citizens/")
-CIVIL_STATUS_DATA = Namespace("https://w3id.org/sona/data/demography/ivil-status/")
+CIVIL_STATUS_DATA = Namespace("https://w3id.org/sona/data/demography/civil-status/")
 FREQUENT_NAMES_DATA = Namespace("https://w3id.org/sona/data/demography/names/")
 FREQUENT_SURNAMES_DATA = Namespace("https://w3id.org/sona/data/demography/surnames/")
 
