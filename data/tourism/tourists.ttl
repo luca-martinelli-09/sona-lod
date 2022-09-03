@@ -1020,16 +1020,16 @@ tourism:2005-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "12"^^xsd:int .
 
 tourism:2005-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2005"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2005> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "11899"^^xsd:int .
 
 tourism:2005-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2005"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2005> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "22820"^^xsd:int .
 
@@ -2010,16 +2010,16 @@ tourism:2006-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "14"^^xsd:int .
 
 tourism:2006-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2006"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2006> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "13015"^^xsd:int .
 
 tourism:2006-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2006"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2006> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "26393"^^xsd:int .
 
@@ -3048,16 +3048,16 @@ tourism:2007-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "34"^^xsd:int .
 
 tourism:2007-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2007"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2007> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "14995"^^xsd:int .
 
 tourism:2007-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2007"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2007> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "25091"^^xsd:int .
 
@@ -4118,16 +4118,16 @@ tourism:2008-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "19"^^xsd:int .
 
 tourism:2008-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2008"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2008> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "17538"^^xsd:int .
 
 tourism:2008-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2008"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2008> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "32069"^^xsd:int .
 
@@ -5204,16 +5204,16 @@ tourism:2009-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "6"^^xsd:int .
 
 tourism:2009-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2009"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2009> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "17995"^^xsd:int .
 
 tourism:2009-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2009"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2009> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "32386"^^xsd:int .
 
@@ -6258,16 +6258,16 @@ tourism:2010-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "7"^^xsd:int .
 
 tourism:2010-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2010"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2010> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "17214"^^xsd:int .
 
 tourism:2010-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2010"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2010> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "32135"^^xsd:int .
 
@@ -7344,16 +7344,16 @@ tourism:2011-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "31"^^xsd:int .
 
 tourism:2011-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2011"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2011> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "18958"^^xsd:int .
 
 tourism:2011-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2011"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2011> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "35091"^^xsd:int .
 
@@ -8446,16 +8446,16 @@ tourism:2012-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "16"^^xsd:int .
 
 tourism:2012-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2012"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2012> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "20664"^^xsd:int .
 
 tourism:2012-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2012"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2012> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "39553"^^xsd:int .
 
@@ -9548,16 +9548,16 @@ tourism:2013-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "55"^^xsd:int .
 
 tourism:2013-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2013"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2013> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "21558"^^xsd:int .
 
 tourism:2013-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2013"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2013> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "45104"^^xsd:int .
 
@@ -10634,16 +10634,16 @@ tourism:2014-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "8"^^xsd:int .
 
 tourism:2014-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2014"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2014> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "21970"^^xsd:int .
 
 tourism:2014-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2014"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2014> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "50520"^^xsd:int .
 
@@ -11720,16 +11720,16 @@ tourism:2015-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "10"^^xsd:int .
 
 tourism:2015-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2015"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2015> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "23479"^^xsd:int .
 
 tourism:2015-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2015"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2015> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "52691"^^xsd:int .
 
@@ -12822,16 +12822,16 @@ tourism:2016-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "32"^^xsd:int .
 
 tourism:2016-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2016"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2016> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "24511"^^xsd:int .
 
 tourism:2016-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2016"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2016> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "59262"^^xsd:int .
 
@@ -13892,16 +13892,16 @@ tourism:2017-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "10"^^xsd:int .
 
 tourism:2017-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2017"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2017> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "31561"^^xsd:int .
 
 tourism:2017-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2017"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2017> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "67795"^^xsd:int .
 
@@ -14978,16 +14978,16 @@ tourism:2018-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "17"^^xsd:int .
 
 tourism:2018-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2018"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2018> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "31566"^^xsd:int .
 
 tourism:2018-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2018"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2018> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "69559"^^xsd:int .
 
@@ -16080,16 +16080,16 @@ tourism:2019-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "16"^^xsd:int .
 
 tourism:2019-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2019"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2019> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "32130"^^xsd:int .
 
 tourism:2019-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2019"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2019> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "77778"^^xsd:int .
 
@@ -17086,16 +17086,16 @@ tourism:2020-USA-presenze a ontoim:Tourists ;
     ontoim:observationValue "49"^^xsd:int .
 
 tourism:2020-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2020"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2020> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "11377"^^xsd:int .
 
 tourism:2020-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2020"^^xsd:string ;
     skos:inScheme tourism: ;
-    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
+    tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2020> ;
     ontoim:hasTouristType ontoim:Presence ;
     ontoim:observationValue "35543"^^xsd:int .
 
@@ -18076,14 +18076,14 @@ tourism:2021-ZAF-presenze a ontoim:Tourists ;
     ontoim:observationValue "3"^^xsd:int .
 
 tourism:2021-totale-arrivi a ontoim:Tourists ;
-    dc:title "Arrivi turistici totali - Australia"^^xsd:string ;
+    dc:title "Arrivi turistici totali - 2021"^^xsd:string ;
     skos:inScheme tourism: ;
     tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
     ontoim:hasTouristType ontoim:Arrival ;
     ontoim:observationValue "11939"^^xsd:int .
 
 tourism:2021-totale-presenze a ontoim:Tourists ;
-    dc:title "Presenze turistiche totali - Australia"^^xsd:string ;
+    dc:title "Presenze turistiche totali - 2021"^^xsd:string ;
     skos:inScheme tourism: ;
     tiapit:hasTemporalEntity <https://w3id.org/sona/data/tourism/ti/2021> ;
     ontoim:hasTouristType ontoim:Presence ;
@@ -18554,6 +18554,11 @@ tourism:2021-totale-presenze a ontoim:Tourists ;
     skos:inScheme tourism: ;
     tiapit:year "2006"^^xsd:gYear .
 
+<https://w3id.org/sona/data/tourism/ti/2021> a tiapit:Year ;
+    dc:title "2021"^^xsd:string ;
+    skos:inScheme tourism: ;
+    tiapit:year "2021"^^xsd:gYear .
+
 <https://w3id.org/sona/data/tourism/ti/2020> a tiapit:Year ;
     dc:title "2020"^^xsd:string ;
     skos:inScheme tourism: ;
@@ -18628,11 +18633,6 @@ tourism:2021-totale-presenze a ontoim:Tourists ;
     dc:title "2019"^^xsd:string ;
     skos:inScheme tourism: ;
     tiapit:year "2019"^^xsd:gYear .
-
-<https://w3id.org/sona/data/tourism/ti/2021> a tiapit:Year ;
-    dc:title "2021"^^xsd:string ;
-    skos:inScheme tourism: ;
-    tiapit:year "2021"^^xsd:gYear .
 
 tourism: a skos:ConceptScheme ;
     rdfs:label "Touristic Arrivals and Presences"@en,

@@ -111,6 +111,15 @@ for _, tourismInfo in tourismDF[tourismDF["COD_ORIGINE"].notna()].iterrows():
 # %%
 # Insert aggregated data
 for year, tourismInfo in tourismDF.groupby(by=["ANNO"]).agg({"ARRIVI": "sum", "PRESENZE": "sum"}).iterrows():
+  temporalEntity = Year(
+    id="ti/" + year,
+    baseUri=TOURISM_DATA,
+    dataset=TOURISM_DATASET,
+    titles=[Literal(year, datatype=XSD.string)]
+  )
+  temporalEntity.year = Literal(year, datatype=XSD.gYear)
+  temporalEntity.addToGraph(g, isTopConcept=False)
+  
   for tType in ["ARRIVI", "PRESENZE"]:
     number = tourismInfo[tType]
 
@@ -120,8 +129,7 @@ for year, tourismInfo in tourismDF.groupby(by=["ANNO"]).agg({"ARRIVI": "sum", "P
         dataset=TOURISM_DATASET,
         titles=[Literal("{} turisti{} totali - {}".format(
             standardizeName(tType),
-                "ci" if tType == "ARRIVI" else "che",
-                originName, year), datatype=XSD.string)]
+                "ci" if tType == "ARRIVI" else "che", year), datatype=XSD.string)]
     )
     tourists.observationValue = Literal(number, datatype=XSD.int)
     tourists.hasTouristType = Arrival() if tType == "ARRIVI" else Presence()
