@@ -87,7 +87,7 @@ for i, concessionInfo in concessionsDF.iterrows():
     concessionAct.paymentAmount = Literal(actPaymentAmount, datatype=XSD.float)
     
     if not pd.isna(actFacility):
-      facility = Facility(id=actFacility, baseUri=HERITAGE_DATA)
+      facility = Facility(id="facility/" + actFacility, baseUri=HERITAGE_DATA)
       facility.concessedWithAct = [concessionAct]
 
       facility.addToGraph(g, onlyProperties=True)

@@ -2,24 +2,23 @@
 @prefix concession: <https://w3id.org/sona/data/concession/> .
 @prefix concessionacttypes: <https://w3id.org/ontoim/controlled-vocabulary/concession-act-types/> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix heritage: <https://w3id.org/sona/data/heritage/> .
 @prefix municipality: <https://w3id.org/sona/data/municipality/> .
 @prefix ontoim: <https://w3id.org/ontoim/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-heritage:44 ontoim:concessedWithAct concession:2 .
+<https://w3id.org/sona/data/heritage/facility/44> ontoim:concessedWithAct concession:2 .
 
-heritage:45 ontoim:concessedWithAct concession:4 .
+<https://w3id.org/sona/data/heritage/facility/45> ontoim:concessedWithAct concession:4 .
 
-heritage:48 ontoim:concessedWithAct concession:1 .
+<https://w3id.org/sona/data/heritage/facility/48> ontoim:concessedWithAct concession:1 .
 
-heritage:49 ontoim:concessedWithAct concession:6 .
+<https://w3id.org/sona/data/heritage/facility/49> ontoim:concessedWithAct concession:6 .
 
-heritage:51 ontoim:concessedWithAct concession:5 .
+<https://w3id.org/sona/data/heritage/facility/51> ontoim:concessedWithAct concession:5 .
 
-heritage:52 ontoim:concessedWithAct concession:3 .
+<https://w3id.org/sona/data/heritage/facility/52> ontoim:concessedWithAct concession:3 .
 
 concession:10 a ontoim:ConcessionAct ;
     dc:title "Assegnazione Contributi Ordinari Ad Associazioni E Gruppi Sportivi Per Attivita' Anno 2021. Assunzione Impegno Di Spesa."^^xsd:string ;
