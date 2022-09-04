@@ -447,6 +447,9 @@ with alive_bar(len(resorts), dual_line=True, title='🛏️ Resorts') as bar:
                     baseUri=ACCO_DATA
                 )
                 onlineContactPoint.hasWebSite = [website]
+        
+        accommodation.totalBed = Literal(totalBeds, datatype=XSD.integer)
+        accommodation.totalRoom = Literal(totalRooms, datatype=XSD.integer)
 
         # Add all to graph
         onlineContactPoint.addToGraph(g, isTopConcept=False)

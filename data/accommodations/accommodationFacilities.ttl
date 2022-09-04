@@ -671,132 +671,132 @@
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismoalbarellolagodigarda-com> a smapit:WebSite ;
     dc:title "www.agriturismoalbarellolagodigarda.com"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f851557f790>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b784265c0>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismocavecia-it> a smapit:WebSite ;
     dc:title "www.agriturismocavecia.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c0160>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426530>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismocortealbarel-com> a smapit:WebSite ;
     dc:title "www.agriturismocortealbarel.com"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c0460>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426830>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismodeigrippi-it> a smapit:WebSite ;
     dc:title "www.agriturismodeigrippi.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c05e0>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426950>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismofasoli-it> a smapit:WebSite ;
     dc:title "www.agriturismofasoli.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c0910>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426b60>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismolaquaiara-it> a smapit:WebSite ;
     dc:title "www.agriturismolaquaiara.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c0a90>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426bc0>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-alsecomoro-it> a smapit:WebSite ;
     dc:title "www.alsecomoro.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c1fc0>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427970>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-anticadimoradelturco-it> a smapit:WebSite ;
     dc:title "www.anticadimoradelturco.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f851557f7c0>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b784262f0>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-beb-breakfast-lonardi-org> a smapit:WebSite ;
     dc:title "www.beb-breakfast-lonardi.org"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c0d90>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426e30>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-belviveresuites-it> a smapit:WebSite ;
     dc:title "www.belviveresuites.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f851557ffa0>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426410>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-casadany-it> a smapit:WebSite ;
     dc:title "www.casadany.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c1e40>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427880>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-castelmorino-it> a smapit:WebSite ;
     dc:title "www.castelmorino.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c0f10>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426f20>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-colombarola-com> a smapit:WebSite ;
     dc:title "www.colombarola.com"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c02e0>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426740>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-corteguastalla-it> a smapit:WebSite ;
     dc:title "www.corteguastalla.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c1990>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427520>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-cortelavalle-it> a smapit:WebSite ;
     dc:title "www.cortelavalle.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f851557feb0>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b784266e0>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-cortetacconibb-it> a smapit:WebSite ;
     dc:title "www.cortetacconibb.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c1090>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426f80>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-el-bacan-it> a smapit:WebSite ;
     dc:title "www.el-bacan.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c0790>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b784268c0>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-hotelalboscoamabile-it> a smapit:WebSite ;
     dc:title "www.hotelalboscoamabile.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f851557f5b0>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78425ed0>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-hotelanticotermine-it> a smapit:WebSite ;
     dc:title "www.hotelanticotermine.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c0c10>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426cb0>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-relaisdesroches-com> a smapit:WebSite ;
     dc:title "www.relaisdesroches.com"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c1210>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427100>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-residenzaleon-com> a smapit:WebSite ;
     dc:title "www.residenzaleon.com"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c1cc0>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427700>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sesto-armonico-com> a smapit:WebSite ;
     dc:title "www.sesto-armonico.com"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c1390>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427070>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sparicilandini-com> a smapit:WebSite ;
     dc:title "www.sparicilandini.com"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c1b10>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427670>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-trattoriaalpigno-it> a smapit:WebSite ;
     dc:title "www.trattoriaalpigno.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c1810>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427430>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-villabiancabb-com> a smapit:WebSite ;
     dc:title "www.villabiancabb.com"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c1510>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427250>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-villagloriana-it> a smapit:WebSite ;
     dc:title "www.villagloriana.it"^^xsd:string ;
     skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f85153c1690>"^^xsd:anyURI .
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b784273a0>"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/person/brognara-gianluca> a cpvapit:Person ;
     dc:title "Gianluca Brognara"^^xsd:string ;
@@ -2130,6 +2130,8 @@
     accoapit:accommodationCode "M0230830008"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/tommasi-orietta> ;
     accoapit:hasAccommodationTypology accotype:B113 ;
+    accoapit:totalBed 6 ;
+    accoapit:totalRoom 2 ;
     clvapit:hasAddress anncsu:ad-298365-7923943 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Tommasi Orietta"^^xsd:string ;
@@ -2141,6 +2143,8 @@
     accoapit:accommodationCode "M0230830009"^^xsd:string ;
     accoapit:hasAccommodationOwner organization:03339420238 ;
     accoapit:hasAccommodationTypology accotype:B113 ;
+    accoapit:totalBed 6 ;
+    accoapit:totalRoom 2 ;
     clvapit:hasAddress anncsu:ad-298365-7923943 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Tommasi Franco"^^xsd:string ;
@@ -2152,6 +2156,8 @@
     accoapit:accommodationCode "M0230830012"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/scuto-silvia> ;
     accoapit:hasAccommodationTypology accotype:B113 ;
+    accoapit:totalBed 5 ;
+    accoapit:totalRoom 2 ;
     clvapit:hasAddress anncsu:ad-298472-7943387 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "La Casa Di Adri"^^xsd:string ;
@@ -2163,6 +2169,8 @@
     accoapit:accommodationCode "M0230830013"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/mattinzoli-gianpaolo> ;
     accoapit:hasAccommodationTypology accotype:B113 ;
+    accoapit:totalBed 2 ;
+    accoapit:totalRoom 1 ;
     clvapit:hasAddress anncsu:ad-770538-33578172 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Mattinzoli Gianpaolo"^^xsd:string ;
@@ -2174,6 +2182,8 @@
     accoapit:accommodationCode "M0230830014"^^xsd:string ;
     accoapit:hasAccommodationOwner organization:04629170236 ;
     accoapit:hasAccommodationTypology accotype:B113 ;
+    accoapit:totalBed 8 ;
+    accoapit:totalRoom 2 ;
     clvapit:hasAddress anncsu:ad-298332-7940891 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Le Palme Di Brognara Gianluca"^^xsd:string ;
@@ -2185,6 +2195,8 @@
     accoapit:accommodationCode "M0230830017"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/filippi-giovanni> ;
     accoapit:hasAccommodationTypology accotype:B113 ;
+    accoapit:totalBed 4 ;
+    accoapit:totalRoom 2 ;
     clvapit:hasAddress anncsu:ad-298227-7943288 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Affittacamere Di Paola"^^xsd:string ;
@@ -2196,6 +2208,8 @@
     accoapit:accommodationCode "M0230830018"^^xsd:string ;
     accoapit:hasAccommodationOwner organization:01299450237 ;
     accoapit:hasAccommodationTypology accotype:B113 ;
+    accoapit:totalBed 2 ;
+    accoapit:totalRoom 1 ;
     clvapit:hasAddress anncsu:ad-298412-7921400 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Villa Dei Cipressi - Sparici Landini"^^xsd:string ;
@@ -2207,6 +2221,8 @@
     accoapit:accommodationCode "M0230830019"^^xsd:string ;
     accoapit:hasAccommodationOwner organization:01299450237 ;
     accoapit:hasAccommodationTypology accotype:B113 ;
+    accoapit:totalBed 8 ;
+    accoapit:totalRoom 4 ;
     clvapit:hasAddress anncsu:ad-298412-7921400 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Villa Dei Cipressi - Sparici Landini"^^xsd:string ;
@@ -2218,6 +2234,8 @@
     accoapit:accommodationCode "M0230830020"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/tosi-luciano> ;
     accoapit:hasAccommodationTypology accotype:B113 ;
+    accoapit:totalBed 4 ;
+    accoapit:totalRoom 2 ;
     clvapit:hasAddress anncsu:ad-298209-31495277 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Tosi Luciano"^^xsd:string ;
@@ -2229,6 +2247,8 @@
     accoapit:accommodationCode "M0230830021"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/sette-gianluigi> ;
     accoapit:hasAccommodationTypology accotype:B113 ;
+    accoapit:totalBed 4 ;
+    accoapit:totalRoom 2 ;
     clvapit:hasAddress anncsu:ad-298535-7921434 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Residenza Leon"^^xsd:string ;
@@ -2240,6 +2260,8 @@
     accoapit:accommodationCode "M0230830024"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/falzi-tiziano> ;
     accoapit:hasAccommodationTypology accotype:B113 ;
+    accoapit:totalBed 6 ;
+    accoapit:totalRoom 3 ;
     clvapit:hasAddress anncsu:ad-298313-7923775 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Casa Dany"^^xsd:string ;
@@ -2251,6 +2273,8 @@
     accoapit:accommodationCode "M0230830025"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/perotti-giovanna> ;
     accoapit:hasAccommodationTypology accotype:B113 ;
+    accoapit:totalBed 6 ;
+    accoapit:totalRoom 3 ;
     clvapit:hasAddress anncsu:ad-298398-7916476 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Sweet Corner"^^xsd:string ;
@@ -2262,6 +2286,8 @@
     accoapit:accommodationCode "M0230830026"^^xsd:string ;
     accoapit:hasAccommodationOwner organization:01299450237 ;
     accoapit:hasAccommodationTypology accotype:B114 ;
+    accoapit:totalBed 24 ;
+    accoapit:totalRoom 12 ;
     clvapit:hasAddress anncsu:ad-298412-7921400 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Villa Dei Cipressi - Sparici Landini"^^xsd:string ;
@@ -2273,6 +2299,8 @@
     accoapit:accommodationCode "M0230830027"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/guardavascio-capitano-maria-grazia> ;
     accoapit:hasAccommodationTypology accotype:B115 ;
+    accoapit:totalBed 6 ;
+    accoapit:totalRoom 2 ;
     clvapit:hasAddress anncsu:ad-298209-7921282 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Corte Ara Decima"^^xsd:string ;
@@ -2284,6 +2312,8 @@
     accoapit:accommodationCode "M0230830028"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/birtele-maria-rosa> ;
     accoapit:hasAccommodationTypology accotype:B116 ;
+    accoapit:totalBed 4 ;
+    accoapit:totalRoom 2 ;
     clvapit:hasAddress anncsu:ad-298510-7924031 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Casa Vallecchia"^^xsd:string ;
@@ -2295,6 +2325,8 @@
     accoapit:accommodationCode "M0230830029"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/zerpelloni-simone> ;
     accoapit:hasAccommodationTypology accotype:B117 ;
+    accoapit:totalBed 2 ;
+    accoapit:totalRoom 1 ;
     clvapit:hasAddress anncsu:ad-298244-7945588 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Zerpelloni Simone"^^xsd:string ;
@@ -2306,6 +2338,8 @@
     accoapit:accommodationCode "M0230830030"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/zocca-mario> ;
     accoapit:hasAccommodationTypology accotype:B118 ;
+    accoapit:totalBed 7 ;
+    accoapit:totalRoom 3 ;
     clvapit:hasAddress anncsu:ad-298559-33578329 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Al Secomoro"^^xsd:string ;
@@ -2317,6 +2351,8 @@
     accoapit:accommodationCode "M0230830037"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/fasano-giuseppe> ;
     accoapit:hasAccommodationTypology accotype:B119 ;
+    accoapit:totalBed 5 ;
+    accoapit:totalRoom 2 ;
     clvapit:hasAddress anncsu:ad-298225-7943222 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Fasano Giuseppe"^^xsd:string ;
@@ -2328,6 +2364,8 @@
     accoapit:accommodationCode "M0230830038"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/ridolfi-tatiana> ;
     accoapit:hasAccommodationTypology accotype:B120 ;
+    accoapit:totalBed 6 ;
+    accoapit:totalRoom 3 ;
     clvapit:hasAddress anncsu:ad-298372-7928818 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Ridolfi Tatiana"^^xsd:string ;
@@ -2339,6 +2377,8 @@
     accoapit:accommodationCode "M0230830040"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/marotta-williams> ;
     accoapit:hasAccommodationTypology accotype:B121 ;
+    accoapit:totalBed 3 ;
+    accoapit:totalRoom 1 ;
     clvapit:hasAddress anncsu:ad-298260-7909011 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Appartamento Filippo"^^xsd:string ;
@@ -2350,6 +2390,8 @@
     accoapit:accommodationCode "M0230830041"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/tacconi-federico> ;
     accoapit:hasAccommodationTypology accotype:B122 ;
+    accoapit:totalBed 6 ;
+    accoapit:totalRoom 3 ;
     clvapit:hasAddress anncsu:ad-298367-7923971 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Tacconi Federico"^^xsd:string ;
@@ -2361,6 +2403,8 @@
     accoapit:accommodationCode "M0230830042"^^xsd:string ;
     accoapit:hasAccommodationOwner organization:03176360364 ;
     accoapit:hasAccommodationTypology accotype:B123 ;
+    accoapit:totalBed 7 ;
+    accoapit:totalRoom 5 ;
     clvapit:hasAddress anncsu:ad-298225-7943221 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Qarri Erlind"^^xsd:string ;
@@ -2372,6 +2416,8 @@
     accoapit:accommodationCode "M0230830043"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/oliosi-renato> ;
     accoapit:hasAccommodationTypology accotype:B113 ;
+    accoapit:totalBed 3 ;
+    accoapit:totalRoom 2 ;
     clvapit:hasAddress anncsu:ad-298246-7945692 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Al Cappellino"^^xsd:string ;
@@ -2383,6 +2429,8 @@
     accoapit:accommodationCode "M0230830044"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/oliosi-renato> ;
     accoapit:hasAccommodationTypology accotype:B113 ;
+    accoapit:totalBed 2 ;
+    accoapit:totalRoom 1 ;
     clvapit:hasAddress anncsu:ad-298246-30176953 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Al Cappellino"^^xsd:string ;
@@ -2394,6 +2442,8 @@
     accoapit:accommodationCode "M0230830045"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/cordioli-enrico> ;
     accoapit:hasAccommodationTypology accotype:B124 ;
+    accoapit:totalBed 12 ;
+    accoapit:totalRoom 2 ;
     clvapit:hasAddress anncsu:ad-298276-7938436 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Cordioli Enrico"^^xsd:string ;
@@ -2405,6 +2455,8 @@
     accoapit:accommodationCode "M0230830046"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/cordioli-enrico> ;
     accoapit:hasAccommodationTypology accotype:B125 ;
+    accoapit:totalBed 8 ;
+    accoapit:totalRoom 2 ;
     clvapit:hasAddress anncsu:ad-298276-7938437 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Cordioli Enrico"^^xsd:string ;
@@ -2416,6 +2468,8 @@
     accoapit:accommodationCode "M0230830047"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/gugole-giampaolo> ;
     accoapit:hasAccommodationTypology accotype:B126 ;
+    accoapit:totalBed 5 ;
+    accoapit:totalRoom 3 ;
     clvapit:hasAddress anncsu:ad-298254-7923705 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Gugole Giampaolo"^^xsd:string ;
@@ -2427,6 +2481,8 @@
     accoapit:accommodationCode "M0230830048"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/scattolini-emanuela> ;
     accoapit:hasAccommodationTypology accotype:B127 ;
+    accoapit:totalBed 5 ;
+    accoapit:totalRoom 3 ;
     clvapit:hasAddress anncsu:ad-298344-7909150 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Scattolini Emanuela"^^xsd:string ;
@@ -2438,6 +2494,8 @@
     accoapit:accommodationCode "M0230830049"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/venturelli-aldo> ;
     accoapit:hasAccommodationTypology accotype:B128 ;
+    accoapit:totalBed 8 ;
+    accoapit:totalRoom 2 ;
     clvapit:hasAddress anncsu:ad-298544-34277829 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Venturelli Aldo"^^xsd:string ;
@@ -2449,6 +2507,8 @@
     accoapit:accommodationCode "M0230830050"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/venturelli-aldo> ;
     accoapit:hasAccommodationTypology accotype:B129 ;
+    accoapit:totalBed 12 ;
+    accoapit:totalRoom 4 ;
     clvapit:hasAddress anncsu:ad-298544-34277829 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Venturelli Aldo"^^xsd:string ;
@@ -2460,6 +2520,8 @@
     accoapit:accommodationCode "M0230830051"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/zanoni-dario> ;
     accoapit:hasAccommodationTypology accotype:B130 ;
+    accoapit:totalBed 4 ;
+    accoapit:totalRoom 1 ;
     clvapit:hasAddress anncsu:ad-298390-7909075 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Zanoni Dario"^^xsd:string ;
@@ -2471,6 +2533,8 @@
     accoapit:accommodationCode "M0230830052"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/faettini-elena> ;
     accoapit:hasAccommodationTypology accotype:B131 ;
+    accoapit:totalBed 2 ;
+    accoapit:totalRoom 1 ;
     clvapit:hasAddress anncsu:ad-298395-7923612 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Faettini Elena"^^xsd:string ;
@@ -2482,6 +2546,8 @@
     accoapit:accommodationCode "M0230830053"^^xsd:string ;
     accoapit:hasAccommodationOwner <https://w3id.org/sona/data/tourism/accommodation/person/izzo-luigi> ;
     accoapit:hasAccommodationTypology accotype:B132 ;
+    accoapit:totalBed 8 ;
+    accoapit:totalRoom 4 ;
     clvapit:hasAddress anncsu:ad-298418-7914115 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Izzo Luigi"^^xsd:string ;
