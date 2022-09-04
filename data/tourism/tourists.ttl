@@ -18277,101 +18277,121 @@ tourism:2021-totale-presenze a ontoim:Tourists ;
 <https://w3id.org/sona/data/tourism/reference/from-01> a cpvapit:Person ;
     dc:title "Persona da Piemonte"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/01> .
 
 <https://w3id.org/sona/data/tourism/reference/from-02> a cpvapit:Person ;
     dc:title "Persona da Valle d'Aosta"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/02> .
 
 <https://w3id.org/sona/data/tourism/reference/from-03> a cpvapit:Person ;
     dc:title "Persona da Lombardia"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/03> .
 
 <https://w3id.org/sona/data/tourism/reference/from-04> a cpvapit:Person ;
     dc:title "Persona da Trentino Alto Adige"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/04> .
 
 <https://w3id.org/sona/data/tourism/reference/from-05> a cpvapit:Person ;
     dc:title "Persona da Veneto"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/05> .
 
 <https://w3id.org/sona/data/tourism/reference/from-06> a cpvapit:Person ;
     dc:title "Persona da Friuli Venezia Giulia"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/06> .
 
 <https://w3id.org/sona/data/tourism/reference/from-07> a cpvapit:Person ;
     dc:title "Persona da Liguria"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/07> .
 
 <https://w3id.org/sona/data/tourism/reference/from-08> a cpvapit:Person ;
     dc:title "Persona da Emilia Romagna"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/08> .
 
 <https://w3id.org/sona/data/tourism/reference/from-09> a cpvapit:Person ;
     dc:title "Persona da Toscana"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/09> .
 
 <https://w3id.org/sona/data/tourism/reference/from-10> a cpvapit:Person ;
     dc:title "Persona da Umbria"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/10> .
 
 <https://w3id.org/sona/data/tourism/reference/from-11> a cpvapit:Person ;
     dc:title "Persona da Marche"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/11> .
 
 <https://w3id.org/sona/data/tourism/reference/from-12> a cpvapit:Person ;
     dc:title "Persona da Lazio"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/12> .
 
 <https://w3id.org/sona/data/tourism/reference/from-13> a cpvapit:Person ;
     dc:title "Persona da Abruzzo"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/13> .
 
 <https://w3id.org/sona/data/tourism/reference/from-14> a cpvapit:Person ;
     dc:title "Persona da Molise"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/14> .
 
 <https://w3id.org/sona/data/tourism/reference/from-15> a cpvapit:Person ;
     dc:title "Persona da Campania"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/15> .
 
 <https://w3id.org/sona/data/tourism/reference/from-16> a cpvapit:Person ;
     dc:title "Persona da Puglia"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/16> .
 
 <https://w3id.org/sona/data/tourism/reference/from-17> a cpvapit:Person ;
     dc:title "Persona da Basilicata"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/17> .
 
 <https://w3id.org/sona/data/tourism/reference/from-18> a cpvapit:Person ;
     dc:title "Persona da Calabria"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/18> .
 
 <https://w3id.org/sona/data/tourism/reference/from-19> a cpvapit:Person ;
     dc:title "Persona da Sicilia"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/19> .
 
 <https://w3id.org/sona/data/tourism/reference/from-20> a cpvapit:Person ;
     dc:title "Persona da Sardegna"^^xsd:string ;
     skos:inScheme tourism: ;
+    cpvapit:hasCitizenship country:ITA ;
     cpvapit:residentIn <https://w3id.org/sona/data/tourism/address/20> .
 
 <https://w3id.org/sona/data/tourism/reference/from-ARG> a cpvapit:Person ;

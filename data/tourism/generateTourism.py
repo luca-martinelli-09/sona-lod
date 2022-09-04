@@ -79,6 +79,7 @@ for _, tourismInfo in tourismDF[tourismDF["COD_ORIGINE"].notna()].iterrows():
           address.addToGraph(g, isTopConcept=False)
 
           demoReference.residentIn = [address]
+          demoReference.hasCitizenship = [Country(id="ITA", baseUri=COUNTRIES)]
         else:
           demoReference.hasCitizenship = [Country(id=codOrigin, baseUri=COUNTRIES)]
 
