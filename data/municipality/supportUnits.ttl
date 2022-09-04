@@ -746,44 +746,48 @@
 <https://w3id.org/sona/data/municipality/uo/4E6NEB> a covapit:Office ;
     dc:title "Settore Polizia Locale"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298297-34337068 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298297-34337068 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/4E6NEB> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:legalName "Settore Polizia Locale"^^xsd:string ;
     covapit:officeIdentifier "4E6NEB"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/4E6NEB> .
 
 <https://w3id.org/sona/data/municipality/uo/9OPD0G> a covapit:Office ;
     dc:title "Settore Lavori Pubblici"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/9OPD0G> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:legalName "Settore Lavori Pubblici"^^xsd:string ;
     covapit:officeIdentifier "9OPD0G"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/9OPD0G> .
 
 <https://w3id.org/sona/data/municipality/uo/AJYUGN> a covapit:Office ;
     dc:title "Ufficio Per La Transizione Al Digitale"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2017-11-27"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/AJYUGN> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:legalName "Ufficio Per La Transizione Al Digitale"^^xsd:string ;
     covapit:officeIdentifier "AJYUGN"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/AJYUGN> .
 
 <https://w3id.org/sona/data/municipality/uo/UF09I2> a covapit:Office ;
     dc:title "Uff_Efatturapa"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2014-03-05"^^xsd:date ;
     covapit:hasEInvoiceService <https://w3id.org/sona/data/municipality/service/UF09I2> ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/UF09I2> ;
     covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:legalName "Uff_Efatturapa"^^xsd:string ;
     covapit:officeIdentifier "UF09I2"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/UF09I2> .
 
@@ -814,204 +818,221 @@
 <https://w3id.org/sona/data/municipality/uo/62M2HD> a covapit:Office ;
     dc:title "Tributi"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298543-snc ;
+    clvapit:hasPrimaryAddress anncsu:ad-298543-snc ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/62M2HD> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236,
         <https://w3id.org/sona/data/municipality/uo/F635KK> ;
+    covapit:legalName "Tributi"^^xsd:string ;
     covapit:officeIdentifier "62M2HD"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/62M2HD> .
 
 <https://w3id.org/sona/data/municipality/uo/8UG4XS> a covapit:Office ;
     dc:title "Servizi Sociali"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/8UG4XS> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236,
         <https://w3id.org/sona/data/municipality/uo/RB37D6> ;
+    covapit:legalName "Servizi Sociali"^^xsd:string ;
     covapit:officeIdentifier "8UG4XS"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/8UG4XS> .
 
 <https://w3id.org/sona/data/municipality/uo/9JIDKL> a covapit:Office ;
     dc:title "Controllo Di Gestione"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/9JIDKL> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236,
         <https://w3id.org/sona/data/municipality/uo/F635KK> ;
+    covapit:legalName "Controllo Di Gestione"^^xsd:string ;
     covapit:officeIdentifier "9JIDKL"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/9JIDKL> .
 
 <https://w3id.org/sona/data/municipality/uo/BA79FD> a covapit:Office ;
     dc:title "Commercio Ed Attivita' Economiche"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298543-snc ;
+    clvapit:hasPrimaryAddress anncsu:ad-298543-snc ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/BA79FD> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236,
         <https://w3id.org/sona/data/municipality/uo/F635KK> ;
+    covapit:legalName "Commercio Ed Attivita' Economiche"^^xsd:string ;
     covapit:officeIdentifier "BA79FD"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/BA79FD> .
 
 <https://w3id.org/sona/data/municipality/uo/BR2KBS> a covapit:Office ;
     dc:title "Personale"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/BR2KBS> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236,
         <https://w3id.org/sona/data/municipality/uo/LB6G0G> ;
+    covapit:legalName "Personale"^^xsd:string ;
     covapit:officeIdentifier "BR2KBS"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/BR2KBS> .
 
 <https://w3id.org/sona/data/municipality/uo/BRR803> a covapit:Office ;
     dc:title "Sportello Unico Attivita' Produttive"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/BRR803> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236,
         <https://w3id.org/sona/data/municipality/uo/FKIEFI> ;
+    covapit:legalName "Sportello Unico Attivita' Produttive"^^xsd:string ;
     covapit:officeIdentifier "BRR803"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/BRR803> .
 
 <https://w3id.org/sona/data/municipality/uo/CKU85S> a covapit:Office ;
     dc:title "Servizi Scolastici"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/CKU85S> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236,
         <https://w3id.org/sona/data/municipality/uo/RB37D6> ;
+    covapit:legalName "Servizi Scolastici"^^xsd:string ;
     covapit:officeIdentifier "CKU85S"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/CKU85S> .
 
 <https://w3id.org/sona/data/municipality/uo/EB3YQ5> a covapit:Office ;
     dc:title "Servizio Protocollo E Archivio"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2019-08-02"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/EB3YQ5> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236,
         <https://w3id.org/sona/data/municipality/uo/F635KK> ;
+    covapit:legalName "Servizio Protocollo E Archivio"^^xsd:string ;
     covapit:officeIdentifier "EB3YQ5"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/EB3YQ5> .
 
 <https://w3id.org/sona/data/municipality/uo/EBILB3> a covapit:Office ;
     dc:title "Settore Cultura E Servizi Demografici"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298297-7926154 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298297-7926154 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:hasSupportUnit <https://w3id.org/sona/data/municipality/uo/QC00CE> ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/EBILB3> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:legalName "Settore Cultura E Servizi Demografici"^^xsd:string ;
     covapit:officeIdentifier "EBILB3"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/EBILB3> .
 
 <https://w3id.org/sona/data/municipality/uo/HWVL7Q> a covapit:Office ;
     dc:title "Servizio Distribuzione Gas"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2019-08-02"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/HWVL7Q> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236,
         <https://w3id.org/sona/data/municipality/uo/FKIEFI> ;
+    covapit:legalName "Servizio Distribuzione Gas"^^xsd:string ;
     covapit:officeIdentifier "HWVL7Q"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/HWVL7Q> .
 
 <https://w3id.org/sona/data/municipality/uo/I4F0IC> a covapit:Office ;
     dc:title "Farmacia Di Palazzolo"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298371-7933656 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298371-7933656 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/I4F0IC> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236,
         <https://w3id.org/sona/data/municipality/uo/4ELMSE> ;
+    covapit:legalName "Farmacia Di Palazzolo"^^xsd:string ;
     covapit:officeIdentifier "I4F0IC"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/I4F0IC> .
 
 <https://w3id.org/sona/data/municipality/uo/J0QQ9D> a covapit:Office ;
     dc:title "Urbanistica"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/J0QQ9D> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236,
         <https://w3id.org/sona/data/municipality/uo/FKIEFI> ;
+    covapit:legalName "Urbanistica"^^xsd:string ;
     covapit:officeIdentifier "J0QQ9D"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/J0QQ9D> .
 
 <https://w3id.org/sona/data/municipality/uo/J4HC1K> a covapit:Office ;
     dc:title "Settore Tecnologici - Ecologia - Strade"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2019-08-02"^^xsd:date ;
     covapit:hasSupportUnit <https://w3id.org/sona/data/municipality/uo/N75H9N> ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/J4HC1K> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:legalName "Settore Tecnologici - Ecologia - Strade"^^xsd:string ;
     covapit:officeIdentifier "J4HC1K"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/J4HC1K> .
 
 <https://w3id.org/sona/data/municipality/uo/JCG4HG> a covapit:Office ;
     dc:title "Farmacia Di Sona"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298297-7926155 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298297-7926155 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/JCG4HG> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236,
         <https://w3id.org/sona/data/municipality/uo/4ELMSE> ;
+    covapit:legalName "Farmacia Di Sona"^^xsd:string ;
     covapit:officeIdentifier "JCG4HG"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/JCG4HG> .
 
 <https://w3id.org/sona/data/municipality/uo/LOFKMC> a covapit:Office ;
     dc:title "Urp"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298297-34337068 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/LOFKMC> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236,
         <https://w3id.org/sona/data/municipality/uo/LB6G0G> ;
+    covapit:legalName "Urp"^^xsd:string ;
     covapit:officeIdentifier "LOFKMC"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/LOFKMC> .
 
 <https://w3id.org/sona/data/municipality/uo/N75H9N> a covapit:Office ;
     dc:title "Ecologia"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/N75H9N> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236,
         <https://w3id.org/sona/data/municipality/uo/J4HC1K> ;
+    covapit:legalName "Ecologia"^^xsd:string ;
     covapit:officeIdentifier "N75H9N"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/N75H9N> .
 
 <https://w3id.org/sona/data/municipality/uo/QC00CE> a covapit:Office ;
     dc:title "Servizi Demografici"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/QC00CE> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236,
         <https://w3id.org/sona/data/municipality/uo/EBILB3> ;
+    covapit:legalName "Servizi Demografici"^^xsd:string ;
     covapit:officeIdentifier "QC00CE"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/QC00CE> .
 
@@ -1054,39 +1075,42 @@
 <https://w3id.org/sona/data/municipality/uo/4ELMSE> a covapit:Office ;
     dc:title "Settore Farmaceutico"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298297-7926155 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298297-7926155 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:hasSupportUnit <https://w3id.org/sona/data/municipality/uo/I4F0IC>,
         <https://w3id.org/sona/data/municipality/uo/JCG4HG> ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/4ELMSE> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:legalName "Settore Farmaceutico"^^xsd:string ;
     covapit:officeIdentifier "4ELMSE"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/4ELMSE> .
 
 <https://w3id.org/sona/data/municipality/uo/LB6G0G> a covapit:Office ;
     dc:title "Settore Amministrativo"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:hasSupportUnit <https://w3id.org/sona/data/municipality/uo/BR2KBS>,
         <https://w3id.org/sona/data/municipality/uo/LOFKMC> ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/LB6G0G> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:legalName "Settore Amministrativo"^^xsd:string ;
     covapit:officeIdentifier "LB6G0G"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/LB6G0G> .
 
 <https://w3id.org/sona/data/municipality/uo/RB37D6> a covapit:Office ;
     dc:title "Settore Servizi Al Cittadino"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:hasSupportUnit <https://w3id.org/sona/data/municipality/uo/8UG4XS>,
         <https://w3id.org/sona/data/municipality/uo/CKU85S> ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/RB37D6> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:legalName "Settore Servizi Al Cittadino"^^xsd:string ;
     covapit:officeIdentifier "RB37D6"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/RB37D6> .
 
@@ -1104,7 +1128,7 @@
 <https://w3id.org/sona/data/municipality/uo/FKIEFI> a covapit:Office ;
     dc:title "Settore Gestione Del Territorio"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:hasSupportUnit <https://w3id.org/sona/data/municipality/uo/BRR803>,
         <https://w3id.org/sona/data/municipality/uo/HWVL7Q>,
@@ -1112,13 +1136,14 @@
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/FKIEFI> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:legalName "Settore Gestione Del Territorio"^^xsd:string ;
     covapit:officeIdentifier "FKIEFI"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/FKIEFI> .
 
 <https://w3id.org/sona/data/municipality/uo/F635KK> a covapit:Office ;
     dc:title "Settore Programmazione Finanziaria E Tributi"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:foundationDate "2013-12-23"^^xsd:date ;
     covapit:hasSupportUnit <https://w3id.org/sona/data/municipality/uo/62M2HD>,
         <https://w3id.org/sona/data/municipality/uo/9JIDKL>,
@@ -1127,6 +1152,7 @@
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/F635KK> ;
     covapit:isPartOf <https://w3id.org/sona/data/municipality/aoo/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:legalName "Settore Programmazione Finanziaria E Tributi"^^xsd:string ;
     covapit:officeIdentifier "F635KK"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/F635KK> .
 
@@ -1152,11 +1178,12 @@
 <https://w3id.org/sona/data/municipality/aoo/A6F8CED> a covapit:HomogeneousOrganizationalArea ;
     dc:title "Comune Di Sona"^^xsd:string ;
     skos:inScheme municipality: ;
-    clvapit:hasPrimaryAddress anncsu:298459-7926082 ;
+    clvapit:hasPrimaryAddress anncsu:ad-298459-7926082 ;
     covapit:AOOIdentifier "A6F8CED"^^xsd:string ;
     covapit:foundationDate "2006-02-16"^^xsd:date ;
     covapit:holdEmployment <https://w3id.org/sona/data/municipality/referent/A6F8CED> ;
     covapit:isSupportUnitOf municipality:00500760236 ;
+    covapit:legalName "Comune Di Sona"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/municipality/ocp/A6F8CED> .
 
 municipality: skos:hasTopConcept <https://w3id.org/sona/data/municipality/aoo/A6F8CED>,

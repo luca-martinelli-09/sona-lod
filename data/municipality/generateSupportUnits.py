@@ -6,7 +6,7 @@ sys.path.append(str(Path(__file__).parents[1]))
 
 from utils import *
 
-from rdflib import Literal, XSD
+from rdflib import Literal, XSD, Graph
 
 from ontoim_py.ontoim import *
 from ontoim_py.ns import *
@@ -115,6 +115,9 @@ for _, referent in referentsDF.iterrows():
 # %%
 # Insert organization
 
+insertedSU = Graph()
+insertedSU.parse("./supportUnits.rdf")
+
 for _, office in officesDF.iterrows():
     isAOO = pd.isna(office["Codice_uni_uo"])
 
@@ -146,10 +149,6 @@ for _, office in officesDF.iterrows():
 
     institutionDate = office["Data_istituzione"]
 
-    address = office["Indirizzo"]
-    progrNazionale, progrCivico = queryStreetCode(
-        address) if address != "" else (None, None)
-
     # Office
 
     if isAOO:
@@ -168,6 +167,8 @@ for _, office in officesDF.iterrows():
         titles=[Literal(denominazione, datatype=XSD.string)]
       )
       publicOffice.officeIdentifier = Literal(uoCode, datatype=XSD.string)
+    
+    publicOffice.legalName = [Literal(denominazione, datatype=XSD.string)]
     
     if institutionDate != "":
       publicOffice.foundationDate = Literal(institutionDate, datatype=XSD.date)
@@ -200,15 +201,33 @@ for _, office in officesDF.iterrows():
 
       parentAOO.addToGraph(g, onlyProperties=True)
     
-      # Address
-    if progrNazionale:
+    # Address
+    alreadyInsertAddress = insertedSU.value(
+        publicOffice.uriRef, CLV["hasPrimaryAddress"])
+
+    if alreadyInsertAddress:
+      addressID = str(insertedSU.value(publicOffice.uriRef,
+                      CLV["hasPrimaryAddress"])).removeprefix(str(ANNCSU))
       address = Address(
-          id="ad-{}-{}".format(progrNazionale,
-                            progrCivico if progrCivico else "snc"),
+          id=addressID,
           baseUri=ANNCSU
       )
-
+      address.uriRef = alreadyInsertAddress
       publicOffice.hasPrimaryAddress = address
+    else:
+      address = office["Indirizzo"]
+      progrNazionale, progrCivico = queryStreetCode(
+          address) if address != "" else (None, None)
+
+      if progrNazionale:
+        progrCivico = progrCivico if progrCivico else "snc"
+
+        address = Address(
+            id="ad-{}-{}".format(progrNazionale, progrCivico),
+            baseUri=ANNCSU
+        )
+
+        publicOffice.hasPrimaryAddress = address
     
     # Contact Point
     onlineContactPoint = OnlineContactPoint(
