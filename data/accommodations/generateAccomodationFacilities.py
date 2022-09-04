@@ -321,6 +321,7 @@ with alive_bar(len(accommodationFacilities), dual_line=True, title='🛏️ Acco
 
         # Add all to graph
         onlineContactPoint.addToGraph(g, isTopConcept=False)
+        accommodation.hasOnlineContactPoint = onlineContactPoint
         accommodation.addToGraph(g, isTopConcept=True)
 
         bar()
@@ -453,6 +454,7 @@ with alive_bar(len(resorts), dual_line=True, title='🛏️ Resorts') as bar:
 
         # Add all to graph
         onlineContactPoint.addToGraph(g, isTopConcept=False)
+        accommodation.hasOnlineContactPoint = onlineContactPoint
         accommodation.addToGraph(g, isTopConcept=True)
 
         bar()

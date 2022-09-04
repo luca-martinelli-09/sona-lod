@@ -15,6 +15,991 @@
 @prefix smapit: <https://w3id.org/italia/onto/SM/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456081617> a smapit:Telephone ;
+    dc:title "0456081617"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "0456081617"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456081820> a smapit:Telephone ;
+    dc:title "0456081820"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "0456081820"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456082274> a smapit:Telephone ;
+    dc:title "0456082274"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "0456082274"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456082412> a smapit:Telephone ;
+    dc:title "0456082412"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "0456082412"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456095171> a smapit:Telephone ;
+    dc:title "0456095171"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "0456095171"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456095234> a smapit:Telephone ;
+    dc:title "0456095234"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "0456095234"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456095400> a smapit:Telephone ;
+    dc:title "0456095400"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "0456095400"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456095618> a smapit:Telephone ;
+    dc:title "0456095618"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "0456095618"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0458005398> a smapit:Telephone ;
+    dc:title "0458005398"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "0458005398"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0458681033> a smapit:Telephone ;
+    dc:title "0458681033"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "0458681033"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3287830665> a smapit:Telephone ;
+    dc:title "3287830665"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3287830665"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3289188729> a smapit:Telephone ;
+    dc:title "3289188729"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3289188729"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3291851184> a smapit:Telephone ;
+    dc:title "3291851184"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3291851184"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/330479062> a smapit:Telephone ;
+    dc:title "330479062"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "330479062"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3312695906> a smapit:Telephone ;
+    dc:title "3312695906"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3312695906"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3334364884> a smapit:Telephone ;
+    dc:title "3334364884"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3334364884"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/337463392> a smapit:Telephone ;
+    dc:title "337463392"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "337463392"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3386262301> a smapit:Telephone ;
+    dc:title "3386262301"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3386262301"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3389948056> a smapit:Telephone ;
+    dc:title "3389948056"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3389948056"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3393116565> a smapit:Telephone ;
+    dc:title "3393116565"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3393116565"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3393684961> a smapit:Telephone ;
+    dc:title "3393684961"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3393684961"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3395841820> a smapit:Telephone ;
+    dc:title "3395841820"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3395841820"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3402257900> a smapit:Telephone ;
+    dc:title "3402257900"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3402257900"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3408143292> a smapit:Telephone ;
+    dc:title "3408143292"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3408143292"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3472344580> a smapit:Telephone ;
+    dc:title "3472344580"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3472344580"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3474139172> a smapit:Telephone ;
+    dc:title "3474139172"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3474139172"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3474609454> a smapit:Telephone ;
+    dc:title "3474609454"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3474609454"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3479847819> a smapit:Telephone ;
+    dc:title "3479847819"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3479847819"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3484410420> a smapit:Telephone ;
+    dc:title "3484410420"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3484410420"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3489317204> a smapit:Telephone ;
+    dc:title "3489317204"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3489317204"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3489793777> a smapit:Telephone ;
+    dc:title "3489793777"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3489793777"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3494700526> a smapit:Telephone ;
+    dc:title "3494700526"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3494700526"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3516700895> a smapit:Telephone ;
+    dc:title "3516700895"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3516700895"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3920595888> a smapit:Telephone ;
+    dc:title "3920595888"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:hasTelephoneType channel:033 ;
+    smapit:telephoneNumber "3920595888"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismoalbarellolagodigarda-com> a smapit:WebSite ;
+    dc:title "www.agriturismoalbarellolagodigarda.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412140>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismocavecia-it> a smapit:WebSite ;
+    dc:title "www.agriturismocavecia.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412560>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismocortealbarel-com> a smapit:WebSite ;
+    dc:title "www.agriturismocortealbarel.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412890>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismodeigrippi-it> a smapit:WebSite ;
+    dc:title "www.agriturismodeigrippi.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412980>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismofasoli-it> a smapit:WebSite ;
+    dc:title "www.agriturismofasoli.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412b90>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismolaquaiara-it> a smapit:WebSite ;
+    dc:title "www.agriturismolaquaiara.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412c80>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-alsecomoro-it> a smapit:WebSite ;
+    dc:title "www.alsecomoro.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa84139a0>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-anticadimoradelturco-it> a smapit:WebSite ;
+    dc:title "www.anticadimoradelturco.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412110>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-beb-breakfast-lonardi-org> a smapit:WebSite ;
+    dc:title "www.beb-breakfast-lonardi.org"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412e60>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-belviveresuites-it> a smapit:WebSite ;
+    dc:title "www.belviveresuites.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412020>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-casadany-it> a smapit:WebSite ;
+    dc:title "www.casadany.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa84138b0>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-castelmorino-it> a smapit:WebSite ;
+    dc:title "www.castelmorino.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412f50>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-colombarola-com> a smapit:WebSite ;
+    dc:title "www.colombarola.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa84127a0>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-corteguastalla-it> a smapit:WebSite ;
+    dc:title "www.corteguastalla.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa84135e0>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-cortelavalle-it> a smapit:WebSite ;
+    dc:title "www.cortelavalle.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8411f90>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-cortetacconibb-it> a smapit:WebSite ;
+    dc:title "www.cortetacconibb.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8413040>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-el-bacan-it> a smapit:WebSite ;
+    dc:title "www.el-bacan.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412aa0>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-hotelalboscoamabile-it> a smapit:WebSite ;
+    dc:title "www.hotelalboscoamabile.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8411e40>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-hotelanticotermine-it> a smapit:WebSite ;
+    dc:title "www.hotelanticotermine.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412d70>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-relaisdesroches-com> a smapit:WebSite ;
+    dc:title "www.relaisdesroches.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8413130>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-residenzaleon-com> a smapit:WebSite ;
+    dc:title "www.residenzaleon.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa84137c0>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sesto-armonico-com> a smapit:WebSite ;
+    dc:title "www.sesto-armonico.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8413220>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sparicilandini-com> a smapit:WebSite ;
+    dc:title "www.sparicilandini.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa84136d0>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-trattoriaalpigno-it> a smapit:WebSite ;
+    dc:title "www.trattoriaalpigno.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa84134f0>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-villabiancabb-com> a smapit:WebSite ;
+    dc:title "www.villabiancabb.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8413310>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-villagloriana-it> a smapit:WebSite ;
+    dc:title "www.villagloriana.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8413400>"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/person/brognara-gianluca> a cpvapit:Person ;
+    dc:title "Gianluca Brognara"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpvapit:familyName "Brognara"^^xsd:string ;
+    cpvapit:givenName "Gianluca"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/person/landini-francesca> a cpvapit:Person ;
+    dc:title "Francesca Landini"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpvapit:familyName "Landini"^^xsd:string ;
+    cpvapit:givenName "Francesca"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/person/qarri-erlind> a cpvapit:Person ;
+    dc:title "Erlind Qarri"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpvapit:familyName "Qarri"^^xsd:string ;
+    cpvapit:givenName "Erlind"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/person/tommasi-franco> a cpvapit:Person ;
+    dc:title "Franco Tommasi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    cpvapit:familyName "Tommasi"^^xsd:string ;
+    cpvapit:givenName "Franco"^^xsd:string .
+
+<https://w3id.org/sona/data/tourism/accommodation/service/animali-ammessi> a accoapit:OfferedServiceDescription ;
+    dc:title "Pets Allowed"@en,
+        "Animali ammessi"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/animali-ammessi> .
+
+<https://w3id.org/sona/data/tourism/accommodation/service/impianti-risalita> a accoapit:OfferedServiceDescription ;
+    dc:title "Lifts"@en,
+        "Impianti risalita"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/impianti-risalita> .
+
+<https://w3id.org/sona/data/tourism/accommodation/service/lago> a accoapit:OfferedServiceDescription ;
+    dc:title "Lake"@en,
+        "Lago"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/lago> .
+
+<https://w3id.org/sona/data/tourism/accommodation/service/mare> a accoapit:OfferedServiceDescription ;
+    dc:title "Sea"@en,
+        "Mare"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/mare> .
+
+<https://w3id.org/sona/data/tourism/accommodation/service/piscina-coperta> a accoapit:OfferedServiceDescription ;
+    dc:title "Covered pool"@en,
+        "Piscina coperta"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/piscina-coperta> .
+
+<https://w3id.org/sona/data/tourism/accommodation/service/sala-conferenze> a accoapit:OfferedServiceDescription ;
+    dc:title "Conference room"@en,
+        "Sala conferenze"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/sala-conferenze> .
+
+<https://w3id.org/sona/data/tourism/accommodation/service/solarium> a accoapit:OfferedServiceDescription ;
+    dc:title "Solarium"@en,
+        "Solarium"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/solarium> .
+
+<https://w3id.org/sona/data/tourism/accommodation/service/stazione-fs> a accoapit:OfferedServiceDescription ;
+    dc:title "Railway station"@en,
+        "Stazione"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/stazione-fs> .
+
+<https://w3id.org/sona/data/tourism/accommodation/service/zona-fiera> a accoapit:OfferedServiceDescription ;
+    dc:title "Fair area"@en,
+        "Zona fiera"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/zona-fiera> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/121924> a accoapit:Accommodation ;
+    dc:title "Relais Des Roches"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "121924"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:03012111203 ;
+    accoapit:hasAccommodationTypology accotype:C11 ;
+    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio> ;
+    clvapit:hasAddress anncsu:ad-298427-7943489 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Relais Des Roches"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/121924> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/18454> a accoapit:Accommodation ;
+    dc:title "Antica Corte \"La Valle\""^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "18454"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:01943090231 ;
+    accoapit:hasAccommodationTypology accotype:B12 ;
+    clvapit:hasAddress anncsu:ad-298271-7931367 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Antica Corte \"La Valle\""^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/18454> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/18455> a accoapit:Accommodation ;
+    dc:title "Ca' Vecia"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "18455"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:04408910232 ;
+    accoapit:hasAccommodationTypology accotype:B12 ;
+    clvapit:hasAddress anncsu:ad-298534-7943544 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Ca' Vecia"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/18455> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/252342> a accoapit:Accommodation ;
+    dc:title "Sesto Armonico"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "252342"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:04873090239 ;
+    accoapit:hasAccommodationTypology accotype:C11 ;
+    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/collinare>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/francese>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/piscina> ;
+    clvapit:hasAddress anncsu:ad-298429-7943503 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Sesto Armonico"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/252342> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/264523> a accoapit:Accommodation ;
+    dc:title "Lonardi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "264523"^^xsd:string ;
+    accoapit:hasAccommodationTypology accotype:C11 ;
+    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/animali>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/collinare>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/giochi-bimbi> ;
+    clvapit:hasAddress anncsu:ad-298194-7923649 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Lonardi"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/264523> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/284310> a accoapit:Accommodation ;
+    dc:title "Tenuta Corte Tese"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "284310"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:04454560238 ;
+    accoapit:hasAccommodationTypology accotype:B12 ;
+    clvapit:hasAddress anncsu:ad-298495-7916562 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Tenuta Corte Tese"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/284310> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/300992> a accoapit:Accommodation ;
+    dc:title "Fattoria Le Mase"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "300992"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:04625860236 ;
+    accoapit:hasAccommodationTypology accotype:B12 ;
+    clvapit:hasAddress anncsu:ad-298232-33915133 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Fattoria Le Mase"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/300992> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/335202> a accoapit:Accommodation ;
+    dc:title "Castel Morino"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "335202"^^xsd:string ;
+    accoapit:hasAccommodationTypology accotype:C12 ;
+    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aeroporto>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/centro-storico>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/collinare>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/piscina>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/spagnolo> ;
+    clvapit:hasAddress anncsu:ad-298421-7921304 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Castel Morino"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/335202> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/3360> a accoapit:Accommodation ;
+    dc:title "Hotel Antico Termine"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "3360"^^xsd:string ;
+    accoapit:hasAccommodationClassification accostar:4 ;
+    accoapit:hasAccommodationOwner organization:06865290156 ;
+    accoapit:hasAccommodationTypology accotype:A1 ;
+    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aeroporto>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/autostrada>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/fitness>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/francese>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/periferia>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/piscina>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/ristorante>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/sauna>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/tedesco> ;
+    clvapit:hasAddress anncsu:ad-298565-7936209 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/close> ;
+    poiapit:POIofficialName "Hotel Antico Termine"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/3360> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/3361> a accoapit:Accommodation ;
+    dc:title "Hotel Al Bosco"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "3361"^^xsd:string ;
+    accoapit:hasAccommodationClassification accostar:3 ;
+    accoapit:hasAccommodationOwner organization:02063300236 ;
+    accoapit:hasAccommodationTypology accotype:A1 ;
+    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/francese>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/periferia>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/ristorante> ;
+    clvapit:hasAddress anncsu:ad-298225-7943242 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/temp-close> ;
+    poiapit:POIofficialName "Hotel Al Bosco"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/3361> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/44683> a accoapit:Accommodation ;
+    dc:title "Colombarola"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "44683"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:03600150233 ;
+    accoapit:hasAccommodationTypology accotype:B12 ;
+    clvapit:hasAddress anncsu:ad-298284-7914155 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Colombarola"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/44683> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/45967> a accoapit:Accommodation ;
+    dc:title "El Bacan"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "45967"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:04810460230 ;
+    accoapit:hasAccommodationTypology accotype:B12 ;
+    clvapit:hasAddress anncsu:ad-298515-7928867 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "El Bacan"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/45967> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/45968> a accoapit:Accommodation ;
+    dc:title "La Quaiara"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "45968"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:02354570232 ;
+    accoapit:hasAccommodationTypology accotype:B12 ;
+    clvapit:hasAddress anncsu:ad-298474-7943434 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "La Quaiara"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/45968> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/461> a accoapit:Accommodation ;
+    dc:title "Corte Guastalla"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "461"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:03339420238 ;
+    accoapit:hasAccommodationTypology accotype:B111 ;
+    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aeroporto>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/autostrada>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/francese>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/tedesco> ;
+    clvapit:hasAddress anncsu:ad-298365-7923942 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Corte Guastalla"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/461> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/47495> a accoapit:Accommodation ;
+    dc:title "Corte Tacconi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "47495"^^xsd:string ;
+    accoapit:hasAccommodationTypology accotype:C11 ;
+    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/periferia> ;
+    clvapit:hasAddress anncsu:ad-298261-7909041 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Corte Tacconi"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/47495> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/48829> a accoapit:Accommodation ;
+    dc:title "Dei Grippi"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "48829"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:03213760238 ;
+    accoapit:hasAccommodationTypology accotype:B12 ;
+    clvapit:hasAddress anncsu:ad-298284-7914159 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Dei Grippi"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/48829> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/49934> a accoapit:Accommodation ;
+    dc:title "Al Pigno"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "49934"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:02275940233 ;
+    accoapit:hasAccommodationTypology accotype:B111 ;
+    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/centro-storico>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/collinare>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/ristorante> ;
+    clvapit:hasAddress anncsu:ad-298462-7923643 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Al Pigno"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/49934> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/49994> a accoapit:Accommodation ;
+    dc:title "Albarello"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "49994"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:02898640236 ;
+    accoapit:hasAccommodationTypology accotype:B12 ;
+    clvapit:hasAddress anncsu:ad-298195-7933522 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Albarello"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/49994> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/53041> a accoapit:Accommodation ;
+    dc:title "Villa Bianca"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "53041"^^xsd:string ;
+    accoapit:hasAccommodationTypology accotype:C11 ;
+    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/collinare>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/giochi-bimbi>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio> ;
+    clvapit:hasAddress anncsu:ad-298310-7916512 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Villa Bianca"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/53041> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/55100> a accoapit:Accommodation ;
+    dc:title "Albarosa"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "55100"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:02811130232 ;
+    accoapit:hasAccommodationTypology accotype:B12 ;
+    clvapit:hasAddress anncsu:ad-298448-7933593 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Albarosa"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/55100> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/56901> a accoapit:Accommodation ;
+    dc:title "Villa Gloriana"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "56901"^^xsd:string ;
+    accoapit:hasAccommodationTypology accotype:C11 ;
+    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/collinare>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/giochi-bimbi>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/piscina> ;
+    clvapit:hasAddress anncsu:ad-298224-7943191 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Villa Gloriana"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/56901> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/62540> a accoapit:Accommodation ;
+    dc:title "Belvivere Suites"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "62540"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:03517020230 ;
+    accoapit:hasAccommodationTypology accotype:B12 ;
+    clvapit:hasAddress anncsu:ad-298271-7931373 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Belvivere Suites"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/62540> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/69080> a accoapit:Accommodation ;
+    dc:title "Antica Dimora Del Turco"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "69080"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:04172590236 ;
+    accoapit:hasAccommodationTypology accotype:B12 ;
+    clvapit:hasAddress anncsu:ad-298504-7909213 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Antica Dimora Del Turco"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/69080> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/71300> a accoapit:Accommodation ;
+    dc:title "La Cherubina"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "71300"^^xsd:string ;
+    accoapit:hasAccommodationTypology accotype:C11 ;
+    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aeroporto>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/autostrada>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/collinare>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/giochi-bimbi>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
+        <https://w3id.org/sona/data/tourism/accommodation/service/termale> ;
+    clvapit:hasAddress anncsu:ad-298357-7933732 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "La Cherubina"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/71300> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/76260> a accoapit:Accommodation ;
+    dc:title "Corte Albarel"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "76260"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:02957360239 ;
+    accoapit:hasAccommodationTypology accotype:B12 ;
+    clvapit:hasAddress anncsu:ad-298195-7933519 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Corte Albarel"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/76260> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/91820> a accoapit:Accommodation ;
+    dc:title "Fasoli"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "91820"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:03008170239 ;
+    accoapit:hasAccommodationTypology accotype:B12 ;
+    clvapit:hasAddress anncsu:ad-298232-7935995 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Fasoli"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/91820> .
+
+<https://w3id.org/sona/data/tourism/accommodation/accommodation/96541> a accoapit:Accommodation ;
+    dc:title "Brolin"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    accoapit:accommodationCode "96541"^^xsd:string ;
+    accoapit:hasAccommodationOwner organization:03585820230 ;
+    accoapit:hasAccommodationTypology accotype:B13 ;
+    clvapit:hasAddress anncsu:ad-298229-30176482 ;
+    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
+    poiapit:POIofficialName "Brolin"^^xsd:string ;
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/96541> .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/aeroporto> a accoapit:OSDFeature ;
+    dc:title "Airport"@en,
+        "Aeroporto"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Airport"@en,
+        "Aeroporto"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/animali-ammessi> a accoapit:OSDFeature ;
+    dc:title "Pets Allowed"@en,
+        "Animali ammessi"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Pets Allowed"@en,
+        "Animali ammessi"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/aria-condizionata> a accoapit:OSDFeature ;
+    dc:title "Air conditioning"@en,
+        "Aria condizionata"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Air conditioning"@en,
+        "Aria condizionata"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/autostrada> a accoapit:OSDFeature ;
+    dc:title "Highway"@en,
+        "Autostrada"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Highway"@en,
+        "Autostrada"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/centro-storico> a accoapit:OSDFeature ;
+    dc:title "Old Town"@en,
+        "Centro storico"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Old Town"@en,
+        "Centro storico"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/collinare> a accoapit:OSDFeature ;
+    dc:title "Hilly"@en,
+        "Collinare"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Hilly"@en,
+        "Collinare"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/fitness> a accoapit:OSDFeature ;
+    dc:title "Fitness"@en,
+        "Fitness"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Fitness"@en,
+        "Fitness"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/francese> a accoapit:OSDFeature ;
+    dc:title "French"@en,
+        "Francese"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "French"@en,
+        "Francese"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/giochi-bimbi> a accoapit:OSDFeature ;
+    dc:title "Children's games"@en,
+        "Giochi bimbi"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Children's games"@en,
+        "Giochi bimbi"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/impianti-risalita> a accoapit:OSDFeature ;
+    dc:title "Lifts"@en,
+        "Impianti risalita"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Lifts"@en,
+        "Impianti risalita"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/inglese> a accoapit:OSDFeature ;
+    dc:title "English"@en,
+        "Inglese"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "English"@en,
+        "Inglese"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/lago> a accoapit:OSDFeature ;
+    dc:title "Lake"@en,
+        "Lago"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Lake"@en,
+        "Lago"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/mare> a accoapit:OSDFeature ;
+    dc:title "Sea"@en,
+        "Mare"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Sea"@en,
+        "Mare"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/parcheggio> a accoapit:OSDFeature ;
+    dc:title "Parking"@en,
+        "Parcheggio"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Parking"@en,
+        "Parcheggio"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/periferia> a accoapit:OSDFeature ;
+    dc:title "Outskirts"@en,
+        "Periferia"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Outskirts"@en,
+        "Periferia"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/piscina> a accoapit:OSDFeature ;
+    dc:title "Pool"@en,
+        "Piscina"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Pool"@en,
+        "Piscina"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/piscina-coperta> a accoapit:OSDFeature ;
+    dc:title "Covered pool"@en,
+        "Piscina coperta"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Covered pool"@en,
+        "Piscina coperta"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/ristorante> a accoapit:OSDFeature ;
+    dc:title "Restaurant"@en,
+        "Ristorante"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Restaurant"@en,
+        "Ristorante"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/sala-conferenze> a accoapit:OSDFeature ;
+    dc:title "Conference room"@en,
+        "Sala conferenze"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Conference room"@en,
+        "Sala conferenze"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/sauna> a accoapit:OSDFeature ;
+    dc:title "Sauna"@en,
+        "Sauna"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Sauna"@en,
+        "Sauna"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/solarium> a accoapit:OSDFeature ;
+    dc:title "Solarium"@en,
+        "Solarium"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Solarium"@en,
+        "Solarium"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/spagnolo> a accoapit:OSDFeature ;
+    dc:title "Spanish"@en,
+        "Spagnolo"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Spanish"@en,
+        "Spagnolo"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/stazione-fs> a accoapit:OSDFeature ;
+    dc:title "Railway station"@en,
+        "Stazione"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Railway station"@en,
+        "Stazione"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/tedesco> a accoapit:OSDFeature ;
+    dc:title "German"@en,
+        "Tedesco"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "German"@en,
+        "Tedesco"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/termale> a accoapit:OSDFeature ;
+    dc:title "Thermal"@en,
+        "Termale"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Thermal"@en,
+        "Termale"@it .
+
+<https://w3id.org/sona/data/tourism/accommodation/feature/zona-fiera> a accoapit:OSDFeature ;
+    dc:title "Fair area"@en,
+        "Zona fiera"@it ;
+    skos:inScheme accommodation: ;
+    accoapit:featureName "Fair area"@en,
+        "Zona fiera"@it .
+
 <https://w3id.org/sona/data/tourism/accommodation/ocp/121924> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Relais Des Roches"@en,
         "Informazioni di contatto per Relais Des Roches"@it ;
@@ -463,964 +1448,6 @@
         "Informazioni di contatto per Izzo Luigi"@it ;
     skos:inScheme accommodation: ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/luigi-izzo1965-me-com> .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456081617> a smapit:Telephone ;
-    dc:title "0456081617"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "0456081617"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456081820> a smapit:Telephone ;
-    dc:title "0456081820"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "0456081820"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456082274> a smapit:Telephone ;
-    dc:title "0456082274"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "0456082274"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456082412> a smapit:Telephone ;
-    dc:title "0456082412"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "0456082412"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456095171> a smapit:Telephone ;
-    dc:title "0456095171"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "0456095171"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456095234> a smapit:Telephone ;
-    dc:title "0456095234"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "0456095234"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456095400> a smapit:Telephone ;
-    dc:title "0456095400"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "0456095400"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456095618> a smapit:Telephone ;
-    dc:title "0456095618"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "0456095618"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0458005398> a smapit:Telephone ;
-    dc:title "0458005398"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "0458005398"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0458681033> a smapit:Telephone ;
-    dc:title "0458681033"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "0458681033"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3287830665> a smapit:Telephone ;
-    dc:title "3287830665"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3287830665"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3289188729> a smapit:Telephone ;
-    dc:title "3289188729"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3289188729"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3291851184> a smapit:Telephone ;
-    dc:title "3291851184"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3291851184"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/330479062> a smapit:Telephone ;
-    dc:title "330479062"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "330479062"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3312695906> a smapit:Telephone ;
-    dc:title "3312695906"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3312695906"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3334364884> a smapit:Telephone ;
-    dc:title "3334364884"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3334364884"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/337463392> a smapit:Telephone ;
-    dc:title "337463392"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "337463392"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3386262301> a smapit:Telephone ;
-    dc:title "3386262301"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3386262301"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3389948056> a smapit:Telephone ;
-    dc:title "3389948056"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3389948056"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3393116565> a smapit:Telephone ;
-    dc:title "3393116565"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3393116565"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3393684961> a smapit:Telephone ;
-    dc:title "3393684961"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3393684961"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3395841820> a smapit:Telephone ;
-    dc:title "3395841820"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3395841820"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3402257900> a smapit:Telephone ;
-    dc:title "3402257900"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3402257900"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3408143292> a smapit:Telephone ;
-    dc:title "3408143292"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3408143292"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3472344580> a smapit:Telephone ;
-    dc:title "3472344580"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3472344580"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3474139172> a smapit:Telephone ;
-    dc:title "3474139172"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3474139172"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3474609454> a smapit:Telephone ;
-    dc:title "3474609454"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3474609454"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3479847819> a smapit:Telephone ;
-    dc:title "3479847819"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3479847819"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3484410420> a smapit:Telephone ;
-    dc:title "3484410420"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3484410420"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3489317204> a smapit:Telephone ;
-    dc:title "3489317204"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3489317204"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3489793777> a smapit:Telephone ;
-    dc:title "3489793777"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3489793777"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3494700526> a smapit:Telephone ;
-    dc:title "3494700526"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3494700526"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3516700895> a smapit:Telephone ;
-    dc:title "3516700895"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3516700895"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3920595888> a smapit:Telephone ;
-    dc:title "3920595888"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:hasTelephoneType channel:033 ;
-    smapit:telephoneNumber "3920595888"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismoalbarellolagodigarda-com> a smapit:WebSite ;
-    dc:title "www.agriturismoalbarellolagodigarda.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b784265c0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismocavecia-it> a smapit:WebSite ;
-    dc:title "www.agriturismocavecia.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426530>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismocortealbarel-com> a smapit:WebSite ;
-    dc:title "www.agriturismocortealbarel.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426830>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismodeigrippi-it> a smapit:WebSite ;
-    dc:title "www.agriturismodeigrippi.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426950>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismofasoli-it> a smapit:WebSite ;
-    dc:title "www.agriturismofasoli.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426b60>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismolaquaiara-it> a smapit:WebSite ;
-    dc:title "www.agriturismolaquaiara.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426bc0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-alsecomoro-it> a smapit:WebSite ;
-    dc:title "www.alsecomoro.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427970>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-anticadimoradelturco-it> a smapit:WebSite ;
-    dc:title "www.anticadimoradelturco.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b784262f0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-beb-breakfast-lonardi-org> a smapit:WebSite ;
-    dc:title "www.beb-breakfast-lonardi.org"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426e30>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-belviveresuites-it> a smapit:WebSite ;
-    dc:title "www.belviveresuites.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426410>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-casadany-it> a smapit:WebSite ;
-    dc:title "www.casadany.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427880>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-castelmorino-it> a smapit:WebSite ;
-    dc:title "www.castelmorino.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426f20>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-colombarola-com> a smapit:WebSite ;
-    dc:title "www.colombarola.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426740>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-corteguastalla-it> a smapit:WebSite ;
-    dc:title "www.corteguastalla.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427520>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-cortelavalle-it> a smapit:WebSite ;
-    dc:title "www.cortelavalle.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b784266e0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-cortetacconibb-it> a smapit:WebSite ;
-    dc:title "www.cortetacconibb.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426f80>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-el-bacan-it> a smapit:WebSite ;
-    dc:title "www.el-bacan.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b784268c0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-hotelalboscoamabile-it> a smapit:WebSite ;
-    dc:title "www.hotelalboscoamabile.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78425ed0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-hotelanticotermine-it> a smapit:WebSite ;
-    dc:title "www.hotelanticotermine.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78426cb0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-relaisdesroches-com> a smapit:WebSite ;
-    dc:title "www.relaisdesroches.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427100>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-residenzaleon-com> a smapit:WebSite ;
-    dc:title "www.residenzaleon.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427700>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sesto-armonico-com> a smapit:WebSite ;
-    dc:title "www.sesto-armonico.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427070>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sparicilandini-com> a smapit:WebSite ;
-    dc:title "www.sparicilandini.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427670>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-trattoriaalpigno-it> a smapit:WebSite ;
-    dc:title "www.trattoriaalpigno.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427430>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-villabiancabb-com> a smapit:WebSite ;
-    dc:title "www.villabiancabb.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b78427250>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-villagloriana-it> a smapit:WebSite ;
-    dc:title "www.villagloriana.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f6b784273a0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/person/brognara-gianluca> a cpvapit:Person ;
-    dc:title "Gianluca Brognara"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    cpvapit:familyName "Brognara"^^xsd:string ;
-    cpvapit:givenName "Gianluca"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/person/landini-francesca> a cpvapit:Person ;
-    dc:title "Francesca Landini"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    cpvapit:familyName "Landini"^^xsd:string ;
-    cpvapit:givenName "Francesca"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/person/qarri-erlind> a cpvapit:Person ;
-    dc:title "Erlind Qarri"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    cpvapit:familyName "Qarri"^^xsd:string ;
-    cpvapit:givenName "Erlind"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/person/tommasi-franco> a cpvapit:Person ;
-    dc:title "Franco Tommasi"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    cpvapit:familyName "Tommasi"^^xsd:string ;
-    cpvapit:givenName "Franco"^^xsd:string .
-
-<https://w3id.org/sona/data/tourism/accommodation/service/animali-ammessi> a accoapit:OfferedServiceDescription ;
-    dc:title "Pets Allowed"@en,
-        "Animali ammessi"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/animali-ammessi> .
-
-<https://w3id.org/sona/data/tourism/accommodation/service/impianti-risalita> a accoapit:OfferedServiceDescription ;
-    dc:title "Lifts"@en,
-        "Impianti risalita"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/impianti-risalita> .
-
-<https://w3id.org/sona/data/tourism/accommodation/service/lago> a accoapit:OfferedServiceDescription ;
-    dc:title "Lake"@en,
-        "Lago"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/lago> .
-
-<https://w3id.org/sona/data/tourism/accommodation/service/mare> a accoapit:OfferedServiceDescription ;
-    dc:title "Sea"@en,
-        "Mare"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/mare> .
-
-<https://w3id.org/sona/data/tourism/accommodation/service/piscina-coperta> a accoapit:OfferedServiceDescription ;
-    dc:title "Covered pool"@en,
-        "Piscina coperta"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/piscina-coperta> .
-
-<https://w3id.org/sona/data/tourism/accommodation/service/sala-conferenze> a accoapit:OfferedServiceDescription ;
-    dc:title "Conference room"@en,
-        "Sala conferenze"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/sala-conferenze> .
-
-<https://w3id.org/sona/data/tourism/accommodation/service/solarium> a accoapit:OfferedServiceDescription ;
-    dc:title "Solarium"@en,
-        "Solarium"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/solarium> .
-
-<https://w3id.org/sona/data/tourism/accommodation/service/stazione-fs> a accoapit:OfferedServiceDescription ;
-    dc:title "Railway station"@en,
-        "Stazione"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/stazione-fs> .
-
-<https://w3id.org/sona/data/tourism/accommodation/service/zona-fiera> a accoapit:OfferedServiceDescription ;
-    dc:title "Fair area"@en,
-        "Zona fiera"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:hasOSDFeature <https://w3id.org/sona/data/tourism/accommodation/feature/zona-fiera> .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/121924> a accoapit:Accommodation ;
-    dc:title "Relais Des Roches"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "121924"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:03012111203 ;
-    accoapit:hasAccommodationTypology accotype:C11 ;
-    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio> ;
-    clvapit:hasAddress anncsu:ad-298427-7943489 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Relais Des Roches"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/18454> a accoapit:Accommodation ;
-    dc:title "Antica Corte \"La Valle\""^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "18454"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:01943090231 ;
-    accoapit:hasAccommodationTypology accotype:B12 ;
-    clvapit:hasAddress anncsu:ad-298271-7931367 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Antica Corte \"La Valle\""^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/18455> a accoapit:Accommodation ;
-    dc:title "Ca' Vecia"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "18455"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:04408910232 ;
-    accoapit:hasAccommodationTypology accotype:B12 ;
-    clvapit:hasAddress anncsu:ad-298534-7943544 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Ca' Vecia"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/252342> a accoapit:Accommodation ;
-    dc:title "Sesto Armonico"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "252342"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:04873090239 ;
-    accoapit:hasAccommodationTypology accotype:C11 ;
-    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/collinare>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/francese>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/piscina> ;
-    clvapit:hasAddress anncsu:ad-298429-7943503 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Sesto Armonico"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/264523> a accoapit:Accommodation ;
-    dc:title "Lonardi"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "264523"^^xsd:string ;
-    accoapit:hasAccommodationTypology accotype:C11 ;
-    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/animali>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/collinare>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/giochi-bimbi> ;
-    clvapit:hasAddress anncsu:ad-298194-7923649 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Lonardi"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/284310> a accoapit:Accommodation ;
-    dc:title "Tenuta Corte Tese"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "284310"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:04454560238 ;
-    accoapit:hasAccommodationTypology accotype:B12 ;
-    clvapit:hasAddress anncsu:ad-298495-7916562 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Tenuta Corte Tese"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/300992> a accoapit:Accommodation ;
-    dc:title "Fattoria Le Mase"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "300992"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:04625860236 ;
-    accoapit:hasAccommodationTypology accotype:B12 ;
-    clvapit:hasAddress anncsu:ad-298232-33915133 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Fattoria Le Mase"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/335202> a accoapit:Accommodation ;
-    dc:title "Castel Morino"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "335202"^^xsd:string ;
-    accoapit:hasAccommodationTypology accotype:C12 ;
-    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aeroporto>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/centro-storico>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/collinare>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/piscina>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/spagnolo> ;
-    clvapit:hasAddress anncsu:ad-298421-7921304 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Castel Morino"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/3360> a accoapit:Accommodation ;
-    dc:title "Hotel Antico Termine"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "3360"^^xsd:string ;
-    accoapit:hasAccommodationClassification accostar:4 ;
-    accoapit:hasAccommodationOwner organization:06865290156 ;
-    accoapit:hasAccommodationTypology accotype:A1 ;
-    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aeroporto>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/autostrada>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/fitness>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/francese>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/periferia>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/piscina>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/ristorante>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/sauna>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/tedesco> ;
-    clvapit:hasAddress anncsu:ad-298565-7936209 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/close> ;
-    poiapit:POIofficialName "Hotel Antico Termine"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/3361> a accoapit:Accommodation ;
-    dc:title "Hotel Al Bosco"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "3361"^^xsd:string ;
-    accoapit:hasAccommodationClassification accostar:3 ;
-    accoapit:hasAccommodationOwner organization:02063300236 ;
-    accoapit:hasAccommodationTypology accotype:A1 ;
-    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/francese>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/periferia>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/ristorante> ;
-    clvapit:hasAddress anncsu:ad-298225-7943242 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/temp-close> ;
-    poiapit:POIofficialName "Hotel Al Bosco"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/44683> a accoapit:Accommodation ;
-    dc:title "Colombarola"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "44683"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:03600150233 ;
-    accoapit:hasAccommodationTypology accotype:B12 ;
-    clvapit:hasAddress anncsu:ad-298284-7914155 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Colombarola"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/45967> a accoapit:Accommodation ;
-    dc:title "El Bacan"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "45967"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:04810460230 ;
-    accoapit:hasAccommodationTypology accotype:B12 ;
-    clvapit:hasAddress anncsu:ad-298515-7928867 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "El Bacan"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/45968> a accoapit:Accommodation ;
-    dc:title "La Quaiara"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "45968"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:02354570232 ;
-    accoapit:hasAccommodationTypology accotype:B12 ;
-    clvapit:hasAddress anncsu:ad-298474-7943434 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "La Quaiara"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/461> a accoapit:Accommodation ;
-    dc:title "Corte Guastalla"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "461"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:03339420238 ;
-    accoapit:hasAccommodationTypology accotype:B111 ;
-    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aeroporto>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/autostrada>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/francese>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/tedesco> ;
-    clvapit:hasAddress anncsu:ad-298365-7923942 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Corte Guastalla"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/47495> a accoapit:Accommodation ;
-    dc:title "Corte Tacconi"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "47495"^^xsd:string ;
-    accoapit:hasAccommodationTypology accotype:C11 ;
-    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/periferia> ;
-    clvapit:hasAddress anncsu:ad-298261-7909041 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Corte Tacconi"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/48829> a accoapit:Accommodation ;
-    dc:title "Dei Grippi"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "48829"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:03213760238 ;
-    accoapit:hasAccommodationTypology accotype:B12 ;
-    clvapit:hasAddress anncsu:ad-298284-7914159 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Dei Grippi"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/49934> a accoapit:Accommodation ;
-    dc:title "Al Pigno"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "49934"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:02275940233 ;
-    accoapit:hasAccommodationTypology accotype:B111 ;
-    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/centro-storico>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/collinare>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/ristorante> ;
-    clvapit:hasAddress anncsu:ad-298462-7923643 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Al Pigno"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/49994> a accoapit:Accommodation ;
-    dc:title "Albarello"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "49994"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:02898640236 ;
-    accoapit:hasAccommodationTypology accotype:B12 ;
-    clvapit:hasAddress anncsu:ad-298195-7933522 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Albarello"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/53041> a accoapit:Accommodation ;
-    dc:title "Villa Bianca"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "53041"^^xsd:string ;
-    accoapit:hasAccommodationTypology accotype:C11 ;
-    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/collinare>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/giochi-bimbi>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio> ;
-    clvapit:hasAddress anncsu:ad-298310-7916512 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Villa Bianca"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/55100> a accoapit:Accommodation ;
-    dc:title "Albarosa"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "55100"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:02811130232 ;
-    accoapit:hasAccommodationTypology accotype:B12 ;
-    clvapit:hasAddress anncsu:ad-298448-7933593 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Albarosa"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/56901> a accoapit:Accommodation ;
-    dc:title "Villa Gloriana"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "56901"^^xsd:string ;
-    accoapit:hasAccommodationTypology accotype:C11 ;
-    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aria-condizionata>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/collinare>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/giochi-bimbi>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/parcheggio>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/piscina> ;
-    clvapit:hasAddress anncsu:ad-298224-7943191 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Villa Gloriana"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/62540> a accoapit:Accommodation ;
-    dc:title "Belvivere Suites"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "62540"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:03517020230 ;
-    accoapit:hasAccommodationTypology accotype:B12 ;
-    clvapit:hasAddress anncsu:ad-298271-7931373 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Belvivere Suites"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/69080> a accoapit:Accommodation ;
-    dc:title "Antica Dimora Del Turco"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "69080"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:04172590236 ;
-    accoapit:hasAccommodationTypology accotype:B12 ;
-    clvapit:hasAddress anncsu:ad-298504-7909213 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Antica Dimora Del Turco"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/71300> a accoapit:Accommodation ;
-    dc:title "La Cherubina"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "71300"^^xsd:string ;
-    accoapit:hasAccommodationTypology accotype:C11 ;
-    accoapit:hasOfferedServiceDescription <https://w3id.org/sona/data/tourism/accommodation/service/aeroporto>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/autostrada>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/collinare>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/giochi-bimbi>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/inglese>,
-        <https://w3id.org/sona/data/tourism/accommodation/service/termale> ;
-    clvapit:hasAddress anncsu:ad-298357-7933732 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "La Cherubina"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/76260> a accoapit:Accommodation ;
-    dc:title "Corte Albarel"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "76260"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:02957360239 ;
-    accoapit:hasAccommodationTypology accotype:B12 ;
-    clvapit:hasAddress anncsu:ad-298195-7933519 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Corte Albarel"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/91820> a accoapit:Accommodation ;
-    dc:title "Fasoli"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "91820"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:03008170239 ;
-    accoapit:hasAccommodationTypology accotype:B12 ;
-    clvapit:hasAddress anncsu:ad-298232-7935995 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Fasoli"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/accommodation/96541> a accoapit:Accommodation ;
-    dc:title "Brolin"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    accoapit:accommodationCode "96541"^^xsd:string ;
-    accoapit:hasAccommodationOwner organization:03585820230 ;
-    accoapit:hasAccommodationTypology accotype:B13 ;
-    clvapit:hasAddress anncsu:ad-298229-30176482 ;
-    clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
-    poiapit:POIofficialName "Brolin"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/aeroporto> a accoapit:OSDFeature ;
-    dc:title "Airport"@en,
-        "Aeroporto"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Airport"@en,
-        "Aeroporto"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/animali-ammessi> a accoapit:OSDFeature ;
-    dc:title "Pets Allowed"@en,
-        "Animali ammessi"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Pets Allowed"@en,
-        "Animali ammessi"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/aria-condizionata> a accoapit:OSDFeature ;
-    dc:title "Air conditioning"@en,
-        "Aria condizionata"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Air conditioning"@en,
-        "Aria condizionata"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/autostrada> a accoapit:OSDFeature ;
-    dc:title "Highway"@en,
-        "Autostrada"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Highway"@en,
-        "Autostrada"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/centro-storico> a accoapit:OSDFeature ;
-    dc:title "Old Town"@en,
-        "Centro storico"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Old Town"@en,
-        "Centro storico"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/collinare> a accoapit:OSDFeature ;
-    dc:title "Hilly"@en,
-        "Collinare"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Hilly"@en,
-        "Collinare"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/fitness> a accoapit:OSDFeature ;
-    dc:title "Fitness"@en,
-        "Fitness"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Fitness"@en,
-        "Fitness"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/francese> a accoapit:OSDFeature ;
-    dc:title "French"@en,
-        "Francese"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "French"@en,
-        "Francese"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/giochi-bimbi> a accoapit:OSDFeature ;
-    dc:title "Children's games"@en,
-        "Giochi bimbi"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Children's games"@en,
-        "Giochi bimbi"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/impianti-risalita> a accoapit:OSDFeature ;
-    dc:title "Lifts"@en,
-        "Impianti risalita"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Lifts"@en,
-        "Impianti risalita"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/inglese> a accoapit:OSDFeature ;
-    dc:title "English"@en,
-        "Inglese"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "English"@en,
-        "Inglese"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/lago> a accoapit:OSDFeature ;
-    dc:title "Lake"@en,
-        "Lago"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Lake"@en,
-        "Lago"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/mare> a accoapit:OSDFeature ;
-    dc:title "Sea"@en,
-        "Mare"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Sea"@en,
-        "Mare"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/parcheggio> a accoapit:OSDFeature ;
-    dc:title "Parking"@en,
-        "Parcheggio"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Parking"@en,
-        "Parcheggio"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/periferia> a accoapit:OSDFeature ;
-    dc:title "Outskirts"@en,
-        "Periferia"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Outskirts"@en,
-        "Periferia"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/piscina> a accoapit:OSDFeature ;
-    dc:title "Pool"@en,
-        "Piscina"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Pool"@en,
-        "Piscina"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/piscina-coperta> a accoapit:OSDFeature ;
-    dc:title "Covered pool"@en,
-        "Piscina coperta"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Covered pool"@en,
-        "Piscina coperta"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/ristorante> a accoapit:OSDFeature ;
-    dc:title "Restaurant"@en,
-        "Ristorante"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Restaurant"@en,
-        "Ristorante"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/sala-conferenze> a accoapit:OSDFeature ;
-    dc:title "Conference room"@en,
-        "Sala conferenze"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Conference room"@en,
-        "Sala conferenze"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/sauna> a accoapit:OSDFeature ;
-    dc:title "Sauna"@en,
-        "Sauna"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Sauna"@en,
-        "Sauna"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/solarium> a accoapit:OSDFeature ;
-    dc:title "Solarium"@en,
-        "Solarium"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Solarium"@en,
-        "Solarium"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/spagnolo> a accoapit:OSDFeature ;
-    dc:title "Spanish"@en,
-        "Spagnolo"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Spanish"@en,
-        "Spagnolo"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/stazione-fs> a accoapit:OSDFeature ;
-    dc:title "Railway station"@en,
-        "Stazione"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Railway station"@en,
-        "Stazione"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/tedesco> a accoapit:OSDFeature ;
-    dc:title "German"@en,
-        "Tedesco"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "German"@en,
-        "Tedesco"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/termale> a accoapit:OSDFeature ;
-    dc:title "Thermal"@en,
-        "Termale"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Thermal"@en,
-        "Termale"@it .
-
-<https://w3id.org/sona/data/tourism/accommodation/feature/zona-fiera> a accoapit:OSDFeature ;
-    dc:title "Fair area"@en,
-        "Zona fiera"@it ;
-    skos:inScheme accommodation: ;
-    accoapit:featureName "Fair area"@en,
-        "Zona fiera"@it .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456080162> a smapit:Telephone ;
     dc:title "0456080162"^^xsd:string ;
@@ -2135,7 +2162,8 @@
     clvapit:hasAddress anncsu:ad-298365-7923943 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Tommasi Orietta"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830008> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830009> a accoapit:Accommodation ;
     dc:title "Tommasi Franco"^^xsd:string ;
@@ -2148,7 +2176,8 @@
     clvapit:hasAddress anncsu:ad-298365-7923943 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Tommasi Franco"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830009> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830012> a accoapit:Accommodation ;
     dc:title "La Casa Di Adri"^^xsd:string ;
@@ -2161,7 +2190,8 @@
     clvapit:hasAddress anncsu:ad-298472-7943387 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "La Casa Di Adri"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830012> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830013> a accoapit:Accommodation ;
     dc:title "Mattinzoli Gianpaolo"^^xsd:string ;
@@ -2174,7 +2204,8 @@
     clvapit:hasAddress anncsu:ad-770538-33578172 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Mattinzoli Gianpaolo"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830013> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830014> a accoapit:Accommodation ;
     dc:title "Le Palme Di Brognara Gianluca"^^xsd:string ;
@@ -2187,7 +2218,8 @@
     clvapit:hasAddress anncsu:ad-298332-7940891 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Le Palme Di Brognara Gianluca"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830014> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830017> a accoapit:Accommodation ;
     dc:title "Affittacamere Di Paola"^^xsd:string ;
@@ -2200,7 +2232,8 @@
     clvapit:hasAddress anncsu:ad-298227-7943288 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Affittacamere Di Paola"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830017> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830018> a accoapit:Accommodation ;
     dc:title "Villa Dei Cipressi - Sparici Landini"^^xsd:string ;
@@ -2213,7 +2246,8 @@
     clvapit:hasAddress anncsu:ad-298412-7921400 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Villa Dei Cipressi - Sparici Landini"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830018> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830019> a accoapit:Accommodation ;
     dc:title "Villa Dei Cipressi - Sparici Landini"^^xsd:string ;
@@ -2226,7 +2260,8 @@
     clvapit:hasAddress anncsu:ad-298412-7921400 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Villa Dei Cipressi - Sparici Landini"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830019> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830020> a accoapit:Accommodation ;
     dc:title "Tosi Luciano"^^xsd:string ;
@@ -2239,7 +2274,8 @@
     clvapit:hasAddress anncsu:ad-298209-31495277 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Tosi Luciano"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830020> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830021> a accoapit:Accommodation ;
     dc:title "Residenza Leon"^^xsd:string ;
@@ -2252,7 +2288,8 @@
     clvapit:hasAddress anncsu:ad-298535-7921434 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Residenza Leon"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830021> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830024> a accoapit:Accommodation ;
     dc:title "Casa Dany"^^xsd:string ;
@@ -2265,7 +2302,8 @@
     clvapit:hasAddress anncsu:ad-298313-7923775 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Casa Dany"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830024> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830025> a accoapit:Accommodation ;
     dc:title "Sweet Corner"^^xsd:string ;
@@ -2278,7 +2316,8 @@
     clvapit:hasAddress anncsu:ad-298398-7916476 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Sweet Corner"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830025> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830026> a accoapit:Accommodation ;
     dc:title "Villa Dei Cipressi - Sparici Landini"^^xsd:string ;
@@ -2291,7 +2330,8 @@
     clvapit:hasAddress anncsu:ad-298412-7921400 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Villa Dei Cipressi - Sparici Landini"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830026> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830027> a accoapit:Accommodation ;
     dc:title "Corte Ara Decima"^^xsd:string ;
@@ -2304,7 +2344,8 @@
     clvapit:hasAddress anncsu:ad-298209-7921282 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Corte Ara Decima"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830027> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830028> a accoapit:Accommodation ;
     dc:title "Casa Vallecchia"^^xsd:string ;
@@ -2317,7 +2358,8 @@
     clvapit:hasAddress anncsu:ad-298510-7924031 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Casa Vallecchia"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830028> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830029> a accoapit:Accommodation ;
     dc:title "Zerpelloni Simone"^^xsd:string ;
@@ -2330,7 +2372,8 @@
     clvapit:hasAddress anncsu:ad-298244-7945588 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Zerpelloni Simone"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830029> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830030> a accoapit:Accommodation ;
     dc:title "Al Secomoro"^^xsd:string ;
@@ -2343,7 +2386,8 @@
     clvapit:hasAddress anncsu:ad-298559-33578329 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Al Secomoro"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830030> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830037> a accoapit:Accommodation ;
     dc:title "Fasano Giuseppe"^^xsd:string ;
@@ -2356,7 +2400,8 @@
     clvapit:hasAddress anncsu:ad-298225-7943222 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Fasano Giuseppe"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830037> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830038> a accoapit:Accommodation ;
     dc:title "Ridolfi Tatiana"^^xsd:string ;
@@ -2369,7 +2414,8 @@
     clvapit:hasAddress anncsu:ad-298372-7928818 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Ridolfi Tatiana"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830038> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830040> a accoapit:Accommodation ;
     dc:title "Appartamento Filippo"^^xsd:string ;
@@ -2382,7 +2428,8 @@
     clvapit:hasAddress anncsu:ad-298260-7909011 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Appartamento Filippo"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830040> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830041> a accoapit:Accommodation ;
     dc:title "Tacconi Federico"^^xsd:string ;
@@ -2395,7 +2442,8 @@
     clvapit:hasAddress anncsu:ad-298367-7923971 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Tacconi Federico"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830041> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830042> a accoapit:Accommodation ;
     dc:title "Qarri Erlind"^^xsd:string ;
@@ -2408,7 +2456,8 @@
     clvapit:hasAddress anncsu:ad-298225-7943221 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Qarri Erlind"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830042> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830043> a accoapit:Accommodation ;
     dc:title "Al Cappellino"^^xsd:string ;
@@ -2421,7 +2470,8 @@
     clvapit:hasAddress anncsu:ad-298246-7945692 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Al Cappellino"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830043> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830044> a accoapit:Accommodation ;
     dc:title "Al Cappellino"^^xsd:string ;
@@ -2434,7 +2484,8 @@
     clvapit:hasAddress anncsu:ad-298246-30176953 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Al Cappellino"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830044> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830045> a accoapit:Accommodation ;
     dc:title "Cordioli Enrico"^^xsd:string ;
@@ -2447,7 +2498,8 @@
     clvapit:hasAddress anncsu:ad-298276-7938436 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Cordioli Enrico"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830045> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830046> a accoapit:Accommodation ;
     dc:title "Cordioli Enrico"^^xsd:string ;
@@ -2460,7 +2512,8 @@
     clvapit:hasAddress anncsu:ad-298276-7938437 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Cordioli Enrico"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830046> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830047> a accoapit:Accommodation ;
     dc:title "Gugole Giampaolo"^^xsd:string ;
@@ -2473,7 +2526,8 @@
     clvapit:hasAddress anncsu:ad-298254-7923705 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Gugole Giampaolo"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830047> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830048> a accoapit:Accommodation ;
     dc:title "Scattolini Emanuela"^^xsd:string ;
@@ -2486,7 +2540,8 @@
     clvapit:hasAddress anncsu:ad-298344-7909150 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Scattolini Emanuela"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830048> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830049> a accoapit:Accommodation ;
     dc:title "Venturelli Aldo"^^xsd:string ;
@@ -2499,7 +2554,8 @@
     clvapit:hasAddress anncsu:ad-298544-34277829 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Venturelli Aldo"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830049> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830050> a accoapit:Accommodation ;
     dc:title "Venturelli Aldo"^^xsd:string ;
@@ -2512,7 +2568,8 @@
     clvapit:hasAddress anncsu:ad-298544-34277829 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Venturelli Aldo"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830050> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830051> a accoapit:Accommodation ;
     dc:title "Zanoni Dario"^^xsd:string ;
@@ -2525,7 +2582,8 @@
     clvapit:hasAddress anncsu:ad-298390-7909075 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Zanoni Dario"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830051> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830052> a accoapit:Accommodation ;
     dc:title "Faettini Elena"^^xsd:string ;
@@ -2538,7 +2596,8 @@
     clvapit:hasAddress anncsu:ad-298395-7923612 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Faettini Elena"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830052> .
 
 <https://w3id.org/sona/data/tourism/accommodation/resort/M0230830053> a accoapit:Accommodation ;
     dc:title "Izzo Luigi"^^xsd:string ;
@@ -2551,7 +2610,8 @@
     clvapit:hasAddress anncsu:ad-298418-7914115 ;
     clvapit:hasPOIState <https://w3id.org/sona/data/tourism/accommodation/status/open> ;
     poiapit:POIofficialName "Izzo Luigi"^^xsd:string ;
-    poiapit:hasPOICategory poiclass:cat_6_travel .
+    poiapit:hasPOICategory poiclass:cat_6_travel ;
+    smapit:hasOnlineContactPoint <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830053> .
 
 <https://w3id.org/sona/data/tourism/accommodation/service/fitness> a accoapit:OfferedServiceDescription ;
     dc:title "Fitness"@en,
