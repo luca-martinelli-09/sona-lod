@@ -131,7 +131,7 @@ with alive_bar(len(organizations), dual_line=True, title='🏭 Organizations') a
         if vatCode == "0":
             vatCode = taxCode
         else:
-            vatCode = vatCode.zfill(12)
+            vatCode = vatCode.zfill(11)
 
         codTipologia = legalStatuses.loc[organizationInfo["NG"]]["COD_ISTAT"].split(",")[0]
         registerSections = organizationInfo["SEZ-REG-IMP"]
