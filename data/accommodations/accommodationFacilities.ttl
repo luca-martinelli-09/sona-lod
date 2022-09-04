@@ -1006,7 +1006,7 @@
     skos:inScheme accommodation: ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/relaisdesroches-gmail-com> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3472344580> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-relaisdesroches-com> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-relaisdesroches-com> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/18454> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Antica Corte \"La Valle\""@en,
@@ -1015,7 +1015,7 @@
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-cortelavalle-it> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456089602>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456082274> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-cortelavalle-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-cortelavalle-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/18455> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Ca' Vecia"@en,
@@ -1024,7 +1024,7 @@
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-agriturismocavecia-it> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456095571>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456095571> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-agriturismocavecia-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismocavecia-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/252342> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Sesto Armonico"@en,
@@ -1032,7 +1032,7 @@
     skos:inScheme accommodation: ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-sesto-armonico-com> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3386262301> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-sesto-armonico-com> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sesto-armonico-com> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/264523> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Lonardi"@en,
@@ -1040,7 +1040,7 @@
     skos:inScheme accommodation: ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/beb-lonardi-susie-gmail-com> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3389948056> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-beb-breakfast-lonardi-org> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-beb-breakfast-lonardi-org> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/284310> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Tenuta Corte Tese"@en,
@@ -1062,7 +1062,7 @@
     skos:inScheme accommodation: ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-castelmorino-it> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3484410420> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-castelmorino-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-castelmorino-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/3360> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Hotel Antico Termine"@en,
@@ -1071,7 +1071,7 @@
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/anticotermine-vr-bestwestern-it> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0458681046>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0458681033> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-hotelanticotermine-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-hotelanticotermine-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/3361> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Hotel Al Bosco"@en,
@@ -1081,7 +1081,7 @@
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456081442>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456082412>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3287830665> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-hotelalboscoamabile-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-hotelalboscoamabile-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/44683> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Colombarola"@en,
@@ -1092,7 +1092,7 @@
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456095618>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3408143292>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3474139172> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-colombarola-com> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-colombarola-com> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/45967> a smapit:OnlineContactPoint ;
     dc:title "Contact information for El Bacan"@en,
@@ -1102,7 +1102,7 @@
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456080708>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456080708>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3489317204> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-el-bacan-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-el-bacan-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/45968> a smapit:OnlineContactPoint ;
     dc:title "Contact information for La Quaiara"@en,
@@ -1112,7 +1112,7 @@
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456080162>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456080162>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3291851184> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-agriturismolaquaiara-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismolaquaiara-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/461> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Corte Guastalla"@en,
@@ -1121,7 +1121,7 @@
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-corteguastalla-it> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456099175>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3489793777> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-corteguastalla-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-corteguastalla-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/47495> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Corte Tacconi"@en,
@@ -1129,7 +1129,7 @@
     skos:inScheme accommodation: ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-cortetacconibb-it> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/337463392> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-cortetacconibb-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-cortetacconibb-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/48829> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Dei Grippi"@en,
@@ -1139,7 +1139,7 @@
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456095595>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456095400>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3494700526> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-agriturismodeigrippi-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismodeigrippi-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/49934> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Al Pigno"@en,
@@ -1148,7 +1148,7 @@
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-locandaalpigno-it> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0457190091>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0457190091> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-trattoriaalpigno-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-trattoriaalpigno-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/49994> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Albarello"@en,
@@ -1158,7 +1158,7 @@
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456095234>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3395841820>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3479847819> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-agriturismoalbarellolagodigarda-com> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismoalbarellolagodigarda-com> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/53041> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Villa Bianca"@en,
@@ -1166,7 +1166,7 @@
     skos:inScheme accommodation: ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-villabiancabb-com> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3289188729> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-villabiancabb-com> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-villabiancabb-com> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/55100> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Albarosa"@en,
@@ -1183,7 +1183,7 @@
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-villagloriana-it> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0457190223>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3474609454> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-villagloriana-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-villagloriana-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/62540> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Belvivere Suites"@en,
@@ -1192,7 +1192,7 @@
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-belviveresuites-it> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456089602>,
         <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456081820> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-belviveresuites-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-belviveresuites-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/69080> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Antica Dimora Del Turco"@en,
@@ -1200,7 +1200,7 @@
     skos:inScheme accommodation: ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-anticadimoradelturco-it> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3516700895> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-anticadimoradelturco-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-anticadimoradelturco-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/71300> a smapit:OnlineContactPoint ;
     dc:title "Contact information for La Cherubina"@en,
@@ -1217,7 +1217,7 @@
     skos:inScheme accommodation: ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/agriturismocortealbarel-gmail-com> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3920595888> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-agriturismocortealbarel-com> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismocortealbarel-com> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/91820> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Fasoli"@en,
@@ -1225,7 +1225,7 @@
     skos:inScheme accommodation: ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-agriturismofasoli-it> ;
     smapit:hasTelephone <https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3312695906> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-agriturismofasoli-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismofasoli-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/96541> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Brolin"@en,
@@ -1279,7 +1279,7 @@
     skos:inScheme accommodation: ;
     smapit:hasCertifiedEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/pec/sparici-landini-pec-it> ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-villadeicipressi-com> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-sparicilandini-com> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sparicilandini-com> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830019> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Villa Dei Cipressi - Sparici Landini"@en,
@@ -1287,7 +1287,7 @@
     skos:inScheme accommodation: ;
     smapit:hasCertifiedEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/pec/sparici-landini-pec-it> ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-villadeicipressi-com> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-sparicilandini-com> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sparicilandini-com> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830020> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Tosi Luciano"@en,
@@ -1301,14 +1301,14 @@
     skos:inScheme accommodation: ;
     smapit:hasCertifiedEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/pec/sette-gianluigi-pec-settere-eu> ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-residenzaleon-com> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-residenzaleon-com> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-residenzaleon-com> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830024> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Casa Dany"@en,
         "Informazioni di contatto per Casa Dany"@it ;
     skos:inScheme accommodation: ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-casadany-it> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-casadany-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-casadany-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830025> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Sweet Corner"@en,
@@ -1322,7 +1322,7 @@
     skos:inScheme accommodation: ;
     smapit:hasCertifiedEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/pec/sparici-landini-pec-it> ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-villadeicipressi-com> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-sparicilandini-com> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sparicilandini-com> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830027> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Corte Ara Decima"@en,
@@ -1348,7 +1348,7 @@
     skos:inScheme accommodation: ;
     smapit:hasCertifiedEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/pec/als-pec-buffetti-it> ;
     smapit:hasEmail <https://w3id.org/sona/data/tourism/accommodation/ocp/mail/alsecomoro-alsecomoro-it> ;
-    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-alsecomoro-it> .
+    smapit:hasWebSite <https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-alsecomoro-it> .
 
 <https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830037> a smapit:OnlineContactPoint ;
     dc:title "Contact information for Fasano Giuseppe"@en,

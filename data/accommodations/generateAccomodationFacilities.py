@@ -314,7 +314,7 @@ with alive_bar(len(accommodationFacilities), dual_line=True, title='🛏️ Acco
 
             if not pd.isna(websiteUri):
                 website = WebSite(
-                    id="ocp/web/" + genNameForID(websiteUri),
+                    id="ocp/website/" + genNameForID(websiteUri),
                     baseUri=ACCO_DATA
                 )
                 onlineContactPoint.hasWebSite = [website]
@@ -444,7 +444,7 @@ with alive_bar(len(resorts), dual_line=True, title='🛏️ Resorts') as bar:
 
             if not pd.isna(websiteUri):
                 website = WebSite(
-                    id="ocp/web/" + genNameForID(websiteUri),
+                    id="ocp/website/" + genNameForID(websiteUri),
                     baseUri=ACCO_DATA
                 )
                 onlineContactPoint.hasWebSite = [website]

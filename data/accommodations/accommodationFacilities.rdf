@@ -52,7 +52,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/accommodation/"/>
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/agriturismocortealbarel-gmail-com"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3920595888"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-agriturismocortealbarel-com"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismocortealbarel-com"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/accommodation/56901">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/ACCO/Accommodation"/>
@@ -154,7 +154,7 @@
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-villagloriana-it"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3474609454"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0457190223"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-villagloriana-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-villagloriana-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/resort/M0230830013">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/ACCO/Accommodation"/>
@@ -304,7 +304,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/accommodation/"/>
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/alsecomoro-alsecomoro-it"/>
     <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/pec/als-pec-buffetti-it"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-alsecomoro-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-alsecomoro-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/pec/als-pec-buffetti-it">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
@@ -358,7 +358,7 @@
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456095400"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3494700526"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456095595"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-agriturismodeigrippi-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismodeigrippi-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/69080">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
@@ -367,7 +367,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/accommodation/"/>
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-anticadimoradelturco-it"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3516700895"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-anticadimoradelturco-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-anticadimoradelturco-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/service/spagnolo">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/ACCO/OfferedServiceDescription"/>
@@ -391,7 +391,7 @@
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-agriturismocavecia-it"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456095571"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456095571"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-agriturismocavecia-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismocavecia-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830017">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
@@ -579,7 +579,7 @@
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456080162"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3291851184"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456080162"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-agriturismolaquaiara-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismolaquaiara-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456082274">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
@@ -931,7 +931,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/accommodation/"/>
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/relaisdesroches-gmail-com"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3472344580"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-relaisdesroches-com"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-relaisdesroches-com"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/feature/animali-ammessi">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/ACCO/OSDFeature"/>
@@ -984,7 +984,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/accommodation/"/>
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-villabiancabb-com"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3289188729"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-villabiancabb-com"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-villabiancabb-com"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3393684961">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
@@ -1052,7 +1052,7 @@
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/anticotermine-vr-bestwestern-it"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0458681033"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0458681046"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-hotelanticotermine-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-hotelanticotermine-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456095171">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
@@ -1179,7 +1179,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/accommodation/"/>
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-villadeicipressi-com"/>
     <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/pec/sparici-landini-pec-it"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-sparicilandini-com"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sparicilandini-com"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/feature/mare">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/ACCO/OSDFeature"/>
@@ -1332,7 +1332,7 @@
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3287830665"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456082412"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456081442"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-hotelalboscoamabile-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-hotelalboscoamabile-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/461">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
@@ -1342,7 +1342,7 @@
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-corteguastalla-it"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3489793777"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456099175"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-corteguastalla-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-corteguastalla-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/carisortastanze-gmail-com">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
@@ -1544,7 +1544,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/accommodation/"/>
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-cortetacconibb-it"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/337463392"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-cortetacconibb-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-cortetacconibb-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/service/zona-fiera">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/ACCO/OfferedServiceDescription"/>
@@ -1652,7 +1652,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/accommodation/"/>
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-residenzaleon-com"/>
     <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/pec/sette-gianluigi-pec-settere-eu"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-residenzaleon-com"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-residenzaleon-com"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-casadany-it">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/WebSite"/>
@@ -1668,7 +1668,7 @@
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-locandaalpigno-it"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0457190091"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0457190091"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-trattoriaalpigno-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-trattoriaalpigno-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-anticadimoradelturco-it">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
@@ -1787,7 +1787,7 @@
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-cortelavalle-it"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456082274"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456089602"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-cortelavalle-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-cortelavalle-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/resort/M0230830047">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/ACCO/Accommodation"/>
@@ -1901,7 +1901,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/accommodation/"/>
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-agriturismofasoli-it"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3312695906"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-agriturismofasoli-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismofasoli-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/resort/M0230830052">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/ACCO/Accommodation"/>
@@ -1932,7 +1932,7 @@
     <dc:title xml:lang="en">Contact information for Casa Dany</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/accommodation/"/>
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-casadany-it"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-casadany-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-casadany-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/service/tedesco">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/ACCO/OfferedServiceDescription"/>
@@ -1985,7 +1985,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/accommodation/"/>
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-sesto-armonico-com"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3386262301"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-sesto-armonico-com"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sesto-armonico-com"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3334364884">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
@@ -2010,7 +2010,7 @@
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3479847819"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456095234"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3395841820"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-agriturismoalbarellolagodigarda-com"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismoalbarellolagodigarda-com"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/feature/stazione-fs">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/ACCO/OSDFeature"/>
@@ -2204,7 +2204,7 @@
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3408143292"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3474139172"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0457190217"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-colombarola-com"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-colombarola-com"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830037">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
@@ -2221,7 +2221,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/accommodation/"/>
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/beb-lonardi-susie-gmail-com"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3389948056"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-beb-breakfast-lonardi-org"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-beb-breakfast-lonardi-org"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0458681033">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
@@ -2343,7 +2343,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/accommodation/"/>
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-castelmorino-it"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3484410420"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-castelmorino-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-castelmorino-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3334364884">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
@@ -2374,7 +2374,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/accommodation/"/>
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-villadeicipressi-com"/>
     <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/pec/sparici-landini-pec-it"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-sparicilandini-com"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sparicilandini-com"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/3474609454">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Telephone"/>
@@ -2469,7 +2469,7 @@
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456080708"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/3489317204"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456080708"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-el-bacan-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-el-bacan-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/M0230830019">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
@@ -2478,7 +2478,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/tourism/accommodation/"/>
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-villadeicipressi-com"/>
     <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/pec/sparici-landini-pec-it"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-sparicilandini-com"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sparicilandini-com"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/pec/sparici-landini-pec-it">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
@@ -3186,7 +3186,7 @@
     <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-belviveresuites-it"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/tel/0456081820"/>
     <smapit:hasTelephone rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/fax/0456089602"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/web/www-belviveresuites-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-belviveresuites-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/tourism/accommodation/ocp/mail/info-veronatrip-gmail-com">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
