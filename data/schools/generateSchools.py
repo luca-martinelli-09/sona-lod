@@ -131,7 +131,7 @@ for _, schoolInfo in schoolsDF.iterrows():
     # Address
     if progrNazionale:
       address = Address(
-          id="{}-{}".format(progrNazionale,
+          id="ad-{}-{}".format(progrNazionale,
                             progrCivico if progrCivico else "snc"),
           baseUri=ANNCSU
       )

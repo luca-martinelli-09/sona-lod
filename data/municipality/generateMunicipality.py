@@ -150,7 +150,7 @@ for _, publicOrganization in organizationDF.iterrows():
     # Address
     if progrNazionale:
       address = Address(
-        id="{}-{}".format(progrNazionale, progrCivico if progrCivico else "snc"),
+        id="ad-{}-{}".format(progrNazionale, progrCivico if progrCivico else "snc"),
         baseUri=ANNCSU
       )
 

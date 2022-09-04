@@ -42,7 +42,7 @@
     <covapit:hasAlternativeIdentifier rdf:resource="https://w3id.org/sona/data/municipality/id/95962"/>
     <covapit:hasAlternativeIdentifier rdf:resource="https://w3id.org/sona/data/municipality/id/I826"/>
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comune Di Sona</covapit:legalName>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <covapit:hasLegalStatus rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-organizations/legal-status/2430"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/00500760236"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00500760236</covapit:taxCode>

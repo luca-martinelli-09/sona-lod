@@ -14,7 +14,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizio Protocollo E Archivio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/EB3YQ5"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/EB3YQ5"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-08-02</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -38,7 +38,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Polizia Locale</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/4E6NEB"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298297-34337068"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298297-34337068"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/4E6NEB"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -58,7 +58,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ecologia</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/N75H9N"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/N75H9N"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -79,7 +79,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Controllo Di Gestione</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/9JIDKL"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/9JIDKL"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -92,7 +92,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Programmazione Finanziaria E Tributi</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/F635KK"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/F635KK"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -108,7 +108,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Servizi Al Cittadino</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/RB37D6"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/RB37D6"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -130,7 +130,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Tecnologici - Ecologia - Strade</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/J4HC1K"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/J4HC1K"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-08-02</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -190,7 +190,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Uff_Efatturapa</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/UF09I2"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/UF09I2"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-05</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -255,7 +255,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizi Scolastici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/CKU85S"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/CKU85S"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -312,7 +312,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Commercio Ed Attivita' Economiche</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/BA79FD"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298543-snc"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298543-snc"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/BA79FD"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -380,7 +380,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizi Demografici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/QC00CE"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/QC00CE"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -401,7 +401,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personale</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/BR2KBS"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/BR2KBS"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -421,7 +421,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Farmacia Di Palazzolo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/I4F0IC"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298371-7933656"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298371-7933656"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/I4F0IC"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -479,7 +479,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Urp</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/LOFKMC"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298297-34337068"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298297-34337068"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/LOFKMC"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -506,7 +506,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sportello Unico Attivita' Produttive</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/BRR803"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/BRR803"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -521,7 +521,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Farmaceutico</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/4ELMSE"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298297-7926155"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298297-7926155"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/4ELMSE"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -533,7 +533,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comune Di Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/A6F8CED"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/A6F8CED"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-02-16</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -552,7 +552,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Urbanistica</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/J0QQ9D"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/J0QQ9D"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -620,7 +620,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Lavori Pubblici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/9OPD0G"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/9OPD0G"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -656,7 +656,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Cultura E Servizi Demografici</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/EBILB3"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298297-7926154"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298297-7926154"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/EBILB3"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -695,7 +695,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Gestione Del Territorio</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/FKIEFI"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/FKIEFI"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -750,7 +750,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tributi</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/62M2HD"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298543-snc"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298543-snc"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/62M2HD"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -763,7 +763,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Farmacia Di Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/JCG4HG"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298297-7926155"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298297-7926155"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/JCG4HG"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -785,7 +785,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Settore Amministrativo</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/LB6G0G"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/LB6G0G"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -797,7 +797,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ufficio Per La Transizione Al Digitale</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/AJYUGN"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/AJYUGN"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-11-27</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -899,7 +899,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizio Distribuzione Gas</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/HWVL7Q"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/HWVL7Q"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-08-02</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>
@@ -928,7 +928,7 @@
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizi Sociali</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/municipality/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/municipality/referent/8UG4XS"/>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298459-7926082"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298459-7926082"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/municipality/ocp/8UG4XS"/>
     <covapit:foundationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</covapit:foundationDate>
     <covapit:isSupportUnitOf rdf:resource="https://w3id.org/sona/data/municipality/00500760236"/>

@@ -35,7 +35,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/school/head-teacher/maria-federici"/>
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Istituto Comprensivo - Ic Sona - 'Virgilio'</covapit:legalName>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298354-7911630"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298354-7911630"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/80026500233"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80026500233</covapit:taxCode>
     <covapit:orgAcronym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AMMINISTRAZIONE</covapit:orgAcronym>
@@ -110,7 +110,7 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <covapit:holdEmployment rdf:resource="https://w3id.org/sona/data/school/head-teacher/elisabeth-piras-trombi-abibatu"/>
     <covapit:legalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Istituto Comprensivo - Ic Lugagnano Di Sona</covapit:legalName>
-    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298353-7911623"/>
+    <clvapit:hasPrimaryAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/ad-298353-7911623"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/93128280232"/>
     <covapit:taxCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">93128280232</covapit:taxCode>
     <covapit:IPAcode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">istsc_vric83800t</covapit:IPAcode>

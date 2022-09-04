@@ -113,7 +113,7 @@ for _, facilityInfo in heritageDF.iterrows():
 
     if not pd.isna(progrNazionale):
         address = Address(
-            id="{}-{}".format(str(progrNazionale),
+            id="ad-{}-{}".format(str(progrNazionale),
                               "snc" if pd.isna(progrCivico) else str(progrCivico)),
             baseUri=ANNCSU
         )
