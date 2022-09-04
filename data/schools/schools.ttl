@@ -48,6 +48,7 @@ school:VRIC814009 a ontoim:ComprehensiveInstitute ;
         school:VREE81402C,
         school:VREE81403D,
         school:VRMM81401A ;
+    ontoim:ownedBy <https://w3id.org/sona/data/school/organization/VRIC814009> ;
     ontoim:schoolCode "VRIC814009"^^xsd:string .
 
 school:VRIC83800T a ontoim:ComprehensiveInstitute ;
@@ -58,6 +59,7 @@ school:VRIC83800T a ontoim:ComprehensiveInstitute ;
     ontoim:includesSchool school:VRAA83802Q,
         school:VREE83801X,
         school:VRMM83801V ;
+    ontoim:ownedBy <https://w3id.org/sona/data/school/organization/VRIC83800T> ;
     ontoim:schoolCode "VRIC83800T"^^xsd:string .
 
 <https://w3id.org/sona/data/school/email/asilopalazzolo-libero-it> a smapit:Email ;
@@ -163,6 +165,7 @@ school:VRAA814016 a ontoim:PublicSchool ;
     poiapit:POIofficialName "Cavalier Annibale Romani"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VRAA814016> ;
     ontoim:hasSchoolType schooltypes:2 ;
+    ontoim:ownedBy <https://w3id.org/sona/data/school/organization/VRIC814009> ;
     ontoim:schoolCode "VRAA814016"^^xsd:string .
 
 school:VRAA83802Q a ontoim:PublicSchool ;
@@ -172,6 +175,7 @@ school:VRAA83802Q a ontoim:PublicSchool ;
     poiapit:POIofficialName "Materna Di Lugagnano"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VRAA83802Q> ;
     ontoim:hasSchoolType schooltypes:2 ;
+    ontoim:ownedBy <https://w3id.org/sona/data/school/organization/VRIC83800T> ;
     ontoim:schoolCode "VRAA83802Q"^^xsd:string .
 
 school:VREE81401B a ontoim:PublicSchool ;
@@ -181,6 +185,7 @@ school:VREE81401B a ontoim:PublicSchool ;
     poiapit:POIofficialName "S. Giorgio In Salici \"Collodi\""^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VREE81401B> ;
     ontoim:hasSchoolType schooltypes:3 ;
+    ontoim:ownedBy <https://w3id.org/sona/data/school/organization/VRIC814009> ;
     ontoim:schoolCode "VREE81401B"^^xsd:string .
 
 school:VREE81402C a ontoim:PublicSchool ;
@@ -190,6 +195,7 @@ school:VREE81402C a ontoim:PublicSchool ;
     poiapit:POIofficialName "Palazzolo \"S.Giovanni Bosco\""^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VREE81402C> ;
     ontoim:hasSchoolType schooltypes:3 ;
+    ontoim:ownedBy <https://w3id.org/sona/data/school/organization/VRIC814009> ;
     ontoim:schoolCode "VREE81402C"^^xsd:string .
 
 school:VREE81403D a ontoim:PublicSchool ;
@@ -199,6 +205,7 @@ school:VREE81403D a ontoim:PublicSchool ;
     poiapit:POIofficialName "Sona \" Aleardi A.\""^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VREE81403D> ;
     ontoim:hasSchoolType schooltypes:3 ;
+    ontoim:ownedBy <https://w3id.org/sona/data/school/organization/VRIC814009> ;
     ontoim:schoolCode "VREE81403D"^^xsd:string .
 
 school:VREE83801X a ontoim:PublicSchool ;
@@ -208,6 +215,7 @@ school:VREE83801X a ontoim:PublicSchool ;
     poiapit:POIofficialName "Silvio Pellico-Lugagnano"^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VREE83801X> ;
     ontoim:hasSchoolType schooltypes:3 ;
+    ontoim:ownedBy <https://w3id.org/sona/data/school/organization/VRIC83800T> ;
     ontoim:schoolCode "VREE83801X"^^xsd:string .
 
 school:VRMM81401A a ontoim:PublicSchool ;
@@ -217,6 +225,7 @@ school:VRMM81401A a ontoim:PublicSchool ;
     poiapit:POIofficialName "Sona - \"Virgilio\""^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VRMM81401A> ;
     ontoim:hasSchoolType schooltypes:4 ;
+    ontoim:ownedBy <https://w3id.org/sona/data/school/organization/VRIC814009> ;
     ontoim:schoolCode "VRMM81401A"^^xsd:string .
 
 school:VRMM83801V a ontoim:PublicSchool ;
@@ -226,6 +235,7 @@ school:VRMM83801V a ontoim:PublicSchool ;
     poiapit:POIofficialName "Lugagnano - \"Anna Frank\""^^xsd:string ;
     smapit:hasOnlineContactPoint <https://w3id.org/sona/data/school/ocp/VRMM83801V> ;
     ontoim:hasSchoolType schooltypes:4 ;
+    ontoim:ownedBy <https://w3id.org/sona/data/school/organization/VRIC83800T> ;
     ontoim:schoolCode "VRMM83801V"^^xsd:string .
 
 <https://w3id.org/sona/data/school/web/www-iclugagnano-gov-it> a smapit:WebSite ;

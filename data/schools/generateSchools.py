@@ -122,6 +122,7 @@ for _, schoolInfo in schoolsDF.iterrows():
             id="organization/" + comprehensiveInstituteCode,
             baseUri=SCHOOL_DATA
         )
+        school.ownedBy = [comprehensiveInstituteOrganization]
     
     # Main info
     school.POIofficialName = [Literal(denominazione, datatype=XSD.string)]

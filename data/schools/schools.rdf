@@ -9,114 +9,28 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:smapit="https://w3id.org/italia/onto/SM/"
 >
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VRMM81401A">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VREE81401B">
     <rdf:type rdf:resource="https://w3id.org/ontoim/PublicSchool"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sona - "Virgilio"</dc:title>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S. Giorgio In Salici "Collodi"</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298354-7911630"/>
-    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sona - "Virgilio"</poiapit:POIofficialName>
-    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VRMM81401A"/>
-    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/4"/>
-    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VRMM81401A</ontoim:schoolCode>
+    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298275-snc"/>
+    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S. Giorgio In Salici "Collodi"</poiapit:POIofficialName>
+    <ontoim:ownedBy rdf:resource="https://w3id.org/sona/data/school/organization/VRIC814009"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VREE81401B"/>
+    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/3"/>
+    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VREE81401B</ontoim:schoolCode>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VRMM83801V">
-    <rdf:type rdf:resource="https://w3id.org/ontoim/PublicSchool"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lugagnano - "Anna Frank"</dc:title>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VRIC83800T">
+    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VRAA83802Q"/>
+    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VREE83801X"/>
+    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VRMM83801V"/>
+    <rdf:type rdf:resource="https://w3id.org/ontoim/ComprehensiveInstitute"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ic Lugagnano Di Sona</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298353-7911623"/>
-    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lugagnano - "Anna Frank"</poiapit:POIofficialName>
-    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VRMM83801V"/>
-    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/4"/>
-    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VRMM83801V</ontoim:schoolCode>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VREE81402C">
-    <rdf:type rdf:resource="https://w3id.org/ontoim/PublicSchool"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Palazzolo "S.Giovanni Bosco"</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298268-snc"/>
-    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Palazzolo "S.Giovanni Bosco"</poiapit:POIofficialName>
-    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VREE81402C"/>
-    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/3"/>
-    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VREE81402C</ontoim:schoolCode>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VRAA814016">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
-    <dc:title xml:lang="en">Online Contact Point for Cavalier Annibale Romani</dc:title>
-    <dc:title xml:lang="it">Contatti per Cavalier Annibale Romani</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-icsona-gov-it"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VRAA814016">
-    <rdf:type rdf:resource="https://w3id.org/ontoim/PublicSchool"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cavalier Annibale Romani</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298460-7938579"/>
-    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cavalier Annibale Romani</poiapit:POIofficialName>
-    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VRAA814016"/>
-    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/2"/>
-    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VRAA814016</ontoim:schoolCode>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VREE83801X">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
-    <dc:title xml:lang="en">Online Contact Point for Silvio Pellico-Lugagnano</dc:title>
-    <dc:title xml:lang="it">Contatti per Silvio Pellico-Lugagnano</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-iclugagnano-gov-it"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VRIC814009">
-    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VREE81401B"/>
-    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VRAA814016"/>
-    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VREE81402C"/>
-    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VREE81403D"/>
-    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VRMM81401A"/>
-    <rdf:type rdf:resource="https://w3id.org/ontoim/ComprehensiveInstitute"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ic Virgilio Sona</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298354-7911630"/>
-    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ic Virgilio Sona</poiapit:POIofficialName>
-    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VRIC814009</ontoim:schoolCode>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VR1A01300X">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
-    <dc:title xml:lang="en">Online Contact Point for Scuola Materna Don G. Fracasso</dc:title>
-    <dc:title xml:lang="it">Contatti per Scuola Materna Don G. Fracasso</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/school/pec/scuolamaternadgf-pec-fismverona-it"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-donfracasso-it"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VR1A04500B">
-    <rdf:type rdf:resource="https://w3id.org/ontoim/PrivateSchool"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scuola Materna Cav.Antonio Girelli</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298269-7938467"/>
-    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scuola Materna Cav.Antonio Girelli</poiapit:POIofficialName>
-    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VR1A04500B"/>
-    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/2"/>
-    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR1A04500B</ontoim:schoolCode>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/pec/scuolamaternadgf-pec-fismverona-it">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">scuolamaternadgf@pec.fismverona.it</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
-    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:scuolamaternadgf@pec.fismverona.it</smapit:emailAddress>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/email/asilopalazzolo-libero-it">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">asilopalazzolo@libero.it</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
-    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:asilopalazzolo@libero.it</smapit:emailAddress>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VR1A01300X">
-    <rdf:type rdf:resource="https://w3id.org/ontoim/PrivateSchool"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scuola Materna Don G. Fracasso</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298306-snc"/>
-    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scuola Materna Don G. Fracasso</poiapit:POIofficialName>
-    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VR1A01300X"/>
-    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/2"/>
-    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR1A01300X</ontoim:schoolCode>
+    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ic Lugagnano Di Sona</poiapit:POIofficialName>
+    <ontoim:ownedBy rdf:resource="https://w3id.org/sona/data/school/organization/VRIC83800T"/>
+    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VRIC83800T</ontoim:schoolCode>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/school/">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -137,19 +51,43 @@
     <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/school/VR1A046007"/>
     <skos:hasTopConcept rdf:resource="https://w3id.org/sona/data/school/VR1A04500B"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/pec/scuoladep-pec-it">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">scuoladep@pec.it</dc:title>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VRMM81401A">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/PublicSchool"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sona - "Virgilio"</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
-    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:scuoladep@pec.it</smapit:emailAddress>
+    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298354-7911630"/>
+    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sona - "Virgilio"</poiapit:POIofficialName>
+    <ontoim:ownedBy rdf:resource="https://w3id.org/sona/data/school/organization/VRIC814009"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VRMM81401A"/>
+    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/4"/>
+    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VRMM81401A</ontoim:schoolCode>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VRMM83801V">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
-    <dc:title xml:lang="en">Online Contact Point for Lugagnano - "Anna Frank"</dc:title>
-    <dc:title xml:lang="it">Contatti per Lugagnano - "Anna Frank"</dc:title>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/web/www-donfracasso-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/WebSite"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.donfracasso.it</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-iclugagnano-gov-it"/>
+    <smapit:URL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">www.donfracasso.it</smapit:URL>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VRIC814009">
+    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VREE81401B"/>
+    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VRAA814016"/>
+    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VREE81402C"/>
+    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VREE81403D"/>
+    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VRMM81401A"/>
+    <rdf:type rdf:resource="https://w3id.org/ontoim/ComprehensiveInstitute"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ic Virgilio Sona</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298354-7911630"/>
+    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ic Virgilio Sona</poiapit:POIofficialName>
+    <ontoim:ownedBy rdf:resource="https://w3id.org/sona/data/school/organization/VRIC814009"/>
+    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VRIC814009</ontoim:schoolCode>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VREE81401B">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for S. Giorgio In Salici "Collodi"</dc:title>
+    <dc:title xml:lang="it">Contatti per S. Giorgio In Salici "Collodi"</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-icsona-gov-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/school/VR1A046007">
     <rdf:type rdf:resource="https://w3id.org/ontoim/PrivateSchool"/>
@@ -161,15 +99,64 @@
     <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/2"/>
     <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR1A046007</ontoim:schoolCode>
   </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/web/www-iclugagnano-gov-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/WebSite"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.iclugagnano.gov.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:URL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">www.iclugagnano.gov.it</smapit:URL>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VRAA83802Q">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Materna Di Lugagnano</dc:title>
+    <dc:title xml:lang="it">Contatti per Materna Di Lugagnano</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-iclugagnano-gov-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VR1A04500B">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/PrivateSchool"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scuola Materna Cav.Antonio Girelli</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298269-7938467"/>
+    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scuola Materna Cav.Antonio Girelli</poiapit:POIofficialName>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VR1A04500B"/>
+    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/2"/>
+    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR1A04500B</ontoim:schoolCode>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VRMM81401A">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Sona - "Virgilio"</dc:title>
+    <dc:title xml:lang="it">Contatti per Sona - "Virgilio"</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-icsona-gov-it"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/school/VRAA83802Q">
     <rdf:type rdf:resource="https://w3id.org/ontoim/PublicSchool"/>
     <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Materna Di Lugagnano</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298196-snc"/>
     <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Materna Di Lugagnano</poiapit:POIofficialName>
+    <ontoim:ownedBy rdf:resource="https://w3id.org/sona/data/school/organization/VRIC83800T"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VRAA83802Q"/>
     <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/2"/>
     <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VRAA83802Q</ontoim:schoolCode>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VRMM83801V">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Lugagnano - "Anna Frank"</dc:title>
+    <dc:title xml:lang="it">Contatti per Lugagnano - "Anna Frank"</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-iclugagnano-gov-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VRAA814016">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/PublicSchool"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cavalier Annibale Romani</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298460-7938579"/>
+    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cavalier Annibale Romani</poiapit:POIofficialName>
+    <ontoim:ownedBy rdf:resource="https://w3id.org/sona/data/school/organization/VRIC814009"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VRAA814016"/>
+    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/2"/>
+    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VRAA814016</ontoim:schoolCode>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VR1A046007">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
@@ -179,69 +166,20 @@
     <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/school/pec/scuoladep-pec-it"/>
     <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-scuoladep-it"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VREE81401B">
-    <rdf:type rdf:resource="https://w3id.org/ontoim/PublicSchool"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S. Giorgio In Salici "Collodi"</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298275-snc"/>
-    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S. Giorgio In Salici "Collodi"</poiapit:POIofficialName>
-    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VREE81401B"/>
-    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/3"/>
-    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VREE81401B</ontoim:schoolCode>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/web/www-iclugagnano-gov-it">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/WebSite"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.iclugagnano.gov.it</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <smapit:URL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">www.iclugagnano.gov.it</smapit:URL>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/web/www-scuoladep-it">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/WebSite"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.scuoladep.it</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <smapit:URL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">www.scuoladep.it</smapit:URL>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VRIC83800T">
-    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VRAA83802Q"/>
-    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VREE83801X"/>
-    <ontoim:includesSchool rdf:resource="https://w3id.org/sona/data/school/VRMM83801V"/>
-    <rdf:type rdf:resource="https://w3id.org/ontoim/ComprehensiveInstitute"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ic Lugagnano Di Sona</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298353-7911623"/>
-    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ic Lugagnano Di Sona</poiapit:POIofficialName>
-    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VRIC83800T</ontoim:schoolCode>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VREE81403D">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VR1A01300X">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
-    <dc:title xml:lang="en">Online Contact Point for Sona " Aleardi A."</dc:title>
-    <dc:title xml:lang="it">Contatti per Sona " Aleardi A."</dc:title>
+    <dc:title xml:lang="en">Online Contact Point for Scuola Materna Don G. Fracasso</dc:title>
+    <dc:title xml:lang="it">Contatti per Scuola Materna Don G. Fracasso</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-icsona-gov-it"/>
+    <smapit:hasCertifiedEmail rdf:resource="https://w3id.org/sona/data/school/pec/scuolamaternadgf-pec-fismverona-it"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-donfracasso-it"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VRAA83802Q">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
-    <dc:title xml:lang="en">Online Contact Point for Materna Di Lugagnano</dc:title>
-    <dc:title xml:lang="it">Contatti per Materna Di Lugagnano</dc:title>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/pec/scuoladep-pec-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">scuoladep@pec.it</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-iclugagnano-gov-it"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VREE81403D">
-    <rdf:type rdf:resource="https://w3id.org/ontoim/PublicSchool"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sona " Aleardi A."</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298460-snc"/>
-    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sona " Aleardi A."</poiapit:POIofficialName>
-    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VREE81403D"/>
-    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/3"/>
-    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VREE81403D</ontoim:schoolCode>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VR1A04500B">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
-    <dc:title xml:lang="en">Online Contact Point for Scuola Materna Cav.Antonio Girelli</dc:title>
-    <dc:title xml:lang="it">Contatti per Scuola Materna Cav.Antonio Girelli</dc:title>
-    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/school/email/asilopalazzolo-libero-it"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:scuoladep@pec.it</smapit:emailAddress>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VREE81402C">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
@@ -250,11 +188,26 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-icsona-gov-it"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/web/www-donfracasso-it">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/WebSite"/>
-    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.donfracasso.it</dc:title>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VR1A01300X">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/PrivateSchool"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scuola Materna Don G. Fracasso</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <smapit:URL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">www.donfracasso.it</smapit:URL>
+    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298306-snc"/>
+    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scuola Materna Don G. Fracasso</poiapit:POIofficialName>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VR1A01300X"/>
+    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/2"/>
+    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VR1A01300X</ontoim:schoolCode>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VREE81403D">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/PublicSchool"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sona " Aleardi A."</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298460-snc"/>
+    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sona " Aleardi A."</poiapit:POIofficialName>
+    <ontoim:ownedBy rdf:resource="https://w3id.org/sona/data/school/organization/VRIC814009"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VREE81403D"/>
+    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/3"/>
+    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VREE81403D</ontoim:schoolCode>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/school/web/www-icsona-gov-it">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/WebSite"/>
@@ -262,12 +215,41 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <smapit:URL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">www.icsona.gov.it</smapit:URL>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VREE81401B">
-    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
-    <dc:title xml:lang="en">Online Contact Point for S. Giorgio In Salici "Collodi"</dc:title>
-    <dc:title xml:lang="it">Contatti per S. Giorgio In Salici "Collodi"</dc:title>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/pec/scuolamaternadgf-pec-fismverona-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">scuolamaternadgf@pec.fismverona.it</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
-    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-icsona-gov-it"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/041"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:scuolamaternadgf@pec.fismverona.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VREE81402C">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/PublicSchool"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Palazzolo "S.Giovanni Bosco"</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298268-snc"/>
+    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Palazzolo "S.Giovanni Bosco"</poiapit:POIofficialName>
+    <ontoim:ownedBy rdf:resource="https://w3id.org/sona/data/school/organization/VRIC814009"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VREE81402C"/>
+    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/3"/>
+    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VREE81402C</ontoim:schoolCode>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/VRMM83801V">
+    <rdf:type rdf:resource="https://w3id.org/ontoim/PublicSchool"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lugagnano - "Anna Frank"</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298353-7911623"/>
+    <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lugagnano - "Anna Frank"</poiapit:POIofficialName>
+    <ontoim:ownedBy rdf:resource="https://w3id.org/sona/data/school/organization/VRIC83800T"/>
+    <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VRMM83801V"/>
+    <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/4"/>
+    <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VRMM83801V</ontoim:schoolCode>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VREE83801X">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Silvio Pellico-Lugagnano</dc:title>
+    <dc:title xml:lang="it">Contatti per Silvio Pellico-Lugagnano</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-iclugagnano-gov-it"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/sona/data/school/VREE83801X">
     <rdf:type rdf:resource="https://w3id.org/ontoim/PublicSchool"/>
@@ -275,15 +257,43 @@
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <clvapit:hasAddress rdf:resource="https://w3id.org/sona/data/ANNCSU/298305-snc"/>
     <poiapit:POIofficialName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silvio Pellico-Lugagnano</poiapit:POIofficialName>
+    <ontoim:ownedBy rdf:resource="https://w3id.org/sona/data/school/organization/VRIC83800T"/>
     <smapit:hasOnlineContactPoint rdf:resource="https://w3id.org/sona/data/school/ocp/VREE83801X"/>
     <ontoim:hasSchoolType rdf:resource="https://w3id.org/ontoim/controlled-vocabulary/school-types/3"/>
     <ontoim:schoolCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VREE83801X</ontoim:schoolCode>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VRMM81401A">
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/web/www-scuoladep-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/WebSite"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.scuoladep.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:URL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">www.scuoladep.it</smapit:URL>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/email/asilopalazzolo-libero-it">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/Email"/>
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">asilopalazzolo@libero.it</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:hasEmailType rdf:resource="https://w3id.org/italia/controlled-vocabulary/classifications-for-public-services/channel/042"/>
+    <smapit:emailAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">mailto:asilopalazzolo@libero.it</smapit:emailAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VRAA814016">
     <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
-    <dc:title xml:lang="en">Online Contact Point for Sona - "Virgilio"</dc:title>
-    <dc:title xml:lang="it">Contatti per Sona - "Virgilio"</dc:title>
+    <dc:title xml:lang="en">Online Contact Point for Cavalier Annibale Romani</dc:title>
+    <dc:title xml:lang="it">Contatti per Cavalier Annibale Romani</dc:title>
     <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
     <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-icsona-gov-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VREE81403D">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Sona " Aleardi A."</dc:title>
+    <dc:title xml:lang="it">Contatti per Sona " Aleardi A."</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:hasWebSite rdf:resource="https://w3id.org/sona/data/school/web/www-icsona-gov-it"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/sona/data/school/ocp/VR1A04500B">
+    <rdf:type rdf:resource="https://w3id.org/italia/onto/SM/OnlineContactPoint"/>
+    <dc:title xml:lang="en">Online Contact Point for Scuola Materna Cav.Antonio Girelli</dc:title>
+    <dc:title xml:lang="it">Contatti per Scuola Materna Cav.Antonio Girelli</dc:title>
+    <skos:inScheme rdf:resource="https://w3id.org/sona/data/school/"/>
+    <smapit:hasEmail rdf:resource="https://w3id.org/sona/data/school/email/asilopalazzolo-libero-it"/>
   </rdf:Description>
 </rdf:RDF>
