@@ -219,136 +219,6 @@
     smapit:hasTelephoneType channel:033 ;
     smapit:telephoneNumber "3920595888"^^xsd:string .
 
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismoalbarellolagodigarda-com> a smapit:WebSite ;
-    dc:title "www.agriturismoalbarellolagodigarda.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412140>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismocavecia-it> a smapit:WebSite ;
-    dc:title "www.agriturismocavecia.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412560>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismocortealbarel-com> a smapit:WebSite ;
-    dc:title "www.agriturismocortealbarel.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412890>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismodeigrippi-it> a smapit:WebSite ;
-    dc:title "www.agriturismodeigrippi.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412980>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismofasoli-it> a smapit:WebSite ;
-    dc:title "www.agriturismofasoli.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412b90>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismolaquaiara-it> a smapit:WebSite ;
-    dc:title "www.agriturismolaquaiara.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412c80>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-alsecomoro-it> a smapit:WebSite ;
-    dc:title "www.alsecomoro.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa84139a0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-anticadimoradelturco-it> a smapit:WebSite ;
-    dc:title "www.anticadimoradelturco.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412110>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-beb-breakfast-lonardi-org> a smapit:WebSite ;
-    dc:title "www.beb-breakfast-lonardi.org"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412e60>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-belviveresuites-it> a smapit:WebSite ;
-    dc:title "www.belviveresuites.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412020>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-casadany-it> a smapit:WebSite ;
-    dc:title "www.casadany.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa84138b0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-castelmorino-it> a smapit:WebSite ;
-    dc:title "www.castelmorino.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412f50>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-colombarola-com> a smapit:WebSite ;
-    dc:title "www.colombarola.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa84127a0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-corteguastalla-it> a smapit:WebSite ;
-    dc:title "www.corteguastalla.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa84135e0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-cortelavalle-it> a smapit:WebSite ;
-    dc:title "www.cortelavalle.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8411f90>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-cortetacconibb-it> a smapit:WebSite ;
-    dc:title "www.cortetacconibb.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8413040>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-el-bacan-it> a smapit:WebSite ;
-    dc:title "www.el-bacan.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412aa0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-hotelalboscoamabile-it> a smapit:WebSite ;
-    dc:title "www.hotelalboscoamabile.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8411e40>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-hotelanticotermine-it> a smapit:WebSite ;
-    dc:title "www.hotelanticotermine.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8412d70>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-relaisdesroches-com> a smapit:WebSite ;
-    dc:title "www.relaisdesroches.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8413130>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-residenzaleon-com> a smapit:WebSite ;
-    dc:title "www.residenzaleon.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa84137c0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sesto-armonico-com> a smapit:WebSite ;
-    dc:title "www.sesto-armonico.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8413220>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sparicilandini-com> a smapit:WebSite ;
-    dc:title "www.sparicilandini.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa84136d0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-trattoriaalpigno-it> a smapit:WebSite ;
-    dc:title "www.trattoriaalpigno.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa84134f0>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-villabiancabb-com> a smapit:WebSite ;
-    dc:title "www.villabiancabb.com"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8413310>"^^xsd:anyURI .
-
-<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-villagloriana-it> a smapit:WebSite ;
-    dc:title "www.villagloriana.it"^^xsd:string ;
-    skos:inScheme accommodation: ;
-    smapit:URL "<ontopia_py.sm.WebSite.WebSite object at 0x7f4aa8413400>"^^xsd:anyURI .
-
 <https://w3id.org/sona/data/tourism/accommodation/person/brognara-gianluca> a cpvapit:Person ;
     dc:title "Gianluca Brognara"^^xsd:string ;
     skos:inScheme accommodation: ;
@@ -2025,6 +1895,131 @@
     smapit:hasTelephoneType channel:03 ;
     smapit:telephoneNumber "3920595888"^^xsd:string .
 
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismoalbarellolagodigarda-com> a smapit:WebSite ;
+    dc:title "www.agriturismoalbarellolagodigarda.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.agriturismoalbarellolagodigarda.com"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismocavecia-it> a smapit:WebSite ;
+    dc:title "www.agriturismocavecia.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.agriturismocavecia.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismocortealbarel-com> a smapit:WebSite ;
+    dc:title "www.agriturismocortealbarel.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.agriturismocortealbarel.com"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismodeigrippi-it> a smapit:WebSite ;
+    dc:title "www.agriturismodeigrippi.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.agriturismodeigrippi.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismofasoli-it> a smapit:WebSite ;
+    dc:title "www.agriturismofasoli.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.agriturismofasoli.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-agriturismolaquaiara-it> a smapit:WebSite ;
+    dc:title "www.agriturismolaquaiara.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.agriturismolaquaiara.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-alsecomoro-it> a smapit:WebSite ;
+    dc:title "www.alsecomoro.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.alsecomoro.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-anticadimoradelturco-it> a smapit:WebSite ;
+    dc:title "www.anticadimoradelturco.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.anticadimoradelturco.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-beb-breakfast-lonardi-org> a smapit:WebSite ;
+    dc:title "www.beb-breakfast-lonardi.org"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.beb-breakfast-lonardi.org"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-belviveresuites-it> a smapit:WebSite ;
+    dc:title "www.belviveresuites.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.belviveresuites.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-casadany-it> a smapit:WebSite ;
+    dc:title "www.casadany.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.casadany.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-castelmorino-it> a smapit:WebSite ;
+    dc:title "www.castelmorino.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.castelmorino.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-colombarola-com> a smapit:WebSite ;
+    dc:title "www.colombarola.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.colombarola.com"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-corteguastalla-it> a smapit:WebSite ;
+    dc:title "www.corteguastalla.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.corteguastalla.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-cortelavalle-it> a smapit:WebSite ;
+    dc:title "www.cortelavalle.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.cortelavalle.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-cortetacconibb-it> a smapit:WebSite ;
+    dc:title "www.cortetacconibb.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.cortetacconibb.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-el-bacan-it> a smapit:WebSite ;
+    dc:title "www.el-bacan.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.el-bacan.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-hotelalboscoamabile-it> a smapit:WebSite ;
+    dc:title "www.hotelalboscoamabile.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.hotelalboscoamabile.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-hotelanticotermine-it> a smapit:WebSite ;
+    dc:title "www.hotelanticotermine.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.hotelanticotermine.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-relaisdesroches-com> a smapit:WebSite ;
+    dc:title "www.relaisdesroches.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.relaisdesroches.com"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-residenzaleon-com> a smapit:WebSite ;
+    dc:title "www.residenzaleon.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.residenzaleon.com"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sesto-armonico-com> a smapit:WebSite ;
+    dc:title "www.sesto-armonico.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.sesto-armonico.com"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-trattoriaalpigno-it> a smapit:WebSite ;
+    dc:title "www.trattoriaalpigno.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.trattoriaalpigno.it"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-villabiancabb-com> a smapit:WebSite ;
+    dc:title "www.villabiancabb.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.villabiancabb.com"^^xsd:anyURI .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-villagloriana-it> a smapit:WebSite ;
+    dc:title "www.villagloriana.it"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.villagloriana.it"^^xsd:anyURI .
+
 <https://w3id.org/sona/data/tourism/accommodation/person/birtele-maria-rosa> a cpvapit:Person ;
     dc:title "Maria Rosa Birtele"^^xsd:string ;
     skos:inScheme accommodation: ;
@@ -2722,6 +2717,11 @@
     skos:inScheme accommodation: ;
     smapit:emailAddress "mailto:sparici.landini@pec.it"^^xsd:anyURI ;
     smapit:hasEmailType channel:041 .
+
+<https://w3id.org/sona/data/tourism/accommodation/ocp/website/www-sparicilandini-com> a smapit:WebSite ;
+    dc:title "www.sparicilandini.com"^^xsd:string ;
+    skos:inScheme accommodation: ;
+    smapit:URL "www.sparicilandini.com"^^xsd:anyURI .
 
 <https://w3id.org/sona/data/tourism/accommodation/service/autostrada> a accoapit:OfferedServiceDescription ;
     dc:title "Highway"@en,

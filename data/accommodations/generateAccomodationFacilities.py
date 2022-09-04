@@ -196,7 +196,7 @@ for websiteUri, _ in allWebsites.iterrows():
         titles=[Literal(websiteUri, datatype=XSD.string)]
     )
 
-    website.URL = Literal(website, datatype=XSD.anyURI)
+    website.URL = Literal(websiteUri, datatype=XSD.anyURI)
 
     website.addToGraph(g, isTopConcept=False)
 
