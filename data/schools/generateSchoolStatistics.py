@@ -122,7 +122,7 @@ for i, statsInfo in statisticSchoolsDF.iterrows():
         titles=[Literal(courseName, datatype=XSD.string)]
     )
 
-    course.addToGraph(g, isTopConcept=False)
+    course.hasSubscribers = []
 
     school.providesCourse = [course]
 
@@ -191,6 +191,8 @@ for i, statsInfo in statisticSchoolsDF.iterrows():
         subscribers.observationValue = Literal(statsInfo["ALUNNI"], datatype=XSD.positiveInteger)
         
         subscribers.addToGraph(g, isTopConcept=False)
+
+        course.hasSubscribers.append(subscribers)
     else:
         # BY SEX
         
@@ -228,6 +230,10 @@ for i, statsInfo in statisticSchoolsDF.iterrows():
                 statsInfo["ALUNNI" + ("MASCHI" if sexCode == "M" else "FEMMINE")], datatype=XSD.positiveInteger)
 
             subscribers.addToGraph(g, isTopConcept=False)
+
+            course.hasSubscribers.append(subscribers)
+    
+    course.addToGraph(g, isTopConcept=False)
 
 # %%
 
@@ -299,6 +305,9 @@ for (schoolCode, academicYear), statsInfo in sumDataDF.iterrows():
             statsInfo["ALUNNI" + ("MASCHI" if sexCode == "M" else "FEMMINE")], datatype=XSD.positiveInteger)
 
         subscribers.addToGraph(g, isTopConcept=False)
+
+        school.hasSubscribers = [subscribers]
+        school.addToGraph(g, onlyProperties=True)
 # %%
 # Save graph
 
