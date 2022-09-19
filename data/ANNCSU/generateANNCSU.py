@@ -100,6 +100,7 @@ g.add((Sona.uriRef, OWL.sameAs, URIRef("http://dati.san.beniculturali.it/SAN/luo
 g.add((Sona.uriRef, OWL.sameAs, URIRef("http://dati.isprambiente.it/id/place/23083")))
 g.add((Sona.uriRef, OWL.sameAs, URIRef("https://dati.beniculturali.it/lodview/iccd/schede/resource/City/SONA")))
 g.add((Sona.uriRef, OWL.sameAs, URIRef("https://dati.beniculturali.it/lodview/iccu/anagrafe/resource/City/023083")))
+g.add((Sona.uriRef, OWL.sameAs, URIRef("http://daticultura.regione.veneto.it/data/veneto/cbcv/town/d1f46729f4b0b32fde0778ee79c02acc")))
 g.add((Sona.uriRef, OWL.sameAs, URIRef("http://dati.san.beniculturali.it/ASI/UA03483")))
 g.add((Sona.uriRef, OWL.sameAs, City(id="023083-(1975-01-29)", baseUri=CITIES).uriRef))
 
